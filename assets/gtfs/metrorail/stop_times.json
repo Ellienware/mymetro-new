@@ -1,0 +1,5966 @@
+[
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/9165712815",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/9165712814",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/4332066223",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/4332066367",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/9165861764",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/4332066498",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/7727566600",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/4332386312",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/9165861763",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/4332262525",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/4332262411",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644634",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/1555021778",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/247644564",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/247644614",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/247644579",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/247644578",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/2801781604",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/9144397339",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/9144406964",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/9144406965",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/7474742596",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/1024053_dummy",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "node/9144397337",
+    "stop_sequence": "22"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/9165712815",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/9165712814",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/4332066223",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/4332066367",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/7007051779",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/4332066500",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/4332384078",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/4332386304",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/4332262156",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/4332262525",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/4332262411",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644634",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/9168944953",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/9168944952",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/9168944951",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/9168944950",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/7798710136",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/247644678",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/247644855",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/247644580",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/247644687",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/247644758",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "node/247644757",
+    "stop_sequence": "22"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "node/247644797",
+    "stop_sequence": "23"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "node/7821373211",
+    "stop_sequence": "24"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "node/247644715",
+    "stop_sequence": "25"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:26:00",
+    "departure_time": "06:26:00",
+    "stop_id": "node/8867473407",
+    "stop_sequence": "26"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:27:00",
+    "departure_time": "06:27:00",
+    "stop_id": "node/247644707",
+    "stop_sequence": "27"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "node/247644642",
+    "stop_sequence": "28"
+  },
+  {
+    "trip_id": "relation/1026727_dummy",
+    "arrival_time": "06:29:00",
+    "departure_time": "06:29:00",
+    "stop_id": "node/7059609602",
+    "stop_sequence": "29"
+  },
+  {
+    "trip_id": "relation/1026729_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/9165861765",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1026729_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644678",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1026729_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644715",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1026729_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/7059609602",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/9165712815",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/9165712814",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/4332066223",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/4332066367",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/7007051779",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/4332066500",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/4332384078",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/4332386304",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/4332262156",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/4332262525",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/4332262411",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644634",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/9168944953",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/9168944952",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/9168944951",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/9168944950",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/7798710136",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/247644678",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/247644855",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/247644580",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/247644687",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/247644818",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "node/247644736",
+    "stop_sequence": "22"
+  },
+  {
+    "trip_id": "relation/1026738_dummy",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "node/247644742",
+    "stop_sequence": "23"
+  },
+  {
+    "trip_id": "relation/1112285_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/4332203161",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112285_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/9167470584",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112285_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/4332203376",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112285_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/4331222160",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112285_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/1499441711",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112285_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/54994239",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112285_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/8132680337",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112285_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/4331465566",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112285_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/9166544908",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112285_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/4331499768",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112285_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/247644664",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112285_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/9166544906",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1112285_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/9166544904",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1112286_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/4331573947",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112286_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/9166544908",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112286_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/4331499768",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112286_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/9166544906",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112286_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/9166544904",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/4332066588",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/4332066331",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/4332066229",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/4332066112",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/4331573947",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/9165523948",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/7504052784",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/9165523947",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/8151881976",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/9165976945",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/9165976946",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/1499441711",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/54994239",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/8132680337",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/4331465566",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/9166544908",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/4331499768",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/247644664",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/9166544906",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/1112287_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/9166544904",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/1112288_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/9167470585",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112288_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/4331222257",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112288_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/8175197409",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112288_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/54994239",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112288_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/8132680337",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112288_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/4331465566",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112288_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/9166544908",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112288_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/4331499768",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112288_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644664",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112288_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/9166544906",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112288_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/9166544904",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112289_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/9166410300",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112289_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/4332112596",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112289_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/4332112678",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112289_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/4332203365",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112289_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/4331222160",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112289_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/1499441711",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112289_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/54994239",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112289_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/8132680337",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112289_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/4331465566",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112289_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/9166544908",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112289_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/4331499768",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112289_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644664",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1112289_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/9166544906",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1112289_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/9166544904",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/1112305_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644634",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112305_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644701",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112305_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/1488962271",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112305_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644864",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112305_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644682",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112305_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644740",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112305_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/783223811",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112305_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644699",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/7055183243",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/7059779909",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/7059779935",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/7298985589",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/7298985621",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644670",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644612",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/1488962272",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/1554737934",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644574",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/247644746",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644750",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/1488962273",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/2797053449",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/247644611",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/4332548260",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/1112306_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/247644634",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/1112307_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644634",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112307_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/2807056985",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112307_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/7500580395",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112307_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/4332547461",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112307_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/8195310539",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112307_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644792",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112307_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/1488962271",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112307_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644864",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112307_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644682",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112307_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644740",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112307_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/783223811",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112307_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644699",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1112313_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/7055183232",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112313_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "way/214277221",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112313_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644661",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112313_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644781",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112313_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644672",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112313_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644686",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112313_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/248833534",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112313_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644576",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112313_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644606",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112313_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/54974895",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112362_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/5207367928",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112362_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644585",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112362_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/7048792053",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112362_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/8821278653",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112362_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/8821278657",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112362_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/5202534637",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112362_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/5202534646",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112362_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/8870208987",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112362_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644838",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112362_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644617",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112362_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/8870240326",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112362_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/7040630019",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1112362_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/7048792047",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1112363_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/7059609603",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112363_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/5203428924",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112363_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/5203421376",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112363_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/5204363080",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112363_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/5206184545",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112363_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/7059609611",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112363_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/5216580642",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112363_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/5217253816",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112363_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/7059609617",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112363_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/5217129824",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644761",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644601",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644865",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644719",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644786",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644674",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/8870208987",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644838",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644617",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/8870240326",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/7040630019",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/7048792047",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/7048792045",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/7048792043",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/6725275490",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/1112364_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/8870289696",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/1112366_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644582",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112366_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/5207229588",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112366_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644596",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112366_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247703154",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112366_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644850",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112366_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644801",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112366_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644847",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112366_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644853",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112366_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644565",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112366_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/7299886395",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112366_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/2071315934",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112366_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/7057641130",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/5203421376",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/5204363080",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/5206436729",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/5206814706",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/507206917",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/5207229588",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644596",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247703154",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644850",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644801",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/247644847",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644853",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/247644565",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/7299886395",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/2071315934",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/1112367_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/7057641130",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/4331573947",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/9165523948",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/7504052784",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/9165523947",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/8151881976",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/9165976945",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/9165976946",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/8175197410",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/9165976947",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/4331158532",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/247646903",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/54974737",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/247644815",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/247644763",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/247644843",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/247644648",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/247644822",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/847302708",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/247644645",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/247646720",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/247646870",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/1112478_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/247646911",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/9166410300",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/4332112596",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/4332112678",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/4332203376",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/4331222160",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/1499441711",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/9165976947",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/4331158532",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247646903",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/54974737",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/247644815",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644763",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/247644741",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/247644694",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/247644573",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/247644765",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/247644646",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/247644811",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/247644784",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/247644615",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/247644700",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/247644668",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "node/247644679",
+    "stop_sequence": "22"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "node/247644693",
+    "stop_sequence": "23"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "node/247644627",
+    "stop_sequence": "24"
+  },
+  {
+    "trip_id": "relation/1112479_dummy",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "node/7059769924",
+    "stop_sequence": "25"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/7124278764",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/4332065651",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/9165674006",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/9165674005",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/9165674004",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/4332066421",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/4332386195",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/4332386340",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/4332261935",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/4332262496",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/4332262308",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/2806204585",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/1555021778",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/247644564",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/247644614",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/7661577150",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/7661577173",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/7500580792",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/2801781505",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/9165674009",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/247644572",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/247644571",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "node/7741737510",
+    "stop_sequence": "22"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "node/247644825",
+    "stop_sequence": "23"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "node/9165674015",
+    "stop_sequence": "24"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "node/9165682817",
+    "stop_sequence": "25"
+  },
+  {
+    "trip_id": "relation/1112480_dummy",
+    "arrival_time": "06:26:00",
+    "departure_time": "06:26:00",
+    "stop_id": "node/247644814",
+    "stop_sequence": "26"
+  },
+  {
+    "trip_id": "relation/1112481_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644814",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112481_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644824",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112481_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644607",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112481_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644809",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112481_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644788",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112481_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644628",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112481_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644837",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112481_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644753",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/4332066588",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/4332066331",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/4332066229",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/4332066112",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/9165861765",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/9165523948",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/7504052784",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/9165523947",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/8151881976",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/9165976945",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/9165976946",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/8175197410",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/9165976947",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/4331158532",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/247646903",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/54974737",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/247644815",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/247644763",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/247644741",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/247644694",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/247644573",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/247644765",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "node/247644646",
+    "stop_sequence": "22"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "node/247644811",
+    "stop_sequence": "23"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "node/247644784",
+    "stop_sequence": "24"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "node/247644615",
+    "stop_sequence": "25"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:26:00",
+    "departure_time": "06:26:00",
+    "stop_id": "node/247644700",
+    "stop_sequence": "26"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:27:00",
+    "departure_time": "06:27:00",
+    "stop_id": "node/247644668",
+    "stop_sequence": "27"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "node/247644627",
+    "stop_sequence": "28"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:29:00",
+    "departure_time": "06:29:00",
+    "stop_id": "node/247644679",
+    "stop_sequence": "29"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:30:00",
+    "departure_time": "06:30:00",
+    "stop_id": "node/247644693",
+    "stop_sequence": "30"
+  },
+  {
+    "trip_id": "relation/1112482_dummy",
+    "arrival_time": "06:31:00",
+    "departure_time": "06:31:00",
+    "stop_id": "node/7059769924",
+    "stop_sequence": "31"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/4331573947",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/9165523948",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/7504052784",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/9165523947",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/8151881976",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/9165523946",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644842",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644754",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644575",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644712",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/247644859",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644643",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/247644649",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/243997767",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/8192228497",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/247644666",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/247644803",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/247644848",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/247644717",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/247644696",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/247644854",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/247644702",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "node/847302716",
+    "stop_sequence": "22"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "node/247644769",
+    "stop_sequence": "23"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "node/247644787",
+    "stop_sequence": "24"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "node/247644584",
+    "stop_sequence": "25"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:26:00",
+    "departure_time": "06:26:00",
+    "stop_id": "node/247644671",
+    "stop_sequence": "26"
+  },
+  {
+    "trip_id": "relation/1112483_dummy",
+    "arrival_time": "06:27:00",
+    "departure_time": "06:27:00",
+    "stop_id": "node/247644776",
+    "stop_sequence": "27"
+  },
+  {
+    "trip_id": "relation/10374913_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644753",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10374913_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644837",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10374913_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644628",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10374913_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644788",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10374913_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644809",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10374913_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644607",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10374913_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644824",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10374913_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644814",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10398176_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/7048792048",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10398176_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "way/423021596",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10398176_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/7048792050",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10398176_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "way/423021595",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10398176_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644866",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10398176_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644617",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10398176_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644838",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10415674_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/7059536495",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10415674_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/7059609616",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10415674_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/5217099436",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10415674_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/2218862850",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10415674_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/5216455159",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10415674_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/7059609608",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10415674_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/5204346156",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10415674_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/5242092163",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10415674_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/7059609604",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10415674_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/5203383906",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/5203428924",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/5203421376",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/5204363080",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/5206436729",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/5206814706",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/507206917",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/5207229588",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644596",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247703154",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644850",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/9169149816",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644847",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/9169165217",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/7873444053",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/9169165218",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/9169165219",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/7859757922",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/7168841189",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/7168841206",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/10649225_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/7168841291",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/10670766_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/7059609602",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10670766_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644715",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10670766_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644678",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10670766_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/9165861765",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10670932_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/54974895",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10670932_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644606",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10670932_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644576",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10670932_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/248833534",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10670932_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644686",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10670932_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644672",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10670932_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644781",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10670932_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644661",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10670932_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "way/214277221",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10670932_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/7055183232",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644595",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644563",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644856",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644751",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644570",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644613",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644578",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644579",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644614",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644564",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/1555021778",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644634",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/4332262411",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/4332262525",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/9165861763",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/4332386312",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/7727566600",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/4332066498",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/9165861764",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/4332066331",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/4332066229",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/4332066112",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/10670934_dummy",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "node/9165861765",
+    "stop_sequence": "22"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644814",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644798",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644748",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/7741737605",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644588",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/7741737250",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/7741737202",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644747",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644581",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/7661577350",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/247644578",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644579",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/7661577106",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/7661577015",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/7661576969",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/247644634",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/4332262411",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/4332262525",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/4332262156",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/4332386304",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/4332384078",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/4332066500",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "node/7007051779",
+    "stop_sequence": "22"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "node/4332066329",
+    "stop_sequence": "23"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "node/4332066223",
+    "stop_sequence": "24"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "node/9165712814",
+    "stop_sequence": "25"
+  },
+  {
+    "trip_id": "relation/10670937_dummy",
+    "arrival_time": "06:26:00",
+    "departure_time": "06:26:00",
+    "stop_id": "node/9165712815",
+    "stop_sequence": "26"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/9166544904",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/9166544906",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644664",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/4331499768",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/9166544908",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/4331465566",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/8132680337",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/54994239",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/1499441711",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/9165976946",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/9165976945",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/8151881976",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/9165523947",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/7504052784",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/9165523948",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/9165861765",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/4332066112",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/4332066229",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/4332066331",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/10670948_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/4332066588",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/10670955_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/9166544904",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10670955_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/9166544906",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10670955_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644664",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10670955_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/4331499768",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10670955_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/9166544908",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10670955_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/4331465566",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10670955_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/8132680337",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10670955_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/54994239",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10670955_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/1499441711",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10670955_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/4331222160",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10670955_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/4332203376",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10670955_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/4332112678",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10670955_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/4332112596",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10670955_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/9166410300",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/7057641129",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/7057641095",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/7299886396",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/9169397863",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644853",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644847",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644801",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644850",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247703154",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644596",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/5207229588",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/507206917",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/5206814706",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/5206436729",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/5204363080",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/10670990_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/5203421376",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/10670991_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/7057641129",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10670991_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/7057641095",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10670991_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/7299886396",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10670991_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/9169397863",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10670991_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644853",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10670991_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644847",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10670991_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644801",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10670991_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644850",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10670991_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247703154",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10670991_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644596",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10670991_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/5207229588",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10670991_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644582",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/7168841278",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/7168841210",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/7168840783",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/9169438108",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644665",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644718",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644830",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644853",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644847",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644801",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/247644850",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247703154",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/247644596",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/5207229588",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/507206917",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/5206814706",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/5206436729",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/5204363080",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/10671014_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/5203421376",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644791",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/1797234405",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/7040633404",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/7040633298",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/7048792048",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/7048792050",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/8870379684",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/8870379685",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/8870379686",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/8870379687",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/6778869163",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/8870092647",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/8870092641",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/5202924899",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/5203095727",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/10671027_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/5203095508",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644642",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644707",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/8867473407",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644715",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/7821373211",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644797",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644757",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644758",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644687",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644580",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/247644855",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644678",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/7798710136",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/9168944950",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/9168944951",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/9168944952",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/9168944953",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/247644634",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/4332262411",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/4332262525",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/9165861763",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/4332386312",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "node/7727566600",
+    "stop_sequence": "22"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "node/4332066498",
+    "stop_sequence": "23"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "node/9165861764",
+    "stop_sequence": "24"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "node/4332066331",
+    "stop_sequence": "25"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:26:00",
+    "departure_time": "06:26:00",
+    "stop_id": "node/4332066229",
+    "stop_sequence": "26"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:27:00",
+    "departure_time": "06:27:00",
+    "stop_id": "node/4332066112",
+    "stop_sequence": "27"
+  },
+  {
+    "trip_id": "relation/10671046_dummy",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "node/9165861765",
+    "stop_sequence": "28"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644742",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644736",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644818",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644687",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644580",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644855",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644678",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/7798710136",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/9168944950",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/9168944951",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/9168944952",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/9168944953",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/247644634",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/4332262411",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/4332262525",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/9165861763",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/4332386312",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/7727566600",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/4332066498",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/9165861764",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/4332066331",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/4332066229",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "node/4332066112",
+    "stop_sequence": "22"
+  },
+  {
+    "trip_id": "relation/10671047_dummy",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "node/9165861765",
+    "stop_sequence": "23"
+  },
+  {
+    "trip_id": "relation/10671053_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/9166544904",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10671053_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/9166544906",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10671053_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644664",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10671053_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/4331499768",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10671053_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/9166544908",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10671053_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/4331465566",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10671053_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/8132680337",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10671053_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/54994239",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10671053_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/8175197409",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10671053_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/4331222257",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10671053_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/9167470585",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10671054_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/9166544904",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10671054_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/9166544906",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10671054_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644664",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10671054_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/4331499768",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10671054_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/9166544908",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10671054_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/4331465566",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10671054_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/8132680337",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10671054_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/54994239",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10671054_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/1499441711",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10671054_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/4331222160",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10671054_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/4332203376",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10671054_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/9167470584",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10671054_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/4332203161",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10671055_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/9166544904",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10671055_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/9166544906",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10671055_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/4331499768",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10671055_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/9166544908",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10671055_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/4331573947",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247646911",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247646870",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247646720",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644645",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/847302708",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644822",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644648",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644843",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644763",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644815",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/54974737",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247646903",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/4331158532",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/9165976947",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/8175197410",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/9165976946",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/9165976945",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/8151881976",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/9165523947",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/7504052784",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/9165523948",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/10671076_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/4331573947",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644776",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644671",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644584",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644787",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644769",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/847302716",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644702",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644854",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644696",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644717",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/247644848",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644803",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/247644666",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/8192228497",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/243997767",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/247644649",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/247644643",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/247644859",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/247644712",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/247644575",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/247644754",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/247644842",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "node/9165523946",
+    "stop_sequence": "22"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "node/8151881976",
+    "stop_sequence": "23"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "node/9165523947",
+    "stop_sequence": "24"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "node/7504052784",
+    "stop_sequence": "25"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:26:00",
+    "departure_time": "06:26:00",
+    "stop_id": "node/9165523948",
+    "stop_sequence": "26"
+  },
+  {
+    "trip_id": "relation/10671077_dummy",
+    "arrival_time": "06:27:00",
+    "departure_time": "06:27:00",
+    "stop_id": "node/4331573947",
+    "stop_sequence": "27"
+  },
+  {
+    "trip_id": "relation/10671112_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644838",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10671112_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644617",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10671112_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644866",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10671112_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644600",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10671112_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/7048792047",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10671113_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/7048792047",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10671113_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/7040630019",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10671113_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/8870240326",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10671113_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644617",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10671113_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644838",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10671113_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/8870208987",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10671113_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/5202534646",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10671113_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/5202534637",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10671113_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/8821278657",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10671113_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/8821278653",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10671113_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/7048792053",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10671113_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644585",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10671113_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/5207367928",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644634",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/4332548260",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644611",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/2797053449",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/1488962273",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644750",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644746",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644574",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/1554737934",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/1488962272",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/247644612",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644670",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/247644760",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/7298985588",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/7298985599",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/7059779910",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/10671125_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/247644858",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/7059769924",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644627",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644693",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644679",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644668",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644700",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644615",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644784",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644811",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644646",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/247644765",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644573",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/247644694",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/247644741",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/247644763",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/247644815",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/54974737",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/247646903",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/4331158532",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/9165976947",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/1499441711",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/4331222185",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "node/4332203459",
+    "stop_sequence": "22"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "node/9166410299",
+    "stop_sequence": "23"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "node/7007051492",
+    "stop_sequence": "24"
+  },
+  {
+    "trip_id": "relation/10671137_dummy",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "node/9165861764",
+    "stop_sequence": "25"
+  },
+  {
+    "trip_id": "relation/10672955_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644699",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10672955_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/783223811",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10672955_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644740",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10672955_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644682",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10672955_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644864",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10672955_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/1488962271",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10672955_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644792",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10672955_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/8195310539",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/10672955_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/4332547461",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/10672955_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/7500580395",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/10672955_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/2807056985",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/10672955_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644634",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/10672956_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/247644699",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/10672956_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/783223811",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/10672956_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644740",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/10672956_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644682",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/10672956_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644864",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/10672956_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/1488962271",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/10672956_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644701",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/10672956_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644634",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "node/7059769924",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:01:00",
+    "departure_time": "06:01:00",
+    "stop_id": "node/247644693",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:02:00",
+    "departure_time": "06:02:00",
+    "stop_id": "node/247644679",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:03:00",
+    "departure_time": "06:03:00",
+    "stop_id": "node/247644627",
+    "stop_sequence": "3"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:04:00",
+    "departure_time": "06:04:00",
+    "stop_id": "node/247644668",
+    "stop_sequence": "4"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "node/247644700",
+    "stop_sequence": "5"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "node/247644615",
+    "stop_sequence": "6"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "node/247644784",
+    "stop_sequence": "7"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "node/247644811",
+    "stop_sequence": "8"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "node/247644646",
+    "stop_sequence": "9"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "node/247644765",
+    "stop_sequence": "10"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "node/247644573",
+    "stop_sequence": "11"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "node/247644694",
+    "stop_sequence": "12"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "node/247644741",
+    "stop_sequence": "13"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "node/247644763",
+    "stop_sequence": "14"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "node/247644815",
+    "stop_sequence": "15"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "node/54974737",
+    "stop_sequence": "16"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "node/247646903",
+    "stop_sequence": "17"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "node/4331158532",
+    "stop_sequence": "18"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "node/9165976947",
+    "stop_sequence": "19"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "node/8175197410",
+    "stop_sequence": "20"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "node/9165976946",
+    "stop_sequence": "21"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "node/9165976945",
+    "stop_sequence": "22"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "node/8151881976",
+    "stop_sequence": "23"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "node/9165523947",
+    "stop_sequence": "24"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "node/7504052784",
+    "stop_sequence": "25"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:26:00",
+    "departure_time": "06:26:00",
+    "stop_id": "node/9165523948",
+    "stop_sequence": "26"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:27:00",
+    "departure_time": "06:27:00",
+    "stop_id": "node/9165861765",
+    "stop_sequence": "27"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "node/4332066112",
+    "stop_sequence": "28"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:29:00",
+    "departure_time": "06:29:00",
+    "stop_id": "node/4332066229",
+    "stop_sequence": "29"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:30:00",
+    "departure_time": "06:30:00",
+    "stop_id": "node/4332066331",
+    "stop_sequence": "30"
+  },
+  {
+    "trip_id": "relation/13315887_dummy",
+    "arrival_time": "06:31:00",
+    "departure_time": "06:31:00",
+    "stop_id": "node/4332066588",
+    "stop_sequence": "31"
+  }
+]

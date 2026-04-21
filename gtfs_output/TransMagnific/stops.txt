@@ -1,0 +1,3 @@
+stop_id,stop_name,stop_lat,stop_lon
+node/9385346871,JNB Airport,-26.1342373,28.2313764
+node/9385346868,Sandton Gautrain,-26.1073236,28.0572375

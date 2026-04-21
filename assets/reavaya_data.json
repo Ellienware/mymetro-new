@@ -1,0 +1,1806 @@
+{
+  "stops": [
+    {
+      "id": "node/3320632476",
+      "name": "Ellis Park East Bus Station (T1)",
+      "lat": -26.1949167,
+      "lon": 28.0654982
+    },
+    {
+      "id": "node/3320685945",
+      "name": "Ellis Park North",
+      "lat": -26.1914068,
+      "lon": 28.0615894
+    },
+    {
+      "id": "node/3320685944",
+      "name": "Doornfontein Campus",
+      "lat": -26.1927307,
+      "lon": 28.0542361
+    },
+    {
+      "id": "node/766148883",
+      "name": "Old Synagogue Westbound",
+      "lat": -26.1941386,
+      "lon": 28.0498055
+    },
+    {
+      "id": "node/771231864",
+      "name": "Johannesburg Art Gallery",
+      "lat": -26.1954292,
+      "lon": 28.0479862
+    },
+    {
+      "id": "node/767545313",
+      "name": "Fashion Square Southbound",
+      "lat": -26.2010766,
+      "lon": 28.0505516
+    },
+    {
+      "id": "node/766108831",
+      "name": "Carlton Bus Station (Westbound: T1)",
+      "lat": -26.2047811,
+      "lon": 28.0480381
+    },
+    {
+      "id": "node/767545317",
+      "name": "Library Gardens Westbound",
+      "lat": -26.2055198,
+      "lon": 28.0419409
+    },
+    {
+      "id": "node/3307241857",
+      "name": "Chancellor House (Westbound)",
+      "lat": -26.2061465,
+      "lon": 28.036173
+    },
+    {
+      "id": "node/3307241860",
+      "name": "Westgate",
+      "lat": -26.2107112,
+      "lon": 28.0339639
+    },
+    {
+      "id": "node/3309318632",
+      "name": "Mavumbi",
+      "lat": -26.2285647,
+      "lon": 28.0214564
+    },
+    {
+      "id": "node/3320685943",
+      "name": "Basothong",
+      "lat": -26.2297151,
+      "lon": 28.0106895
+    },
+    {
+      "id": "node/3309318638",
+      "name": "Soccer City",
+      "lat": -26.2313975,
+      "lon": 27.9828113
+    },
+    {
+      "id": "node/3309318631",
+      "name": "Diepkloof",
+      "lat": -26.2333348,
+      "lon": 27.9525093
+    },
+    {
+      "id": "node/3309318633",
+      "name": "Ghost Town",
+      "lat": -26.2339859,
+      "lon": 27.9460533
+    },
+    {
+      "id": "node/3320685946",
+      "name": "Noordgesig",
+      "lat": -26.2287011,
+      "lon": 27.9335926
+    },
+    {
+      "id": "node/3309318635",
+      "name": "Orlando Amstel Arena",
+      "lat": -26.2328569,
+      "lon": 27.9242176
+    },
+    {
+      "id": "node/3309318634",
+      "name": "Orlando Police Station",
+      "lat": -26.2386398,
+      "lon": 27.919954
+    },
+    {
+      "id": "node/3309318630",
+      "name": "Boomtown",
+      "lat": -26.2421161,
+      "lon": 27.9154455
+    },
+    {
+      "id": "node/3309318636",
+      "name": "Klipspruit Valley",
+      "lat": -26.2608662,
+      "lon": 27.8907183
+    },
+    {
+      "id": "node/3309318637",
+      "name": "Lakeview",
+      "lat": -26.2629824,
+      "lon": 27.8866663
+    },
+    {
+      "id": "node/3309318639",
+      "name": "Thokoza Park",
+      "lat": -26.2641104,
+      "lon": 27.8806568
+    },
+    {
+      "id": "node/3307241856",
+      "name": "Chancellor House (Eastbound)",
+      "lat": -26.2053868,
+      "lon": 28.0360737
+    },
+    {
+      "id": "node/767545310",
+      "name": "Library Gardens Eastbound",
+      "lat": -26.2046864,
+      "lon": 28.041717
+    },
+    {
+      "id": "node/766108828",
+      "name": "Carlton Eastbound",
+      "lat": -26.2039717,
+      "lon": 28.0481526
+    },
+    {
+      "id": "node/766108814",
+      "name": "Fashion Square Northbound",
+      "lat": -26.2020775,
+      "lon": 28.0487946
+    },
+    {
+      "id": "node/766148880",
+      "name": "Old Synagogue Eastbound",
+      "lat": -26.1935637,
+      "lon": 28.0497472
+    },
+    {
+      "id": "node/3320685947",
+      "name": "Rissik Street",
+      "lat": -26.2021891,
+      "lon": 28.0416879
+    },
+    {
+      "id": "node/767536465",
+      "name": "Joburg Theatre",
+      "lat": -26.1916425,
+      "lon": 28.0396162
+    },
+    {
+      "id": "node/3318822634",
+      "name": "Constitution Hill",
+      "lat": -26.1911379,
+      "lon": 28.0412309
+    },
+    {
+      "id": "node/3318924741",
+      "name": "Noordgesig Extension",
+      "lat": -26.2263293,
+      "lon": 27.9350125
+    },
+    {
+      "id": "node/3318924740",
+      "name": "New Canada",
+      "lat": -26.2158218,
+      "lon": 27.9433447
+    },
+    {
+      "id": "node/3309682563",
+      "name": "Bosmont",
+      "lat": -26.202067,
+      "lon": 27.9589225
+    },
+    {
+      "id": "node/3309390255",
+      "name": "Coronationville",
+      "lat": -26.1901313,
+      "lon": 27.9681071
+    },
+    {
+      "id": "node/3318924742",
+      "name": "Westbury",
+      "lat": -26.1868085,
+      "lon": 27.9760651
+    },
+    {
+      "id": "node/3309390253",
+      "name": "Helen Joseph Hospital",
+      "lat": -26.1832237,
+      "lon": 27.9905213
+    },
+    {
+      "id": "node/2745520635",
+      "name": "UJ Kingsway Campus",
+      "lat": -26.1819763,
+      "lon": 27.9989692
+    },
+    {
+      "id": "node/2745520632",
+      "name": "UJ Sophiatown Res",
+      "lat": -26.1829109,
+      "lon": 28.0035311
+    },
+    {
+      "id": "node/3318822636",
+      "name": "SABC Media Park",
+      "lat": -26.1843222,
+      "lon": 28.009889
+    },
+    {
+      "id": "node/2745520634",
+      "name": "Milpark",
+      "lat": -26.1832068,
+      "lon": 28.0206605
+    },
+    {
+      "id": "node/3318822635",
+      "name": "Parktown (T1 C4 C5)",
+      "lat": -26.1852369,
+      "lon": 28.0393732
+    }
+  ],
+  "travelTimeMatrix": {
+    "Ellis Park East Bus Station (T1),Ellis Park North": 1,
+    "Ellis Park North,Doornfontein Campus": 3,
+    "Doornfontein Campus,Old Synagogue Westbound": 1,
+    "Old Synagogue Westbound,Johannesburg Art Gallery": 1,
+    "Johannesburg Art Gallery,Fashion Square Southbound": 2,
+    "Fashion Square Southbound,Carlton Bus Station (Westbound: T1)": 2,
+    "Carlton Bus Station (Westbound: T1),Library Gardens Westbound": 2,
+    "Library Gardens Westbound,Chancellor House (Westbound)": 2,
+    "Chancellor House (Westbound),Westgate": 2,
+    "Westgate,Mavumbi": 7,
+    "Mavumbi,Basothong": 3,
+    "Basothong,Soccer City": 9,
+    "Soccer City,Diepkloof": 10,
+    "Diepkloof,Ghost Town": 2,
+    "Ghost Town,Noordgesig": 4,
+    "Noordgesig,Orlando Amstel Arena": 4,
+    "Orlando Amstel Arena,Orlando Police Station": 2,
+    "Orlando Police Station,Boomtown": 2,
+    "Boomtown,Klipspruit Valley": 10,
+    "Klipspruit Valley,Lakeview": 2,
+    "Lakeview,Thokoza Park": 2,
+    "Thokoza Park,Lakeview": 2,
+    "Lakeview,Klipspruit Valley": 1,
+    "Klipspruit Valley,Boomtown": 10,
+    "Boomtown,Orlando Police Station": 2,
+    "Orlando Police Station,Orlando Amstel Arena": 3,
+    "Orlando Amstel Arena,Noordgesig": 3,
+    "Noordgesig,Ghost Town": 5,
+    "Ghost Town,Diepkloof": 2,
+    "Diepkloof,Soccer City": 10,
+    "Soccer City,Basothong": 9,
+    "Basothong,Mavumbi": 4,
+    "Mavumbi,Westgate": 7,
+    "Westgate,Chancellor House (Eastbound)": 2,
+    "Chancellor House (Eastbound),Library Gardens Eastbound": 2,
+    "Library Gardens Eastbound,Carlton Eastbound": 2,
+    "Carlton Eastbound,Fashion Square Northbound": 1,
+    "Fashion Square Northbound,Johannesburg Art Gallery": 2,
+    "Johannesburg Art Gallery,Old Synagogue Eastbound": 1,
+    "Old Synagogue Eastbound,Doornfontein Campus": 2,
+    "Doornfontein Campus,Ellis Park North": 2,
+    "Ellis Park North,Ellis Park East Bus Station (T1)": 2,
+    "Library Gardens Eastbound,Rissik Street": 1,
+    "Rissik Street,Joburg Theatre": 3,
+    "Joburg Theatre,Constitution Hill": 1,
+    "Orlando Amstel Arena,Noordgesig Extension": 4,
+    "Noordgesig Extension,New Canada": 4,
+    "New Canada,Bosmont": 7,
+    "Bosmont,Coronationville": 5,
+    "Coronationville,Westbury": 3,
+    "Westbury,Helen Joseph Hospital": 5,
+    "Helen Joseph Hospital,UJ Kingsway Campus": 3,
+    "UJ Kingsway Campus,UJ Sophiatown Res": 2,
+    "UJ Sophiatown Res,SABC Media Park": 2,
+    "SABC Media Park,Milpark": 3,
+    "Milpark,Parktown (T1 C4 C5)": 1,
+    "Parktown (T1 C4 C5),Constitution Hill": 2,
+    "Constitution Hill,Library Gardens Eastbound": 5,
+    "Ellis Park East Bus Station (T1),Carlton Bus Station (Westbound: T1)": 6,
+    "Old Synagogue Westbound,Doornfontein Campus": 1,
+    "Johannesburg Art Gallery,Old Synagogue Westbound": 1,
+    "Fashion Square Southbound,Johannesburg Art Gallery": 2,
+    "Carlton Bus Station (Westbound: T1),Fashion Square Southbound": 2,
+    "Library Gardens Westbound,Carlton Bus Station (Westbound: T1)": 2,
+    "Chancellor House (Westbound),Library Gardens Westbound": 2,
+    "Westgate,Chancellor House (Westbound)": 2,
+    "Chancellor House (Eastbound),Westgate": 2,
+    "Library Gardens Eastbound,Chancellor House (Eastbound)": 2,
+    "Carlton Eastbound,Library Gardens Eastbound": 2,
+    "Fashion Square Northbound,Carlton Eastbound": 1,
+    "Johannesburg Art Gallery,Fashion Square Northbound": 2,
+    "Old Synagogue Eastbound,Johannesburg Art Gallery": 1,
+    "Doornfontein Campus,Old Synagogue Eastbound": 2,
+    "Rissik Street,Library Gardens Eastbound": 1,
+    "Joburg Theatre,Rissik Street": 3,
+    "Constitution Hill,Joburg Theatre": 1,
+    "Noordgesig Extension,Orlando Amstel Arena": 4,
+    "New Canada,Noordgesig Extension": 4,
+    "Bosmont,New Canada": 7,
+    "Coronationville,Bosmont": 5,
+    "Westbury,Coronationville": 3,
+    "Helen Joseph Hospital,Westbury": 5,
+    "UJ Kingsway Campus,Helen Joseph Hospital": 3,
+    "UJ Sophiatown Res,UJ Kingsway Campus": 2,
+    "SABC Media Park,UJ Sophiatown Res": 2,
+    "Milpark,SABC Media Park": 3,
+    "Parktown (T1 C4 C5),Milpark": 1,
+    "Constitution Hill,Parktown (T1 C4 C5)": 2,
+    "Library Gardens Eastbound,Constitution Hill": 5,
+    "Carlton Bus Station (Westbound: T1),Ellis Park East Bus Station (T1)": 6
+  },
+  "routeDetails": {
+    "relation/4511530": {
+      "route": {
+        "id": "relation/4511530",
+        "short_name": "BRT",
+        "long_name": "BRT T1: Ellis Park East → Thokoza Park"
+      },
+      "buses": ["unknown"],
+      "stops": [
+        {
+          "id": "node/3320632476",
+          "name": "Ellis Park East Bus Station (T1)",
+          "lat": -26.1949167,
+          "lon": 28.0654982
+        },
+        {
+          "id": "node/3320685945",
+          "name": "Ellis Park North",
+          "lat": -26.1914068,
+          "lon": 28.0615894
+        },
+        {
+          "id": "node/3320685944",
+          "name": "Doornfontein Campus",
+          "lat": -26.1927307,
+          "lon": 28.0542361
+        },
+        {
+          "id": "node/766148883",
+          "name": "Old Synagogue Westbound",
+          "lat": -26.1941386,
+          "lon": 28.0498055
+        },
+        {
+          "id": "node/771231864",
+          "name": "Johannesburg Art Gallery",
+          "lat": -26.1954292,
+          "lon": 28.0479862
+        },
+        {
+          "id": "node/767545313",
+          "name": "Fashion Square Southbound",
+          "lat": -26.2010766,
+          "lon": 28.0505516
+        },
+        {
+          "id": "node/766108831",
+          "name": "Carlton Bus Station (Westbound: T1)",
+          "lat": -26.2047811,
+          "lon": 28.0480381
+        },
+        {
+          "id": "node/767545317",
+          "name": "Library Gardens Westbound",
+          "lat": -26.2055198,
+          "lon": 28.0419409
+        },
+        {
+          "id": "node/3307241857",
+          "name": "Chancellor House (Westbound)",
+          "lat": -26.2061465,
+          "lon": 28.036173
+        },
+        {
+          "id": "node/3307241860",
+          "name": "Westgate",
+          "lat": -26.2107112,
+          "lon": 28.0339639
+        },
+        {
+          "id": "node/3309318632",
+          "name": "Mavumbi",
+          "lat": -26.2285647,
+          "lon": 28.0214564
+        },
+        {
+          "id": "node/3320685943",
+          "name": "Basothong",
+          "lat": -26.2297151,
+          "lon": 28.0106895
+        },
+        {
+          "id": "node/3309318638",
+          "name": "Soccer City",
+          "lat": -26.2313975,
+          "lon": 27.9828113
+        },
+        {
+          "id": "node/3309318631",
+          "name": "Diepkloof",
+          "lat": -26.2333348,
+          "lon": 27.9525093
+        },
+        {
+          "id": "node/3309318633",
+          "name": "Ghost Town",
+          "lat": -26.2339859,
+          "lon": 27.9460533
+        },
+        {
+          "id": "node/3320685946",
+          "name": "Noordgesig",
+          "lat": -26.2287011,
+          "lon": 27.9335926
+        },
+        {
+          "id": "node/3309318635",
+          "name": "Orlando Amstel Arena",
+          "lat": -26.2328569,
+          "lon": 27.9242176
+        },
+        {
+          "id": "node/3309318634",
+          "name": "Orlando Police Station",
+          "lat": -26.2386398,
+          "lon": 27.919954
+        },
+        {
+          "id": "node/3309318630",
+          "name": "Boomtown",
+          "lat": -26.2421161,
+          "lon": 27.9154455
+        },
+        {
+          "id": "node/3309318636",
+          "name": "Klipspruit Valley",
+          "lat": -26.2608662,
+          "lon": 27.8907183
+        },
+        {
+          "id": "node/3309318637",
+          "name": "Lakeview",
+          "lat": -26.2629824,
+          "lon": 27.8866663
+        },
+        {
+          "id": "node/3309318639",
+          "name": "Thokoza Park",
+          "lat": -26.2641104,
+          "lon": 27.8806568
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "node/3320632476",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": 0
+        },
+        {
+          "stop_id": "node/3320685945",
+          "arrival_time": "06:01:44",
+          "departure_time": "06:01:44",
+          "stop_sequence": 1
+        },
+        {
+          "stop_id": "node/3320685944",
+          "arrival_time": "06:04:14",
+          "departure_time": "06:04:14",
+          "stop_sequence": 2
+        },
+        {
+          "stop_id": "node/766148883",
+          "arrival_time": "06:05:47",
+          "departure_time": "06:05:47",
+          "stop_sequence": 3
+        },
+        {
+          "stop_id": "node/771231864",
+          "arrival_time": "06:06:47",
+          "departure_time": "06:06:47",
+          "stop_sequence": 4
+        },
+        {
+          "stop_id": "node/767545313",
+          "arrival_time": "06:08:51",
+          "departure_time": "06:08:51",
+          "stop_sequence": 5
+        },
+        {
+          "stop_id": "node/766108831",
+          "arrival_time": "06:10:20",
+          "departure_time": "06:10:20",
+          "stop_sequence": 6
+        },
+        {
+          "stop_id": "node/767545317",
+          "arrival_time": "06:12:23",
+          "departure_time": "06:12:23",
+          "stop_sequence": 7
+        },
+        {
+          "stop_id": "node/3307241857",
+          "arrival_time": "06:14:19",
+          "departure_time": "06:14:19",
+          "stop_sequence": 8
+        },
+        {
+          "stop_id": "node/3307241860",
+          "arrival_time": "06:16:00",
+          "departure_time": "06:16:00",
+          "stop_sequence": 9
+        },
+        {
+          "stop_id": "node/3309318632",
+          "arrival_time": "06:23:15",
+          "departure_time": "06:23:15",
+          "stop_sequence": 10
+        },
+        {
+          "stop_id": "node/3320685943",
+          "arrival_time": "06:26:52",
+          "departure_time": "06:26:52",
+          "stop_sequence": 11
+        },
+        {
+          "stop_id": "node/3309318638",
+          "arrival_time": "06:36:10",
+          "departure_time": "06:36:10",
+          "stop_sequence": 12
+        },
+        {
+          "stop_id": "node/3309318631",
+          "arrival_time": "06:46:17",
+          "departure_time": "06:46:17",
+          "stop_sequence": 13
+        },
+        {
+          "stop_id": "node/3309318633",
+          "arrival_time": "06:48:26",
+          "departure_time": "06:48:26",
+          "stop_sequence": 14
+        },
+        {
+          "stop_id": "node/3320685946",
+          "arrival_time": "06:52:57",
+          "departure_time": "06:52:57",
+          "stop_sequence": 15
+        },
+        {
+          "stop_id": "node/3309318635",
+          "arrival_time": "06:56:22",
+          "departure_time": "06:56:22",
+          "stop_sequence": 16
+        },
+        {
+          "stop_id": "node/3309318634",
+          "arrival_time": "06:58:45",
+          "departure_time": "06:58:45",
+          "stop_sequence": 17
+        },
+        {
+          "stop_id": "node/3309318630",
+          "arrival_time": "07:00:39",
+          "departure_time": "07:00:39",
+          "stop_sequence": 18
+        },
+        {
+          "stop_id": "node/3309318636",
+          "arrival_time": "07:10:59",
+          "departure_time": "07:10:59",
+          "stop_sequence": 19
+        },
+        {
+          "stop_id": "node/3309318637",
+          "arrival_time": "07:12:30",
+          "departure_time": "07:12:30",
+          "stop_sequence": 20
+        },
+        {
+          "stop_id": "node/3309318639",
+          "arrival_time": "07:14:32",
+          "departure_time": "07:14:32",
+          "stop_sequence": 21
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "08:30:00",
+        "headway_minutes": 5
+      }
+    },
+    "relation/4511533": {
+      "route": {
+        "id": "relation/4511533",
+        "short_name": "BRT",
+        "long_name": "BRT T1: Thokoza Park → Ellis Park East"
+      },
+      "buses": ["unknown"],
+      "stops": [
+        {
+          "id": "node/3309318639",
+          "name": "Thokoza Park",
+          "lat": -26.2641104,
+          "lon": 27.8806568
+        },
+        {
+          "id": "node/3309318637",
+          "name": "Lakeview",
+          "lat": -26.2629824,
+          "lon": 27.8866663
+        },
+        {
+          "id": "node/3309318636",
+          "name": "Klipspruit Valley",
+          "lat": -26.2608662,
+          "lon": 27.8907183
+        },
+        {
+          "id": "node/3309318630",
+          "name": "Boomtown",
+          "lat": -26.2421161,
+          "lon": 27.9154455
+        },
+        {
+          "id": "node/3309318634",
+          "name": "Orlando Police Station",
+          "lat": -26.2386398,
+          "lon": 27.919954
+        },
+        {
+          "id": "node/3309318635",
+          "name": "Orlando Amstel Arena",
+          "lat": -26.2328569,
+          "lon": 27.9242176
+        },
+        {
+          "id": "node/3320685946",
+          "name": "Noordgesig",
+          "lat": -26.2287011,
+          "lon": 27.9335926
+        },
+        {
+          "id": "node/3309318633",
+          "name": "Ghost Town",
+          "lat": -26.2339859,
+          "lon": 27.9460533
+        },
+        {
+          "id": "node/3309318631",
+          "name": "Diepkloof",
+          "lat": -26.2333348,
+          "lon": 27.9525093
+        },
+        {
+          "id": "node/3309318638",
+          "name": "Soccer City",
+          "lat": -26.2313975,
+          "lon": 27.9828113
+        },
+        {
+          "id": "node/3320685943",
+          "name": "Basothong",
+          "lat": -26.2297151,
+          "lon": 28.0106895
+        },
+        {
+          "id": "node/3309318632",
+          "name": "Mavumbi",
+          "lat": -26.2285647,
+          "lon": 28.0214564
+        },
+        {
+          "id": "node/3307241860",
+          "name": "Westgate",
+          "lat": -26.2107112,
+          "lon": 28.0339639
+        },
+        {
+          "id": "node/3307241856",
+          "name": "Chancellor House (Eastbound)",
+          "lat": -26.2053868,
+          "lon": 28.0360737
+        },
+        {
+          "id": "node/767545310",
+          "name": "Library Gardens Eastbound",
+          "lat": -26.2046864,
+          "lon": 28.041717
+        },
+        {
+          "id": "node/766108828",
+          "name": "Carlton Eastbound",
+          "lat": -26.2039717,
+          "lon": 28.0481526
+        },
+        {
+          "id": "node/766108814",
+          "name": "Fashion Square Northbound",
+          "lat": -26.2020775,
+          "lon": 28.0487946
+        },
+        {
+          "id": "node/771231864",
+          "name": "Johannesburg Art Gallery",
+          "lat": -26.1954292,
+          "lon": 28.0479862
+        },
+        {
+          "id": "node/766148880",
+          "name": "Old Synagogue Eastbound",
+          "lat": -26.1935637,
+          "lon": 28.0497472
+        },
+        {
+          "id": "node/3320685944",
+          "name": "Doornfontein Campus",
+          "lat": -26.1927307,
+          "lon": 28.0542361
+        },
+        {
+          "id": "node/3320685945",
+          "name": "Ellis Park North",
+          "lat": -26.1914068,
+          "lon": 28.0615894
+        },
+        {
+          "id": "node/3320632476",
+          "name": "Ellis Park East Bus Station (T1)",
+          "lat": -26.1949167,
+          "lon": 28.0654982
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "node/3309318639",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": 0
+        },
+        {
+          "stop_id": "node/3309318637",
+          "arrival_time": "06:02:02",
+          "departure_time": "06:02:02",
+          "stop_sequence": 1
+        },
+        {
+          "stop_id": "node/3309318636",
+          "arrival_time": "06:03:33",
+          "departure_time": "06:03:33",
+          "stop_sequence": 2
+        },
+        {
+          "stop_id": "node/3309318630",
+          "arrival_time": "06:13:53",
+          "departure_time": "06:13:53",
+          "stop_sequence": 3
+        },
+        {
+          "stop_id": "node/3309318634",
+          "arrival_time": "06:15:47",
+          "departure_time": "06:15:47",
+          "stop_sequence": 4
+        },
+        {
+          "stop_id": "node/3309318635",
+          "arrival_time": "06:18:10",
+          "departure_time": "06:18:10",
+          "stop_sequence": 5
+        },
+        {
+          "stop_id": "node/3320685946",
+          "arrival_time": "06:21:35",
+          "departure_time": "06:21:35",
+          "stop_sequence": 6
+        },
+        {
+          "stop_id": "node/3309318633",
+          "arrival_time": "06:26:06",
+          "departure_time": "06:26:06",
+          "stop_sequence": 7
+        },
+        {
+          "stop_id": "node/3309318631",
+          "arrival_time": "06:28:15",
+          "departure_time": "06:28:15",
+          "stop_sequence": 8
+        },
+        {
+          "stop_id": "node/3309318638",
+          "arrival_time": "06:38:22",
+          "departure_time": "06:38:22",
+          "stop_sequence": 9
+        },
+        {
+          "stop_id": "node/3320685943",
+          "arrival_time": "06:47:40",
+          "departure_time": "06:47:40",
+          "stop_sequence": 10
+        },
+        {
+          "stop_id": "node/3309318632",
+          "arrival_time": "06:51:16",
+          "departure_time": "06:51:16",
+          "stop_sequence": 11
+        },
+        {
+          "stop_id": "node/3307241860",
+          "arrival_time": "06:58:32",
+          "departure_time": "06:58:32",
+          "stop_sequence": 12
+        },
+        {
+          "stop_id": "node/3307241856",
+          "arrival_time": "07:00:26",
+          "departure_time": "07:00:26",
+          "stop_sequence": 13
+        },
+        {
+          "stop_id": "node/767545310",
+          "arrival_time": "07:02:20",
+          "departure_time": "07:02:20",
+          "stop_sequence": 14
+        },
+        {
+          "stop_id": "node/766108828",
+          "arrival_time": "07:04:29",
+          "departure_time": "07:04:29",
+          "stop_sequence": 15
+        },
+        {
+          "stop_id": "node/766108814",
+          "arrival_time": "07:05:29",
+          "departure_time": "07:05:29",
+          "stop_sequence": 16
+        },
+        {
+          "stop_id": "node/771231864",
+          "arrival_time": "07:07:43",
+          "departure_time": "07:07:43",
+          "stop_sequence": 17
+        },
+        {
+          "stop_id": "node/766148880",
+          "arrival_time": "07:08:43",
+          "departure_time": "07:08:43",
+          "stop_sequence": 18
+        },
+        {
+          "stop_id": "node/3320685944",
+          "arrival_time": "07:10:14",
+          "departure_time": "07:10:14",
+          "stop_sequence": 19
+        },
+        {
+          "stop_id": "node/3320685945",
+          "arrival_time": "07:12:44",
+          "departure_time": "07:12:44",
+          "stop_sequence": 20
+        },
+        {
+          "stop_id": "node/3320632476",
+          "arrival_time": "07:14:29",
+          "departure_time": "07:14:29",
+          "stop_sequence": 21
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "08:30:00",
+        "headway_minutes": 5
+      }
+    },
+    "relation/4511598": {
+      "route": {
+        "id": "relation/4511598",
+        "short_name": "BRT",
+        "long_name": "BRT T2: Thokoza Park → Braamfontein (Constitution Hill)"
+      },
+      "buses": ["unknown"],
+      "stops": [
+        {
+          "id": "node/3309318639",
+          "name": "Thokoza Park",
+          "lat": -26.2641104,
+          "lon": 27.8806568
+        },
+        {
+          "id": "node/3309318637",
+          "name": "Lakeview",
+          "lat": -26.2629824,
+          "lon": 27.8866663
+        },
+        {
+          "id": "node/3309318636",
+          "name": "Klipspruit Valley",
+          "lat": -26.2608662,
+          "lon": 27.8907183
+        },
+        {
+          "id": "node/3309318630",
+          "name": "Boomtown",
+          "lat": -26.2421161,
+          "lon": 27.9154455
+        },
+        {
+          "id": "node/3309318634",
+          "name": "Orlando Police Station",
+          "lat": -26.2386398,
+          "lon": 27.919954
+        },
+        {
+          "id": "node/3309318635",
+          "name": "Orlando Amstel Arena",
+          "lat": -26.2328569,
+          "lon": 27.9242176
+        },
+        {
+          "id": "node/3320685946",
+          "name": "Noordgesig",
+          "lat": -26.2287011,
+          "lon": 27.9335926
+        },
+        {
+          "id": "node/3309318633",
+          "name": "Ghost Town",
+          "lat": -26.2339859,
+          "lon": 27.9460533
+        },
+        {
+          "id": "node/3309318631",
+          "name": "Diepkloof",
+          "lat": -26.2333348,
+          "lon": 27.9525093
+        },
+        {
+          "id": "node/3309318638",
+          "name": "Soccer City",
+          "lat": -26.2313975,
+          "lon": 27.9828113
+        },
+        {
+          "id": "node/3320685943",
+          "name": "Basothong",
+          "lat": -26.2297151,
+          "lon": 28.0106895
+        },
+        {
+          "id": "node/3309318632",
+          "name": "Mavumbi",
+          "lat": -26.2285647,
+          "lon": 28.0214564
+        },
+        {
+          "id": "node/3307241860",
+          "name": "Westgate",
+          "lat": -26.2107112,
+          "lon": 28.0339639
+        },
+        {
+          "id": "node/3307241856",
+          "name": "Chancellor House (Eastbound)",
+          "lat": -26.2053868,
+          "lon": 28.0360737
+        },
+        {
+          "id": "node/767545310",
+          "name": "Library Gardens Eastbound",
+          "lat": -26.2046864,
+          "lon": 28.041717
+        },
+        {
+          "id": "node/3320685947",
+          "name": "Rissik Street",
+          "lat": -26.2021891,
+          "lon": 28.0416879
+        },
+        {
+          "id": "node/767536465",
+          "name": "Joburg Theatre",
+          "lat": -26.1916425,
+          "lon": 28.0396162
+        },
+        {
+          "id": "node/3318822634",
+          "name": "Constitution Hill",
+          "lat": -26.1911379,
+          "lon": 28.0412309
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "node/3309318639",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": 0
+        },
+        {
+          "stop_id": "node/3309318637",
+          "arrival_time": "06:02:02",
+          "departure_time": "06:02:02",
+          "stop_sequence": 1
+        },
+        {
+          "stop_id": "node/3309318636",
+          "arrival_time": "06:03:33",
+          "departure_time": "06:03:33",
+          "stop_sequence": 2
+        },
+        {
+          "stop_id": "node/3309318630",
+          "arrival_time": "06:13:53",
+          "departure_time": "06:13:53",
+          "stop_sequence": 3
+        },
+        {
+          "stop_id": "node/3309318634",
+          "arrival_time": "06:15:47",
+          "departure_time": "06:15:47",
+          "stop_sequence": 4
+        },
+        {
+          "stop_id": "node/3309318635",
+          "arrival_time": "06:18:10",
+          "departure_time": "06:18:10",
+          "stop_sequence": 5
+        },
+        {
+          "stop_id": "node/3320685946",
+          "arrival_time": "06:21:35",
+          "departure_time": "06:21:35",
+          "stop_sequence": 6
+        },
+        {
+          "stop_id": "node/3309318633",
+          "arrival_time": "06:26:06",
+          "departure_time": "06:26:06",
+          "stop_sequence": 7
+        },
+        {
+          "stop_id": "node/3309318631",
+          "arrival_time": "06:28:15",
+          "departure_time": "06:28:15",
+          "stop_sequence": 8
+        },
+        {
+          "stop_id": "node/3309318638",
+          "arrival_time": "06:38:22",
+          "departure_time": "06:38:22",
+          "stop_sequence": 9
+        },
+        {
+          "stop_id": "node/3320685943",
+          "arrival_time": "06:47:40",
+          "departure_time": "06:47:40",
+          "stop_sequence": 10
+        },
+        {
+          "stop_id": "node/3309318632",
+          "arrival_time": "06:51:16",
+          "departure_time": "06:51:16",
+          "stop_sequence": 11
+        },
+        {
+          "stop_id": "node/3307241860",
+          "arrival_time": "06:58:32",
+          "departure_time": "06:58:32",
+          "stop_sequence": 12
+        },
+        {
+          "stop_id": "node/3307241856",
+          "arrival_time": "07:00:26",
+          "departure_time": "07:00:26",
+          "stop_sequence": 13
+        },
+        {
+          "stop_id": "node/767545310",
+          "arrival_time": "07:02:20",
+          "departure_time": "07:02:20",
+          "stop_sequence": 14
+        },
+        {
+          "stop_id": "node/3320685947",
+          "arrival_time": "07:03:20",
+          "departure_time": "07:03:20",
+          "stop_sequence": 15
+        },
+        {
+          "stop_id": "node/767536465",
+          "arrival_time": "07:06:55",
+          "departure_time": "07:06:55",
+          "stop_sequence": 16
+        },
+        {
+          "stop_id": "node/3318822634",
+          "arrival_time": "07:07:55",
+          "departure_time": "07:07:55",
+          "stop_sequence": 17
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "08:30:00",
+        "headway_minutes": 5
+      }
+    },
+    "relation/4511835": {
+      "route": {
+        "id": "relation/4511835",
+        "short_name": "BRT",
+        "long_name": "BRT T3: Thokoza Park → Parktown & Library Gardens East"
+      },
+      "buses": ["unknown"],
+      "stops": [
+        {
+          "id": "node/3309318639",
+          "name": "Thokoza Park",
+          "lat": -26.2641104,
+          "lon": 27.8806568
+        },
+        {
+          "id": "node/3309318637",
+          "name": "Lakeview",
+          "lat": -26.2629824,
+          "lon": 27.8866663
+        },
+        {
+          "id": "node/3309318636",
+          "name": "Klipspruit Valley",
+          "lat": -26.2608662,
+          "lon": 27.8907183
+        },
+        {
+          "id": "node/3309318630",
+          "name": "Boomtown",
+          "lat": -26.2421161,
+          "lon": 27.9154455
+        },
+        {
+          "id": "node/3309318634",
+          "name": "Orlando Police Station",
+          "lat": -26.2386398,
+          "lon": 27.919954
+        },
+        {
+          "id": "node/3309318635",
+          "name": "Orlando Amstel Arena",
+          "lat": -26.2328569,
+          "lon": 27.9242176
+        },
+        {
+          "id": "node/3318924741",
+          "name": "Noordgesig Extension",
+          "lat": -26.2263293,
+          "lon": 27.9350125
+        },
+        {
+          "id": "node/3318924740",
+          "name": "New Canada",
+          "lat": -26.2158218,
+          "lon": 27.9433447
+        },
+        {
+          "id": "node/3309682563",
+          "name": "Bosmont",
+          "lat": -26.202067,
+          "lon": 27.9589225
+        },
+        {
+          "id": "node/3309390255",
+          "name": "Coronationville",
+          "lat": -26.1901313,
+          "lon": 27.9681071
+        },
+        {
+          "id": "node/3318924742",
+          "name": "Westbury",
+          "lat": -26.1868085,
+          "lon": 27.9760651
+        },
+        {
+          "id": "node/3309390253",
+          "name": "Helen Joseph Hospital",
+          "lat": -26.1832237,
+          "lon": 27.9905213
+        },
+        {
+          "id": "node/2745520635",
+          "name": "UJ Kingsway Campus",
+          "lat": -26.1819763,
+          "lon": 27.9989692
+        },
+        {
+          "id": "node/2745520632",
+          "name": "UJ Sophiatown Res",
+          "lat": -26.1829109,
+          "lon": 28.0035311
+        },
+        {
+          "id": "node/3318822636",
+          "name": "SABC Media Park",
+          "lat": -26.1843222,
+          "lon": 28.009889
+        },
+        {
+          "id": "node/2745520634",
+          "name": "Milpark",
+          "lat": -26.1832068,
+          "lon": 28.0206605
+        },
+        {
+          "id": "node/3318822635",
+          "name": "Parktown (T1 C4 C5)",
+          "lat": -26.1852369,
+          "lon": 28.0393732
+        },
+        {
+          "id": "node/3318822634",
+          "name": "Constitution Hill",
+          "lat": -26.1911379,
+          "lon": 28.0412309
+        },
+        {
+          "id": "node/767545310",
+          "name": "Library Gardens Eastbound",
+          "lat": -26.2046864,
+          "lon": 28.041717
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "node/3309318639",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": 0
+        },
+        {
+          "stop_id": "node/3309318637",
+          "arrival_time": "06:02:02",
+          "departure_time": "06:02:02",
+          "stop_sequence": 1
+        },
+        {
+          "stop_id": "node/3309318636",
+          "arrival_time": "06:03:33",
+          "departure_time": "06:03:33",
+          "stop_sequence": 2
+        },
+        {
+          "stop_id": "node/3309318630",
+          "arrival_time": "06:13:53",
+          "departure_time": "06:13:53",
+          "stop_sequence": 3
+        },
+        {
+          "stop_id": "node/3309318634",
+          "arrival_time": "06:15:47",
+          "departure_time": "06:15:47",
+          "stop_sequence": 4
+        },
+        {
+          "stop_id": "node/3309318635",
+          "arrival_time": "06:18:10",
+          "departure_time": "06:18:10",
+          "stop_sequence": 5
+        },
+        {
+          "stop_id": "node/3318924741",
+          "arrival_time": "06:22:22",
+          "departure_time": "06:22:22",
+          "stop_sequence": 6
+        },
+        {
+          "stop_id": "node/3318924740",
+          "arrival_time": "06:26:50",
+          "departure_time": "06:26:50",
+          "stop_sequence": 7
+        },
+        {
+          "stop_id": "node/3309682563",
+          "arrival_time": "06:33:46",
+          "departure_time": "06:33:46",
+          "stop_sequence": 8
+        },
+        {
+          "stop_id": "node/3309390255",
+          "arrival_time": "06:38:46",
+          "departure_time": "06:38:46",
+          "stop_sequence": 9
+        },
+        {
+          "stop_id": "node/3318924742",
+          "arrival_time": "06:41:39",
+          "departure_time": "06:41:39",
+          "stop_sequence": 10
+        },
+        {
+          "stop_id": "node/3309390253",
+          "arrival_time": "06:46:36",
+          "departure_time": "06:46:36",
+          "stop_sequence": 11
+        },
+        {
+          "stop_id": "node/2745520635",
+          "arrival_time": "06:49:27",
+          "departure_time": "06:49:27",
+          "stop_sequence": 12
+        },
+        {
+          "stop_id": "node/2745520632",
+          "arrival_time": "06:51:00",
+          "departure_time": "06:51:00",
+          "stop_sequence": 13
+        },
+        {
+          "stop_id": "node/3318822636",
+          "arrival_time": "06:53:10",
+          "departure_time": "06:53:10",
+          "stop_sequence": 14
+        },
+        {
+          "stop_id": "node/2745520634",
+          "arrival_time": "06:56:46",
+          "departure_time": "06:56:46",
+          "stop_sequence": 15
+        },
+        {
+          "stop_id": "node/3318822635",
+          "arrival_time": "06:57:46",
+          "departure_time": "06:57:46",
+          "stop_sequence": 16
+        },
+        {
+          "stop_id": "node/3318822634",
+          "arrival_time": "06:59:50",
+          "departure_time": "06:59:50",
+          "stop_sequence": 17
+        },
+        {
+          "stop_id": "node/767545310",
+          "arrival_time": "07:04:21",
+          "departure_time": "07:04:21",
+          "stop_sequence": 18
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "08:30:00",
+        "headway_minutes": 5
+      }
+    },
+    "relation/4512263": {
+      "route": {
+        "id": "relation/4512263",
+        "short_name": "Bus",
+        "long_name": "Bus C1: Ellis Park East → Noordgesig (Dobsonville direction)"
+      },
+      "buses": ["unknown"],
+      "stops": [
+        {
+          "id": "node/3320632476",
+          "name": "Ellis Park East Bus Station (T1)",
+          "lat": -26.1949167,
+          "lon": 28.0654982
+        },
+        {
+          "id": "node/766108831",
+          "name": "Carlton Bus Station (Westbound: T1)",
+          "lat": -26.2047811,
+          "lon": 28.0480381
+        },
+        {
+          "id": "node/767545317",
+          "name": "Library Gardens Westbound",
+          "lat": -26.2055198,
+          "lon": 28.0419409
+        },
+        {
+          "id": "node/3307241857",
+          "name": "Chancellor House (Westbound)",
+          "lat": -26.2061465,
+          "lon": 28.036173
+        },
+        {
+          "id": "node/3307241860",
+          "name": "Westgate",
+          "lat": -26.2107112,
+          "lon": 28.0339639
+        },
+        {
+          "id": "node/3309318632",
+          "name": "Mavumbi",
+          "lat": -26.2285647,
+          "lon": 28.0214564
+        },
+        {
+          "id": "node/3320685943",
+          "name": "Basothong",
+          "lat": -26.2297151,
+          "lon": 28.0106895
+        },
+        {
+          "id": "node/3309318638",
+          "name": "Soccer City",
+          "lat": -26.2313975,
+          "lon": 27.9828113
+        },
+        {
+          "id": "node/3309318631",
+          "name": "Diepkloof",
+          "lat": -26.2333348,
+          "lon": 27.9525093
+        },
+        {
+          "id": "node/3309318633",
+          "name": "Ghost Town",
+          "lat": -26.2339859,
+          "lon": 27.9460533
+        },
+        {
+          "id": "node/3320685946",
+          "name": "Noordgesig",
+          "lat": -26.2287011,
+          "lon": 27.9335926
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "node/3320632476",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": 0
+        },
+        {
+          "stop_id": "node/766108831",
+          "arrival_time": "06:06:40",
+          "departure_time": "06:06:40",
+          "stop_sequence": 1
+        },
+        {
+          "stop_id": "node/767545317",
+          "arrival_time": "06:08:43",
+          "departure_time": "06:08:43",
+          "stop_sequence": 2
+        },
+        {
+          "stop_id": "node/3307241857",
+          "arrival_time": "06:10:39",
+          "departure_time": "06:10:39",
+          "stop_sequence": 3
+        },
+        {
+          "stop_id": "node/3307241860",
+          "arrival_time": "06:12:20",
+          "departure_time": "06:12:20",
+          "stop_sequence": 4
+        },
+        {
+          "stop_id": "node/3309318632",
+          "arrival_time": "06:19:36",
+          "departure_time": "06:19:36",
+          "stop_sequence": 5
+        },
+        {
+          "stop_id": "node/3320685943",
+          "arrival_time": "06:23:12",
+          "departure_time": "06:23:12",
+          "stop_sequence": 6
+        },
+        {
+          "stop_id": "node/3309318638",
+          "arrival_time": "06:32:30",
+          "departure_time": "06:32:30",
+          "stop_sequence": 7
+        },
+        {
+          "stop_id": "node/3309318631",
+          "arrival_time": "06:42:37",
+          "departure_time": "06:42:37",
+          "stop_sequence": 8
+        },
+        {
+          "stop_id": "node/3309318633",
+          "arrival_time": "06:44:46",
+          "departure_time": "06:44:46",
+          "stop_sequence": 9
+        },
+        {
+          "stop_id": "node/3320685946",
+          "arrival_time": "06:49:17",
+          "departure_time": "06:49:17",
+          "stop_sequence": 10
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "08:30:00",
+        "headway_minutes": 5
+      }
+    },
+    "relation/4513582": {
+      "route": {
+        "id": "relation/4513582",
+        "short_name": "Bus",
+        "long_name": "Bus C2: Dobsonville → Maponya Mall (incomplete data)"
+      },
+      "buses": ["unknown"],
+      "stops": [
+        {
+          "id": "node/3309318639",
+          "name": "Thokoza Park",
+          "lat": -26.2641104,
+          "lon": 27.8806568
+        },
+        {
+          "id": "node/3309318637",
+          "name": "Lakeview",
+          "lat": -26.2629824,
+          "lon": 27.8866663
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "node/3309318639",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": 0
+        },
+        {
+          "stop_id": "node/3309318637",
+          "arrival_time": "06:02:02",
+          "departure_time": "06:02:02",
+          "stop_sequence": 1
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "08:30:00",
+        "headway_minutes": 5
+      }
+    },
+    "relation/4514729": {
+      "route": {
+        "id": "relation/4514729",
+        "short_name": "Bus",
+        "long_name": "Bus F2: Protea Glen → Thokoza Park (incomplete)"
+      },
+      "buses": ["unknown"],
+      "stops": [
+        {
+          "id": "node/3309318639",
+          "name": "Thokoza Park",
+          "lat": -26.2641104,
+          "lon": 27.8806568
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "node/3309318639",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": 0
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "08:30:00",
+        "headway_minutes": 5
+      }
+    },
+    "relation/4514730": {
+      "route": {
+        "id": "relation/4514730",
+        "short_name": "Bus",
+        "long_name": "Bus F2: Thokoza Park → Protea Glen (incomplete)"
+      },
+      "buses": ["unknown"],
+      "stops": [
+        {
+          "id": "node/3309318639",
+          "name": "Thokoza Park",
+          "lat": -26.2641104,
+          "lon": 27.8806568
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "node/3309318639",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": 0
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "08:30:00",
+        "headway_minutes": 5
+      }
+    },
+    "relation/4514818": {
+      "route": {
+        "id": "relation/4514818",
+        "short_name": "Bus",
+        "long_name": "Bus F1: Naledi → Thokoza Park (incomplete)"
+      },
+      "buses": ["unknown"],
+      "stops": [
+        {
+          "id": "node/3309318639",
+          "name": "Thokoza Park",
+          "lat": -26.2641104,
+          "lon": 27.8806568
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "node/3309318639",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": 0
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "08:30:00",
+        "headway_minutes": 5
+      }
+    },
+    "relation/4514819": {
+      "route": {
+        "id": "relation/4514819",
+        "short_name": "Bus",
+        "long_name": "Bus F1: Thokoza Park → Naledi (incomplete)"
+      },
+      "buses": ["unknown"],
+      "stops": [
+        {
+          "id": "node/3309318639",
+          "name": "Thokoza Park",
+          "lat": -26.2641104,
+          "lon": 27.8806568
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "node/3309318639",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": 0
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "08:30:00",
+        "headway_minutes": 5
+      }
+    },
+    "relation/4540480": {
+      "route": {
+        "id": "relation/4540480",
+        "short_name": "Bus",
+        "long_name": "Bus F3: Jabavu → Thokoza Park (incomplete)"
+      },
+      "buses": ["unknown"],
+      "stops": [
+        {
+          "id": "node/3309318639",
+          "name": "Thokoza Park",
+          "lat": -26.2641104,
+          "lon": 27.8806568
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "node/3309318639",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": 0
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "08:30:00",
+        "headway_minutes": 5
+      }
+    },
+    "relation/4540481": {
+      "route": {
+        "id": "relation/4540481",
+        "short_name": "Bus",
+        "long_name": "Bus F4: Boomtown → Mofolo (incomplete)"
+      },
+      "buses": ["unknown"],
+      "stops": [
+        {
+          "id": "node/3309318630",
+          "name": "Boomtown",
+          "lat": -26.2421161,
+          "lon": 27.9154455
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "node/3309318630",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": 0
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "08:30:00",
+        "headway_minutes": 5
+      }
+    },
+    "relation/4540482": {
+      "route": {
+        "id": "relation/4540482",
+        "short_name": "Bus",
+        "long_name": "Bus F4: Mofolo → Boomtown (incomplete)"
+      },
+      "buses": ["unknown"],
+      "stops": [
+        {
+          "id": "node/3309318630",
+          "name": "Boomtown",
+          "lat": -26.2421161,
+          "lon": 27.9154455
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "node/3309318630",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": 0
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "08:30:00",
+        "headway_minutes": 5
+      }
+    },
+    "relation/4543758": {
+      "route": {
+        "id": "relation/4543758",
+        "short_name": "Bus",
+        "long_name": "Bus F9: Mapetla → Thokoza Park (incomplete)"
+      },
+      "buses": ["unknown"],
+      "stops": [
+        {
+          "id": "node/3309318639",
+          "name": "Thokoza Park",
+          "lat": -26.2641104,
+          "lon": 27.8806568
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "node/3309318639",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": 0
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "08:30:00",
+        "headway_minutes": 5
+      }
+    }
+  }
+}

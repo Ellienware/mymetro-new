@@ -1,0 +1,144 @@
+Stop ID: node/10002774150 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10002774148
+Name: Magistrade Court
+Mode: train
+Coordinates: -25.6658859, 27.2365665
+Lines serving this stop: 
+
+---
+
+Stop ID: node/7767523703
+Name: Taxi Rank
+Mode: bus
+Coordinates: -25.6632643, 27.2340739
+Lines serving this stop: Yarona Bus, RRT
+
+---
+
+Stop ID: node/6966628712
+Name: Bester
+Mode: bus
+Coordinates: -25.6428901, 27.2108602
+Lines serving this stop: Yarona Bus, RRT
+
+---
+
+Stop ID: node/10002774154
+Name: Motsatsi Street
+Mode: bus
+Coordinates: -25.6371296, 27.2116522
+Lines serving this stop: Yarona Bus, RRT
+
+---
+
+Stop ID: node/10002774152
+Name: Mokgethi Street (2)
+Mode: bus
+Coordinates: -25.6347121, 27.209546
+Lines serving this stop: Yarona Bus, RRT
+
+---
+
+Stop ID: node/10002774153
+Name: Mokgethi Street (3)
+Mode: bus
+Coordinates: -25.6329454, 27.2073064
+Lines serving this stop: Yarona Bus, RRT
+
+---
+
+Stop ID: node/6966712660 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10002774156 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10002774155 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10002774149 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10044676495 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10044676494 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10044676493 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10044676492 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/6966628741 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10108256996 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/6966628714 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10108256967 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10108256966 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10108256965 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10108377341 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10108377340 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10108377339 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10108377338 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10108377337 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10108377336 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10108377335 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10108377334 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/10108377333 (not found in ALL_STOPS)
+
+---
+

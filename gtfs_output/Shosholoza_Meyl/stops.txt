@@ -1,0 +1,5 @@
+stop_id,stop_name,stop_lat,stop_lon
+node/326084268,Johannesburg Park Station,-26.1976708,28.0423048
+node/7055183232,Germiston,-26.2097999,28.1676767
+node/7055183244,Vereeniging,-26.6741584,27.9353056
+node/4816809392,Sasolburg,-26.8545853,27.866511

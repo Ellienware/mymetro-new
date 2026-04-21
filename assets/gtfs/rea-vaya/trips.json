@@ -1,0 +1,702 @@
+[
+  {
+    "route_id": "relation/4511530",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4511530_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4511530",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4511530_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4511530",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4511530_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4511530",
+    "service_id": "saturday",
+    "trip_id": "relation/4511530_saturday"
+  },
+  {
+    "route_id": "relation/4511530",
+    "service_id": "sunday",
+    "trip_id": "relation/4511530_sunday"
+  },
+  {
+    "route_id": "relation/4511533",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4511533_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4511533",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4511533_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4511533",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4511533_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4511533",
+    "service_id": "saturday",
+    "trip_id": "relation/4511533_saturday"
+  },
+  {
+    "route_id": "relation/4511533",
+    "service_id": "sunday",
+    "trip_id": "relation/4511533_sunday"
+  },
+  {
+    "route_id": "relation/4511598",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4511598_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4511598",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4511598_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4511598",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4511598_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4511598",
+    "service_id": "saturday",
+    "trip_id": "relation/4511598_saturday"
+  },
+  {
+    "route_id": "relation/4511598",
+    "service_id": "sunday",
+    "trip_id": "relation/4511598_sunday"
+  },
+  {
+    "route_id": "relation/4511835",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4511835_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4511835",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4511835_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4511835",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4511835_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4511835",
+    "service_id": "saturday",
+    "trip_id": "relation/4511835_saturday"
+  },
+  {
+    "route_id": "relation/4511835",
+    "service_id": "sunday",
+    "trip_id": "relation/4511835_sunday"
+  },
+  {
+    "route_id": "relation/4512263",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4512263_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4512263",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4512263_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4512263",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4512263_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4512263",
+    "service_id": "saturday",
+    "trip_id": "relation/4512263_saturday"
+  },
+  {
+    "route_id": "relation/4512263",
+    "service_id": "sunday",
+    "trip_id": "relation/4512263_sunday"
+  },
+  {
+    "route_id": "relation/4513582",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4513582_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4513582",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4513582_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4513582",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4513582_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4513582",
+    "service_id": "saturday",
+    "trip_id": "relation/4513582_saturday"
+  },
+  {
+    "route_id": "relation/4513582",
+    "service_id": "sunday",
+    "trip_id": "relation/4513582_sunday"
+  },
+  {
+    "route_id": "relation/4513703",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4513703_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4513703",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4513703_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4513703",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4513703_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4513703",
+    "service_id": "saturday",
+    "trip_id": "relation/4513703_saturday"
+  },
+  {
+    "route_id": "relation/4513703",
+    "service_id": "sunday",
+    "trip_id": "relation/4513703_sunday"
+  },
+  {
+    "route_id": "relation/4513946",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4513946_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4513946",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4513946_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4513946",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4513946_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4513946",
+    "service_id": "saturday",
+    "trip_id": "relation/4513946_saturday"
+  },
+  {
+    "route_id": "relation/4513946",
+    "service_id": "sunday",
+    "trip_id": "relation/4513946_sunday"
+  },
+  {
+    "route_id": "relation/4513947",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4513947_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4513947",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4513947_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4513947",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4513947_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4513947",
+    "service_id": "saturday",
+    "trip_id": "relation/4513947_saturday"
+  },
+  {
+    "route_id": "relation/4513947",
+    "service_id": "sunday",
+    "trip_id": "relation/4513947_sunday"
+  },
+  {
+    "route_id": "relation/4514015",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4514015_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4514015",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4514015_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4514015",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4514015_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4514015",
+    "service_id": "saturday",
+    "trip_id": "relation/4514015_saturday"
+  },
+  {
+    "route_id": "relation/4514015",
+    "service_id": "sunday",
+    "trip_id": "relation/4514015_sunday"
+  },
+  {
+    "route_id": "relation/4514016",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4514016_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4514016",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4514016_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4514016",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4514016_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4514016",
+    "service_id": "saturday",
+    "trip_id": "relation/4514016_saturday"
+  },
+  {
+    "route_id": "relation/4514016",
+    "service_id": "sunday",
+    "trip_id": "relation/4514016_sunday"
+  },
+  {
+    "route_id": "relation/4514458",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4514458_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4514458",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4514458_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4514458",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4514458_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4514458",
+    "service_id": "saturday",
+    "trip_id": "relation/4514458_saturday"
+  },
+  {
+    "route_id": "relation/4514458",
+    "service_id": "sunday",
+    "trip_id": "relation/4514458_sunday"
+  },
+  {
+    "route_id": "relation/4514459",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4514459_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4514459",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4514459_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4514459",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4514459_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4514459",
+    "service_id": "saturday",
+    "trip_id": "relation/4514459_saturday"
+  },
+  {
+    "route_id": "relation/4514459",
+    "service_id": "sunday",
+    "trip_id": "relation/4514459_sunday"
+  },
+  {
+    "route_id": "relation/4514729",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4514729_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4514729",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4514729_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4514729",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4514729_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4514729",
+    "service_id": "saturday",
+    "trip_id": "relation/4514729_saturday"
+  },
+  {
+    "route_id": "relation/4514729",
+    "service_id": "sunday",
+    "trip_id": "relation/4514729_sunday"
+  },
+  {
+    "route_id": "relation/4514730",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4514730_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4514730",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4514730_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4514730",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4514730_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4514730",
+    "service_id": "saturday",
+    "trip_id": "relation/4514730_saturday"
+  },
+  {
+    "route_id": "relation/4514730",
+    "service_id": "sunday",
+    "trip_id": "relation/4514730_sunday"
+  },
+  {
+    "route_id": "relation/4514818",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4514818_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4514818",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4514818_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4514818",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4514818_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4514818",
+    "service_id": "saturday",
+    "trip_id": "relation/4514818_saturday"
+  },
+  {
+    "route_id": "relation/4514818",
+    "service_id": "sunday",
+    "trip_id": "relation/4514818_sunday"
+  },
+  {
+    "route_id": "relation/4514819",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4514819_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4514819",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4514819_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4514819",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4514819_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4514819",
+    "service_id": "saturday",
+    "trip_id": "relation/4514819_saturday"
+  },
+  {
+    "route_id": "relation/4514819",
+    "service_id": "sunday",
+    "trip_id": "relation/4514819_sunday"
+  },
+  {
+    "route_id": "relation/4516346",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4516346_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4516346",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4516346_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4516346",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4516346_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4516346",
+    "service_id": "saturday",
+    "trip_id": "relation/4516346_saturday"
+  },
+  {
+    "route_id": "relation/4516346",
+    "service_id": "sunday",
+    "trip_id": "relation/4516346_sunday"
+  },
+  {
+    "route_id": "relation/4516347",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4516347_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4516347",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4516347_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4516347",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4516347_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4516347",
+    "service_id": "saturday",
+    "trip_id": "relation/4516347_saturday"
+  },
+  {
+    "route_id": "relation/4516347",
+    "service_id": "sunday",
+    "trip_id": "relation/4516347_sunday"
+  },
+  {
+    "route_id": "relation/4516469",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4516469_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4516469",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4516469_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4516469",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4516469_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4516469",
+    "service_id": "saturday",
+    "trip_id": "relation/4516469_saturday"
+  },
+  {
+    "route_id": "relation/4516469",
+    "service_id": "sunday",
+    "trip_id": "relation/4516469_sunday"
+  },
+  {
+    "route_id": "relation/4517007",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4517007_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4517007",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4517007_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4517007",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4517007_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4517007",
+    "service_id": "saturday",
+    "trip_id": "relation/4517007_saturday"
+  },
+  {
+    "route_id": "relation/4517007",
+    "service_id": "sunday",
+    "trip_id": "relation/4517007_sunday"
+  },
+  {
+    "route_id": "relation/4517118",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4517118_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4517118",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4517118_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4517118",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4517118_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4517118",
+    "service_id": "saturday",
+    "trip_id": "relation/4517118_saturday"
+  },
+  {
+    "route_id": "relation/4517118",
+    "service_id": "sunday",
+    "trip_id": "relation/4517118_sunday"
+  },
+  {
+    "route_id": "relation/4538797",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4538797_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4538797",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4538797_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4538797",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4538797_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4538797",
+    "service_id": "saturday",
+    "trip_id": "relation/4538797_saturday"
+  },
+  {
+    "route_id": "relation/4538797",
+    "service_id": "sunday",
+    "trip_id": "relation/4538797_sunday"
+  },
+  {
+    "route_id": "relation/4540480",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4540480_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4540480",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4540480_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4540480",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4540480_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4540480",
+    "service_id": "saturday",
+    "trip_id": "relation/4540480_saturday"
+  },
+  {
+    "route_id": "relation/4540480",
+    "service_id": "sunday",
+    "trip_id": "relation/4540480_sunday"
+  },
+  {
+    "route_id": "relation/4540481",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4540481_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4540481",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4540481_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4540481",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4540481_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4540481",
+    "service_id": "saturday",
+    "trip_id": "relation/4540481_saturday"
+  },
+  {
+    "route_id": "relation/4540481",
+    "service_id": "sunday",
+    "trip_id": "relation/4540481_sunday"
+  },
+  {
+    "route_id": "relation/4540482",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4540482_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4540482",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4540482_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4540482",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4540482_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4540482",
+    "service_id": "saturday",
+    "trip_id": "relation/4540482_saturday"
+  },
+  {
+    "route_id": "relation/4540482",
+    "service_id": "sunday",
+    "trip_id": "relation/4540482_sunday"
+  },
+  {
+    "route_id": "relation/4543758",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4543758_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4543758",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4543758_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4543758",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4543758_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4543758",
+    "service_id": "saturday",
+    "trip_id": "relation/4543758_saturday"
+  },
+  {
+    "route_id": "relation/4543758",
+    "service_id": "sunday",
+    "trip_id": "relation/4543758_sunday"
+  },
+  {
+    "route_id": "relation/4543759",
+    "service_id": "weekday_peak1",
+    "trip_id": "relation/4543759_weekday_peak1"
+  },
+  {
+    "route_id": "relation/4543759",
+    "service_id": "weekday_offpeak",
+    "trip_id": "relation/4543759_weekday_offpeak"
+  },
+  {
+    "route_id": "relation/4543759",
+    "service_id": "weekday_peak2",
+    "trip_id": "relation/4543759_weekday_peak2"
+  },
+  {
+    "route_id": "relation/4543759",
+    "service_id": "saturday",
+    "trip_id": "relation/4543759_saturday"
+  },
+  {
+    "route_id": "relation/4543759",
+    "service_id": "sunday",
+    "trip_id": "relation/4543759_sunday"
+  }
+]

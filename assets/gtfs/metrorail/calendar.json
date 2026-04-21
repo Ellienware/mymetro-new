@@ -1,0 +1,14 @@
+[
+  {
+    "service_id": "dummy",
+    "monday": "1",
+    "tuesday": "1",
+    "wednesday": "1",
+    "thursday": "1",
+    "friday": "1",
+    "saturday": "1",
+    "sunday": "1",
+    "start_date": "20240101",
+    "end_date": "20251231"
+  }
+]

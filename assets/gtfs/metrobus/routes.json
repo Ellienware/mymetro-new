@@ -1,0 +1,734 @@
+[
+  {
+    "route_id": "METROBUS_16",
+    "route_short_name": "16",
+    "route_long_name": "Auckland Park to Sydenham (UJ Scholars)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_421D",
+    "route_short_name": "421D",
+    "route_long_name": "Bellevue East to Sunninghill",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_421F",
+    "route_short_name": "421F",
+    "route_long_name": "Bellevue East to Fairlands",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_421G",
+    "route_short_name": "421G",
+    "route_long_name": "Bellevue East to Fourways Mall",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_421R",
+    "route_short_name": "421R",
+    "route_long_name": "Bellevue East to Strydom Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_421H",
+    "route_short_name": "421H",
+    "route_long_name": "Bellevue East to Honeydew via Laser Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_42",
+    "route_short_name": "42",
+    "route_long_name": "Braamfontein to Elands Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_45",
+    "route_short_name": "45",
+    "route_long_name": "Braamfontein to Marist Brothers via Linmeyer",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_32C",
+    "route_short_name": "32C",
+    "route_long_name": "Braamfontein to Bedford Plaza",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_57B",
+    "route_short_name": "57B",
+    "route_long_name": "Braamfontein to Naturena",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_56",
+    "route_short_name": "56",
+    "route_long_name": "Braamfontein to Mayfield Park via Kibler Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_436",
+    "route_short_name": "436",
+    "route_long_name": "Davidsonville to Sunninghill",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_18",
+    "route_short_name": "18",
+    "route_long_name": "Foresthill to JHB Hospital",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_518D",
+    "route_short_name": "518D",
+    "route_long_name": "Foresthill to Sunninghill via Gandhi square",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_415A",
+    "route_short_name": "415A",
+    "route_long_name": "Gandhi square to Makro centre",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_59",
+    "route_short_name": "59",
+    "route_long_name": "Gandhi square to Crown mines Ext",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_46A",
+    "route_short_name": "46A",
+    "route_long_name": "Gandhi square to JHB Hospital",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_47",
+    "route_short_name": "47",
+    "route_long_name": "Gandhi square to Townsview",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_48",
+    "route_short_name": "48",
+    "route_long_name": "Gandhi square to Towerby",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_55B",
+    "route_short_name": "55B",
+    "route_long_name": "Gandhi square to Evans Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_55A",
+    "route_short_name": "55A",
+    "route_long_name": "Gandhi square to Ridgeway Extention",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_42A",
+    "route_short_name": "42A",
+    "route_long_name": "Gandhi square to Elands Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_47C",
+    "route_short_name": "47C",
+    "route_long_name": "Gandhi square to the Glen",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_47B",
+    "route_short_name": "47B",
+    "route_long_name": "Gandhi square to Bassonia",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_79",
+    "route_short_name": "79",
+    "route_long_name": "Gandhi square to Parkhurst via Zoo lake",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_49B",
+    "route_short_name": "49B",
+    "route_long_name": "Gandhi square to Glenvista Extention 4",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_01A",
+    "route_short_name": "01A",
+    "route_long_name": "Gandhi square to Parktown North via Oxford Road",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_49C",
+    "route_short_name": "49C",
+    "route_long_name": "Gandhi square to Mulbarton via Liefde en Vrede",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_13A",
+    "route_short_name": "13A",
+    "route_long_name": "Gandhi square to Glenhazel via Highlands North",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_4",
+    "route_short_name": "4",
+    "route_long_name": "Gandhi square to Highlands north via Louis Botha",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_57A",
+    "route_short_name": "57A",
+    "route_long_name": "Gandhi square to Naturena",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_13B",
+    "route_short_name": "13B",
+    "route_long_name": "Gandhi square to Lyndhurst via Highlands North",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_71C",
+    "route_short_name": "71C",
+    "route_long_name": "Gandhi square to Fairlands via Berario",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_86B",
+    "route_short_name": "86B",
+    "route_long_name": "Gandhi square to Strydom Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_56A",
+    "route_short_name": "56A",
+    "route_long_name": "Gandhi square to Mayfield Park via Kibler Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_80A",
+    "route_short_name": "80A",
+    "route_long_name": "Gandhi square to Beverly Gardens",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_6D",
+    "route_short_name": "6D",
+    "route_long_name": "Gandhi square to Woodmead Extention",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_417",
+    "route_short_name": "417",
+    "route_long_name": "Gandhi square to Davidsonville",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_82A",
+    "route_short_name": "82A",
+    "route_long_name": "Gandhi square to Ferndale Extention via Randburg",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_13C",
+    "route_short_name": "13C",
+    "route_long_name": "Gandhi square to Kew via Highlands North",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_414",
+    "route_short_name": "414",
+    "route_long_name": "Gandhi square to Lindhaven",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_15A",
+    "route_short_name": "15A",
+    "route_long_name": "Gandhi square to Lombardy East via Sandringham",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_412",
+    "route_short_name": "412",
+    "route_long_name": "Gandhi square to Witpoortjie",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_9",
+    "route_short_name": "9",
+    "route_long_name": "Gandhi square to Linbro Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_415",
+    "route_short_name": "415",
+    "route_long_name": "Gandhi square to Weltervreden Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_86A",
+    "route_short_name": "86A",
+    "route_long_name": "Gandhi square to Kya Sands via Strydom Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_6A",
+    "route_short_name": "6A",
+    "route_long_name": "Gandhi square to Leewkop Prison",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_15D",
+    "route_short_name": "15D",
+    "route_long_name": "Gandhi square to Lombardy West via Kew",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_413",
+    "route_short_name": "413",
+    "route_long_name": "Gandhi square to Roodekrans",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_88A",
+    "route_short_name": "88A",
+    "route_long_name": "Gandhi square to Honeydew via Laser Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_89B",
+    "route_short_name": "89B",
+    "route_long_name": "Gandhi square to Northgate",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_80F",
+    "route_short_name": "80F",
+    "route_long_name": "Gandhi square to Fourways Mall",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_86D",
+    "route_short_name": "86D",
+    "route_long_name": "Gandhi square to Northlands Business Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_12",
+    "route_short_name": "12",
+    "route_long_name": "Gandhi square to Lone Hill via Kramerville",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_7A",
+    "route_short_name": "7A",
+    "route_long_name": "\"Gandhi square to UTI",
+    "route_type": "Midrand Extention\""
+  },
+  {
+    "route_id": "METROBUS_89A",
+    "route_short_name": "89A",
+    "route_long_name": "Gandhi square to Kya Sands via Northgate",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_80D",
+    "route_short_name": "80D",
+    "route_long_name": "Gandhi square to Dainfern via Fourways",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_7C",
+    "route_short_name": "7C",
+    "route_long_name": "Gandhi square to Airforce Base",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_7B",
+    "route_short_name": "7B",
+    "route_long_name": "Gandhi square to N1 Military Hospital",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_89C",
+    "route_short_name": "89C",
+    "route_long_name": "Gandhi square to Noordgang via Northgate",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_7D",
+    "route_short_name": "7D",
+    "route_long_name": "Gandhi square to Arcadia via Pta central",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_265A",
+    "route_short_name": "265A",
+    "route_long_name": "Hillbrow to Elandsfontein",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_265",
+    "route_short_name": "265",
+    "route_long_name": "Hillbrow to Isando",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_262",
+    "route_short_name": "262",
+    "route_long_name": "Hillbrow to OR tambo via Kempton Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_49J",
+    "route_short_name": "49J",
+    "route_long_name": "JHB Hospital to Mulbarton via Ext4 & Liefde en Vrede",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_227",
+    "route_short_name": "227",
+    "route_long_name": "Judiths Paarl to Crosby",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_556E",
+    "route_short_name": "556E",
+    "route_long_name": "Mayfield Park to Megawatt Park via Auckland Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_522",
+    "route_short_name": "522",
+    "route_long_name": "Naturena to Randburg mall via Jan Smuts ave",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_520",
+    "route_short_name": "520",
+    "route_long_name": "Naturena to Randburg Mall",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_520A",
+    "route_short_name": "520A",
+    "route_long_name": "Naturena to Fourways Mall",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_523",
+    "route_short_name": "523",
+    "route_long_name": "Naturena to fourways Mall via William niicol",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_521A",
+    "route_short_name": "521A",
+    "route_long_name": "Naturena to Barlowworld",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_260A",
+    "route_short_name": "260A",
+    "route_long_name": "Ormondeview to Eastgate via Bezvalley",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_260",
+    "route_short_name": "260",
+    "route_long_name": "Paarlhoop to Eastgate via Bezvalley",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_551C",
+    "route_short_name": "551C",
+    "route_long_name": "Protea Gardens to Sunninghill via Pimville",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_551B",
+    "route_short_name": "551B",
+    "route_long_name": "Protea Gardens to Sunninghill",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_552",
+    "route_short_name": "552",
+    "route_long_name": "Protea Glen to Fourways Mall",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_553",
+    "route_short_name": "553",
+    "route_long_name": "Protea Glen to Kya Sands via Malibongwe",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_551A",
+    "route_short_name": "551A",
+    "route_long_name": "Protea Glen to Sunninghill",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_551D",
+    "route_short_name": "551D",
+    "route_long_name": "Protea North to Sunninghill",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_46",
+    "route_short_name": "46",
+    "route_long_name": "Rosettenville to JHB Hospital",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_546D",
+    "route_short_name": "546D",
+    "route_long_name": "Rosettenville to Sunninghill via Gandhi square",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_55",
+    "route_short_name": "55",
+    "route_long_name": "Sanlam centre to Meredale via Southgate",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_52C",
+    "route_short_name": "52C",
+    "route_long_name": "Sanlam centre to Winchester Hills Ext 3",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_52B",
+    "route_short_name": "52B",
+    "route_long_name": "Sanlam centre to Winchester Hills",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_52",
+    "route_short_name": "52",
+    "route_long_name": "Sanlam centre to Southgate via Mondeor",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_54A",
+    "route_short_name": "54A",
+    "route_long_name": "Sanlam cenntre to The Glen",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_562",
+    "route_short_name": "562",
+    "route_long_name": "Southgate to OR Tambo int Airport",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_10",
+    "route_short_name": "10",
+    "route_long_name": "Stock Exchange to Melrose Arch",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_74",
+    "route_short_name": "74",
+    "route_long_name": "Stock Exchange to Blairgowrie",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_78B",
+    "route_short_name": "78B",
+    "route_long_name": "Stock Exchange to Blairgowrie via Jan Smuts ave",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_87A",
+    "route_short_name": "87A",
+    "route_long_name": "Stock Exchange to Glendayson",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_8A",
+    "route_short_name": "8A",
+    "route_long_name": "Stock Exchange to Winston Ridge via Houghton",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_5D",
+    "route_short_name": "5D",
+    "route_long_name": "Stock Exchange to Sunninghill via Oxford/Rivonia",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_87",
+    "route_short_name": "87",
+    "route_long_name": "Stock Exchange to Glendayson via Bush HILL",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_261",
+    "route_short_name": "261",
+    "route_long_name": "Stpock Exchange to Edenvale",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_22C",
+    "route_short_name": "22C",
+    "route_long_name": "Stock Exchange to Bedford Plaza",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_34",
+    "route_short_name": "34",
+    "route_long_name": "Stock Exchange to Malvern via Jules str",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_38",
+    "route_short_name": "38",
+    "route_long_name": "Stock Exchange to Germiston via Main Reef",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_547D",
+    "route_short_name": "547D",
+    "route_long_name": "Townsview to Sunninghill via Gandhi square",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_33",
+    "route_short_name": "33",
+    "route_long_name": "Westgate to Bedford Gardens via Sovereign street",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_32A",
+    "route_short_name": "32A",
+    "route_long_name": "Westgate to Bedford Gardens",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_3",
+    "route_short_name": "3",
+    "route_long_name": "Westgate to Highlands north via Rosebank",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_2",
+    "route_short_name": "2",
+    "route_long_name": "Westgate to Birnam via Illovo",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_83",
+    "route_short_name": "83",
+    "route_long_name": "Westgate to Malanshof",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_71B",
+    "route_short_name": "71B",
+    "route_long_name": "Westgate to Fairlands via Berario",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_83C",
+    "route_short_name": "83C",
+    "route_long_name": "Westgate to Randpark Ridge",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_85B",
+    "route_short_name": "85B",
+    "route_long_name": "Westgate to JHB North via Randburg centre",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_15F",
+    "route_short_name": "15F",
+    "route_long_name": "Westgate to Longmeadow via Sandringham",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_84",
+    "route_short_name": "84",
+    "route_long_name": "Westgate to Honeydew",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_84C",
+    "route_short_name": "84C",
+    "route_long_name": "Westgate to Honeydew via Randpark Ridge",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_82",
+    "route_short_name": "82",
+    "route_long_name": "Westgate to Ferndale Extention via Randburg",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_80",
+    "route_short_name": "80",
+    "route_long_name": "Westgate to Beeverly Gardens",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_85",
+    "route_short_name": "85",
+    "route_long_name": "Westgate to Johannesburg North",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_15B",
+    "route_short_name": "15B",
+    "route_long_name": "Westgate to Lombardy East via Sandringham",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_420",
+    "route_short_name": "420",
+    "route_long_name": "Westgate Node to Randburg centre",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_420A",
+    "route_short_name": "420A",
+    "route_long_name": "Westgate Node to Sunninghill via Cresta",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_430A",
+    "route_short_name": "430A",
+    "route_long_name": "Westgate Node to Sunninghill via Cresta",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_421J",
+    "route_short_name": "421J",
+    "route_long_name": "Yeoville to Noordhang via JHB North",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_421K",
+    "route_short_name": "421K",
+    "route_long_name": "Yeoville to Dainfern",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_421I",
+    "route_short_name": "421I",
+    "route_long_name": "Yeoville to Northlands Business Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "METROBUS_421N",
+    "route_short_name": "421N",
+    "route_long_name": "Yeoville to Northgate centre",
+    "route_type": "3"
+  }
+]

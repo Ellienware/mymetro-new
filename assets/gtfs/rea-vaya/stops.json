@@ -1,0 +1,248 @@
+[
+  {
+    "stop_id": "node/3320632476",
+    "stop_name": "Ellis Park East Bus Station (T1)",
+    "stop_lat": "-26.1949167",
+    "stop_lon": "28.0654982"
+  },
+  {
+    "stop_id": "node/3320685945",
+    "stop_name": "Ellis Park North",
+    "stop_lat": "-26.1914068",
+    "stop_lon": "28.0615894"
+  },
+  {
+    "stop_id": "node/3320685944",
+    "stop_name": "Doornfontein Campus",
+    "stop_lat": "-26.1927307",
+    "stop_lon": "28.0542361"
+  },
+  {
+    "stop_id": "node/766148883",
+    "stop_name": "Old Synagogue Westbound",
+    "stop_lat": "-26.1941386",
+    "stop_lon": "28.0498055"
+  },
+  {
+    "stop_id": "node/771231864",
+    "stop_name": "Johannesburg Art Gallery",
+    "stop_lat": "-26.1954292",
+    "stop_lon": "28.0479862"
+  },
+  {
+    "stop_id": "node/767545313",
+    "stop_name": "Fashion Square Southbound",
+    "stop_lat": "-26.2010766",
+    "stop_lon": "28.0505516"
+  },
+  {
+    "stop_id": "node/766108831",
+    "stop_name": "Carlton Bus Station (Westbound: T1)",
+    "stop_lat": "-26.2047811",
+    "stop_lon": "28.0480381"
+  },
+  {
+    "stop_id": "node/767545317",
+    "stop_name": "Library Gardens Westbound",
+    "stop_lat": "-26.2055198",
+    "stop_lon": "28.0419409"
+  },
+  {
+    "stop_id": "node/3307241857",
+    "stop_name": "Chancellor House (Westbound)",
+    "stop_lat": "-26.2061465",
+    "stop_lon": "28.036173"
+  },
+  {
+    "stop_id": "node/3307241860",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.2107112",
+    "stop_lon": "28.0339639"
+  },
+  {
+    "stop_id": "node/3309318632",
+    "stop_name": "Mavumbi",
+    "stop_lat": "-26.2285647",
+    "stop_lon": "28.0214564"
+  },
+  {
+    "stop_id": "node/3320685943",
+    "stop_name": "Basothong",
+    "stop_lat": "-26.2297151",
+    "stop_lon": "28.0106895"
+  },
+  {
+    "stop_id": "node/3309318638",
+    "stop_name": "Soccer City",
+    "stop_lat": "-26.2313975",
+    "stop_lon": "27.9828113"
+  },
+  {
+    "stop_id": "node/3309318631",
+    "stop_name": "Diepkloof",
+    "stop_lat": "-26.2333348",
+    "stop_lon": "27.9525093"
+  },
+  {
+    "stop_id": "node/3309318633",
+    "stop_name": "Ghost Town",
+    "stop_lat": "-26.2339859",
+    "stop_lon": "27.9460533"
+  },
+  {
+    "stop_id": "node/3320685946",
+    "stop_name": "Noordgesig",
+    "stop_lat": "-26.2287011",
+    "stop_lon": "27.9335926"
+  },
+  {
+    "stop_id": "node/3309318635",
+    "stop_name": "Orlando Amstel Arena",
+    "stop_lat": "-26.2328569",
+    "stop_lon": "27.9242176"
+  },
+  {
+    "stop_id": "node/3309318634",
+    "stop_name": "Orlando Police Station",
+    "stop_lat": "-26.2386398",
+    "stop_lon": "27.919954"
+  },
+  {
+    "stop_id": "node/3309318630",
+    "stop_name": "Boomtown",
+    "stop_lat": "-26.2421161",
+    "stop_lon": "27.9154455"
+  },
+  {
+    "stop_id": "node/3309318636",
+    "stop_name": "Klipspruit Valley",
+    "stop_lat": "-26.2608662",
+    "stop_lon": "27.8907183"
+  },
+  {
+    "stop_id": "node/3309318637",
+    "stop_name": "Lakeview",
+    "stop_lat": "-26.2629824",
+    "stop_lon": "27.8866663"
+  },
+  {
+    "stop_id": "node/3309318639",
+    "stop_name": "Thokoza Park",
+    "stop_lat": "-26.2641104",
+    "stop_lon": "27.8806568"
+  },
+  {
+    "stop_id": "node/3307241856",
+    "stop_name": "Chancellor House (Eastbound)",
+    "stop_lat": "-26.2053868",
+    "stop_lon": "28.0360737"
+  },
+  {
+    "stop_id": "node/767545310",
+    "stop_name": "Library Gardens Eastbound",
+    "stop_lat": "-26.2046864",
+    "stop_lon": "28.041717"
+  },
+  {
+    "stop_id": "node/766108828",
+    "stop_name": "Carlton Eastbound",
+    "stop_lat": "-26.2039717",
+    "stop_lon": "28.0481526"
+  },
+  {
+    "stop_id": "node/766108814",
+    "stop_name": "Fashion Square Northbound",
+    "stop_lat": "-26.2020775",
+    "stop_lon": "28.0487946"
+  },
+  {
+    "stop_id": "node/766148880",
+    "stop_name": "Old Synagogue Eastbound",
+    "stop_lat": "-26.1935637",
+    "stop_lon": "28.0497472"
+  },
+  {
+    "stop_id": "node/3320685947",
+    "stop_name": "Rissik Street",
+    "stop_lat": "-26.2021891",
+    "stop_lon": "28.0416879"
+  },
+  {
+    "stop_id": "node/767536465",
+    "stop_name": "Joburg Theatre",
+    "stop_lat": "-26.1916425",
+    "stop_lon": "28.0396162"
+  },
+  {
+    "stop_id": "node/3318822634",
+    "stop_name": "Constitution Hill",
+    "stop_lat": "-26.1911379",
+    "stop_lon": "28.0412309"
+  },
+  {
+    "stop_id": "node/3318924741",
+    "stop_name": "Noordgesig Extension",
+    "stop_lat": "-26.2263293",
+    "stop_lon": "27.9350125"
+  },
+  {
+    "stop_id": "node/3318924740",
+    "stop_name": "New Canada",
+    "stop_lat": "-26.2158218",
+    "stop_lon": "27.9433447"
+  },
+  {
+    "stop_id": "node/3309682563",
+    "stop_name": "Bosmont",
+    "stop_lat": "-26.202067",
+    "stop_lon": "27.9589225"
+  },
+  {
+    "stop_id": "node/3309390255",
+    "stop_name": "Coronationville",
+    "stop_lat": "-26.1901313",
+    "stop_lon": "27.9681071"
+  },
+  {
+    "stop_id": "node/3318924742",
+    "stop_name": "Westbury",
+    "stop_lat": "-26.1868085",
+    "stop_lon": "27.9760651"
+  },
+  {
+    "stop_id": "node/3309390253",
+    "stop_name": "Helen Joseph Hospital",
+    "stop_lat": "-26.1832237",
+    "stop_lon": "27.9905213"
+  },
+  {
+    "stop_id": "node/2745520635",
+    "stop_name": "UJ Kingsway Campus",
+    "stop_lat": "-26.1819763",
+    "stop_lon": "27.9989692"
+  },
+  {
+    "stop_id": "node/2745520632",
+    "stop_name": "UJ Sophiatown Res",
+    "stop_lat": "-26.1829109",
+    "stop_lon": "28.0035311"
+  },
+  {
+    "stop_id": "node/3318822636",
+    "stop_name": "SABC Media Park",
+    "stop_lat": "-26.1843222",
+    "stop_lon": "28.009889"
+  },
+  {
+    "stop_id": "node/2745520634",
+    "stop_name": "Milpark",
+    "stop_lat": "-26.1832068",
+    "stop_lon": "28.0206605"
+  },
+  {
+    "stop_id": "node/3318822635",
+    "stop_name": "\"Parktown (T1 C4 C5)\"",
+    "stop_lat": "-26.1852369",
+    "stop_lon": "28.0393732"
+  }
+]

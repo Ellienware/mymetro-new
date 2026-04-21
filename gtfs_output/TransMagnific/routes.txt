@@ -1,0 +1,2 @@
+route_id,route_short_name,route_long_name,route_type
+relation/13625592,TransMagnific,TransMagnific Manzini => Mbabane => Johannesburg,3

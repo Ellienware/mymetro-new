@@ -1,0 +1,992 @@
+Stop ID: node/13373919621
+Name: Stop 13373919621
+Mode: bus
+Coordinates: -25.7445311, 28.1931459
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13373919620
+Name: Stop 13373919620
+Mode: bus
+Coordinates: -25.7441616, 28.1985234
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13373919619
+Name: Stop 13373919619
+Mode: bus
+Coordinates: -25.74401, 28.2007691
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13373919618 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/13373967641
+Name: Environment House
+Mode: bus
+Coordinates: -25.7393386, 28.2032206
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13373967640
+Name: Soutpansberg
+Mode: bus
+Coordinates: -25.7369629, 28.2030006
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13373967639
+Name: Dr. Savage
+Mode: bus
+Coordinates: -25.7336537, 28.2039361
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13373967638
+Name: Steve Biko Hospital
+Mode: bus
+Coordinates: -25.7310916, 28.2044115
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13373967637
+Name: Flower
+Mode: bus
+Coordinates: -25.7281894, 28.2040276
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13373967636
+Name: Stop 13373967636
+Mode: bus
+Coordinates: -25.7265695, 28.2037795
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13373967635
+Name: Stop 13373967635
+Mode: bus
+Coordinates: -25.7243111, 28.2034127
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13387890832
+Name: Middle Gezina
+Mode: bus
+Coordinates: -25.7194061, 28.202549
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13373939238
+Name: Stop 13373939238
+Mode: bus
+Coordinates: -25.7183833, 28.2036637
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13373939237
+Name: Stop 13373939237
+Mode: bus
+Coordinates: -25.7178535, 28.2075631
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13373939236
+Name: Stop 13373939236
+Mode: bus
+Coordinates: -25.7176795, 28.2090638
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13374023719
+Name: Stop 13374023719
+Mode: bus
+Coordinates: -25.7169826, 28.210025
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13374044522
+Name: Stop 13374044522
+Mode: bus
+Coordinates: -25.7153681, 28.2102433
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13374044521
+Name: Stop 13374044521
+Mode: bus
+Coordinates: -25.7127893, 28.2108907
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13374044520
+Name: Stop 13374044520
+Mode: bus
+Coordinates: -25.7103808, 28.2104887
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13374044519
+Name: Stop 13374044519
+Mode: bus
+Coordinates: -25.7079121, 28.2100968
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13374044518
+Name: Stop 13374044518
+Mode: bus
+Coordinates: -25.7057769, 28.2097437
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13374044517
+Name: Stop 13374044517
+Mode: bus
+Coordinates: -25.7036674, 28.2093984
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375288073
+Name: Stop 13375288073
+Mode: bus
+Coordinates: -25.7017527, 28.210076
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375288072
+Name: Stop 13375288072
+Mode: bus
+Coordinates: -25.7014122, 28.2125845
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375288071
+Name: Stop 13375288071
+Mode: bus
+Coordinates: -25.7009066, 28.2163966
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375288070
+Name: Stop 13375288070
+Mode: bus
+Coordinates: -25.7003427, 28.2180606
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375288069
+Name: Stop 13375288069
+Mode: train
+Coordinates: -25.6999881, 28.2207579
+Lines serving this stop: 
+
+---
+
+Stop ID: node/13375288068
+Name: Stop 13375288068
+Mode: bus
+Coordinates: -25.6995542, 28.2239896
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375288067
+Name: Stop 13375288067
+Mode: bus
+Coordinates: -25.6990757, 28.2275234
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375288066
+Name: Stop 13375288066
+Mode: bus
+Coordinates: -25.6986594, 28.2305825
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375288065
+Name: Stop 13375288065
+Mode: bus
+Coordinates: -25.6982116, 28.233891
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375288064
+Name: Stop 13375288064
+Mode: bus
+Coordinates: -25.6980023, 28.235452
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375288063
+Name: Stop 13375288063
+Mode: bus
+Coordinates: -25.6974914, 28.2400922
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375288062
+Name: Stop 13375288062
+Mode: bus
+Coordinates: -25.6974708, 28.2418377
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375356567
+Name: Stop 13375356567
+Mode: bus
+Coordinates: -25.6990823, 28.2512828
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375356566
+Name: Stop 13375356566
+Mode: bus
+Coordinates: -25.6993095, 28.2533544
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375356565
+Name: Stop 13375356565
+Mode: bus
+Coordinates: -25.6996569, 28.2564611
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375356564
+Name: Stop 13375356564
+Mode: bus
+Coordinates: -25.7000231, 28.2596787
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375356563
+Name: Stop 13375356563
+Mode: bus
+Coordinates: -25.7002751, 28.2618778
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375356562
+Name: Stop 13375356562
+Mode: bus
+Coordinates: -25.700395, 28.2630288
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375356561
+Name: Stop 13375356561
+Mode: bus
+Coordinates: -25.7005971, 28.2648175
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375356560
+Name: Stop 13375356560
+Mode: bus
+Coordinates: -25.7009578, 28.268003
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375377102
+Name: Stop 13375377102
+Mode: bus
+Coordinates: -25.6987802, 28.268529
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375377101
+Name: Stop 13375377101
+Mode: bus
+Coordinates: -25.6983074, 28.2702363
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13375295900
+Name: Stop 13375295900
+Mode: bus
+Coordinates: -25.6986292, 28.2727341
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367259291
+Name: Varing and Bergarend
+Mode: bus
+Coordinates: -25.6986747, 28.2726798
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380236
+Name: Stop 13367380236
+Mode: bus
+Coordinates: -25.6986779, 28.271316
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380237
+Name: Stop 13367380237
+Mode: bus
+Coordinates: -25.6983961, 28.2701387
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380238
+Name: Stop 13367380238
+Mode: bus
+Coordinates: -25.6985611, 28.2686693
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380239
+Name: Stop 13367380239
+Mode: bus
+Coordinates: -25.7010361, 28.2678369
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380240
+Name: Stop 13367380240
+Mode: bus
+Coordinates: -25.7006748, 28.264673
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380241
+Name: Stop 13367380241
+Mode: bus
+Coordinates: -25.7003379, 28.2616365
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380242
+Name: Stop 13367380242
+Mode: bus
+Coordinates: -25.7000916, 28.2593726
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380243
+Name: Stop 13367380243
+Mode: bus
+Coordinates: -25.6996432, 28.2553471
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380244
+Name: Stop 13367380244
+Mode: bus
+Coordinates: -25.69941, 28.2533085
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380245
+Name: Stop 13367380245
+Mode: bus
+Coordinates: -25.6989871, 28.2496139
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380246
+Name: Stop 13367380246
+Mode: bus
+Coordinates: -25.6987078, 28.2471464
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380247
+Name: Stop 13367380247
+Mode: bus
+Coordinates: -25.6982887, 28.2433627
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380248
+Name: Stop 13367380248
+Mode: train
+Coordinates: -25.6975824, 28.2414822
+Lines serving this stop: 
+
+---
+
+Stop ID: node/13367380249
+Name: Stop 13367380249
+Mode: bus
+Coordinates: -25.6975839, 28.2396622
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380250
+Name: Stop 13367380250
+Mode: bus
+Coordinates: -25.6976119, 28.2384932
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380251
+Name: Stop 13367380251
+Mode: bus
+Coordinates: -25.6982239, 28.2344591
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380252
+Name: Stop 13367380252
+Mode: bus
+Coordinates: -25.6984744, 28.2326431
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380253
+Name: Stop 13367380253
+Mode: bus
+Coordinates: -25.6988801, 28.2296807
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13367380255
+Name: Stop 13367380255
+Mode: bus
+Coordinates: -25.6997326, 28.2233203
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432841
+Name: Stop 13369432841
+Mode: bus
+Coordinates: -25.7002696, 28.2192629
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432842
+Name: Stop 13369432842
+Mode: bus
+Coordinates: -25.7009926, 28.2165403
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432844
+Name: Stop 13369432844
+Mode: bus
+Coordinates: -25.7012951, 28.2142063
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432845
+Name: Stop 13369432845
+Mode: bus
+Coordinates: -25.7016075, 28.2118194
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432846
+Name: Stop 13369432846
+Mode: bus
+Coordinates: -25.7019224, 28.2095528
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432847
+Name: Stop 13369432847
+Mode: bus
+Coordinates: -25.7043512, 28.2096399
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432848
+Name: Stop 13369432848
+Mode: bus
+Coordinates: -25.7064237, 28.2099583
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432849
+Name: Stop 13369432849
+Mode: bus
+Coordinates: -25.708683, 28.2103285
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432850
+Name: Stop 13369432850
+Mode: bus
+Coordinates: -25.7113961, 28.2107618
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432851
+Name: Stop 13369432851
+Mode: bus
+Coordinates: -25.7137242, 28.2111872
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432852
+Name: Stop 13369432852
+Mode: bus
+Coordinates: -25.7165157, 28.2100434
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432853
+Name: Stop 13369432853
+Mode: bus
+Coordinates: -25.7181308, 28.2100725
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432854
+Name: Stop 13369432854
+Mode: bus
+Coordinates: -25.7198929, 28.2094068
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432855
+Name: Stop 13369432855
+Mode: bus
+Coordinates: -25.7201395, 28.2076476
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432856
+Name: Stop 13369432856
+Mode: bus
+Coordinates: -25.7203358, 28.2064332
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432857
+Name: Stop 13369432857
+Mode: bus
+Coordinates: -25.7204369, 28.2053858
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432858
+Name: Middle Gezina
+Mode: bus
+Coordinates: -25.7210241, 28.2046327
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13369432859
+Name: Upper Gezina
+Mode: bus
+Coordinates: -25.7256957, 28.2053519
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432860
+Name: Stop 13369432860
+Mode: bus
+Coordinates: -25.7280302, 28.2057146
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432861
+Name: Steve Biko Hospital
+Mode: bus
+Coordinates: -25.7305618, 28.2046787
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/6722557695
+Name: Annie Botha
+Mode: bus
+Coordinates: -25.7325633, 28.2048085
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13369432862
+Name: Harvest House
+Mode: bus
+Coordinates: -25.7368648, 28.2053414
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13369432863
+Name: Pension House
+Mode: bus
+Coordinates: -25.7389198, 28.2055146
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13369432864
+Name: Lower Hamilton
+Mode: bus
+Coordinates: -25.7412289, 28.2056958
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13369432865
+Name: Stop 13369432865
+Mode: bus
+Coordinates: -25.7427968, 28.2058222
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432867
+Name: Stop 13369432867
+Mode: bus
+Coordinates: -25.7468262, 28.2053854
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432868
+Name: Stop 13369432868
+Mode: bus
+Coordinates: -25.7470166, 28.2026133
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432869
+Name: Stop 13369432869
+Mode: bus
+Coordinates: -25.7472603, 28.19906
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432870 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/13369432871
+Name: Stop 13369432871
+Mode: bus
+Coordinates: -25.7477715, 28.1915857
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13377614192
+Name: Stop 13377614192
+Mode: bus
+Coordinates: -25.7177024, 28.2023147
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13377614191
+Name: Stop 13377614191
+Mode: bus
+Coordinates: -25.7158586, 28.2020156
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13377614190
+Name: Lower Gezina
+Mode: bus
+Coordinates: -25.712908, 28.2015228
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13377614189
+Name: Stop 13377614189
+Mode: bus
+Coordinates: -25.7105158, 28.2011452
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13377614188
+Name: Stop 13377614188
+Mode: bus
+Coordinates: -25.7086332, 28.200815
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13377614187
+Name: Stop 13377614187
+Mode: bus
+Coordinates: -25.7045903, 28.2001766
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13377614186
+Name: Stop 13377614186
+Mode: bus
+Coordinates: -25.7027982, 28.19989
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13377614185
+Name: Stop 13377614185
+Mode: bus
+Coordinates: -25.7004246, 28.199492
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13377607746
+Name: Stop 13377607746
+Mode: bus
+Coordinates: -25.698737, 28.2002031
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13377607745
+Name: Stop 13377607745
+Mode: bus
+Coordinates: -25.698376, 28.203055
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13377607744
+Name: Stop 13377607744
+Mode: bus
+Coordinates: -25.6981428, 28.2047766
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13377607743
+Name: Stop 13377607743
+Mode: bus
+Coordinates: -25.6977989, 28.2073659
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13377607742
+Name: Stop 13377607742
+Mode: bus
+Coordinates: -25.6973893, 28.2104076
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13377607741
+Name: Stop 13377607741
+Mode: train
+Coordinates: -25.696969, 28.2136001
+Lines serving this stop: 
+
+---
+
+Stop ID: node/13377607740
+Name: Stop 13377607740
+Mode: bus
+Coordinates: -25.6967047, 28.2154427
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13380469680
+Name: Stop 13380469680
+Mode: bus
+Coordinates: -25.6981971, 28.2175992
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13380469679 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/13380469678
+Name: Stop 13380469678
+Mode: bus
+Coordinates: -25.6971929, 28.212556
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13380469677
+Name: Stop 13380469677
+Mode: bus
+Coordinates: -25.6976999, 28.2087406
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13380469676
+Name: Stop 13380469676
+Mode: bus
+Coordinates: -25.6979932, 28.2066069
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13380469675
+Name: Stop 13380469675
+Mode: bus
+Coordinates: -25.698221, 28.2048712
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13380469674
+Name: Stop 13380469674
+Mode: bus
+Coordinates: -25.6984654, 28.2030858
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13380469673
+Name: Stop 13380469673
+Mode: bus
+Coordinates: -25.6988787, 28.2000666
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13380469672
+Name: Stop 13380469672
+Mode: bus
+Coordinates: -25.7014046, 28.1998142
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13380469671
+Name: Stop 13380469671
+Mode: bus
+Coordinates: -25.7041057, 28.2002782
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13380469670
+Name: Stop 13380469670
+Mode: bus
+Coordinates: -25.7077115, 28.2017169
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13380469669
+Name: Stop 13380469669
+Mode: bus
+Coordinates: -25.7094987, 28.2026952
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13380469668
+Name: Stop 13380469668
+Mode: bus
+Coordinates: -25.7129025, 28.2032813
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13380469667
+Name: Lower Gezina
+Mode: bus
+Coordinates: -25.7147102, 28.2035874
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13380469666 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/13380469665
+Name: Stop 13380469665
+Mode: bus
+Coordinates: -25.7191031, 28.2043451
+Lines serving this stop: Tshwane Bus Services
+
+---
+

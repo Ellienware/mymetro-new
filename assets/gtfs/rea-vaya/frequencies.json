@@ -1,0 +1,842 @@
+[
+  {
+    "trip_id": "relation/4511530_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4511530_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4511530_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4511530_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4511530_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4511533_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4511533_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4511533_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4511533_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4511533_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4511598_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4511598_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4511598_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4511598_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4511598_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4511835_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4511835_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4511835_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4511835_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4511835_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4512263_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4512263_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4512263_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4512263_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4512263_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4513582_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4513582_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4513582_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4513582_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4513582_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4513703_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4513703_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4513703_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4513703_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4513703_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4513946_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4513946_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4513946_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4513946_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4513946_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4513947_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4513947_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4513947_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4513947_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4513947_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514015_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514015_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4514015_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514015_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514015_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514016_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514016_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4514016_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514016_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514016_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514458_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514458_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4514458_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514458_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514458_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514459_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514459_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4514459_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514459_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514459_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514729_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514729_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4514729_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514729_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514729_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514730_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514730_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4514730_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514730_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514730_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514818_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514818_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4514818_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514818_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514818_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514819_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514819_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4514819_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4514819_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4514819_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4516346_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4516346_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4516346_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4516346_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4516346_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4516347_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4516347_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4516347_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4516347_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4516347_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4516469_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4516469_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4516469_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4516469_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4516469_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4517007_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4517007_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4517007_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4517007_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4517007_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4517118_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4517118_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4517118_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4517118_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4517118_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4538797_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4538797_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4538797_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4538797_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4538797_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4540480_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4540480_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4540480_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4540480_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4540480_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4540481_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4540481_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4540481_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4540481_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4540481_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4540482_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4540482_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4540482_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4540482_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4540482_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4543758_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4543758_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4543758_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4543758_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4543758_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4543759_weekday_peak1",
+    "start_time": "05:00:00",
+    "end_time": "08:30:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4543759_weekday_offpeak",
+    "start_time": "08:30:00",
+    "end_time": "15:00:00",
+    "headway_secs": "900"
+  },
+  {
+    "trip_id": "relation/4543759_weekday_peak2",
+    "start_time": "15:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "300"
+  },
+  {
+    "trip_id": "relation/4543759_saturday",
+    "start_time": "05:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "relation/4543759_sunday",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "1800"
+  }
+]

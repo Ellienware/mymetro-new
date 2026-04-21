@@ -1,0 +1,29 @@
+route_id,route_short_name,route_long_name,route_type
+relation/4511530,BRT,BRT T1: Ellis Park East => Thokoza Park,3
+relation/4511533,BRT,BRT T1: Thokoza Park => Ellis Park East,3
+relation/4511598,BRT,BRT T2: Thokoza Park => Braamfontein,3
+relation/4511835,BRT,BRT T3: Thokoza Park => Parktown & Library Gardens East,3
+relation/4512263,Bus,Bus C1: Ellis Park East => Dobsonville,3
+relation/4513582,Bus,Bus C2: Dobsonville => Maponya Mall,3
+relation/4513703,Bus,Bus C3: Inner City Route,3
+relation/4513946,Bus,Bus C4: Parktown & City => Windsor West & Cresta,3
+relation/4513947,Bus,Bus C4: Windsor West & Cresta => Parktown & City,3
+relation/4514015,Bus,Bus C5: Florida North => Parktown & City,3
+relation/4514016,Bus,Bus C5: Parktown & City => Florida North,3
+relation/4514458,Bus,Bus F11: Bellevue / Yeoville => City,3
+relation/4514459,Bus,Bus F11: City => Bellevue / Yeoville,3
+relation/4514729,Bus,Bus F2: Protea Glen => Thokoza Park,3
+relation/4514730,Bus,Bus F2: Thokoza Park => Protea Glen,3
+relation/4514818,Bus,Bus F1: Naledi => Thokoza Park,3
+relation/4514819,Bus,Bus F1: Thokoza Park => Naledi,3
+relation/4516346,Bus,Bus F5: Eldorado Park => Lakeview,3
+relation/4516347,Bus,Bus F5: Lakeview => Eldorado Park,3
+relation/4516469,Bus,Bus F8: Westbury Station => Greymont,3
+relation/4517007,Bus,Bus F6: Lea Glen => Bosmont,3
+relation/4517118,Bus,Bus F12: Parktown Distribution Roas,3
+relation/4538797,Bus,Bus F10: Pimville => Lakeview,3
+relation/4540480,Bus,Bus F3: Jabavu => Thokoza Park,3
+relation/4540481,Bus,Bus F4: Boomtown => Mofolo,3
+relation/4540482,Bus,Bus F4: Mofolo => Boomtown,3
+relation/4543758,Bus,Bus F9: Mapetla => Thokoza Park,3
+relation/4543759,Bus,Bus F9: Mapetla => Thokoza Park,3

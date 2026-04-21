@@ -1,0 +1,2198 @@
+[
+  {
+    "stop_id": "STOP_16_START",
+    "stop_name": "Auckland Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_16_VIA",
+    "stop_name": "Sydenham( UJ Scholars)",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_16_END",
+    "stop_name": "Sydenham (UJ Scholars)",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421D_START",
+    "stop_name": "Bellevue East",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421D_VIA",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421D_END",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421F_START",
+    "stop_name": "Bellevue East",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421F_VIA",
+    "stop_name": "Fairlands",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421F_END",
+    "stop_name": "Fairlands",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421G_START",
+    "stop_name": "Bellevue East",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421G_VIA",
+    "stop_name": "Fourways Mall",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421G_END",
+    "stop_name": "Fourways Mall",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421R_START",
+    "stop_name": "Bellevue East",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421R_VIA",
+    "stop_name": "Strydom Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421R_END",
+    "stop_name": "Strydom Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421H_START",
+    "stop_name": "Bellevue East",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421H_VIA",
+    "stop_name": "Honeydew",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421H_END",
+    "stop_name": "Honeydew",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_42_START",
+    "stop_name": "Braamfontein",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_42_VIA",
+    "stop_name": "Elands Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_42_END",
+    "stop_name": "Elands Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_45_START",
+    "stop_name": "Braamfontein",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_45_VIA",
+    "stop_name": "Marist Brothers",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_45_END",
+    "stop_name": "Marist Brothers",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_32C_START",
+    "stop_name": "Braamfontein",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_32C_VIA",
+    "stop_name": "Bedford Plaza",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_32C_END",
+    "stop_name": "Bedford Plaza",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_57B_START",
+    "stop_name": "Braamfontein",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_57B_VIA",
+    "stop_name": "Naturena",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_57B_END",
+    "stop_name": "Naturena",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_56_START",
+    "stop_name": "Braamfontein",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_56_VIA",
+    "stop_name": "Mayfield Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_56_END",
+    "stop_name": "Mayfield Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_436_START",
+    "stop_name": "Davidsonville",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_436_VIA",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_436_END",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_18_START",
+    "stop_name": "Foresthill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_18_VIA",
+    "stop_name": "JHB Hospital",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_18_END",
+    "stop_name": "JHB Hospital",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_518D_START",
+    "stop_name": "Foresthill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_518D_VIA",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_518D_END",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_415A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_415A_VIA",
+    "stop_name": "Makro centre",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_415A_END",
+    "stop_name": "Makro centre",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_59_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_59_VIA",
+    "stop_name": "Crown mines Ext",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_59_END",
+    "stop_name": "Crown mines Ext",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_46A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_46A_VIA",
+    "stop_name": "JHB Hospital",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_46A_END",
+    "stop_name": "JHB Hospital",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_47_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_47_VIA",
+    "stop_name": "Townsview",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_47_END",
+    "stop_name": "Townsview",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_48_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_48_VIA",
+    "stop_name": "Towerby",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_48_END",
+    "stop_name": "Towerby",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_55B_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_55B_VIA",
+    "stop_name": "Evans Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_55B_END",
+    "stop_name": "Evans Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_55A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_55A_VIA",
+    "stop_name": "Ridgeway Extention",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_55A_END",
+    "stop_name": "Ridgeway Extention",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_42A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_42A_VIA",
+    "stop_name": "Elands Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_42A_END",
+    "stop_name": "Elands Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_47C_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_47C_VIA",
+    "stop_name": "the Glen",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_47C_END",
+    "stop_name": "the Glen",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_47B_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_47B_VIA",
+    "stop_name": "Bassonia",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_47B_END",
+    "stop_name": "Bassonia",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_79_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_79_VIA",
+    "stop_name": "Parkhurst",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_79_END",
+    "stop_name": "Parkhurst",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_49B_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_49B_VIA",
+    "stop_name": "Glenvista Extention 5",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_49B_END",
+    "stop_name": "Glenvista Extention 4",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_01A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_01A_VIA",
+    "stop_name": "Parktown North",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_01A_END",
+    "stop_name": "Parktown North",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_49C_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_49C_VIA",
+    "stop_name": "Mulbarton",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_49C_END",
+    "stop_name": "Mulbarton",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_13A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_13A_VIA",
+    "stop_name": "Glenhazel",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_13A_END",
+    "stop_name": "Glenhazel",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_4_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_4_VIA",
+    "stop_name": "Highlands North",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_4_END",
+    "stop_name": "Highlands north",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_57A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_57A_VIA",
+    "stop_name": "Naturena",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_57A_END",
+    "stop_name": "Naturena",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_13B_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_13B_VIA",
+    "stop_name": "Lyndhurst",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_13B_END",
+    "stop_name": "Lyndhurst",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_71C_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_71C_VIA",
+    "stop_name": "Fairlands",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_71C_END",
+    "stop_name": "Fairlands",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_86B_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_86B_VIA",
+    "stop_name": "Strydom Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_86B_END",
+    "stop_name": "Strydom Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_56A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_56A_VIA",
+    "stop_name": "Mayfield Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_56A_END",
+    "stop_name": "Mayfield Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_80A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_80A_VIA",
+    "stop_name": "Beverly Gardens",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_80A_END",
+    "stop_name": "Beverly Gardens",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_6D_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_6D_VIA",
+    "stop_name": "Woodmead Extention",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_6D_END",
+    "stop_name": "Woodmead Extention",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_417_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_417_VIA",
+    "stop_name": "Davidsonville",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_417_END",
+    "stop_name": "Davidsonville",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_82A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_82A_VIA",
+    "stop_name": "Ferndale Extention",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_82A_END",
+    "stop_name": "Ferndale Extention",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_13C_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_13C_VIA",
+    "stop_name": "Kew",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_13C_END",
+    "stop_name": "Kew",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_414_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_414_VIA",
+    "stop_name": "Lindhaven",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_414_END",
+    "stop_name": "Lindhaven",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_15A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_15A_VIA",
+    "stop_name": "Lombardy East",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_15A_END",
+    "stop_name": "Lombardy East",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_412_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_412_VIA",
+    "stop_name": "Witpoortjie",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_412_END",
+    "stop_name": "Witpoortjie",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_9_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_9_VIA",
+    "stop_name": "Linbro Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_9_END",
+    "stop_name": "Linbro Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_415_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_415_VIA",
+    "stop_name": "Weltervreden Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_415_END",
+    "stop_name": "Weltervreden Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_86A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_86A_VIA",
+    "stop_name": "Kya Sands",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_86A_END",
+    "stop_name": "Kya Sands",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_6A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_6A_VIA",
+    "stop_name": "Leewkop Prison",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_6A_END",
+    "stop_name": "Leewkop Prison",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_15D_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_15D_VIA",
+    "stop_name": "Lombardy West",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_15D_END",
+    "stop_name": "Lombardy West",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_413_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_413_VIA",
+    "stop_name": "Roodekrans",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_413_END",
+    "stop_name": "Roodekrans",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_88A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_88A_VIA",
+    "stop_name": "Honeydew",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_88A_END",
+    "stop_name": "Honeydew",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_89B_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_89B_VIA",
+    "stop_name": "Northgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_89B_END",
+    "stop_name": "Northgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_80F_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_80F_VIA",
+    "stop_name": "Fourways Mall",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_80F_END",
+    "stop_name": "Fourways Mall",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_86D_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_86D_VIA",
+    "stop_name": "Northlands Business Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_86D_END",
+    "stop_name": "Northlands Business Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_12_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_12_VIA",
+    "stop_name": "Lone Hill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_12_END",
+    "stop_name": "Lone Hill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_7A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_7A_VIA",
+    "stop_name": "\"UTI",
+    "stop_lat": "Midrand Extention\"",
+    "stop_lon": "-26.195"
+  },
+  {
+    "stop_id": "STOP_7A_END",
+    "stop_name": "\"UTI",
+    "stop_lat": "Midrand Extention\"",
+    "stop_lon": "-26.195"
+  },
+  {
+    "stop_id": "STOP_89A_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_89A_VIA",
+    "stop_name": "Kya Sands",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_89A_END",
+    "stop_name": "Kya Sands",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_80D_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_80D_VIA",
+    "stop_name": "Dainfern",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_80D_END",
+    "stop_name": "Dainfern",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_7C_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_7C_VIA",
+    "stop_name": "Airforce Base",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_7C_END",
+    "stop_name": "Airforce Base",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_7B_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_7B_VIA",
+    "stop_name": "N1 Military Hospital",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_7B_END",
+    "stop_name": "N1 Military Hospital",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_89C_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_89C_VIA",
+    "stop_name": "Noordgang",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_89C_END",
+    "stop_name": "Noordgang",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_7D_START",
+    "stop_name": "Gandhi square",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_7D_VIA",
+    "stop_name": "Arcadia",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_7D_END",
+    "stop_name": "Arcadia",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_265A_START",
+    "stop_name": "Hillbrow",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_265A_VIA",
+    "stop_name": "Elandsfontein",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_265A_END",
+    "stop_name": "Elandsfontein",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_265_START",
+    "stop_name": "Hillbrow",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_265_VIA",
+    "stop_name": "Isando",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_265_END",
+    "stop_name": "Isando",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_262_START",
+    "stop_name": "Hillbrow",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_262_VIA",
+    "stop_name": "OR tambo",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_262_END",
+    "stop_name": "OR tambo",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_49J_START",
+    "stop_name": "JHB Hospital",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_49J_VIA",
+    "stop_name": "Mulbarton",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_49J_END",
+    "stop_name": "Mulbarton",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_227_START",
+    "stop_name": "Judiths Paarl",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_227_VIA",
+    "stop_name": "Crosby",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_227_END",
+    "stop_name": "Crosby",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_556E_START",
+    "stop_name": "Mayfield Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_556E_VIA",
+    "stop_name": "Megawatt Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_556E_END",
+    "stop_name": "Megawatt Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_522_START",
+    "stop_name": "Naturena",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_522_VIA",
+    "stop_name": "Randburg Mall",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_522_END",
+    "stop_name": "Randburg mall",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_520_START",
+    "stop_name": "Naturena",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_520_VIA",
+    "stop_name": "Randburg Mall",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_520_END",
+    "stop_name": "Randburg Mall",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_520A_START",
+    "stop_name": "Naturena",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_520A_VIA",
+    "stop_name": "Fourways Mall",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_520A_END",
+    "stop_name": "Fourways Mall",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_523_START",
+    "stop_name": "Naturena",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_523_VIA",
+    "stop_name": "Fourways Mall",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_523_END",
+    "stop_name": "fourways Mall",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_521A_START",
+    "stop_name": "Naturena",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_521A_VIA",
+    "stop_name": "Barlowworld",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_521A_END",
+    "stop_name": "Barlowworld",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_260A_START",
+    "stop_name": "Ormondeview",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_260A_VIA",
+    "stop_name": "Eastgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_260A_END",
+    "stop_name": "Eastgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_260_START",
+    "stop_name": "Paarlhoop",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_260_VIA",
+    "stop_name": "Eastgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_260_END",
+    "stop_name": "Eastgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_551C_START",
+    "stop_name": "Protea Gardens",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_551C_VIA",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_551C_END",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_551B_START",
+    "stop_name": "Protea Gardens",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_551B_VIA",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_551B_END",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_552_START",
+    "stop_name": "Protea Glen",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_552_VIA",
+    "stop_name": "Fourways Mall",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_552_END",
+    "stop_name": "Fourways Mall",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_553_START",
+    "stop_name": "Protea Glen",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_553_VIA",
+    "stop_name": "Kya Sands",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_553_END",
+    "stop_name": "Kya Sands",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_551A_START",
+    "stop_name": "Protea Glen",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_551A_VIA",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_551A_END",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_551D_START",
+    "stop_name": "Protea North",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_551D_VIA",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_551D_END",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_46_START",
+    "stop_name": "Rosettenville",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_46_VIA",
+    "stop_name": "JHB Hospital",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_46_END",
+    "stop_name": "JHB Hospital",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_546D_START",
+    "stop_name": "Rosettenville",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_546D_VIA",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_546D_END",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_55_START",
+    "stop_name": "Sanlam centre",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_55_VIA",
+    "stop_name": "Meredale",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_55_END",
+    "stop_name": "Meredale",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_52C_START",
+    "stop_name": "Sanlam centre",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_52C_VIA",
+    "stop_name": "Winchester Hills Ext 4",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_52C_END",
+    "stop_name": "Winchester Hills Ext 3",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_52B_START",
+    "stop_name": "Sanlam centre",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_52B_VIA",
+    "stop_name": "Winchester Hills",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_52B_END",
+    "stop_name": "Winchester Hills",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_52_START",
+    "stop_name": "Sanlam centre",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_52_VIA",
+    "stop_name": "Southgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_52_END",
+    "stop_name": "Southgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_54A_START",
+    "stop_name": "Sanlam cenntre",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_54A_VIA",
+    "stop_name": "the Glen",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_54A_END",
+    "stop_name": "The Glen",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_562_START",
+    "stop_name": "Southgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_562_VIA",
+    "stop_name": "OR Tambo int Airport",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_562_END",
+    "stop_name": "OR Tambo int Airport",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_10_START",
+    "stop_name": "Stock Exchange",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_10_VIA",
+    "stop_name": "Melrose Arch",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_10_END",
+    "stop_name": "Melrose Arch",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_74_START",
+    "stop_name": "Stock Exchange",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_74_VIA",
+    "stop_name": "Blairgowrie",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_74_END",
+    "stop_name": "Blairgowrie",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_78B_START",
+    "stop_name": "Stock Exchange",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_78B_VIA",
+    "stop_name": "Blairgowrie",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_78B_END",
+    "stop_name": "Blairgowrie",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_87A_START",
+    "stop_name": "Stock Exchange",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_87A_VIA",
+    "stop_name": "Glendayson",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_87A_END",
+    "stop_name": "Glendayson",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_8A_START",
+    "stop_name": "Stock Exchange",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_8A_VIA",
+    "stop_name": "Winston Ridge",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_8A_END",
+    "stop_name": "Winston Ridge",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_5D_START",
+    "stop_name": "Stock Exchange",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_5D_VIA",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_5D_END",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_87_START",
+    "stop_name": "Stock Exchange",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_87_VIA",
+    "stop_name": "Glendayson",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_87_END",
+    "stop_name": "Glendayson",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_261_START",
+    "stop_name": "Stpock Exchange",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_261_VIA",
+    "stop_name": "Edenvale",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_261_END",
+    "stop_name": "Edenvale",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_22C_START",
+    "stop_name": "Stock Exchange",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_22C_VIA",
+    "stop_name": "Bedford Plaza",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_22C_END",
+    "stop_name": "Bedford Plaza",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_34_START",
+    "stop_name": "Stock Exchange",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_34_VIA",
+    "stop_name": "Malvern",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_34_END",
+    "stop_name": "Malvern",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_38_START",
+    "stop_name": "Stock Exchange",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_38_VIA",
+    "stop_name": "Germiston",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_38_END",
+    "stop_name": "Germiston",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_547D_START",
+    "stop_name": "Townsview",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_547D_VIA",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_547D_END",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_33_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_33_VIA",
+    "stop_name": "Bedford Gardens",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_33_END",
+    "stop_name": "Bedford Gardens",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_32A_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_32A_VIA",
+    "stop_name": "Bedford Gardens",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_32A_END",
+    "stop_name": "Bedford Gardens",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_3_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_3_VIA",
+    "stop_name": "Highlands North",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_3_END",
+    "stop_name": "Highlands north",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_2_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_2_VIA",
+    "stop_name": "Birnam",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_2_END",
+    "stop_name": "Birnam",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_83_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_83_VIA",
+    "stop_name": "Malanshof",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_83_END",
+    "stop_name": "Malanshof",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_71B_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_71B_VIA",
+    "stop_name": "Fairlands",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_71B_END",
+    "stop_name": "Fairlands",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_83C_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_83C_VIA",
+    "stop_name": "Randpark Ridge",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_83C_END",
+    "stop_name": "Randpark Ridge",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_85B_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_85B_VIA",
+    "stop_name": "JHB North",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_85B_END",
+    "stop_name": "JHB North",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_15F_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_15F_VIA",
+    "stop_name": "Longmeadow",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_15F_END",
+    "stop_name": "Longmeadow",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_84_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_84_VIA",
+    "stop_name": "Honeydew",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_84_END",
+    "stop_name": "Honeydew",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_84C_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_84C_VIA",
+    "stop_name": "Honeydew",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_84C_END",
+    "stop_name": "Honeydew",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_82_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_82_VIA",
+    "stop_name": "Ferndale Extention",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_82_END",
+    "stop_name": "Ferndale Extention",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_80_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_80_VIA",
+    "stop_name": "Beeverly Gardens",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_80_END",
+    "stop_name": "Beeverly Gardens",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_85_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_85_VIA",
+    "stop_name": "Johannesburg North",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_85_END",
+    "stop_name": "Johannesburg North",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_15B_START",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_15B_VIA",
+    "stop_name": "Lombardy East",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_15B_END",
+    "stop_name": "Lombardy East",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_420_START",
+    "stop_name": "Westgate Node",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_420_VIA",
+    "stop_name": "Randburg centre",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_420_END",
+    "stop_name": "Randburg centre",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_420A_START",
+    "stop_name": "Westgate Node",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_420A_VIA",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_420A_END",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_430A_START",
+    "stop_name": "Westgate Node",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_430A_VIA",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_430A_END",
+    "stop_name": "Sunninghill",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421J_START",
+    "stop_name": "Yeoville",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421J_VIA",
+    "stop_name": "Noordhang",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421J_END",
+    "stop_name": "Noordhang",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421K_START",
+    "stop_name": "Yeoville",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421K_VIA",
+    "stop_name": "Dainfern",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421K_END",
+    "stop_name": "Dainfern",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421I_START",
+    "stop_name": "Yeoville",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421I_VIA",
+    "stop_name": "Northlands Business Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421I_END",
+    "stop_name": "Northlands Business Park",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421N_START",
+    "stop_name": "Yeoville",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421N_VIA",
+    "stop_name": "Northgate centre",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  },
+  {
+    "stop_id": "STOP_421N_END",
+    "stop_name": "Northgate centre",
+    "stop_lat": "-26.195",
+    "stop_lon": "28.034"
+  }
+]

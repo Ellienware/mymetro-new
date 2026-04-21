@@ -1,0 +1,314 @@
+[
+  {
+    "route_id": "relation/1024053",
+    "route_short_name": "Johannesburg",
+    "route_long_name": "Johannesburg -> Daveyton",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1026727",
+    "route_short_name": "Johannesburg",
+    "route_long_name": "Johannesburg -> Pretoria",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1026729",
+    "route_short_name": "Tshwane",
+    "route_long_name": "Tshwane JHB Business Express (Northbound)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1026738",
+    "route_short_name": "Johannesburg",
+    "route_long_name": "Johannesburg -> Leralla",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112285",
+    "route_short_name": "Faraday",
+    "route_long_name": "Faraday -> Naledi",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112286",
+    "route_short_name": "Soweto",
+    "route_long_name": "Soweto Business Express (Westbond)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112287",
+    "route_short_name": "George",
+    "route_long_name": "George Gloch -> Naledi (via Johannesburg)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112288",
+    "route_short_name": "Westgate",
+    "route_long_name": "Westgate -> Naledi",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112289",
+    "route_short_name": "George",
+    "route_long_name": "George Goch -> Naledi (via Crown)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112305",
+    "route_short_name": "Germiston",
+    "route_long_name": "Germiston -> Kwesine (via Kutalo)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112306",
+    "route_short_name": "Vereeniging",
+    "route_long_name": "Vereeniging -> Germiston",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112307",
+    "route_short_name": "Germiston",
+    "route_long_name": "Germiston -> Kwesine (via President)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112313",
+    "route_short_name": "Germiston–>New",
+    "route_long_name": "Germiston–>New Canada",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112362",
+    "route_short_name": "Hercules",
+    "route_long_name": "Hercules -> Pienaarspoort",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112363",
+    "route_short_name": "Metrorail:",
+    "route_long_name": "Metrorail: Pretoria -> Saulsville",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112364",
+    "route_short_name": "Pretoria",
+    "route_long_name": "Pretoria -> Pienaarspoort",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112366",
+    "route_short_name": "Belle",
+    "route_long_name": "Belle Ombre -> Mabopane",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112367",
+    "route_short_name": "Pretoria",
+    "route_long_name": "Pretoria -> Mabopane",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112478",
+    "route_short_name": "Johannesburg",
+    "route_long_name": "Johannesburg -> Oberholzer",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112479",
+    "route_short_name": "George",
+    "route_long_name": "George Goch -> Vereeniging (via Crown)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112480",
+    "route_short_name": "Johannesburg",
+    "route_long_name": "Johannesburg -> Springs",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112481",
+    "route_short_name": "Springs",
+    "route_long_name": "Springs -> Nigel Route",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112482",
+    "route_short_name": "George",
+    "route_long_name": "George Goch -> Vereeniging (via Johannesburg)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/1112483",
+    "route_short_name": "Johannesburg",
+    "route_long_name": "Johannesburg -> Randfontein",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10374913",
+    "route_short_name": "Nigel",
+    "route_long_name": "Nigel -> Springs Route",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10398176",
+    "route_short_name": "Eerste",
+    "route_long_name": "Eerste Fabrieke->Koedoespoort",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10415674",
+    "route_short_name": "Metrorail:",
+    "route_long_name": "Metrorail: Saulsville -> Pretoria",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10649225",
+    "route_short_name": "Pretoria",
+    "route_long_name": "Pretoria -> De Wildt",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10670766",
+    "route_short_name": "Tshwane",
+    "route_long_name": "Tshwane JHB Business Express (Southbound)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10670932",
+    "route_short_name": "New",
+    "route_long_name": "New Canada–>Germiston",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10670934",
+    "route_short_name": "Daveyton",
+    "route_long_name": "Daveyton -> Johannesburg",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10670937",
+    "route_short_name": "Springs",
+    "route_long_name": "Springs -> Johannesburg",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10670948",
+    "route_short_name": "Naledi",
+    "route_long_name": "Naledi -> George Gloch (via Johannesburg)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10670955",
+    "route_short_name": "Naledi",
+    "route_long_name": "Naledi -> George Goch (via Crown)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10670990",
+    "route_short_name": "Mabopane",
+    "route_long_name": "Mabopane -> Pretoria",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10670991",
+    "route_short_name": "Mabopane",
+    "route_long_name": "Mabopane -> Belle Ombre",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10671014",
+    "route_short_name": "De",
+    "route_long_name": "De Wildt -> Pretoria",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10671027",
+    "route_short_name": "Pienaarspoort",
+    "route_long_name": "Pienaarspoort -> Pretoria",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10671046",
+    "route_short_name": "Pretoria",
+    "route_long_name": "Pretoria -> Johannesburg",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10671047",
+    "route_short_name": "Leralla",
+    "route_long_name": "Leralla -> Johannesburg",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10671053",
+    "route_short_name": "Naledi",
+    "route_long_name": "Naledi -> Westgate",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10671054",
+    "route_short_name": "Naledi",
+    "route_long_name": "Naledi -> Faraday",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10671055",
+    "route_short_name": "Soweto",
+    "route_long_name": "Soweto Business Express (Eastbound)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10671076",
+    "route_short_name": "Oberholzer",
+    "route_long_name": "Oberholzer -> Johannesburg",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10671077",
+    "route_short_name": "Randfontein",
+    "route_long_name": "Randfontein -> Johannesburg",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10671112",
+    "route_short_name": "Koedoespoort->Eerste",
+    "route_long_name": "Koedoespoort->Eerste Fabrieke",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10671113",
+    "route_short_name": "Pienaarspoort",
+    "route_long_name": "Pienaarspoort -> Hercules",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10671125",
+    "route_short_name": "Germiston",
+    "route_long_name": "Germiston -> Vereeniging",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10671137",
+    "route_short_name": "Vereeniging",
+    "route_long_name": "Vereeniging -> George Goch (via Crown)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10672955",
+    "route_short_name": "Kwesine",
+    "route_long_name": "Kwesine -> Germiston (via President)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/10672956",
+    "route_short_name": "Kwesine",
+    "route_long_name": "Kwesine -> Germiston (via Kutalo)",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/13315887",
+    "route_short_name": "Vereeniging",
+    "route_long_name": "Vereeniging -> George Goch (via Johannesburg)",
+    "route_type": "3"
+  }
+]

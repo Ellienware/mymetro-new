@@ -1,0 +1,7 @@
+route_id,route_short_name,route_long_name,route_type
+relation/950176,Shosholoza,Shosholoza Meyl_Johannesburg–Cape Town,3
+relation/951344,Johannesburg–Port,Johannesburg–Port Elizabeth,3
+relation/951491,Johannesburg–Durban,Johannesburg–Durban,3
+relation/952040,Johannesburg–East,Johannesburg–East London,3
+relation/5419780,Johannesburg–Komatipoort,Johannesburg–Komatipoort,3
+relation/8468033,Johannesburg–Musina,Johannesburg–Musina,3

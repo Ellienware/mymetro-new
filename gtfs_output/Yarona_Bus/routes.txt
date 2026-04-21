@@ -1,0 +1,4 @@
+route_id,route_short_name,route_long_name,route_type
+relation/14547887,Route,Route F4,3
+relation/14609010,Route,Route F6,3
+relation/14704069,Route,Route F5,3

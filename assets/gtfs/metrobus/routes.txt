@@ -1,0 +1,123 @@
+route_id,route_short_name,route_long_name,route_type
+METROBUS_16,16,Auckland Park to Sydenham (UJ Scholars),3
+METROBUS_421D,421D,Bellevue East to Sunninghill,3
+METROBUS_421F,421F,Bellevue East to Fairlands,3
+METROBUS_421G,421G,Bellevue East to Fourways Mall,3
+METROBUS_421R,421R,Bellevue East to Strydom Park,3
+METROBUS_421H,421H,Bellevue East to Honeydew via Laser Park,3
+METROBUS_42,42,Braamfontein to Elands Park,3
+METROBUS_45,45,Braamfontein to Marist Brothers via Linmeyer,3
+METROBUS_32C,32C,Braamfontein to Bedford Plaza,3
+METROBUS_57B,57B,Braamfontein to Naturena,3
+METROBUS_56,56,Braamfontein to Mayfield Park via Kibler Park,3
+METROBUS_436,436,Davidsonville to Sunninghill,3
+METROBUS_18,18,Foresthill to JHB Hospital,3
+METROBUS_518D,518D,Foresthill to Sunninghill via Gandhi square,3
+METROBUS_415A,415A,Gandhi square to Makro centre,3
+METROBUS_59,59,Gandhi square to Crown mines Ext,3
+METROBUS_46A,46A,Gandhi square to JHB Hospital,3
+METROBUS_47,47,Gandhi square to Townsview,3
+METROBUS_48,48,Gandhi square to Towerby,3
+METROBUS_55B,55B,Gandhi square to Evans Park,3
+METROBUS_55A,55A,Gandhi square to Ridgeway Extention,3
+METROBUS_42A,42A,Gandhi square to Elands Park,3
+METROBUS_47C,47C,Gandhi square to the Glen,3
+METROBUS_47B,47B,Gandhi square to Bassonia,3
+METROBUS_79,79,Gandhi square to Parkhurst via Zoo lake,3
+METROBUS_49B,49B,Gandhi square to Glenvista Extention 4,3
+METROBUS_01A,01A,Gandhi square to Parktown North via Oxford Road,3
+METROBUS_49C,49C,Gandhi square to Mulbarton via Liefde en Vrede,3
+METROBUS_13A,13A,Gandhi square to Glenhazel via Highlands North,3
+METROBUS_4,4,Gandhi square to Highlands north via Louis Botha,3
+METROBUS_57A,57A,Gandhi square to Naturena,3
+METROBUS_13B,13B,Gandhi square to Lyndhurst via Highlands North,3
+METROBUS_71C,71C,Gandhi square to Fairlands via Berario,3
+METROBUS_86B,86B,Gandhi square to Strydom Park,3
+METROBUS_56A,56A,Gandhi square to Mayfield Park via Kibler Park,3
+METROBUS_80A,80A,Gandhi square to Beverly Gardens,3
+METROBUS_6D,6D,Gandhi square to Woodmead Extention,3
+METROBUS_417,417,Gandhi square to Davidsonville,3
+METROBUS_82A,82A,Gandhi square to Ferndale Extention via Randburg,3
+METROBUS_13C,13C,Gandhi square to Kew via Highlands North,3
+METROBUS_414,414,Gandhi square to Lindhaven,3
+METROBUS_15A,15A,Gandhi square to Lombardy East via Sandringham,3
+METROBUS_412,412,Gandhi square to Witpoortjie,3
+METROBUS_9,9,Gandhi square to Linbro Park,3
+METROBUS_415,415,Gandhi square to Weltervreden Park,3
+METROBUS_86A,86A,Gandhi square to Kya Sands via Strydom Park,3
+METROBUS_6A,6A,Gandhi square to Leewkop Prison,3
+METROBUS_15D,15D,Gandhi square to Lombardy West via Kew,3
+METROBUS_413,413,Gandhi square to Roodekrans,3
+METROBUS_88A,88A,Gandhi square to Honeydew via Laser Park,3
+METROBUS_89B,89B,Gandhi square to Northgate,3
+METROBUS_80F,80F,Gandhi square to Fourways Mall,3
+METROBUS_86D,86D,Gandhi square to Northlands Business Park,3
+METROBUS_12,12,Gandhi square to Lone Hill via Kramerville,3
+METROBUS_7A,7A,"Gandhi square to UTI, Midrand Extention",3
+METROBUS_89A,89A,Gandhi square to Kya Sands via Northgate,3
+METROBUS_80D,80D,Gandhi square to Dainfern via Fourways,3
+METROBUS_7C,7C,Gandhi square to Airforce Base,3
+METROBUS_7B,7B,Gandhi square to N1 Military Hospital,3
+METROBUS_89C,89C,Gandhi square to Noordgang via Northgate,3
+METROBUS_7D,7D,Gandhi square to Arcadia via Pta central,3
+METROBUS_265A,265A,Hillbrow to Elandsfontein,3
+METROBUS_265,265,Hillbrow to Isando,3
+METROBUS_262,262,Hillbrow to OR tambo via Kempton Park,3
+METROBUS_49J,49J,JHB Hospital to Mulbarton via Ext4 & Liefde en Vrede,3
+METROBUS_227,227,Judiths Paarl to Crosby,3
+METROBUS_556E,556E,Mayfield Park to Megawatt Park via Auckland Park,3
+METROBUS_522,522,Naturena to Randburg mall via Jan Smuts ave,3
+METROBUS_520,520,Naturena to Randburg Mall,3
+METROBUS_520A,520A,Naturena to Fourways Mall,3
+METROBUS_523,523,Naturena to fourways Mall via William niicol,3
+METROBUS_521A,521A,Naturena to Barlowworld,3
+METROBUS_260A,260A,Ormondeview to Eastgate via Bezvalley,3
+METROBUS_260,260,Paarlhoop to Eastgate via Bezvalley,3
+METROBUS_551C,551C,Protea Gardens to Sunninghill via Pimville,3
+METROBUS_551B,551B,Protea Gardens to Sunninghill,3
+METROBUS_552,552,Protea Glen to Fourways Mall,3
+METROBUS_553,553,Protea Glen to Kya Sands via Malibongwe,3
+METROBUS_551A,551A,Protea Glen to Sunninghill,3
+METROBUS_551D,551D,Protea North to Sunninghill,3
+METROBUS_46,46,Rosettenville to JHB Hospital,3
+METROBUS_546D,546D,Rosettenville to Sunninghill via Gandhi square,3
+METROBUS_55,55,Sanlam centre to Meredale via Southgate,3
+METROBUS_52C,52C,Sanlam centre to Winchester Hills Ext 3,3
+METROBUS_52B,52B,Sanlam centre to Winchester Hills,3
+METROBUS_52,52,Sanlam centre to Southgate via Mondeor,3
+METROBUS_54A,54A,Sanlam cenntre to The Glen,3
+METROBUS_562,562,Southgate to OR Tambo int Airport,3
+METROBUS_10,10,Stock Exchange to Melrose Arch,3
+METROBUS_74,74,Stock Exchange to Blairgowrie,3
+METROBUS_78B,78B,Stock Exchange to Blairgowrie via Jan Smuts ave,3
+METROBUS_87A,87A,Stock Exchange to Glendayson,3
+METROBUS_8A,8A,Stock Exchange to Winston Ridge via Houghton,3
+METROBUS_5D,5D,Stock Exchange to Sunninghill via Oxford/Rivonia,3
+METROBUS_87,87,Stock Exchange to Glendayson via Bush HILL,3
+METROBUS_261,261,Stpock Exchange to Edenvale,3
+METROBUS_22C,22C,Stock Exchange to Bedford Plaza,3
+METROBUS_34,34,Stock Exchange to Malvern via Jules str,3
+METROBUS_38,38,Stock Exchange to Germiston via Main Reef,3
+METROBUS_547D,547D,Townsview to Sunninghill via Gandhi square,3
+METROBUS_33,33,Westgate to Bedford Gardens via Sovereign street,3
+METROBUS_32A,32A,Westgate to Bedford Gardens,3
+METROBUS_3,3,Westgate to Highlands north via Rosebank,3
+METROBUS_2,2,Westgate to Birnam via Illovo,3
+METROBUS_83,83,Westgate to Malanshof,3
+METROBUS_71B,71B,Westgate to Fairlands via Berario,3
+METROBUS_83C,83C,Westgate to Randpark Ridge,3
+METROBUS_85B,85B,Westgate to JHB North via Randburg centre,3
+METROBUS_15F,15F,Westgate to Longmeadow via Sandringham,3
+METROBUS_84,84,Westgate to Honeydew,3
+METROBUS_84C,84C,Westgate to Honeydew via Randpark Ridge,3
+METROBUS_82,82,Westgate to Ferndale Extention via Randburg,3
+METROBUS_80,80,Westgate to Beeverly Gardens,3
+METROBUS_85,85,Westgate to Johannesburg North,3
+METROBUS_15B,15B,Westgate to Lombardy East via Sandringham,3
+METROBUS_420,420,Westgate Node to Randburg centre,3
+METROBUS_420A,420A,Westgate Node to Sunninghill via Cresta,3
+METROBUS_430A,430A,Westgate Node to Sunninghill via Cresta,3
+METROBUS_421J,421J,Yeoville to Noordhang via JHB North,3
+METROBUS_421K,421K,Yeoville to Dainfern,3
+METROBUS_421I,421I,Yeoville to Northlands Business Park,3
+METROBUS_421N,421N,Yeoville to Northgate centre,3

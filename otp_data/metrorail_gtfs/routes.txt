@@ -1,0 +1,53 @@
+route_id,route_short_name,route_long_name,route_type
+relation/1024053,Johannesburg,Johannesburg -> Daveyton,3
+relation/1026727,Johannesburg,Johannesburg -> Pretoria,3
+relation/1026729,Tshwane,Tshwane JHB Business Express (Northbound),3
+relation/1026738,Johannesburg,Johannesburg -> Leralla,3
+relation/1112285,Faraday,Faraday -> Naledi,3
+relation/1112286,Soweto,Soweto Business Express (Westbond),3
+relation/1112287,George,George Gloch -> Naledi (via Johannesburg),3
+relation/1112288,Westgate,Westgate -> Naledi,3
+relation/1112289,George,George Goch -> Naledi (via Crown),3
+relation/1112305,Germiston,Germiston -> Kwesine (via Kutalo),3
+relation/1112306,Vereeniging,Vereeniging -> Germiston,3
+relation/1112307,Germiston,Germiston -> Kwesine (via President),3
+relation/1112313,Germiston–>New,Germiston–>New Canada,3
+relation/1112362,Hercules,Hercules -> Pienaarspoort,3
+relation/1112363,Metrorail:,Metrorail: Pretoria -> Saulsville,3
+relation/1112364,Pretoria,Pretoria -> Pienaarspoort,3
+relation/1112366,Belle,Belle Ombre -> Mabopane,3
+relation/1112367,Pretoria,Pretoria -> Mabopane,3
+relation/1112478,Johannesburg,Johannesburg -> Oberholzer,3
+relation/1112479,George,George Goch -> Vereeniging (via Crown),3
+relation/1112480,Johannesburg,Johannesburg -> Springs,3
+relation/1112481,Springs,Springs -> Nigel Route,3
+relation/1112482,George,George Goch -> Vereeniging (via Johannesburg),3
+relation/1112483,Johannesburg,Johannesburg -> Randfontein,3
+relation/10374913,Nigel,Nigel -> Springs Route,3
+relation/10398176,Eerste,Eerste Fabrieke->Koedoespoort,3
+relation/10415674,Metrorail:,Metrorail: Saulsville -> Pretoria,3
+relation/10649225,Pretoria,Pretoria -> De Wildt,3
+relation/10670766,Tshwane,Tshwane JHB Business Express (Southbound),3
+relation/10670932,New,New Canada–>Germiston,3
+relation/10670934,Daveyton,Daveyton -> Johannesburg,3
+relation/10670937,Springs,Springs -> Johannesburg,3
+relation/10670948,Naledi,Naledi -> George Gloch (via Johannesburg),3
+relation/10670955,Naledi,Naledi -> George Goch (via Crown),3
+relation/10670990,Mabopane,Mabopane -> Pretoria,3
+relation/10670991,Mabopane,Mabopane -> Belle Ombre,3
+relation/10671014,De,De Wildt -> Pretoria,3
+relation/10671027,Pienaarspoort,Pienaarspoort -> Pretoria,3
+relation/10671046,Pretoria,Pretoria -> Johannesburg,3
+relation/10671047,Leralla,Leralla -> Johannesburg,3
+relation/10671053,Naledi,Naledi -> Westgate,3
+relation/10671054,Naledi,Naledi -> Faraday,3
+relation/10671055,Soweto,Soweto Business Express (Eastbound),3
+relation/10671076,Oberholzer,Oberholzer -> Johannesburg,3
+relation/10671077,Randfontein,Randfontein -> Johannesburg,3
+relation/10671112,Koedoespoort->Eerste,Koedoespoort->Eerste Fabrieke,3
+relation/10671113,Pienaarspoort,Pienaarspoort -> Hercules,3
+relation/10671125,Germiston,Germiston -> Vereeniging,3
+relation/10671137,Vereeniging,Vereeniging -> George Goch (via Crown),3
+relation/10672955,Kwesine,Kwesine -> Germiston (via President),3
+relation/10672956,Kwesine,Kwesine -> Germiston (via Kutalo),3
+relation/13315887,Vereeniging,Vereeniging -> George Goch (via Johannesburg),3

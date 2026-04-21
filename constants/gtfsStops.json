@@ -1,0 +1,6706 @@
+[
+  {
+    "id": "S5_5",
+    "name": "Benmore Shopping Centre, Benmore Rd",
+    "lat": -26.099353,
+    "lng": 28.050296,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_4",
+    "name": "Grayston Dr & West St",
+    "lat": -26.100631,
+    "lng": 28.051104,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_7",
+    "name": "Benmore Rd & Outspan Rd",
+    "lat": -26.086786,
+    "lng": 28.046827,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_6",
+    "name": "Benmore Rd & Montague Simpson Cres",
+    "lat": -26.090387,
+    "lng": 28.049109,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_1",
+    "name": "Sandton Station",
+    "lat": -26.108433,
+    "lng": 28.057119,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_3",
+    "name": "Investec, Grayston Dr",
+    "lat": -26.098471,
+    "lng": 28.056631,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_2",
+    "name": "Holiday Inn, 123 Rivonia Rd",
+    "lat": -26.104287,
+    "lng": 28.060554,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "marlboro_station",
+    "name": "Marlboro Gautrain Station",
+    "lat": -26.083613,
+    "lng": 28.112555,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_9",
+    "name": "Ballyclare Dr & Greenbelt Rd",
+    "lat": -26.077342,
+    "lng": 28.048177,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_8",
+    "name": "Sandton Raquets Club, Ballyclare Dr",
+    "lat": -26.08282,
+    "lng": 28.050698,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P1_12",
+    "name": "Struben St & Schubart St",
+    "lat": -25.74235,
+    "lng": 28.1831833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P1_10",
+    "name": "222 Struben St",
+    "lat": -25.7419833333333,
+    "lng": 28.1887333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P1_11",
+    "name": "Potgieter St & Shoemann St",
+    "lat": -25.7493333333333,
+    "lng": 28.1809333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_15",
+    "name": "William Nicol Dr & Leslie Ave",
+    "lat": -26.031837,
+    "lng": 28.009621,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_14",
+    "name": "Epsom Downs, William Nicol Dr",
+    "lat": -26.04173,
+    "lng": 28.014905,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_17",
+    "name": "William Nicol Dr & Monte Casino Boulevard",
+    "lat": -26.028088,
+    "lng": 28.0096,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_16",
+    "name": "Monte Casino Boulevard - 2nd Circle",
+    "lat": -26.026588,
+    "lng": 28.013772,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_11",
+    "name": "Ballyclare Dr & Hobart St (Bryanston Shopping Centre)",
+    "lat": -26.075768,
+    "lng": 28.027737,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_10",
+    "name": "Total Garage, Ballyclare Dr",
+    "lat": -26.074275,
+    "lng": 28.043553,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_13",
+    "name": "William Nicol Dr & Wedgewood Link",
+    "lat": -26.052507,
+    "lng": 28.021234,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_12",
+    "name": "William Nicol Dr & Ormonde St",
+    "lat": -26.064814,
+    "lng": 28.02455,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_15",
+    "name": "Maxwell Dr & Peltier Dr",
+    "lat": -26.0323666666667,
+    "lng": 28.0804333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_14",
+    "name": "Van der Bijl Ave & Nanyuki Rd",
+    "lat": -26.032,
+    "lng": 28.0705333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_17",
+    "name": "Bekker Rd & Montrose Rd",
+    "lat": -26.0067833333333,
+    "lng": 28.11645,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P2_4",
+    "name": "Bosman St & Church St",
+    "lat": -25.74605,
+    "lng": 28.1855666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_19",
+    "name": "William Nicol Dr opposite Epsom Downs",
+    "lat": -26.041565,
+    "lng": 28.015,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_18",
+    "name": "William Nicol Dr & Leslie Ave",
+    "lat": -26.033647,
+    "lng": 28.010334,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P2_1",
+    "name": "Bosman St & Minaar St",
+    "lat": -25.7535833333333,
+    "lng": 28.1861666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_12",
+    "name": "The Square, Leeuwkop Rd",
+    "lat": -26.0319166666667,
+    "lng": 28.0633,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "sandton_platform_ew",
+    "name": "Sandton Platform ",
+    "lat": -26.1078,
+    "lng": 28.0575,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "marlboro_platform_ew",
+    "name": "Marlboro Platform D",
+    "lat": -26.083917,
+    "lng": 28.111633,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_24",
+    "name": "Albatross St & Langenhoven St",
+    "lat": -26.110437,
+    "lng": 28.236001,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_25",
+    "name": "Gladiator St & Harvard St",
+    "lat": -26.116693,
+    "lng": 28.233418,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_26",
+    "name": "Premier Hotel OR Tambo, Gladiator St",
+    "lat": -26.122177,
+    "lng": 28.232533,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_27",
+    "name": "Protea Hotel OR Tambo, Whirlwind St",
+    "lat": -26.125007,
+    "lng": 28.232311,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_20",
+    "name": "The Food Court, CR Swart Rd",
+    "lat": -26.102116,
+    "lng": 28.230491,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_21",
+    "name": "Civic Centre, CR Swart Dr",
+    "lat": -26.101248,
+    "lng": 28.227437,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_22",
+    "name": "Long St & End St",
+    "lat": -26.103597,
+    "lng": 28.227267,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_23",
+    "name": "Arwyp Medical Centre, Central Ave",
+    "lat": -26.107339,
+    "lng": 28.234001,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "rosebank_platform_ns",
+    "name": "Rosebank Platform ",
+    "lat": -26.14525,
+    "lng": 28.0438667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H3_10",
+    "name": "Park St & Wessels St",
+    "lat": -25.74955,
+    "lng": 28.2128,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H3_11",
+    "name": "Park St & Beckett St",
+    "lat": -25.7501666666667,
+    "lng": 28.2182833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H3_12",
+    "name": "Park St & Eastwood St",
+    "lat": -25.74995,
+    "lng": 28.22315,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H3_13",
+    "name": "Park St & Burnett St",
+    "lat": -25.7495833333333,
+    "lng": 28.22875,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "marlboro_platform_sn",
+    "name": "Marlboro Platform A",
+    "lat": -26.083917,
+    "lng": 28.111633,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb1_9",
+    "name": "Hamlin Rd  & 7th Ave",
+    "lat": -26.1455333333333,
+    "lng": 28.0773666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb1_8",
+    "name": "St Mary's School & Waverly Girls High School",
+    "lat": -26.1419333333333,
+    "lng": 28.0777,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb1_5",
+    "name": "Louis Botha Ave & Main St",
+    "lat": -26.1493166666667,
+    "lng": 28.0865166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb1_4",
+    "name": "Ivy Rd & Pine Rd",
+    "lat": -26.1572166666667,
+    "lng": 28.0841666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb1_7",
+    "name": "Athol St & Louis Botha Ave",
+    "lat": -26.1397666666667,
+    "lng": 28.0861666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb1_6",
+    "name": "Louis Botha Ave & 6th Rd",
+    "lat": -26.1446333333333,
+    "lng": 28.0867,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb1_1",
+    "name": "Oxford Rd & Worcester St",
+    "lat": -26.1523166666667,
+    "lng": 28.0454833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb1_3",
+    "name": "11th Ave & Grant Ave",
+    "lat": -26.15665,
+    "lng": 28.0758833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb1_2",
+    "name": "11th Ave & Central St",
+    "lat": -26.1557833333333,
+    "lng": 28.0593,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb3_3",
+    "name": "Illovo Blvd, North Piazza",
+    "lat": -26.1288,
+    "lng": 28.04765,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb3_2",
+    "name": "Illovo Blvd, South Piazza",
+    "lat": -26.1338,
+    "lng": 28.0465,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb3_1",
+    "name": "Oxford Rd & Hume Rd",
+    "lat": -26.1387,
+    "lng": 28.0456166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb3_7",
+    "name": "Thrupps Center, Oxford Rd",
+    "lat": -26.1303833333333,
+    "lng": 28.0492666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb3_6",
+    "name": "Oxford Rd & Boundary Rd",
+    "lat": -26.1245666666667,
+    "lng": 28.0486166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb3_5",
+    "name": "Summer Place, Melville Rd",
+    "lat": -26.1207166666667,
+    "lng": 28.0466666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb3_4",
+    "name": "54 Melville Rd",
+    "lat": -26.1237666666667,
+    "lng": 28.0464833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb3_9",
+    "name": "Wanderers Protea Hotel, Rudd Rd",
+    "lat": -26.1354333333333,
+    "lng": 28.0524166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb3_8",
+    "name": "Chaplin Rd & Rudd Rd",
+    "lat": -26.1318166666667,
+    "lng": 28.0505,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "sandton_platform_we",
+    "name": "Sandton Platform ",
+    "lat": -26.1078,
+    "lng": 28.0575,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_4",
+    "name": "Brooklyn Office Park, Fehrsen St",
+    "lat": -25.7686833333333,
+    "lng": 28.2341833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4_12",
+    "name": "William Nicol Dr & Republic Rd",
+    "lat": -26.090306,
+    "lng": 28.026245,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_19",
+    "name": "778 Richards Dr",
+    "lat": -26.0083166666667,
+    "lng": 28.1262666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_18",
+    "name": "Le Roux Ave & Old Pretoria Rd",
+    "lat": -26.0098333333333,
+    "lng": 28.12195,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_14",
+    "name": "The Mall @ Reds",
+    "lat": -25.8716666666667,
+    "lng": 28.1389333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_15",
+    "name": "Reddersburg Rd & Theuns van Niekerk St",
+    "lat": -25.8705333333333,
+    "lng": 28.1515333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_16",
+    "name": "Escort Ave & Howick St",
+    "lat": -25.8724666666667,
+    "lng": 28.1550833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_17",
+    "name": "Centurion Lifestyle Center",
+    "lat": -25.8763,
+    "lng": 28.1641666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_10",
+    "name": "Amberfield Ridge, Lenchen Ave",
+    "lat": -25.8808166666667,
+    "lng": 28.1338666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "hatfield_bus",
+    "name": "Hatfield Station Bus Stop",
+    "lat": -25.7478333333333,
+    "lng": 28.2363833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_12",
+    "name": "Fouriesburg Rd & Reddersburg Rd",
+    "lat": -25.8726333333333,
+    "lng": 28.1354833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_13",
+    "name": "Raslouw Lifestyle Center",
+    "lat": -25.8704333333333,
+    "lng": 28.1365333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P2_8",
+    "name": "National Department of Health, Andries St",
+    "lat": -25.7410333333333,
+    "lng": 28.1900666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_18",
+    "name": "Lenchen Ave & K109",
+    "lat": -25.8705666666667,
+    "lng": 28.1769666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_19",
+    "name": "Centurion Cresent Shopping Center",
+    "lat": -25.8647333333333,
+    "lng": 28.1838833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_14",
+    "name": "Eco Blvd",
+    "lat": -25.8780166666667,
+    "lng": 28.1771166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P2_7",
+    "name": "Pretoria Zoo, Boom St",
+    "lat": -25.7391166666667,
+    "lng": 28.1894333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P2_6",
+    "name": "Bosman St & Struben St",
+    "lat": -25.74185,
+    "lng": 28.1852,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P2_5",
+    "name": "Bosman St & Proes St",
+    "lat": -25.7430166666667,
+    "lng": 28.1853,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_16",
+    "name": "Bekker Rd & Mac Mac Rd",
+    "lat": -26.0087333333333,
+    "lng": 28.115,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_11",
+    "name": "1 Eglin Rd",
+    "lat": -26.0328166666667,
+    "lng": 28.067,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_10",
+    "name": "Simba Rd & Nanyuki Rd",
+    "lat": -26.0344333333333,
+    "lng": 28.0689333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_13",
+    "name": "Chilli Lane Shopping Center",
+    "lat": -26.03,
+    "lng": 28.0609166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4_11",
+    "name": "Republic Rd & View Rd",
+    "lat": -26.095128,
+    "lng": 28.017401,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb3_12",
+    "name": "Oxford Rd & Hume Rd",
+    "lat": -26.1384333333333,
+    "lng": 28.0459166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb3_11",
+    "name": "Oxford Rd & North St",
+    "lat": -26.1361666666667,
+    "lng": 28.0475833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb3_10",
+    "name": "North St & Atherstone Rd",
+    "lat": -26.1361166666667,
+    "lng": 28.04995,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "midrand_platform_sn",
+    "name": "Midrand Platform ",
+    "lat": -25.99648,
+    "lng": 28.137583,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_1",
+    "name": "The Grace Hotel, Bath Ave",
+    "lat": -26.1462,
+    "lng": 28.0406333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_2",
+    "name": "Bolton Rd & Sussex Rd",
+    "lat": -26.1491333333333,
+    "lng": 28.0366833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_3",
+    "name": "Jan Smuts Ave & 7th Ave",
+    "lat": -26.1457333333333,
+    "lng": 28.0356833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_4",
+    "name": "Jan Smuts Ave & 8th Ave",
+    "lat": -26.1420833333333,
+    "lng": 28.0356166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_5",
+    "name": "Jan Smuts Ave & Hume Rd",
+    "lat": -26.1346833333333,
+    "lng": 28.0351833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_6",
+    "name": "Hyde Square, Jan Smuts Ave",
+    "lat": -26.1294833333333,
+    "lng": 28.0341166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_7",
+    "name": "Hyde Park Shopping Centre",
+    "lat": -26.1260833333333,
+    "lng": 28.0338166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_8",
+    "name": "75 6th Rd",
+    "lat": -26.12205,
+    "lng": 28.0357333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_9",
+    "name": "William Nicole  Dr & 2nd Rd",
+    "lat": -26.11735,
+    "lng": 28.0321666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "rhodesfield_station",
+    "name": "Rhodesfield Gautrain Station",
+    "lat": -26.12884,
+    "lng": 28.224729,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P1_2",
+    "name": "Burgers Park, Andries St",
+    "lat": -25.7538666666667,
+    "lng": 28.19115,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_4",
+    "name": "16th Rd & New Rd",
+    "lat": -25.9791166666667,
+    "lng": 28.1211,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_5",
+    "name": "Lever Rd & New Rd",
+    "lat": -25.9775833333333,
+    "lng": 28.1185666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_6",
+    "name": "Lever Rd & 13th Rd",
+    "lat": -25.9699166666667,
+    "lng": 28.1204333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_7",
+    "name": "Vodaworld, 14th Rd",
+    "lat": -25.9687833333333,
+    "lng": 28.12625,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_1",
+    "name": "Old Pretoria Rd & Alexandra Ave",
+    "lat": -25.994917,
+    "lng": 28.128809,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_2",
+    "name": "106 16th Rd",
+    "lat": -25.9904333333333,
+    "lng": 28.1275833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_3",
+    "name": "16th Rd & Bavaria Rd",
+    "lat": -25.9830333333333,
+    "lng": 28.12935,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P1_4",
+    "name": "National Cultural History Museum, Visagie St",
+    "lat": -25.7526,
+    "lng": 28.1848166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_8",
+    "name": "Protea Hotel Midrand, 14th Rd",
+    "lat": -25.9565166666667,
+    "lng": 28.13055,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_9",
+    "name": "Coubrough Rd & Lever Rd",
+    "lat": -25.9527833333333,
+    "lng": 28.1237666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P1_5",
+    "name": "Morning Star Express Hotel, Visagie St",
+    "lat": -25.7518833333333,
+    "lng": 28.1951,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_12",
+    "name": "Fehrsen St & Muckleneuk St",
+    "lat": -25.7691333333333,
+    "lng": 28.23445,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "hatfield_platform_ns",
+    "name": "Hatfield Platform ",
+    "lat": -25.74765,
+    "lng": 28.238,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_10",
+    "name": "Waterkloof Corner",
+    "lat": -25.773776,
+    "lng": 28.238904,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_11",
+    "name": "Fehrsen St & Clark St",
+    "lat": -25.7722166666667,
+    "lng": 28.2360666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P1_6",
+    "name": "South African Reserve Bank, Prinsloo St",
+    "lat": -25.7450333333333,
+    "lng": 28.1953333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_14",
+    "name": "University Rd & Lynwood Rd",
+    "lat": -25.7567333333333,
+    "lng": 28.2243833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_15",
+    "name": "University Rd  & Festival St",
+    "lat": -25.75085,
+    "lng": 28.2316333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P1_7",
+    "name": "Louis Pasteur Hospital, Prinsloo St",
+    "lat": -25.7477,
+    "lng": 28.1955333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P1_8",
+    "name": "Prinsloo St & Skinner St",
+    "lat": -25.75065,
+    "lng": 28.1958166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_4",
+    "name": "Lenchen Ave & K109",
+    "lat": -25.87145,
+    "lng": 28.1755166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P1_9",
+    "name": "National Department of Transport, Struben St",
+    "lat": -25.7421166666667,
+    "lng": 28.1867,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2_3",
+    "name": "Hillcrest Blvd, Lynwood Rd",
+    "lat": -25.7591333333333,
+    "lng": 28.24195,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2_2",
+    "name": "Duncan St & Lynwood Rd",
+    "lat": -25.7574833333333,
+    "lng": 28.23895,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S2_12",
+    "name": "Park Inn, Katherine St",
+    "lat": -26.10808,
+    "lng": 28.061446,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "midrand_platform_ns",
+    "name": "Midrand Platform ",
+    "lat": -25.99648,
+    "lng": 28.137583,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_21",
+    "name": "Duncan Rd & Duxbury Rd",
+    "lat": -25.7547666666667,
+    "lng": 28.2398833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_20",
+    "name": "Duxbury Rd & Lunnon Rd",
+    "lat": -25.7586333333333,
+    "lng": 28.2437,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "midrand_station",
+    "name": "Midrand Station",
+    "lat": -25.990532,
+    "lng": 28.13256,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb2_2",
+    "name": "Protea, Fire & Ice Hotel, Melrose Arch",
+    "lat": -26.130982,
+    "lng": 28.066844,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb2_1",
+    "name": "Melrose Blvd & Crescent Dr",
+    "lat": -26.1326833333333,
+    "lng": 28.0691,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb1_11",
+    "name": "The Ave & Garden Rd",
+    "lat": -26.1554166666667,
+    "lng": 28.0766833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb1_10",
+    "name": "The Ave & African St",
+    "lat": -26.1505666666667,
+    "lng": 28.0772,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb1_13",
+    "name": "Oxford Rd & Worcester St",
+    "lat": -26.1529,
+    "lng": 28.0454833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb1_12",
+    "name": "11th Ave & Central St",
+    "lat": -26.1557833333333,
+    "lng": 28.0595333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_10",
+    "name": "Business Connexion Park, 16th Rd",
+    "lat": -25.968123,
+    "lng": 28.134629,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_3",
+    "name": "Centurion Cresent Shopping Center",
+    "lat": -25.8646833333333,
+    "lng": 28.1850833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "centurion_platform_sn",
+    "name": "Centurion Platform A",
+    "lat": -25.85162,
+    "lng": 28.189733,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_21",
+    "name": "Centurion Lake Hotel, Lenchen Ave N",
+    "lat": -25.8572666666667,
+    "lng": 28.19045,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_20",
+    "name": "Lenchen Ave N & South St",
+    "lat": -25.8599,
+    "lng": 28.1879666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_3",
+    "name": "Central Park, 16th Rd",
+    "lat": -25.97925,
+    "lng": 28.1306833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_2",
+    "name": "New Rd & Old Pretoria Main Rd",
+    "lat": -25.9817,
+    "lng": 28.1321166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_1",
+    "name": "Sasol Garage, Old Pretoria Main Rd",
+    "lat": -25.9850333333333,
+    "lng": 28.1319166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_7",
+    "name": "232 15th Rd",
+    "lat": -25.9601,
+    "lng": 28.1347166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_6",
+    "name": "George Rd & 15th Rd",
+    "lat": -25.96435,
+    "lng": 28.1332166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_5",
+    "name": "153 15th Rd",
+    "lat": -25.9706833333333,
+    "lng": 28.1309666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_4",
+    "name": "Pharmaceutical Rd & 16th Rd",
+    "lat": -25.9748666666667,
+    "lng": 28.1322333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_9",
+    "name": "Alphen Square, 16th Rd",
+    "lat": -25.96505,
+    "lng": 28.1356833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_8",
+    "name": "Tilbury Business Park, 16th Rd",
+    "lat": -25.96135,
+    "lng": 28.1369833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_8",
+    "name": "Main St & Queen Wilhelmina St",
+    "lat": -25.77705,
+    "lng": 28.22665,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_9",
+    "name": "Main St & Silver Oak Ave",
+    "lat": -25.7759166666667,
+    "lng": 28.2356666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H4_11",
+    "name": "Stead Ave & Webb Rd",
+    "lat": -25.7155666666667,
+    "lng": 28.2425333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H4_10",
+    "name": "Cardonia Ave & Terblanche St",
+    "lat": -25.7108833333333,
+    "lng": 28.2425666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H4_12",
+    "name": "Garden Rd & Church St",
+    "lat": -25.7298,
+    "lng": 28.2459333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_1",
+    "name": "Burnett St & Festival St",
+    "lat": -25.7507833333333,
+    "lng": 28.2326,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_2",
+    "name": "University Rd & Lynwood Rd",
+    "lat": -25.7566666666667,
+    "lng": 28.2246166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_3",
+    "name": "Roper St & Charles St",
+    "lat": -25.7647666666667,
+    "lng": 28.2278,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "rosebank_bus",
+    "name": "Rosebank Station Bus Stop",
+    "lat": -26.1467666666667,
+    "lng": 28.0445333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_5",
+    "name": "Middle St & Brooklyn Circle",
+    "lat": -25.770096,
+    "lng": 28.234989,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_6",
+    "name": "Middle St & Dey St",
+    "lat": -25.77185,
+    "lng": 28.2299333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_7",
+    "name": "Queen Wilhelmina St & Middel St",
+    "lat": -25.7740666666667,
+    "lng": 28.2247,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "ortambo_station",
+    "name": "O.R. Tambo Airport Station",
+    "lat": -26.132554,
+    "lng": 28.230658,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P2_13",
+    "name": "Burgers Park, Andries St",
+    "lat": -25.7538666666667,
+    "lng": 28.19115,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P2_12",
+    "name": "Andries St & Skinner St",
+    "lat": -25.7513833333333,
+    "lng": 28.1909333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P2_11",
+    "name": "227 Andries St",
+    "lat": -25.7469833333333,
+    "lng": 28.1905333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P2_10",
+    "name": "State Library, Andries St",
+    "lat": -25.74505,
+    "lng": 28.1904,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1_13",
+    "name": "Charles St & Roper St",
+    "lat": -25.7644666666667,
+    "lng": 28.2259333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_9",
+    "name": "Sunninghill Hospital",
+    "lat": -26.0384,
+    "lng": 28.0702333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_8",
+    "name": "Maxwell Dr & Witkoppen Rd",
+    "lat": -26.041218,
+    "lng": 28.084401,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_5",
+    "name": "Bekker Rd  & Mac Mac Rd",
+    "lat": -26.0092666666667,
+    "lng": 28.1146166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_4",
+    "name": "Bekker Rd  & Montrose St",
+    "lat": -26.0067,
+    "lng": 28.1165,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_7",
+    "name": "Sunninghill Village Shopping Center",
+    "lat": -26.0367833333333,
+    "lng": 28.08055,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_6",
+    "name": "Maxwell Dr & Marise Dr",
+    "lat": -26.0322833333333,
+    "lng": 28.08065,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_1",
+    "name": "Gallagher Estate, Richards Dr",
+    "lat": -26.00225,
+    "lng": 28.1310833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_3",
+    "name": "Le Roux Ave & Old Pretoria Rd",
+    "lat": -26.0099166666667,
+    "lng": 28.1220666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_2",
+    "name": "778 Richards Dr",
+    "lat": -26.00845,
+    "lng": 28.12615,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "hatfield_platform_sn",
+    "name": "Hatfield Platform ",
+    "lat": -25.74765,
+    "lng": 28.238,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_16",
+    "name": "59 16th Rd",
+    "lat": -25.9920166666667,
+    "lng": 28.1270833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_17",
+    "name": "Old Pretoria Rd & Alexandra Ave",
+    "lat": -25.994927,
+    "lng": 28.129056,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_14",
+    "name": "New Rd & 16th Rd",
+    "lat": -25.9788833333333,
+    "lng": 28.1209,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_15",
+    "name": "16th Rd & Bavaria Rd",
+    "lat": -25.9831166666667,
+    "lng": 28.1293166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "marlboro_platform_ns",
+    "name": "Marlboro Platform B",
+    "lat": -26.083917,
+    "lng": 28.111633,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_13",
+    "name": "Lever Rd & New Rd",
+    "lat": -25.9777,
+    "lng": 28.1187,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_10",
+    "name": "Lever Rd & Kiaat St",
+    "lat": -25.9598,
+    "lng": 28.1225166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_11",
+    "name": "Vodaworld, 14th Rd",
+    "lat": -25.96865,
+    "lng": 28.1263,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H4_5",
+    "name": "Cardonia Ave & Cunningham St",
+    "lat": -25.7420666666667,
+    "lng": 28.2424833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H4_4",
+    "name": "Cardonia Ave & Karriboom St",
+    "lat": -25.71085,
+    "lng": 28.2425666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H4_7",
+    "name": "Pieter Human Park, 33rd Ave",
+    "lat": -25.6975166666667,
+    "lng": 28.2415333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H4_6",
+    "name": "Meyer St & Cunningham St",
+    "lat": -25.7018166666667,
+    "lng": 28.2427833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H4_1",
+    "name": "Thompson & Glyn Sts",
+    "lat": -25.7413,
+    "lng": 28.2419333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H4_3",
+    "name": "Cardonia Ave & Terblanche St",
+    "lat": -25.7154333333333,
+    "lng": 28.24255,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H4_2",
+    "name": "Stead Ave & Webb Rd",
+    "lat": -25.7294833333333,
+    "lng": 28.24585,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H4_9",
+    "name": "Cardonia Ave & Karriboom St",
+    "lat": -25.7031166666667,
+    "lng": 28.2427833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H4_8",
+    "name": "773 Cardonia Ave",
+    "lat": -25.6994666666667,
+    "lng": 28.2405333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "park_station",
+    "name": "Park Station",
+    "lat": -26.197495,
+    "lng": 28.040543,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "sandton_station",
+    "name": "Sandton Gautrain Station",
+    "lat": -26.108741,
+    "lng": 28.055992,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P2_9",
+    "name": "National Library, Andries St",
+    "lat": -25.7426666666667,
+    "lng": 28.1902,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_8",
+    "name": "Wierda Glen Estate West",
+    "lat": -25.8800833333333,
+    "lng": 28.1450333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_9",
+    "name": "Lenchen Ave & Rooihuiskraal Rd",
+    "lat": -25.8825333333333,
+    "lng": 28.1407,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_6",
+    "name": "Escort Ave & Theuns van Niekerk St",
+    "lat": -25.8735333333333,
+    "lng": 28.15245,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_7",
+    "name": "Wierda Glen Estate East",
+    "lat": -25.8794833333333,
+    "lng": 28.1491166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4_14",
+    "name": "Sandton City, Sandton Dr",
+    "lat": -26.110024,
+    "lng": 28.050747,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_5",
+    "name": "Centurion Lifestyle Center, Jacaranda St",
+    "lat": -25.87655,
+    "lng": 28.1641166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_2",
+    "name": "Lenchen Ave & Heuwel Ave",
+    "lat": -25.86065,
+    "lng": 28.1892666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4_13",
+    "name": "Sandton Dr & William Nicol Dr",
+    "lat": -26.100197,
+    "lng": 28.034705,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4_10",
+    "name": "Bram Fischer Dr & Pretoria St",
+    "lat": -26.097771,
+    "lng": 28.003311,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_1",
+    "name": "Spooral Park, Lenchen Ave",
+    "lat": -25.8580666666667,
+    "lng": 28.19145,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "pretoria_station",
+    "name": "Pretoria Station",
+    "lat": -25.758619,
+    "lng": 28.190575,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "pretoria_platform_sn",
+    "name": "Pretoria Platform ",
+    "lat": -25.758167,
+    "lng": 28.189467,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2_7",
+    "name": "Lynwood Rd & Meiring Naude St",
+    "lat": -25.7664333333333,
+    "lng": 28.27795,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2_6",
+    "name": "Lynwood Rd & Kiepersol Rd",
+    "lat": -25.7636833333333,
+    "lng": 28.26595,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2_5",
+    "name": "Hoërskool Menlopark, Lynwood Rd",
+    "lat": -25.7627166666667,
+    "lng": 28.2577833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2_4",
+    "name": "Lynwood Rd & Kings Highway",
+    "lat": -25.7615666666667,
+    "lng": 28.2511166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S2_10",
+    "name": "Barlow Park, Katherine St",
+    "lat": -26.101225,
+    "lng": 28.073296,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S2_11",
+    "name": "Pinmill Farm, Katherine St",
+    "lat": -26.104768,
+    "lng": 28.069388,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2_1",
+    "name": "Duncan St & Duxbury Rd",
+    "lat": -25.7544166666667,
+    "lng": 28.2402166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S2_13",
+    "name": "88 Katherine St",
+    "lat": -26.10808,
+    "lng": 28.061446,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2_9",
+    "name": "Lynwood Rd & Kiepersol Rd",
+    "lat": -25.7645666666667,
+    "lng": 28.2672833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2_8",
+    "name": "Daventry St & Hallisham Ln",
+    "lat": -25.76485,
+    "lng": 28.2796833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "rhodesfield_platform_ew",
+    "name": "Rhodesfield Platform ",
+    "lat": -26.128333,
+    "lng": 28.225233,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_33",
+    "name": "Rivonia Rd (opposite Holiday Inn)",
+    "lat": -26.103733,
+    "lng": 28.060403,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_32",
+    "name": "Southern Sun, Rivonia Rd (opposite Investec)",
+    "lat": -26.098979,
+    "lng": 28.05814,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_31",
+    "name": "Investec, Grayston Dr",
+    "lat": -26.09852,
+    "lng": 28.056233,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_30",
+    "name": "Grayston Dr & West St",
+    "lat": -26.099964,
+    "lng": 28.052465,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P2_3",
+    "name": "Bosman St & Pretorius St",
+    "lat": -25.7488,
+    "lng": 28.1858,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "centurion_station",
+    "name": "Centurion Station",
+    "lat": -25.852118,
+    "lng": 28.189888,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P2_2",
+    "name": "Bosman St & Skinner St",
+    "lat": -25.75075,
+    "lng": 28.1859833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "sandton_platform_ns",
+    "name": "Sandton Platform ",
+    "lat": -26.1078,
+    "lng": 28.0575,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "pretoria_platform_ns",
+    "name": "Pretoria Platform ",
+    "lat": -25.758167,
+    "lng": 28.189467,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2_12",
+    "name": "Lever Rd & 13th Rd",
+    "lat": -25.9704666666667,
+    "lng": 28.1203666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_15",
+    "name": "Jean Ave & Gerhard St",
+    "lat": -25.8463333333333,
+    "lng": 28.19295,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_14",
+    "name": "Jean Ave & Lenchen Ave",
+    "lat": -25.8495,
+    "lng": 28.1971833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_11",
+    "name": "John Voster Dr & Oak Ave",
+    "lat": -25.8734,
+    "lng": 28.1965666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_10",
+    "name": "John Voster & Logan Ave",
+    "lat": -25.8764166666667,
+    "lng": 28.1992,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H3_8",
+    "name": "Hamilton Ave & Schoeman St",
+    "lat": -25.7474833333333,
+    "lng": 28.2061,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H3_9",
+    "name": "Park St & Cilliers St",
+    "lat": -25.7489333333333,
+    "lng": 28.2074,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H3_6",
+    "name": "Church St & Wessels St",
+    "lat": -25.7448333333333,
+    "lng": 28.2114833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H3_7",
+    "name": "Church St & Zeederberg St",
+    "lat": -25.7450166666667,
+    "lng": 28.2084333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H3_4",
+    "name": "Church St & Eastwood St",
+    "lat": -25.74415,
+    "lng": 28.22135,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H3_5",
+    "name": "Church St & Johann St",
+    "lat": -25.7446166666667,
+    "lng": 28.2144166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H3_2",
+    "name": "Church St & Festival St",
+    "lat": -25.7433833333333,
+    "lng": 28.23245,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H3_3",
+    "name": "Church St & Hill St",
+    "lat": -25.7437833333333,
+    "lng": 28.2268333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H3_1",
+    "name": "1137 Church St",
+    "lat": -25.7431166666667,
+    "lng": 28.2364333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_8",
+    "name": "Garsfontein Rd & Lois Ave",
+    "lat": -25.78845,
+    "lng": 28.27545,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_9",
+    "name": "Menlyn Retail Park",
+    "lat": -25.7894666666667,
+    "lng": 28.2774,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_4",
+    "name": "Brooklyn Rd & 10th St",
+    "lat": -25.7697,
+    "lng": 28.2510833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_5",
+    "name": "Dely Rd & Elandslaagte Rd",
+    "lat": -25.7793,
+    "lng": 28.2568833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_6",
+    "name": "Garsfontein Rd & Sselati St",
+    "lat": -25.7838,
+    "lng": 28.2644333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_7",
+    "name": "Garsfontein Rd & Mante St",
+    "lat": -25.7866333333333,
+    "lng": 28.2735333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_1",
+    "name": "Duncan St & Duxbury Rd",
+    "lat": -25.7544166666667,
+    "lng": 28.2402166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_2",
+    "name": "Duxbury Rd & Lunnon Rd",
+    "lat": -25.7575333333333,
+    "lng": 28.2429333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_3",
+    "name": "Brooklyn Rd & Brooks St",
+    "lat": -25.7613166666667,
+    "lng": 28.2455,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2_13",
+    "name": "Lynwood Rd & Pinaar St",
+    "lat": -25.7595,
+    "lng": 28.24305,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2_12",
+    "name": "Lynwood Rd & Ox St",
+    "lat": -25.76085,
+    "lng": 28.2479,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2_11",
+    "name": "Lynwood Rd & Kings Highway",
+    "lat": -25.7616666666667,
+    "lng": 28.2522666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2_10",
+    "name": "Hoërskool Menlopark, Lynwood Rd",
+    "lat": -25.7628666666667,
+    "lng": 28.2584,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_13",
+    "name": "Central Park, 16th Rd",
+    "lat": -25.9795833333333,
+    "lng": 28.1305666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_12",
+    "name": "16th Rd & Pharmaceutical Rd",
+    "lat": -25.9748166666667,
+    "lng": 28.13225,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_11",
+    "name": "269 16th Rd",
+    "lat": -25.9717333333333,
+    "lng": 28.1333333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2_14",
+    "name": "Duncan St & Duxbury Rd",
+    "lat": -25.7547666666667,
+    "lng": 28.2398833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_13",
+    "name": "Hendrik Verwoerd Ave & Old Johannesburg Rd",
+    "lat": -25.8622833333333,
+    "lng": 28.1640666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_12",
+    "name": "Willem Botha St & Mulders Mile",
+    "lat": -25.860532,
+    "lng": 28.157658,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_11",
+    "name": "Hendrik St & Willem Botha St",
+    "lat": -25.8604666666667,
+    "lng": 28.1473166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_10",
+    "name": "Chris Hougaard St  & Koedoe St",
+    "lat": -25.858754,
+    "lng": 28.142987,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_16",
+    "name": "Hendrik Verwoerd Ave & South St",
+    "lat": -25.8568,
+    "lng": 28.1829833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_15",
+    "name": "Hendrik Verwoerd Ave & Hippo Ave",
+    "lat": -25.8602666666667,
+    "lng": 28.1762166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_14",
+    "name": "Hendrik Verwoerd Ave & Galway Ave",
+    "lat": -25.8623166666667,
+    "lng": 28.1674166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_24",
+    "name": "Rivonia Rd & Linden St",
+    "lat": -26.103463,
+    "lng": 28.060284,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_22",
+    "name": "Rivonia Rd & Hill Rd",
+    "lat": -26.095159,
+    "lng": 28.056301,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_23",
+    "name": "Southern Sun, Rivonia Rd",
+    "lat": -26.098702,
+    "lng": 28.058011,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_20",
+    "name": "Mornigside Shopping Centre, Rivonia Rd",
+    "lat": -26.082225,
+    "lng": 28.061599,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_21",
+    "name": "Rivonia Rd & Centre Rd",
+    "lat": -26.087785,
+    "lng": 28.058579,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "rosebank_platform_sn",
+    "name": "Rosebank Platform ",
+    "lat": -26.14525,
+    "lng": 28.0438667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_19",
+    "name": "Super Sport Park",
+    "lat": -25.8581166666667,
+    "lng": 28.1957666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_18",
+    "name": "Bylsbridge Promenade",
+    "lat": -25.8691166666667,
+    "lng": 28.1971166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_11",
+    "name": "350 Eco Fusion",
+    "lat": -25.8860166666667,
+    "lng": 28.1694333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_10",
+    "name": "350 Eco Fusion",
+    "lat": -25.8847833333333,
+    "lng": 28.16955,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_13",
+    "name": "298 Witchazel Ave",
+    "lat": -25.87805,
+    "lng": 28.1742166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_12",
+    "name": "300 Witchazel Ave",
+    "lat": -25.8802,
+    "lng": 28.172,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_15",
+    "name": "224 Witchazal Ave",
+    "lat": -25.8737333333333,
+    "lng": 28.1824,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "J1_0",
+    "name": "Rosebank Station",
+    "lat": -26.146648,
+    "lng": 28.0445418,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_17",
+    "name": "Oak Ave & John Vorster Dr",
+    "lat": -25.8735333333333,
+    "lng": 28.19395,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_16",
+    "name": "116 Witchazal Ave",
+    "lat": -25.87295,
+    "lng": 28.1890166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_1",
+    "name": "Super Sport Park",
+    "lat": -25.8587333333333,
+    "lng": 28.1966666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_3",
+    "name": "Oak Ave & John Vorster Dr",
+    "lat": -25.87315,
+    "lng": 28.1947333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_2",
+    "name": "Bylsbridge Promenade",
+    "lat": -25.8687833333333,
+    "lng": 28.19695,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_5",
+    "name": "160 Wichazel Ave",
+    "lat": -25.87235,
+    "lng": 28.1847166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_4",
+    "name": "102 Witchazel Ave",
+    "lat": -25.8736,
+    "lng": 28.1894166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_7",
+    "name": "Eco Blvd",
+    "lat": -25.8778666666667,
+    "lng": 28.1758166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_6",
+    "name": "200 Witchazel Ave",
+    "lat": -25.87425,
+    "lng": 28.1818,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_9",
+    "name": "6 Eco Fusion",
+    "lat": -25.8812166666667,
+    "lng": 28.1712,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1_8",
+    "name": "Eco Blvd II",
+    "lat": -25.8787166666667,
+    "lng": 28.1732666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_7",
+    "name": "Willen Botha St & Hendrik St",
+    "lat": -25.86025,
+    "lng": 28.1482166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_6",
+    "name": "Willem Botha St & Mulders Mile",
+    "lat": -25.8607833333333,
+    "lng": 28.1578166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_5",
+    "name": "Hendrik Verwoerd Ave & Old Johannesburg Rd",
+    "lat": -25.8623666666667,
+    "lng": 28.1641666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_4",
+    "name": "Hendrik Verwoerd Ave & Galway Ave",
+    "lat": -25.8625,
+    "lng": 28.16795,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_3",
+    "name": "Hendrik Verwoerd Ave & Hippo Ave",
+    "lat": -25.8599333333333,
+    "lng": 28.1767666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_2",
+    "name": "Hendrik Verwoerd Ave & South St",
+    "lat": -25.8578666666667,
+    "lng": 28.1819833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_1",
+    "name": "Protea Hotel Waterfront, Hendrik Verwoerd Dr",
+    "lat": -25.8540333333333,
+    "lng": 28.1855333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "park_platform_ns",
+    "name": "Park Station Platform ",
+    "lat": -26.195533,
+    "lng": 28.04155,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_9",
+    "name": "Ruimte Main Rd  & Willem Botha St",
+    "lat": -25.8555166666667,
+    "lng": 28.1425,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3_8",
+    "name": "Willem Botha St & Koedoe St",
+    "lat": -25.85712,
+    "lng": 28.144848,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_5",
+    "name": "John Voster Dr & Logan Ave",
+    "lat": -25.8761833333333,
+    "lng": 28.1994166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_4",
+    "name": "Byles Bridge, Jean Ave",
+    "lat": -25.8631833333333,
+    "lng": 28.21035,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_7",
+    "name": "John Voster Dr & Karee St",
+    "lat": -25.8859833333333,
+    "lng": 28.2069333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_6",
+    "name": "John Voster Dr & Marco Polo St",
+    "lat": -25.8783666666667,
+    "lng": 28.2014166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_1",
+    "name": "@ Ease, Jean Ave",
+    "lat": -25.8467666666667,
+    "lng": 28.1936666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_3",
+    "name": "89 Jean Ave",
+    "lat": -25.8581666666667,
+    "lng": 28.2062833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_2",
+    "name": "Jean Ave & Lenchen St",
+    "lat": -25.8495333333333,
+    "lng": 28.1973833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_9",
+    "name": "Love More Centre, John Voster Dr",
+    "lat": -25.8850833333333,
+    "lng": 28.2063666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_8",
+    "name": "South Downs College, John Voster Dr",
+    "lat": -25.8911,
+    "lng": 28.2102166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_12",
+    "name": "Jan Smuts Ave & Bompas Rd",
+    "lat": -26.1321666666667,
+    "lng": 28.0356333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_13",
+    "name": "Jan Smuts Ave & 8th Ave",
+    "lat": -26.1422166666667,
+    "lng": 28.03575,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_10",
+    "name": "William Nicole Dr & Jan Smuts Ave",
+    "lat": -26.12435,
+    "lng": 28.0322833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_11",
+    "name": "Jan Smuts Ave & 6th Rd",
+    "lat": -26.1278,
+    "lng": 28.03355,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_16",
+    "name": "Crown Plaza, Sturdee Ave",
+    "lat": -26.1444333333333,
+    "lng": 28.0383666666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_14",
+    "name": "Jan Smuts Ave & Tyrwhitt Ave",
+    "lat": -26.1461833333333,
+    "lng": 28.0358166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "Rb4_15",
+    "name": "9 Baker St",
+    "lat": -26.1486333333333,
+    "lng": 28.0368166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "ortambo_platform_ew",
+    "name": "O.R. Tambo Platform ",
+    "lat": -26.132933,
+    "lng": 28.231567,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_19",
+    "name": "Erikson Mall, Monument Rd",
+    "lat": -26.100977,
+    "lng": 28.233195,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_18",
+    "name": "Monument Rd & Bessie St",
+    "lat": -26.091674,
+    "lng": 28.236688,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "park_platform_sn",
+    "name": "Park Station Platform ",
+    "lat": -26.195533,
+    "lng": 28.04155,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_11",
+    "name": "Monument Rd & Bessie St",
+    "lat": -26.091794,
+    "lng": 28.236453,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_10",
+    "name": "Erikson Mall, Monument Rd",
+    "lat": -26.101135,
+    "lng": 28.232949,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_13",
+    "name": "Dann Rd & Monument Rd",
+    "lat": -26.079091,
+    "lng": 28.248243,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_12",
+    "name": "Cavendish Glen, Monument Rd",
+    "lat": -26.083163,
+    "lng": 28.241628,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_15",
+    "name": "Anemoon Rd & Monument Rd",
+    "lat": -26.076695,
+    "lng": 28.255493,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_14",
+    "name": "Glen Balad Mall, Weinberg St",
+    "lat": -26.086634,
+    "lng": 28.252379,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_17",
+    "name": "Cavendish Glen, Monument Rd",
+    "lat": -26.083395,
+    "lng": 28.241626,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_16",
+    "name": "Monument Rd & Dann Rd",
+    "lat": -26.078718,
+    "lng": 28.248231,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_1",
+    "name": "Rhodesfield Station",
+    "lat": -26.128393,
+    "lng": 28.225164,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_3",
+    "name": "Premier Hotel OR Tambo, Gladiator St",
+    "lat": -26.121149,
+    "lng": 28.232594,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_2",
+    "name": "Protea Hotel OR Tambo, Whirlwind St",
+    "lat": -26.12526,
+    "lng": 28.231145,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_5",
+    "name": "Albatross St & Langenhoven St",
+    "lat": -26.110414,
+    "lng": 28.235452,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_4",
+    "name": "Gladiator St & Fury St",
+    "lat": -26.114849,
+    "lng": 28.233224,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_7",
+    "name": "Voortrekker Rd & West St",
+    "lat": -26.104635,
+    "lng": 28.227804,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_6",
+    "name": "Arwyp Medical Centre, Central Ave",
+    "lat": -26.107194,
+    "lng": 28.234117,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_9",
+    "name": "Civic Centre, CR Swart Dr",
+    "lat": -26.100976,
+    "lng": 28.226875,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1_8",
+    "name": "Kempton Place, Pretoria Rd",
+    "lat": -26.103195,
+    "lng": 28.226343,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "pretoria_bus",
+    "name": "Pretoria Station Bus Stop",
+    "lat": -25.7589166666667,
+    "lng": 28.1911833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S2_8",
+    "name": "25 Commerce Cres",
+    "lat": -26.092459,
+    "lng": 28.080351,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S2_9",
+    "name": "Katherine St & Pongola Cres",
+    "lat": -26.097656,
+    "lng": 28.080474,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S2_6",
+    "name": "Katherine St & Pongola Cres",
+    "lat": -26.090007,
+    "lng": 28.078508,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S2_7",
+    "name": "Dartfield Rd & Bowling Ave",
+    "lat": -26.088436,
+    "lng": 28.077833,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S2_4",
+    "name": "151 Katherine St",
+    "lat": -26.101889,
+    "lng": 28.073098,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S2_5",
+    "name": "Barlow Park, Katherine St",
+    "lat": -26.092841,
+    "lng": 28.080671,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S2_2",
+    "name": "Milford Cl, 101 Katherine St",
+    "lat": -26.107123,
+    "lng": 28.063537,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S2_3",
+    "name": "131 Katherine St",
+    "lat": -26.10475,
+    "lng": 28.069094,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S2_1",
+    "name": "Sandton Station",
+    "lat": -26.108368,
+    "lng": 28.057163,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4_8",
+    "name": "Oak Rd & Republic Rd",
+    "lat": -26.099599,
+    "lng": 28.001033,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4_9",
+    "name": "Harley St & Oak Ave",
+    "lat": -26.096592,
+    "lng": 28.002311,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4_4",
+    "name": "1 Sandton Dr",
+    "lat": -26.104921,
+    "lng": 28.045253,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4_5",
+    "name": "Sandton Dr & 3rd St",
+    "lat": -26.100386,
+    "lng": 28.03486,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4_6",
+    "name": "Sandton Dr & William Nicol Dr",
+    "lat": -26.090862,
+    "lng": 28.024061,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4_7",
+    "name": "Republic Rd & Wagon Dr",
+    "lat": -26.090862,
+    "lng": 28.024061,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4_1",
+    "name": "Sandton Station",
+    "lat": -26.1085,
+    "lng": 28.0572,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4_2",
+    "name": "Katherine St & Albertyn Ave",
+    "lat": -26.110448,
+    "lng": 28.057523,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4_3",
+    "name": "20 Katherine St",
+    "lat": -26.112383,
+    "lng": 28.054805,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_11",
+    "name": "Smit St & Rissik St",
+    "lat": -26.1948677,
+    "lng": 28.0396381,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_10",
+    "name": "Sauer St & Jeppe St",
+    "lat": -26.202714,
+    "lng": 28.037689,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_13",
+    "name": "Joubert St & Sam Hancock St",
+    "lat": -26.186724,
+    "lng": 28.040871,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_12",
+    "name": "Civic Center, Loveday St",
+    "lat": -26.192765,
+    "lng": 28.039791,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_15",
+    "name": "St Davids Pl & St Andrews Rd",
+    "lat": -26.181302,
+    "lng": 28.035736,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_14",
+    "name": "St Andrews Rd & Blackwood Ave",
+    "lat": -26.18247300212806,
+    "lng": 28.0384366982378,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "hatfield_station",
+    "name": "Hatfield Station",
+    "lat": -25.747642,
+    "lng": 28.23658,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "rosebank_station",
+    "name": "Rosebank Station",
+    "lat": -26.145961,
+    "lng": 28.044662,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3_20",
+    "name": "Gallagher Estate, Richards Dr",
+    "lat": -26.00225,
+    "lng": 28.1310833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_13",
+    "name": "90 Jean Ave",
+    "lat": -25.8581333333333,
+    "lng": 28.2061,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "ortambo_platform_we",
+    "name": "O.R. Tambo Platform ",
+    "lat": -26.132933,
+    "lng": 28.231567,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C5_12",
+    "name": "Byles Bridge, Jean Ave",
+    "lat": -25.86315,
+    "lng": 28.2101833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_28",
+    "name": "Benmore Rd & Outspan Rd",
+    "lat": -26.088063,
+    "lng": 28.047185,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_29",
+    "name": "Benmore Shopping Centre",
+    "lat": -26.099352,
+    "lng": 28.050374,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_24",
+    "name": "Ballyclare Dr & William Nicol Dr",
+    "lat": -26.075752,
+    "lng": 28.027101,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_25",
+    "name": "Total Garage, Ballyclare Dr (near Colleraine Dr)",
+    "lat": -26.074176,
+    "lng": 28.043377,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_26",
+    "name": "Ballyclare Dr & Greenbelt St",
+    "lat": -26.077538,
+    "lng": 28.04834,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_27",
+    "name": "Sandton Raquets Club, Ballyclare Dr",
+    "lat": -26.082731,
+    "lng": 28.050741,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_20",
+    "name": "William Nicol Dr opposite 3021",
+    "lat": -26.044115,
+    "lng": 28.017696,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_21",
+    "name": "William Nicol Dr & Bryanston Dr",
+    "lat": -26.04811,
+    "lng": 28.020688,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_22",
+    "name": "William Nicol Dr opposite Wedgelink Rd",
+    "lat": -26.052272,
+    "lng": 28.021373,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5_23",
+    "name": "William Nicol Dr & Grosvenor Rd",
+    "lat": -26.061352,
+    "lng": 28.023862,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_9",
+    "name": "Sauer St & Market St",
+    "lat": -26.205449,
+    "lng": 28.038069,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_8",
+    "name": "Anderson St & Simmonds St",
+    "lat": -26.208382,
+    "lng": 28.039181,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_1",
+    "name": "St David's Place",
+    "lat": -26.181562,
+    "lng": 28.035828,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_3",
+    "name": "Constitution Hill",
+    "lat": -26.187861,
+    "lng": 28.04098,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_2",
+    "name": "St Andrew's Road",
+    "lat": -26.18248,
+    "lng": 28.037786,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_5",
+    "name": "Park Station",
+    "lat": -26.195169,
+    "lng": 28.041731,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_4",
+    "name": "Civic Center",
+    "lat": -26.191779,
+    "lng": 28.041441,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_7",
+    "name": "Simmonds St & Market St",
+    "lat": -26.204789,
+    "lng": 28.039644,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5_6",
+    "name": "Bank City, Simmonds St",
+    "lat": -26.202688,
+    "lng": 28.039349,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P1_1",
+    "name": "Transvaal Museum, Begemann St",
+    "lat": -25.75295,
+    "lng": 28.1886166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P1_3",
+    "name": "Potgieter St & Skinner St",
+    "lat": -25.7517833333333,
+    "lng": 28.1811333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_15",
+    "name": "Old Pretoria Main Rd & Old Pretoria Rd",
+    "lat": -25.9875666666667,
+    "lng": 28.1318833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1_14",
+    "name": "Old Pretoria Main Rd & New Rd",
+    "lat": -25.9825833333333,
+    "lng": 28.13295,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "marlboro_platform_we",
+    "name": "Marlboro Platform C",
+    "lat": -26.083917,
+    "lng": 28.111633,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2_11",
+    "name": "Amberfield Glen, Lenchen Ave",
+    "lat": -25.8763,
+    "lng": 28.13165,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_13",
+    "name": "Wessels Rd & 12th Ave",
+    "lat": -26.049324,
+    "lng": 28.061311,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_12",
+    "name": "Rivonia Rd & 11th Ave",
+    "lat": -26.051169,
+    "lng": 28.058665,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_11",
+    "name": "Rivonia Rd & 10th Ave",
+    "lat": -26.053729,
+    "lng": 28.058843,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_10",
+    "name": "Rivonia Rd & 7th Ave",
+    "lat": -26.059554,
+    "lng": 28.059235,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_17",
+    "name": "Rivonia Rd & 3rd Ave",
+    "lat": -26.064705,
+    "lng": 28.061126,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_16",
+    "name": "Rivonia Rd & 7th Ave",
+    "lat": -26.060971,
+    "lng": 28.059534,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_15",
+    "name": "Rivonia Rd & 10th Ave",
+    "lat": -26.055475,
+    "lng": 28.0591,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_14",
+    "name": "Wessels Rd & 10th Ave",
+    "lat": -26.054138,
+    "lng": 28.061597,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_19",
+    "name": "The Wedge, Rivonia Rd",
+    "lat": -26.075794,
+    "lng": 28.064998,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_18",
+    "name": "Rivonia Rd & 1st Ave",
+    "lat": -26.070181,
+    "lng": 28.063467,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_7",
+    "name": "200 Rivonia Rd",
+    "lat": -26.078095,
+    "lng": 28.063694,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_6",
+    "name": "Morningside Shopping Centre, Rivonia Rd",
+    "lat": -26.082911,
+    "lng": 28.061098,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_5",
+    "name": "Rivonia Rd & Centre Rd",
+    "lat": -26.087136,
+    "lng": 28.058782,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_4",
+    "name": "Rivonia Rd & South Rd",
+    "lat": -26.091562,
+    "lng": 28.056693,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_3",
+    "name": "Sinosteel, Rivonia Rd",
+    "lat": -26.096831,
+    "lng": 28.056902,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_2",
+    "name": "Village Walk, Rivonia Rd",
+    "lat": -26.104155,
+    "lng": 28.06046,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_1",
+    "name": "Sandton Station",
+    "lat": -26.108462,
+    "lng": 28.0571,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_9",
+    "name": "Rivonia Rd & 3rd Ave",
+    "lat": -26.063414,
+    "lng": 28.060395,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S3_8",
+    "name": "Rivonia Rd & Kelvin Dr",
+    "lat": -26.071912,
+    "lng": 28.064095,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "centurion_platform_ns",
+    "name": "Centurion Platform B",
+    "lat": -25.85162,
+    "lng": 28.189733,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_18",
+    "name": "Garsfontein & Elandslaagte Rd",
+    "lat": -25.7790833333333,
+    "lng": 28.25675,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_19",
+    "name": "Brooklyn Rd & 10th St",
+    "lat": -25.77015,
+    "lng": 28.2513833333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_16",
+    "name": "Garsfontein Rd & Ist Rd",
+    "lat": -25.78725,
+    "lng": 28.27385,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_17",
+    "name": "Garsfontein & Matroosberg Rd",
+    "lat": -25.7845166666667,
+    "lng": 28.2664333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_14",
+    "name": "Lois St & Atterbury Rd",
+    "lat": -25.78265,
+    "lng": 28.2776,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_15",
+    "name": "Lois St & Gobie St",
+    "lat": -25.7865833333333,
+    "lng": 28.2764166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_12",
+    "name": "Atterbury Rd & General Louis Botha Dr",
+    "lat": -25.78345,
+    "lng": 28.2849333333333,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_13",
+    "name": "Atterbury Rd & Lois St",
+    "lat": -25.7820833333333,
+    "lng": 28.2788166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_10",
+    "name": "Garsfontein Rd & Corobay Ave",
+    "lat": -25.7909166666667,
+    "lng": 28.2792166666667,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5_11",
+    "name": "General Louis Botha Dr & Muriel St",
+    "lat": -25.7907666666667,
+    "lng": 28.28205,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "centurion_bus",
+    "name": "Centurion Station Bus Stop",
+    "lat": -25.8519333333333,
+    "lng": 28.1901,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "rhodesfield_platform_we",
+    "name": "Rhodesfield Platform ",
+    "lat": -26.128333,
+    "lng": 28.225233,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "sandton_platform_sn",
+    "name": "Sandton Platform ",
+    "lat": -26.1078,
+    "lng": 28.0575,
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "STOP_16_START",
+    "name": "Auckland Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_16_VIA",
+    "name": "Sydenham( UJ Scholars)",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_16_END",
+    "name": "Sydenham (UJ Scholars)",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421D_START",
+    "name": "Bellevue East",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421D_VIA",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421D_END",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421F_START",
+    "name": "Bellevue East",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421F_VIA",
+    "name": "Fairlands",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421F_END",
+    "name": "Fairlands",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421G_START",
+    "name": "Bellevue East",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421G_VIA",
+    "name": "Fourways Mall",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421G_END",
+    "name": "Fourways Mall",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421R_START",
+    "name": "Bellevue East",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421R_VIA",
+    "name": "Strydom Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421R_END",
+    "name": "Strydom Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421H_START",
+    "name": "Bellevue East",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421H_VIA",
+    "name": "Honeydew",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421H_END",
+    "name": "Honeydew",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_42_START",
+    "name": "Braamfontein",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_42_VIA",
+    "name": "Elands Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_42_END",
+    "name": "Elands Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_45_START",
+    "name": "Braamfontein",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_45_VIA",
+    "name": "Marist Brothers",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_45_END",
+    "name": "Marist Brothers",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_32C_START",
+    "name": "Braamfontein",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_32C_VIA",
+    "name": "Bedford Plaza",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_32C_END",
+    "name": "Bedford Plaza",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_57B_START",
+    "name": "Braamfontein",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_57B_VIA",
+    "name": "Naturena",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_57B_END",
+    "name": "Naturena",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_56_START",
+    "name": "Braamfontein",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_56_VIA",
+    "name": "Mayfield Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_56_END",
+    "name": "Mayfield Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_436_START",
+    "name": "Davidsonville",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_436_VIA",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_436_END",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_18_START",
+    "name": "Foresthill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_18_VIA",
+    "name": "JHB Hospital",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_18_END",
+    "name": "JHB Hospital",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_518D_START",
+    "name": "Foresthill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_518D_VIA",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_518D_END",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_415A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_415A_VIA",
+    "name": "Makro centre",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_415A_END",
+    "name": "Makro centre",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_59_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_59_VIA",
+    "name": "Crown mines Ext",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_59_END",
+    "name": "Crown mines Ext",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_46A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_46A_VIA",
+    "name": "JHB Hospital",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_46A_END",
+    "name": "JHB Hospital",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_47_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_47_VIA",
+    "name": "Townsview",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_47_END",
+    "name": "Townsview",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_48_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_48_VIA",
+    "name": "Towerby",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_48_END",
+    "name": "Towerby",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_55B_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_55B_VIA",
+    "name": "Evans Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_55B_END",
+    "name": "Evans Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_55A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_55A_VIA",
+    "name": "Ridgeway Extention",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_55A_END",
+    "name": "Ridgeway Extention",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_42A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_42A_VIA",
+    "name": "Elands Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_42A_END",
+    "name": "Elands Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_47C_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_47C_VIA",
+    "name": "the Glen",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_47C_END",
+    "name": "the Glen",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_47B_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_47B_VIA",
+    "name": "Bassonia",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_47B_END",
+    "name": "Bassonia",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_79_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_79_VIA",
+    "name": "Parkhurst",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_79_END",
+    "name": "Parkhurst",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_49B_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_49B_VIA",
+    "name": "Glenvista Extention 5",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_49B_END",
+    "name": "Glenvista Extention 4",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_01A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_01A_VIA",
+    "name": "Parktown North",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_01A_END",
+    "name": "Parktown North",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_49C_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_49C_VIA",
+    "name": "Mulbarton",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_49C_END",
+    "name": "Mulbarton",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_13A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_13A_VIA",
+    "name": "Glenhazel",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_13A_END",
+    "name": "Glenhazel",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_4_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_4_VIA",
+    "name": "Highlands North",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_4_END",
+    "name": "Highlands north",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_57A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_57A_VIA",
+    "name": "Naturena",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_57A_END",
+    "name": "Naturena",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_13B_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_13B_VIA",
+    "name": "Lyndhurst",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_13B_END",
+    "name": "Lyndhurst",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_71C_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_71C_VIA",
+    "name": "Fairlands",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_71C_END",
+    "name": "Fairlands",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_86B_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_86B_VIA",
+    "name": "Strydom Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_86B_END",
+    "name": "Strydom Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_56A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_56A_VIA",
+    "name": "Mayfield Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_56A_END",
+    "name": "Mayfield Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_80A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_80A_VIA",
+    "name": "Beverly Gardens",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_80A_END",
+    "name": "Beverly Gardens",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_6D_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_6D_VIA",
+    "name": "Woodmead Extention",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_6D_END",
+    "name": "Woodmead Extention",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_417_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_417_VIA",
+    "name": "Davidsonville",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_417_END",
+    "name": "Davidsonville",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_82A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_82A_VIA",
+    "name": "Ferndale Extention",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_82A_END",
+    "name": "Ferndale Extention",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_13C_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_13C_VIA",
+    "name": "Kew",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_13C_END",
+    "name": "Kew",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_414_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_414_VIA",
+    "name": "Lindhaven",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_414_END",
+    "name": "Lindhaven",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_15A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_15A_VIA",
+    "name": "Lombardy East",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_15A_END",
+    "name": "Lombardy East",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_412_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_412_VIA",
+    "name": "Witpoortjie",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_412_END",
+    "name": "Witpoortjie",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_9_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_9_VIA",
+    "name": "Linbro Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_9_END",
+    "name": "Linbro Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_415_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_415_VIA",
+    "name": "Weltervreden Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_415_END",
+    "name": "Weltervreden Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_86A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_86A_VIA",
+    "name": "Kya Sands",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_86A_END",
+    "name": "Kya Sands",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_6A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_6A_VIA",
+    "name": "Leewkop Prison",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_6A_END",
+    "name": "Leewkop Prison",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_15D_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_15D_VIA",
+    "name": "Lombardy West",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_15D_END",
+    "name": "Lombardy West",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_413_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_413_VIA",
+    "name": "Roodekrans",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_413_END",
+    "name": "Roodekrans",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_88A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_88A_VIA",
+    "name": "Honeydew",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_88A_END",
+    "name": "Honeydew",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_89B_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_89B_VIA",
+    "name": "Northgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_89B_END",
+    "name": "Northgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_80F_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_80F_VIA",
+    "name": "Fourways Mall",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_80F_END",
+    "name": "Fourways Mall",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_86D_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_86D_VIA",
+    "name": "Northlands Business Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_86D_END",
+    "name": "Northlands Business Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_12_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_12_VIA",
+    "name": "Lone Hill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_12_END",
+    "name": "Lone Hill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_7A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_7A_VIA",
+    "name": "UTI, Midrand Extention",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_7A_END",
+    "name": "UTI, Midrand Extention",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_89A_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_89A_VIA",
+    "name": "Kya Sands",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_89A_END",
+    "name": "Kya Sands",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_80D_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_80D_VIA",
+    "name": "Dainfern",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_80D_END",
+    "name": "Dainfern",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_7C_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_7C_VIA",
+    "name": "Airforce Base",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_7C_END",
+    "name": "Airforce Base",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_7B_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_7B_VIA",
+    "name": "N1 Military Hospital",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_7B_END",
+    "name": "N1 Military Hospital",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_89C_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_89C_VIA",
+    "name": "Noordgang",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_89C_END",
+    "name": "Noordgang",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_7D_START",
+    "name": "Gandhi square",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_7D_VIA",
+    "name": "Arcadia",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_7D_END",
+    "name": "Arcadia",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_265A_START",
+    "name": "Hillbrow",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_265A_VIA",
+    "name": "Elandsfontein",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_265A_END",
+    "name": "Elandsfontein",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_265_START",
+    "name": "Hillbrow",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_265_VIA",
+    "name": "Isando",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_265_END",
+    "name": "Isando",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_262_START",
+    "name": "Hillbrow",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_262_VIA",
+    "name": "OR tambo",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_262_END",
+    "name": "OR tambo",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_49J_START",
+    "name": "JHB Hospital",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_49J_VIA",
+    "name": "Mulbarton",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_49J_END",
+    "name": "Mulbarton",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_227_START",
+    "name": "Judiths Paarl",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_227_VIA",
+    "name": "Crosby",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_227_END",
+    "name": "Crosby",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_556E_START",
+    "name": "Mayfield Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_556E_VIA",
+    "name": "Megawatt Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_556E_END",
+    "name": "Megawatt Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_522_START",
+    "name": "Naturena",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_522_VIA",
+    "name": "Randburg Mall",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_522_END",
+    "name": "Randburg mall",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_520_START",
+    "name": "Naturena",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_520_VIA",
+    "name": "Randburg Mall",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_520_END",
+    "name": "Randburg Mall",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_520A_START",
+    "name": "Naturena",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_520A_VIA",
+    "name": "Fourways Mall",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_520A_END",
+    "name": "Fourways Mall",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_523_START",
+    "name": "Naturena",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_523_VIA",
+    "name": "Fourways Mall",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_523_END",
+    "name": "fourways Mall",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_521A_START",
+    "name": "Naturena",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_521A_VIA",
+    "name": "Barlowworld",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_521A_END",
+    "name": "Barlowworld",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_260A_START",
+    "name": "Ormondeview",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_260A_VIA",
+    "name": "Eastgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_260A_END",
+    "name": "Eastgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_260_START",
+    "name": "Paarlhoop",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_260_VIA",
+    "name": "Eastgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_260_END",
+    "name": "Eastgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_551C_START",
+    "name": "Protea Gardens",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_551C_VIA",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_551C_END",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_551B_START",
+    "name": "Protea Gardens",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_551B_VIA",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_551B_END",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_552_START",
+    "name": "Protea Glen",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_552_VIA",
+    "name": "Fourways Mall",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_552_END",
+    "name": "Fourways Mall",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_553_START",
+    "name": "Protea Glen",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_553_VIA",
+    "name": "Kya Sands",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_553_END",
+    "name": "Kya Sands",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_551A_START",
+    "name": "Protea Glen",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_551A_VIA",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_551A_END",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_551D_START",
+    "name": "Protea North",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_551D_VIA",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_551D_END",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_46_START",
+    "name": "Rosettenville",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_46_VIA",
+    "name": "JHB Hospital",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_46_END",
+    "name": "JHB Hospital",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_546D_START",
+    "name": "Rosettenville",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_546D_VIA",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_546D_END",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_55_START",
+    "name": "Sanlam centre",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_55_VIA",
+    "name": "Meredale",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_55_END",
+    "name": "Meredale",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_52C_START",
+    "name": "Sanlam centre",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_52C_VIA",
+    "name": "Winchester Hills Ext 4",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_52C_END",
+    "name": "Winchester Hills Ext 3",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_52B_START",
+    "name": "Sanlam centre",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_52B_VIA",
+    "name": "Winchester Hills",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_52B_END",
+    "name": "Winchester Hills",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_52_START",
+    "name": "Sanlam centre",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_52_VIA",
+    "name": "Southgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_52_END",
+    "name": "Southgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_54A_START",
+    "name": "Sanlam cenntre",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_54A_VIA",
+    "name": "the Glen",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_54A_END",
+    "name": "The Glen",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_562_START",
+    "name": "Southgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_562_VIA",
+    "name": "OR Tambo int Airport",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_562_END",
+    "name": "OR Tambo int Airport",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_10_START",
+    "name": "Stock Exchange",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_10_VIA",
+    "name": "Melrose Arch",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_10_END",
+    "name": "Melrose Arch",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_74_START",
+    "name": "Stock Exchange",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_74_VIA",
+    "name": "Blairgowrie",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_74_END",
+    "name": "Blairgowrie",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_78B_START",
+    "name": "Stock Exchange",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_78B_VIA",
+    "name": "Blairgowrie",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_78B_END",
+    "name": "Blairgowrie",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_87A_START",
+    "name": "Stock Exchange",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_87A_VIA",
+    "name": "Glendayson",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_87A_END",
+    "name": "Glendayson",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_8A_START",
+    "name": "Stock Exchange",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_8A_VIA",
+    "name": "Winston Ridge",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_8A_END",
+    "name": "Winston Ridge",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_5D_START",
+    "name": "Stock Exchange",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_5D_VIA",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_5D_END",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_87_START",
+    "name": "Stock Exchange",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_87_VIA",
+    "name": "Glendayson",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_87_END",
+    "name": "Glendayson",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_261_START",
+    "name": "Stpock Exchange",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_261_VIA",
+    "name": "Edenvale",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_261_END",
+    "name": "Edenvale",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_22C_START",
+    "name": "Stock Exchange",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_22C_VIA",
+    "name": "Bedford Plaza",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_22C_END",
+    "name": "Bedford Plaza",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_34_START",
+    "name": "Stock Exchange",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_34_VIA",
+    "name": "Malvern",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_34_END",
+    "name": "Malvern",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_38_START",
+    "name": "Stock Exchange",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_38_VIA",
+    "name": "Germiston",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_38_END",
+    "name": "Germiston",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_547D_START",
+    "name": "Townsview",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_547D_VIA",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_547D_END",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_33_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_33_VIA",
+    "name": "Bedford Gardens",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_33_END",
+    "name": "Bedford Gardens",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_32A_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_32A_VIA",
+    "name": "Bedford Gardens",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_32A_END",
+    "name": "Bedford Gardens",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_3_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_3_VIA",
+    "name": "Highlands North",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_3_END",
+    "name": "Highlands north",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_2_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_2_VIA",
+    "name": "Birnam",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_2_END",
+    "name": "Birnam",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_83_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_83_VIA",
+    "name": "Malanshof",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_83_END",
+    "name": "Malanshof",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_71B_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_71B_VIA",
+    "name": "Fairlands",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_71B_END",
+    "name": "Fairlands",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_83C_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_83C_VIA",
+    "name": "Randpark Ridge",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_83C_END",
+    "name": "Randpark Ridge",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_85B_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_85B_VIA",
+    "name": "JHB North",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_85B_END",
+    "name": "JHB North",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_15F_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_15F_VIA",
+    "name": "Longmeadow",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_15F_END",
+    "name": "Longmeadow",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_84_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_84_VIA",
+    "name": "Honeydew",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_84_END",
+    "name": "Honeydew",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_84C_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_84C_VIA",
+    "name": "Honeydew",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_84C_END",
+    "name": "Honeydew",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_82_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_82_VIA",
+    "name": "Ferndale Extention",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_82_END",
+    "name": "Ferndale Extention",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_80_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_80_VIA",
+    "name": "Beeverly Gardens",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_80_END",
+    "name": "Beeverly Gardens",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_85_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_85_VIA",
+    "name": "Johannesburg North",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_85_END",
+    "name": "Johannesburg North",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_15B_START",
+    "name": "Westgate",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_15B_VIA",
+    "name": "Lombardy East",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_15B_END",
+    "name": "Lombardy East",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_420_START",
+    "name": "Westgate Node",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_420_VIA",
+    "name": "Randburg centre",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_420_END",
+    "name": "Randburg centre",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_420A_START",
+    "name": "Westgate Node",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_420A_VIA",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_420A_END",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_430A_START",
+    "name": "Westgate Node",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_430A_VIA",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_430A_END",
+    "name": "Sunninghill",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421J_START",
+    "name": "Yeoville",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421J_VIA",
+    "name": "Noordhang",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421J_END",
+    "name": "Noordhang",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421K_START",
+    "name": "Yeoville",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421K_VIA",
+    "name": "Dainfern",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421K_END",
+    "name": "Dainfern",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421I_START",
+    "name": "Yeoville",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421I_VIA",
+    "name": "Northlands Business Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421I_END",
+    "name": "Northlands Business Park",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421N_START",
+    "name": "Yeoville",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421N_VIA",
+    "name": "Northgate centre",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "STOP_421N_END",
+    "name": "Northgate centre",
+    "lat": -26.195,
+    "lng": 28.034,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "node/3320632476",
+    "name": "Ellis Park East Bus Station (T1)",
+    "lat": -26.1949167,
+    "lng": 28.0654982,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3320685945",
+    "name": "Ellis Park North",
+    "lat": -26.1914068,
+    "lng": 28.0615894,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3320685944",
+    "name": "Doornfontein Campus",
+    "lat": -26.1927307,
+    "lng": 28.0542361,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/766148883",
+    "name": "Old Synagogue Westbound",
+    "lat": -26.1941386,
+    "lng": 28.0498055,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/771231864",
+    "name": "Johannesburg Art Gallery",
+    "lat": -26.1954292,
+    "lng": 28.0479862,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/767545313",
+    "name": "Fashion Square Southbound",
+    "lat": -26.2010766,
+    "lng": 28.0505516,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/766108831",
+    "name": "Carlton Bus Station (Westbound: T1)",
+    "lat": -26.2047811,
+    "lng": 28.0480381,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/767545317",
+    "name": "Library Gardens Westbound",
+    "lat": -26.2055198,
+    "lng": 28.0419409,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3307241857",
+    "name": "Chancellor House (Westbound)",
+    "lat": -26.2061465,
+    "lng": 28.036173,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3307241860",
+    "name": "Westgate",
+    "lat": -26.2107112,
+    "lng": 28.0339639,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3309318632",
+    "name": "Mavumbi",
+    "lat": -26.2285647,
+    "lng": 28.0214564,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3320685943",
+    "name": "Basothong",
+    "lat": -26.2297151,
+    "lng": 28.0106895,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3309318638",
+    "name": "Soccer City",
+    "lat": -26.2313975,
+    "lng": 27.9828113,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3309318631",
+    "name": "Diepkloof",
+    "lat": -26.2333348,
+    "lng": 27.9525093,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3309318633",
+    "name": "Ghost Town",
+    "lat": -26.2339859,
+    "lng": 27.9460533,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3320685946",
+    "name": "Noordgesig",
+    "lat": -26.2287011,
+    "lng": 27.9335926,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3309318635",
+    "name": "Orlando Amstel Arena",
+    "lat": -26.2328569,
+    "lng": 27.9242176,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3309318634",
+    "name": "Orlando Police Station",
+    "lat": -26.2386398,
+    "lng": 27.919954,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3309318630",
+    "name": "Boomtown",
+    "lat": -26.2421161,
+    "lng": 27.9154455,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3309318636",
+    "name": "Klipspruit Valley",
+    "lat": -26.2608662,
+    "lng": 27.8907183,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3309318637",
+    "name": "Lakeview",
+    "lat": -26.2629824,
+    "lng": 27.8866663,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3309318639",
+    "name": "Thokoza Park",
+    "lat": -26.2641104,
+    "lng": 27.8806568,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3307241856",
+    "name": "Chancellor House (Eastbound)",
+    "lat": -26.2053868,
+    "lng": 28.0360737,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/767545310",
+    "name": "Library Gardens Eastbound",
+    "lat": -26.2046864,
+    "lng": 28.041717,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/766108828",
+    "name": "Carlton Eastbound",
+    "lat": -26.2039717,
+    "lng": 28.0481526,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/766108814",
+    "name": "Fashion Square Northbound",
+    "lat": -26.2020775,
+    "lng": 28.0487946,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/766148880",
+    "name": "Old Synagogue Eastbound",
+    "lat": -26.1935637,
+    "lng": 28.0497472,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3320685947",
+    "name": "Rissik Street",
+    "lat": -26.2021891,
+    "lng": 28.0416879,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/767536465",
+    "name": "Joburg Theatre",
+    "lat": -26.1916425,
+    "lng": 28.0396162,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3318822634",
+    "name": "Constitution Hill",
+    "lat": -26.1911379,
+    "lng": 28.0412309,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3318924741",
+    "name": "Noordgesig Extension",
+    "lat": -26.2263293,
+    "lng": 27.9350125,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3318924740",
+    "name": "New Canada",
+    "lat": -26.2158218,
+    "lng": 27.9433447,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3309682563",
+    "name": "Bosmont",
+    "lat": -26.202067,
+    "lng": 27.9589225,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3309390255",
+    "name": "Coronationville",
+    "lat": -26.1901313,
+    "lng": 27.9681071,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3318924742",
+    "name": "Westbury",
+    "lat": -26.1868085,
+    "lng": 27.9760651,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3309390253",
+    "name": "Helen Joseph Hospital",
+    "lat": -26.1832237,
+    "lng": 27.9905213,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/2745520635",
+    "name": "UJ Kingsway Campus",
+    "lat": -26.1819763,
+    "lng": 27.9989692,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/2745520632",
+    "name": "UJ Sophiatown Res",
+    "lat": -26.1829109,
+    "lng": 28.0035311,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3318822636",
+    "name": "SABC Media Park",
+    "lat": -26.1843222,
+    "lng": 28.009889,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/2745520634",
+    "name": "Milpark",
+    "lat": -26.1832068,
+    "lng": 28.0206605,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "node/3318822635",
+    "name": "Parktown (T1 C4 C5)",
+    "lat": -26.1852369,
+    "lng": 28.0393732,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  }
+]

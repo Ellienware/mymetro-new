@@ -1,0 +1,170 @@
+[
+  {
+    "route_id": "relation/4511530",
+    "route_short_name": "BRT",
+    "route_long_name": "BRT T1: Ellis Park East => Thokoza Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4511533",
+    "route_short_name": "BRT",
+    "route_long_name": "BRT T1: Thokoza Park => Ellis Park East",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4511598",
+    "route_short_name": "BRT",
+    "route_long_name": "BRT T2: Thokoza Park => Braamfontein",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4511835",
+    "route_short_name": "BRT",
+    "route_long_name": "BRT T3: Thokoza Park => Parktown & Library Gardens East",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4512263",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus C1: Ellis Park East => Dobsonville",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4513582",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus C2: Dobsonville => Maponya Mall",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4513703",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus C3: Inner City Route",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4513946",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus C4: Parktown & City => Windsor West & Cresta",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4513947",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus C4: Windsor West & Cresta => Parktown & City",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4514015",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus C5: Florida North => Parktown & City",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4514016",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus C5: Parktown & City => Florida North",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4514458",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F11: Bellevue / Yeoville => City",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4514459",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F11: City => Bellevue / Yeoville",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4514729",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F2: Protea Glen => Thokoza Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4514730",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F2: Thokoza Park => Protea Glen",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4514818",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F1: Naledi => Thokoza Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4514819",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F1: Thokoza Park => Naledi",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4516346",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F5: Eldorado Park => Lakeview",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4516347",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F5: Lakeview => Eldorado Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4516469",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F8: Westbury Station => Greymont",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4517007",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F6: Lea Glen => Bosmont",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4517118",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F12: Parktown Distribution Roas",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4538797",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F10: Pimville => Lakeview",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4540480",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F3: Jabavu => Thokoza Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4540481",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F4: Boomtown => Mofolo",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4540482",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F4: Mofolo => Boomtown",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4543758",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F9: Mapetla => Thokoza Park",
+    "route_type": "3"
+  },
+  {
+    "route_id": "relation/4543759",
+    "route_short_name": "Bus",
+    "route_long_name": "Bus F9: Mapetla => Thokoza Park",
+    "route_type": "3"
+  }
+]

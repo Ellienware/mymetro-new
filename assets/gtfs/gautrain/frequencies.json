@@ -1,0 +1,146 @@
+[
+  {
+    "trip_id": "RB1",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "RB3",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "RB2",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "S3",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "S5",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "M1",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "RF1",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "H5",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "P2",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "P1",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "H3",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "H1",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "H4",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "C1",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "S2",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "S4",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "C3",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "C2",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "M2",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "C4",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "RB4",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "M3",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "H2",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  },
+  {
+    "trip_id": "RB5",
+    "start_time": "05:30:00",
+    "end_time": "20:30:00",
+    "headway_secs": 1200
+  }
+]

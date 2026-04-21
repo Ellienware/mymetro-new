@@ -1,0 +1,5 @@
+route_id,service_id,trip_id
+relation/19959612,dummy,relation/19959612_dummy
+relation/19959712,dummy,relation/19959712_dummy
+relation/19962709,dummy,relation/19962709_dummy
+relation/19966458,dummy,relation/19966458_dummy

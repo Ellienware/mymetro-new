@@ -1,0 +1,1736 @@
+[
+  {
+    "stop_id": "node/9165712815",
+    "stop_name": "Johannesburg Park",
+    "stop_lat": "-26.1981336",
+    "stop_lon": "28.0421947"
+  },
+  {
+    "stop_id": "node/9165712814",
+    "stop_name": "Doornfontein",
+    "stop_lat": "-26.1972385",
+    "stop_lon": "28.053617"
+  },
+  {
+    "stop_id": "node/4332066223",
+    "stop_name": "Ellis Park Station",
+    "stop_lat": "-26.1984542",
+    "stop_lon": "28.0586153"
+  },
+  {
+    "stop_id": "node/4332066367",
+    "stop_name": "Jeppe",
+    "stop_lat": "-26.2047315",
+    "stop_lon": "28.0642664"
+  },
+  {
+    "stop_id": "node/9165861764",
+    "stop_name": "George Goch",
+    "stop_lat": "-26.2081056",
+    "stop_lon": "28.0796216"
+  },
+  {
+    "stop_id": "node/4332066498",
+    "stop_name": "Denver",
+    "stop_lat": "-26.2064493",
+    "stop_lon": "28.0958515"
+  },
+  {
+    "stop_id": "node/7727566600",
+    "stop_name": "Tooronga",
+    "stop_lat": "-26.2040382",
+    "stop_lon": "28.1092487"
+  },
+  {
+    "stop_id": "node/4332386312",
+    "stop_name": "Clevenland",
+    "stop_lat": "-26.2086405",
+    "stop_lon": "28.1180209"
+  },
+  {
+    "stop_id": "node/9165861763",
+    "stop_name": "Geldenhuis",
+    "stop_lat": "-26.2087806",
+    "stop_lon": "28.1316847"
+  },
+  {
+    "stop_id": "node/4332262525",
+    "stop_name": "Driehoek",
+    "stop_lat": "-26.2136309",
+    "stop_lon": "28.1493182"
+  },
+  {
+    "stop_id": "node/4332262411",
+    "stop_name": "President",
+    "stop_lat": "-26.2130684",
+    "stop_lon": "28.158069"
+  },
+  {
+    "stop_id": "node/247644634",
+    "stop_name": "Germiston",
+    "stop_lat": "-26.210075",
+    "stop_lon": "28.1678646"
+  },
+  {
+    "stop_id": "node/1555021778",
+    "stop_name": "Delmore",
+    "stop_lat": "-26.2063859",
+    "stop_lon": "28.1988908"
+  },
+  {
+    "stop_id": "node/247644564",
+    "stop_name": "Angelo",
+    "stop_lat": "-26.2046163",
+    "stop_lon": "28.2123569"
+  },
+  {
+    "stop_id": "node/247644578",
+    "stop_name": "Boksburg-Oos",
+    "stop_lat": "-26.2183196",
+    "stop_lon": "28.2596683"
+  },
+  {
+    "stop_id": "node/2801781604",
+    "stop_name": "Dunswart",
+    "stop_lat": "-26.209467",
+    "stop_lon": "28.2855905"
+  },
+  {
+    "stop_id": "node/9144397339",
+    "stop_name": "Avenue",
+    "stop_lat": "-26.2020643",
+    "stop_lon": "28.2970867"
+  },
+  {
+    "stop_id": "node/9144406964",
+    "stop_name": "Northmead",
+    "stop_lat": "-26.1809513",
+    "stop_lon": "28.3186051"
+  },
+  {
+    "stop_id": "node/9144406965",
+    "stop_name": "Van Ryn",
+    "stop_lat": "-26.1729899",
+    "stop_lon": "28.3444668"
+  },
+  {
+    "stop_id": "node/7474742596",
+    "stop_name": "Alliance",
+    "stop_lat": "-26.1724905",
+    "stop_lon": "28.4165767"
+  },
+  {
+    "stop_id": "node/9144397337",
+    "stop_name": "Daveyton",
+    "stop_lat": "-26.1564097",
+    "stop_lon": "28.424577"
+  },
+  {
+    "stop_id": "node/7007051779",
+    "stop_name": "George Goch",
+    "stop_lat": "-26.2078678",
+    "stop_lon": "28.0799816"
+  },
+  {
+    "stop_id": "node/4332066500",
+    "stop_name": "Denver",
+    "stop_lat": "-26.2063869",
+    "stop_lon": "28.0957223"
+  },
+  {
+    "stop_id": "node/4332384078",
+    "stop_name": "Tooronga",
+    "stop_lat": "-26.2040394",
+    "stop_lon": "28.1096076"
+  },
+  {
+    "stop_id": "node/4332386304",
+    "stop_name": "Cleveland",
+    "stop_lat": "-26.2085368",
+    "stop_lon": "28.1180698"
+  },
+  {
+    "stop_id": "node/4332262156",
+    "stop_name": "Geldenhuis",
+    "stop_lat": "-26.2086069",
+    "stop_lon": "28.1317592"
+  },
+  {
+    "stop_id": "node/9168944953",
+    "stop_name": "Knights",
+    "stop_lat": "-26.1980305",
+    "stop_lon": "28.1954898"
+  },
+  {
+    "stop_id": "node/9168944952",
+    "stop_name": "Ravensklip",
+    "stop_lat": "-26.1820795",
+    "stop_lon": "28.1994118"
+  },
+  {
+    "stop_id": "node/9168944951",
+    "stop_name": "Elandsfontein",
+    "stop_lat": "-26.1674358",
+    "stop_lon": "28.2049987"
+  },
+  {
+    "stop_id": "node/9168944950",
+    "stop_name": "Isando",
+    "stop_lat": "-26.1360871",
+    "stop_lon": "28.2217255"
+  },
+  {
+    "stop_id": "node/7798710136",
+    "stop_name": "Rhodesfield",
+    "stop_lat": "-26.1265593",
+    "stop_lon": "28.22486"
+  },
+  {
+    "stop_id": "node/247644678",
+    "stop_name": "Kempton Park",
+    "stop_lat": "-26.1082566",
+    "stop_lon": "28.2271522"
+  },
+  {
+    "stop_id": "node/247644855",
+    "stop_name": "Van Riebeeck Park",
+    "stop_lat": "-26.0881266",
+    "stop_lon": "28.2217574"
+  },
+  {
+    "stop_id": "node/247644580",
+    "stop_name": "Birchleigh",
+    "stop_lat": "-26.06737",
+    "stop_lon": "28.2345262"
+  },
+  {
+    "stop_id": "node/247644687",
+    "stop_name": "Kaalfontein",
+    "stop_lat": "-26.0354971",
+    "stop_lon": "28.2546754"
+  },
+  {
+    "stop_id": "node/247644757",
+    "stop_name": "Olifantsfontein",
+    "stop_lat": "-25.9641019",
+    "stop_lon": "28.2357048"
+  },
+  {
+    "stop_id": "node/247644797",
+    "stop_name": "Pinedene",
+    "stop_lat": "-25.9136855",
+    "stop_lon": "28.228827"
+  },
+  {
+    "stop_id": "node/7821373211",
+    "stop_name": "Irene",
+    "stop_lat": "-25.8747826",
+    "stop_lon": "28.2243128"
+  },
+  {
+    "stop_id": "node/247644715",
+    "stop_name": "Centurion",
+    "stop_lat": "-25.8349977",
+    "stop_lon": "28.2109191"
+  },
+  {
+    "stop_id": "node/8867473407",
+    "stop_name": "Sportpark",
+    "stop_lat": "-25.8246441",
+    "stop_lon": "28.2057171"
+  },
+  {
+    "stop_id": "node/247644707",
+    "stop_name": "Kloofsig",
+    "stop_lat": "-25.8133176",
+    "stop_lon": "28.2011258"
+  },
+  {
+    "stop_id": "node/247644642",
+    "stop_name": "Fonteine",
+    "stop_lat": "-25.7834199",
+    "stop_lon": "28.1929429"
+  },
+  {
+    "stop_id": "node/7059609602",
+    "stop_name": "Pretoria",
+    "stop_lat": "-25.7588249",
+    "stop_lon": "28.1884983"
+  },
+  {
+    "stop_id": "node/9165861765",
+    "stop_name": "Johannesburg Park",
+    "stop_lat": "-26.1982834",
+    "stop_lon": "28.0422145"
+  },
+  {
+    "stop_id": "node/247644818",
+    "stop_name": "Tembisa",
+    "stop_lat": "-26.0096119",
+    "stop_lon": "28.2313797"
+  },
+  {
+    "stop_id": "node/247644736",
+    "stop_name": "Limindlela",
+    "stop_lat": "-26.0111889",
+    "stop_lon": "28.2148118"
+  },
+  {
+    "stop_id": "node/247644742",
+    "stop_name": "Leralla",
+    "stop_lat": "-26.0292821",
+    "stop_lon": "28.1963427"
+  },
+  {
+    "stop_id": "node/4332203161",
+    "stop_name": "Faraday",
+    "stop_lat": "-26.2121149",
+    "stop_lon": "28.0444519"
+  },
+  {
+    "stop_id": "node/9167470584",
+    "stop_name": "Village Main",
+    "stop_lat": "-26.2190184",
+    "stop_lon": "28.0449151"
+  },
+  {
+    "stop_id": "node/4332203376",
+    "stop_name": "Booysens",
+    "stop_lat": "-26.2246599",
+    "stop_lon": "28.038946"
+  },
+  {
+    "stop_id": "node/4331222160",
+    "stop_name": "Crown",
+    "stop_lat": "-26.2221864",
+    "stop_lon": "28.0127697"
+  },
+  {
+    "stop_id": "node/1499441711",
+    "stop_name": "New Canada",
+    "stop_lat": "-26.2139139",
+    "stop_lon": "27.9435135"
+  },
+  {
+    "stop_id": "node/54994239",
+    "stop_name": "Mzimhlope",
+    "stop_lat": "-26.2232352",
+    "stop_lon": "27.9229624"
+  },
+  {
+    "stop_id": "node/8132680337",
+    "stop_name": "Phomolong",
+    "stop_lat": "-26.2260578",
+    "stop_lon": "27.9096642"
+  },
+  {
+    "stop_id": "node/4331465566",
+    "stop_name": "Phefani",
+    "stop_lat": "-26.2347489",
+    "stop_lon": "27.9052567"
+  },
+  {
+    "stop_id": "node/9166544908",
+    "stop_name": "Dube",
+    "stop_lat": "-26.2337719",
+    "stop_lon": "27.8928284"
+  },
+  {
+    "stop_id": "node/4331499768",
+    "stop_name": "Ikwezi",
+    "stop_lat": "-26.2295249",
+    "stop_lon": "27.877921"
+  },
+  {
+    "stop_id": "node/247644664",
+    "stop_name": "Inhlazane",
+    "stop_lat": "-26.2495653",
+    "stop_lon": "27.8634979"
+  },
+  {
+    "stop_id": "node/9166544906",
+    "stop_name": "Merafe",
+    "stop_lat": "-26.2618231",
+    "stop_lon": "27.8475229"
+  },
+  {
+    "stop_id": "node/9166544904",
+    "stop_name": "Naledi",
+    "stop_lat": "-26.25842",
+    "stop_lon": "27.8233028"
+  },
+  {
+    "stop_id": "node/4331573947",
+    "stop_name": "Johannesburg Park",
+    "stop_lat": "-26.1979064",
+    "stop_lon": "28.0426711"
+  },
+  {
+    "stop_id": "node/4332066588",
+    "stop_name": "George Goch",
+    "stop_lat": "-26.2075707",
+    "stop_lon": "28.0811581"
+  },
+  {
+    "stop_id": "node/4332066331",
+    "stop_name": "Jeppe",
+    "stop_lat": "-26.2028973",
+    "stop_lon": "28.0622009"
+  },
+  {
+    "stop_id": "node/4332066229",
+    "stop_name": "Ellis Park Station",
+    "stop_lat": "-26.1985222",
+    "stop_lon": "28.0585396"
+  },
+  {
+    "stop_id": "node/4332066112",
+    "stop_name": "Doornfontein",
+    "stop_lat": "-26.1973085",
+    "stop_lon": "28.0535058"
+  },
+  {
+    "stop_id": "node/9165523948",
+    "stop_name": "Braamfontein",
+    "stop_lat": "-26.1977884",
+    "stop_lon": "28.0235073"
+  },
+  {
+    "stop_id": "node/9165523947",
+    "stop_name": "Grosvenor",
+    "stop_lat": "-26.2028983",
+    "stop_lon": "28.0059328"
+  },
+  {
+    "stop_id": "node/8151881976",
+    "stop_name": "Langlaagte",
+    "stop_lat": "-26.2016605",
+    "stop_lon": "27.9916104"
+  },
+  {
+    "stop_id": "node/9165976945",
+    "stop_name": "Croesus",
+    "stop_lat": "-26.2013569",
+    "stop_lon": "27.9712559"
+  },
+  {
+    "stop_id": "node/9165976946",
+    "stop_name": "Longdale",
+    "stop_lat": "-26.1984184",
+    "stop_lon": "27.9621943"
+  },
+  {
+    "stop_id": "node/9167470585",
+    "stop_name": "Westgate",
+    "stop_lat": "-26.2115638",
+    "stop_lon": "28.0336857"
+  },
+  {
+    "stop_id": "node/4331222257",
+    "stop_name": "Crown",
+    "stop_lat": "-26.2227013",
+    "stop_lon": "28.0147391"
+  },
+  {
+    "stop_id": "node/8175197409",
+    "stop_name": "New Canada",
+    "stop_lat": "-26.2147152",
+    "stop_lon": "27.9420622"
+  },
+  {
+    "stop_id": "node/9166410300",
+    "stop_name": "George Goch",
+    "stop_lat": "-26.2080543",
+    "stop_lon": "28.0790378"
+  },
+  {
+    "stop_id": "node/4332112596",
+    "stop_name": "Benrose",
+    "stop_lat": "-26.217259",
+    "stop_lon": "28.085886"
+  },
+  {
+    "stop_id": "node/4332112678",
+    "stop_name": "Kaserne West",
+    "stop_lat": "-26.2205482",
+    "stop_lon": "28.0687004"
+  },
+  {
+    "stop_id": "node/4332203365",
+    "stop_name": "Booysens",
+    "stop_lat": "-26.2244656",
+    "stop_lon": "28.0385309"
+  },
+  {
+    "stop_id": "node/247644701",
+    "stop_name": "Kutalo",
+    "stop_lat": "-26.2175115",
+    "stop_lon": "28.1894414"
+  },
+  {
+    "stop_id": "node/1488962271",
+    "stop_name": "Elsburg",
+    "stop_lat": "-26.2429821",
+    "stop_lon": "28.1919839"
+  },
+  {
+    "stop_id": "node/247644682",
+    "stop_name": "Katlehong",
+    "stop_lat": "-26.307516",
+    "stop_lon": "28.1613708"
+  },
+  {
+    "stop_id": "node/247644740",
+    "stop_name": "Lindela",
+    "stop_lat": "-26.3264399",
+    "stop_lon": "28.1576783"
+  },
+  {
+    "stop_id": "node/783223811",
+    "stop_name": "Pilot",
+    "stop_lat": "-26.3408763",
+    "stop_lon": "28.1524129"
+  },
+  {
+    "stop_id": "node/247644699",
+    "stop_name": "Kwesine",
+    "stop_lat": "-26.3651016",
+    "stop_lon": "28.1526517"
+  },
+  {
+    "stop_id": "node/7055183243",
+    "stop_name": "Vereeniging",
+    "stop_lat": "-26.6742572",
+    "stop_lon": "27.935456"
+  },
+  {
+    "stop_id": "node/7059779909",
+    "stop_name": "Alloy",
+    "stop_lat": "-26.6555761",
+    "stop_lon": "27.9444811"
+  },
+  {
+    "stop_id": "node/7059779935",
+    "stop_name": "Redan",
+    "stop_lat": "-26.625918",
+    "stop_lon": "27.9681391"
+  },
+  {
+    "stop_id": "node/7298985589",
+    "stop_name": "Kookrus",
+    "stop_lat": "-26.586437",
+    "stop_lon": "27.9941058"
+  },
+  {
+    "stop_id": "node/7298985621",
+    "stop_name": "Meyerton",
+    "stop_lat": "-26.5542432",
+    "stop_lon": "28.0102712"
+  },
+  {
+    "stop_id": "node/247644670",
+    "stop_name": "Henley on Klip",
+    "stop_lat": "-26.5238242",
+    "stop_lon": "28.040719"
+  },
+  {
+    "stop_id": "node/1488962272",
+    "stop_name": "Skansdam",
+    "stop_lat": "-26.4645931",
+    "stop_lon": "28.0727828"
+  },
+  {
+    "stop_id": "node/1554737934",
+    "stop_name": "Kliprivier",
+    "stop_lat": "-26.4205384",
+    "stop_lon": "28.0868996"
+  },
+  {
+    "stop_id": "node/247644574",
+    "stop_name": "Angus",
+    "stop_lat": "-26.3502518",
+    "stop_lon": "28.126421"
+  },
+  {
+    "stop_id": "node/247644746",
+    "stop_name": "Mpilisweni",
+    "stop_lat": "-26.3193351",
+    "stop_lon": "28.1402957"
+  },
+  {
+    "stop_id": "node/247644750",
+    "stop_name": "Natalspruit",
+    "stop_lat": "-26.3044196",
+    "stop_lon": "28.143125"
+  },
+  {
+    "stop_id": "node/1488962273",
+    "stop_name": "Union",
+    "stop_lat": "-26.2704738",
+    "stop_lon": "28.1627421"
+  },
+  {
+    "stop_id": "node/2797053449",
+    "stop_name": "Wattles",
+    "stop_lat": "-26.2575181",
+    "stop_lon": "28.1724443"
+  },
+  {
+    "stop_id": "node/247644611",
+    "stop_name": "Dallas",
+    "stop_lat": "-26.2481647",
+    "stop_lon": "28.1843613"
+  },
+  {
+    "stop_id": "node/4332548260",
+    "stop_name": "Elsburg",
+    "stop_lat": "-26.2412072",
+    "stop_lon": "28.193213"
+  },
+  {
+    "stop_id": "node/2807056985",
+    "stop_name": "President",
+    "stop_lat": "-26.2138625",
+    "stop_lon": "28.1594084"
+  },
+  {
+    "stop_id": "node/7500580395",
+    "stop_name": "Germiston West",
+    "stop_lat": "-26.2212474",
+    "stop_lon": "28.162225"
+  },
+  {
+    "stop_id": "node/4332547461",
+    "stop_name": "Germiston South",
+    "stop_lat": "-26.2275554",
+    "stop_lon": "28.1648045"
+  },
+  {
+    "stop_id": "node/8195310539",
+    "stop_name": "Webber",
+    "stop_lat": "-26.233789",
+    "stop_lon": "28.1760186"
+  },
+  {
+    "stop_id": "node/247644792",
+    "stop_name": "Park Hill",
+    "stop_lat": "-26.2358354",
+    "stop_lon": "28.1865579"
+  },
+  {
+    "stop_id": "node/7055183232",
+    "stop_name": "Germiston",
+    "stop_lat": "-26.2097999",
+    "stop_lon": "28.1676767"
+  },
+  {
+    "stop_id": "node/247644661",
+    "stop_name": "India",
+    "stop_lat": "-26.2184188",
+    "stop_lon": "28.160782"
+  },
+  {
+    "stop_id": "node/247644781",
+    "stop_name": "Refinery",
+    "stop_lat": "-26.2212922",
+    "stop_lon": "28.150342"
+  },
+  {
+    "stop_id": "node/247644672",
+    "stop_name": "Hillview",
+    "stop_lat": "-26.2217562",
+    "stop_lon": "28.1417541"
+  },
+  {
+    "stop_id": "node/247644686",
+    "stop_name": "Jupiter",
+    "stop_lat": "-26.2199567",
+    "stop_lon": "28.1186738"
+  },
+  {
+    "stop_id": "node/248833534",
+    "stop_name": "Kaserne West",
+    "stop_lat": "-26.2200526",
+    "stop_lon": "28.0703432"
+  },
+  {
+    "stop_id": "node/247644576",
+    "stop_name": "Booysens",
+    "stop_lat": "-26.2251833",
+    "stop_lon": "28.0402486"
+  },
+  {
+    "stop_id": "node/247644606",
+    "stop_name": "Crown",
+    "stop_lat": "-26.2224651",
+    "stop_lon": "28.0138091"
+  },
+  {
+    "stop_id": "node/54974895",
+    "stop_name": "New Canada",
+    "stop_lat": "-26.2145874",
+    "stop_lon": "27.9426098"
+  },
+  {
+    "stop_id": "node/5207367928",
+    "stop_name": "Hercules",
+    "stop_lat": "-25.724345",
+    "stop_lon": "28.1674862"
+  },
+  {
+    "stop_id": "node/7048792053",
+    "stop_name": "Gezina",
+    "stop_lat": "-25.7218064",
+    "stop_lon": "28.2063408"
+  },
+  {
+    "stop_id": "node/8821278653",
+    "stop_name": "Deerness",
+    "stop_lat": "-25.7204433",
+    "stop_lon": "28.2165304"
+  },
+  {
+    "stop_id": "node/8821278657",
+    "stop_name": "Villeria",
+    "stop_lat": "-25.7197846",
+    "stop_lon": "28.2297925"
+  },
+  {
+    "stop_id": "node/8870208987",
+    "stop_name": "Koedoespoort",
+    "stop_lat": "-25.7264418",
+    "stop_lon": "28.2797635"
+  },
+  {
+    "stop_id": "node/247644838",
+    "stop_name": "Silverton",
+    "stop_lat": "-25.7273444",
+    "stop_lon": "28.296985"
+  },
+  {
+    "stop_id": "node/247644617",
+    "stop_name": "Eersterus",
+    "stop_lat": "-25.7203339",
+    "stop_lon": "28.3067013"
+  },
+  {
+    "stop_id": "node/8870240326",
+    "stop_name": "Waltloo",
+    "stop_lat": "-25.716888",
+    "stop_lon": "28.3222889"
+  },
+  {
+    "stop_id": "node/7040630019",
+    "stop_name": "Denneboom",
+    "stop_lat": "-25.7195091",
+    "stop_lon": "28.3380675"
+  },
+  {
+    "stop_id": "node/7048792047",
+    "stop_name": "Eerste Fabrieke",
+    "stop_lat": "-25.7218744",
+    "stop_lon": "28.3611649"
+  },
+  {
+    "stop_id": "node/7059609603",
+    "stop_name": "Pretoria",
+    "stop_lat": "-25.7587557",
+    "stop_lon": "28.1885876"
+  },
+  {
+    "stop_id": "node/5203421376",
+    "stop_name": "Barracks",
+    "stop_lat": "-25.7557728",
+    "stop_lon": "28.178443"
+  },
+  {
+    "stop_id": "node/5204363080",
+    "stop_name": "Pretoria-Wes",
+    "stop_lat": "-25.7562046",
+    "stop_lon": "28.16664"
+  },
+  {
+    "stop_id": "node/5206184545",
+    "stop_name": "Rebecca",
+    "stop_lat": "-25.7588625",
+    "stop_lon": "28.15227"
+  },
+  {
+    "stop_id": "node/7059609611",
+    "stop_name": "Elektro",
+    "stop_lat": "-25.7619781",
+    "stop_lon": "28.1444913"
+  },
+  {
+    "stop_id": "node/5216580642",
+    "stop_name": "Cor Delfos",
+    "stop_lat": "-25.7668914",
+    "stop_lon": "28.1322882"
+  },
+  {
+    "stop_id": "node/7059609617",
+    "stop_name": "Atteridgeville",
+    "stop_lat": "-25.7634489",
+    "stop_lon": "28.0737228"
+  },
+  {
+    "stop_id": "node/5217129824",
+    "stop_name": "Saulsville",
+    "stop_lat": "-25.763695",
+    "stop_lon": "28.0605787"
+  },
+  {
+    "stop_id": "node/247644761",
+    "stop_name": "Mears Street",
+    "stop_lat": "-25.7624418",
+    "stop_lon": "28.1979815"
+  },
+  {
+    "stop_id": "node/247644865",
+    "stop_name": "Walker Street",
+    "stop_lat": "-25.7602061",
+    "stop_lon": "28.2131955"
+  },
+  {
+    "stop_id": "node/247644719",
+    "stop_name": "Loftus Versfeldpark",
+    "stop_lat": "-25.7547362",
+    "stop_lon": "28.225464"
+  },
+  {
+    "stop_id": "node/247644674",
+    "stop_name": "Hartbeesspruit",
+    "stop_lat": "-25.7465518",
+    "stop_lon": "28.2411852"
+  },
+  {
+    "stop_id": "node/7048792045",
+    "stop_name": "Mamelodi Gardens",
+    "stop_lat": "-25.7273523",
+    "stop_lon": "28.385867"
+  },
+  {
+    "stop_id": "node/7048792043",
+    "stop_name": "Greenview",
+    "stop_lat": "-25.7303737",
+    "stop_lon": "28.407462"
+  },
+  {
+    "stop_id": "node/6725275490",
+    "stop_name": "Pienaarspoort",
+    "stop_lat": "-25.7352696",
+    "stop_lon": "28.4281692"
+  },
+  {
+    "stop_id": "node/8870289696",
+    "stop_name": "Panpoort",
+    "stop_lat": "-25.734473",
+    "stop_lon": "28.4431424"
+  },
+  {
+    "stop_id": "node/5207229588",
+    "stop_name": "Hercules",
+    "stop_lat": "-25.7245854",
+    "stop_lon": "28.1672361"
+  },
+  {
+    "stop_id": "node/247644596",
+    "stop_name": "Daspoort",
+    "stop_lat": "-25.7150332",
+    "stop_lon": "28.1657184"
+  },
+  {
+    "stop_id": "node/247703154",
+    "stop_name": "Mountain View",
+    "stop_lat": "-25.7011426",
+    "stop_lon": "28.1712416"
+  },
+  {
+    "stop_id": "node/247644850",
+    "stop_name": "Wonderboom",
+    "stop_lat": "-25.6800118",
+    "stop_lon": "28.1823122"
+  },
+  {
+    "stop_id": "node/247644801",
+    "stop_name": "Pretoria-Noord",
+    "stop_lat": "-25.6715374",
+    "stop_lon": "28.1819554"
+  },
+  {
+    "stop_id": "node/247644847",
+    "stop_name": "Wolmerton",
+    "stop_lat": "-25.6567952",
+    "stop_lon": "28.1662017"
+  },
+  {
+    "stop_id": "node/247644853",
+    "stop_name": "Winternest",
+    "stop_lat": "-25.6467868",
+    "stop_lon": "28.1286022"
+  },
+  {
+    "stop_id": "node/247644565",
+    "stop_name": "Akasiaboom",
+    "stop_lat": "-25.6237659",
+    "stop_lon": "28.1071299"
+  },
+  {
+    "stop_id": "node/5206436729",
+    "stop_name": "Schutte Street",
+    "stop_lat": "-25.7500437",
+    "stop_lon": "28.1596883"
+  },
+  {
+    "stop_id": "node/5206814706",
+    "stop_name": "Golf",
+    "stop_lat": "-25.7404916",
+    "stop_lon": "28.1607766"
+  },
+  {
+    "stop_id": "node/507206917",
+    "stop_name": "Technikon Rant",
+    "stop_lat": "-25.7327142",
+    "stop_lon": "28.1671557"
+  },
+  {
+    "stop_id": "node/8175197410",
+    "stop_name": "New Canada",
+    "stop_lat": "-26.2147498",
+    "stop_lon": "27.9420787"
+  },
+  {
+    "stop_id": "node/9165976947",
+    "stop_name": "Mlamlankunzi",
+    "stop_lat": "-26.2264676",
+    "stop_lon": "27.9272788"
+  },
+  {
+    "stop_id": "node/4331158532",
+    "stop_name": "Orlando",
+    "stop_lat": "-26.2388863",
+    "stop_lon": "27.9168009"
+  },
+  {
+    "stop_id": "node/247646903",
+    "stop_name": "Nancefield",
+    "stop_lat": "-26.2516066",
+    "stop_lon": "27.9063659"
+  },
+  {
+    "stop_id": "node/54974737",
+    "stop_name": "Kliptown",
+    "stop_lat": "-26.2728788",
+    "stop_lon": "27.8877398"
+  },
+  {
+    "stop_id": "node/247644815",
+    "stop_name": "Tshiawelo",
+    "stop_lat": "-26.2890658",
+    "stop_lon": "27.8705673"
+  },
+  {
+    "stop_id": "node/247644763",
+    "stop_name": "Midway",
+    "stop_lat": "-26.29329",
+    "stop_lon": "27.8507832"
+  },
+  {
+    "stop_id": "node/247644843",
+    "stop_name": "Waterworks",
+    "stop_lat": "-26.3023628",
+    "stop_lon": "27.8160495"
+  },
+  {
+    "stop_id": "node/247644648",
+    "stop_name": "Goudeon",
+    "stop_lat": "-26.3052119",
+    "stop_lon": "27.7714688"
+  },
+  {
+    "stop_id": "node/247644822",
+    "stop_name": "Suurbekom",
+    "stop_lat": "-26.3066824",
+    "stop_lon": "27.7482175"
+  },
+  {
+    "stop_id": "node/847302708",
+    "stop_name": "Westonaria",
+    "stop_lat": "-26.3128015",
+    "stop_lon": "27.6517921"
+  },
+  {
+    "stop_id": "node/247644645",
+    "stop_name": "Goudryk",
+    "stop_lat": "-26.3162875",
+    "stop_lon": "27.579613"
+  },
+  {
+    "stop_id": "node/247646720",
+    "stop_name": "Bank",
+    "stop_lat": "-26.3112438",
+    "stop_lon": "27.5128955"
+  },
+  {
+    "stop_id": "node/247646870",
+    "stop_name": "Maizelands",
+    "stop_lat": "-26.3294346",
+    "stop_lon": "27.441029"
+  },
+  {
+    "stop_id": "node/247644741",
+    "stop_name": "Lenasia",
+    "stop_lat": "-26.3194309",
+    "stop_lon": "27.823346"
+  },
+  {
+    "stop_id": "node/247644694",
+    "stop_name": "Lawley",
+    "stop_lat": "-26.3551092",
+    "stop_lon": "27.8307872"
+  },
+  {
+    "stop_id": "node/247644573",
+    "stop_name": "Anglers",
+    "stop_lat": "-26.3712482",
+    "stop_lon": "27.8355092"
+  },
+  {
+    "stop_id": "node/247644765",
+    "stop_name": "Midannadale",
+    "stop_lat": "-26.414181",
+    "stop_lon": "27.8568173"
+  },
+  {
+    "stop_id": "node/247644646",
+    "stop_name": "Grasmere",
+    "stop_lat": "-26.4264723",
+    "stop_lon": "27.8626853"
+  },
+  {
+    "stop_id": "node/247644784",
+    "stop_name": "Residensia",
+    "stop_lat": "-26.5376714",
+    "stop_lon": "27.8880872"
+  },
+  {
+    "stop_id": "node/247644615",
+    "stop_name": "Eatonside",
+    "stop_lat": "-26.5578",
+    "stop_lon": "27.878501"
+  },
+  {
+    "stop_id": "node/247644700",
+    "stop_name": "Kwaggastroom",
+    "stop_lat": "-26.5662029",
+    "stop_lon": "27.8639138"
+  },
+  {
+    "stop_id": "node/247644668",
+    "stop_name": "Houtheuwel",
+    "stop_lat": "-26.6031634",
+    "stop_lon": "27.85337"
+  },
+  {
+    "stop_id": "node/247644679",
+    "stop_name": "Kleigrond",
+    "stop_lat": "-26.6235836",
+    "stop_lon": "27.8714044"
+  },
+  {
+    "stop_id": "node/247644693",
+    "stop_name": "Leeuhof",
+    "stop_lat": "-26.6550134",
+    "stop_lon": "27.9061326"
+  },
+  {
+    "stop_id": "node/247644627",
+    "stop_name": "Duncanville",
+    "stop_lat": "-26.6641344",
+    "stop_lon": "27.9290646"
+  },
+  {
+    "stop_id": "node/7124278764",
+    "stop_name": "Johannesburg Park",
+    "stop_lat": "-26.1975842",
+    "stop_lon": "28.042632"
+  },
+  {
+    "stop_id": "node/4332065651",
+    "stop_name": "Doornfontein",
+    "stop_lat": "-26.1971048",
+    "stop_lon": "28.0547222"
+  },
+  {
+    "stop_id": "node/9165674006",
+    "stop_name": "Ellis Park",
+    "stop_lat": "-26.199504",
+    "stop_lon": "28.0597651"
+  },
+  {
+    "stop_id": "node/9165674005",
+    "stop_name": "Jeppe",
+    "stop_lat": "-26.2039297",
+    "stop_lon": "28.0636136"
+  },
+  {
+    "stop_id": "node/9165674004",
+    "stop_name": "George Goch",
+    "stop_lat": "-26.2072232",
+    "stop_lon": "28.0813928"
+  },
+  {
+    "stop_id": "node/4332066421",
+    "stop_name": "Denver",
+    "stop_lat": "-26.2056746",
+    "stop_lon": "28.0973276"
+  },
+  {
+    "stop_id": "node/4332386195",
+    "stop_name": "Tooronga",
+    "stop_lat": "-26.2042927",
+    "stop_lon": "28.1112134"
+  },
+  {
+    "stop_id": "node/4332386340",
+    "stop_name": "Cleveland",
+    "stop_lat": "-26.208945",
+    "stop_lon": "28.1197918"
+  },
+  {
+    "stop_id": "node/4332261935",
+    "stop_name": "Geldenhuis",
+    "stop_lat": "-26.2077436",
+    "stop_lon": "28.1336434"
+  },
+  {
+    "stop_id": "node/4332262496",
+    "stop_name": "Driehoek",
+    "stop_lat": "-26.2134721",
+    "stop_lon": "28.1505179"
+  },
+  {
+    "stop_id": "node/4332262308",
+    "stop_name": "President",
+    "stop_lat": "-26.2117043",
+    "stop_lon": "28.1591371"
+  },
+  {
+    "stop_id": "node/2806204585",
+    "stop_name": "Germiston",
+    "stop_lat": "-26.2100686",
+    "stop_lon": "28.1692356"
+  },
+  {
+    "stop_id": "node/7661577173",
+    "stop_name": "Boksburg East",
+    "stop_lat": "-26.2180098",
+    "stop_lon": "28.2606272"
+  },
+  {
+    "stop_id": "node/7500580792",
+    "stop_name": "Dunswart",
+    "stop_lat": "-26.2094245",
+    "stop_lon": "28.2860814"
+  },
+  {
+    "stop_id": "node/2801781505",
+    "stop_name": "Benoni",
+    "stop_lat": "-26.1977116",
+    "stop_lon": "28.3110932"
+  },
+  {
+    "stop_id": "node/9165674009",
+    "stop_name": "New Kleinfontein",
+    "stop_lat": "-26.206556",
+    "stop_lon": "28.3201463"
+  },
+  {
+    "stop_id": "node/247644572",
+    "stop_name": "Apex",
+    "stop_lat": "-26.2162604",
+    "stop_lon": "28.3339025"
+  },
+  {
+    "stop_id": "node/247644571",
+    "stop_name": "Anzac",
+    "stop_lat": "-26.2298835",
+    "stop_lon": "28.3555815"
+  },
+  {
+    "stop_id": "node/7741737510",
+    "stop_name": "Brakpan",
+    "stop_lat": "-26.2404731",
+    "stop_lon": "28.36108"
+  },
+  {
+    "stop_id": "node/247644825",
+    "stop_name": "Schapenrust",
+    "stop_lat": "-26.2570208",
+    "stop_lon": "28.3766227"
+  },
+  {
+    "stop_id": "node/9165674015",
+    "stop_name": "New Era",
+    "stop_lat": "-26.262476",
+    "stop_lon": "28.40779"
+  },
+  {
+    "stop_id": "node/9165682817",
+    "stop_name": "Pollak Park",
+    "stop_lat": "-26.2650124",
+    "stop_lon": "28.4315253"
+  },
+  {
+    "stop_id": "node/247644814",
+    "stop_name": "Springs",
+    "stop_lat": "-26.2500305",
+    "stop_lon": "28.4377769"
+  },
+  {
+    "stop_id": "node/247644607",
+    "stop_name": "Daggafontein",
+    "stop_lat": "-26.2922209",
+    "stop_lon": "28.469433"
+  },
+  {
+    "stop_id": "node/247644809",
+    "stop_name": "Struisbult",
+    "stop_lat": "-26.3147752",
+    "stop_lon": "28.4608059"
+  },
+  {
+    "stop_id": "node/247644628",
+    "stop_name": "Dunnottar",
+    "stop_lat": "-26.3492663",
+    "stop_lon": "28.4415744"
+  },
+  {
+    "stop_id": "node/247644837",
+    "stop_name": "Servaas",
+    "stop_lat": "-26.3898899",
+    "stop_lon": "28.4417535"
+  },
+  {
+    "stop_id": "node/247644753",
+    "stop_name": "Nigel",
+    "stop_lat": "-26.4226255",
+    "stop_lon": "28.4485455"
+  },
+  {
+    "stop_id": "node/9165523946",
+    "stop_name": "Industria",
+    "stop_lat": "-26.2004095",
+    "stop_lon": "27.9806729"
+  },
+  {
+    "stop_id": "node/247644842",
+    "stop_name": "Westbury",
+    "stop_lat": "-26.1887444",
+    "stop_lon": "27.9684509"
+  },
+  {
+    "stop_id": "node/247644754",
+    "stop_name": "Newclare",
+    "stop_lat": "-26.1863348",
+    "stop_lon": "27.9628866"
+  },
+  {
+    "stop_id": "node/247644712",
+    "stop_name": "Maraisburg",
+    "stop_lat": "-26.1796055",
+    "stop_lon": "27.9404191"
+  },
+  {
+    "stop_id": "node/247644649",
+    "stop_name": "Hamberg",
+    "stop_lat": "-26.1675437",
+    "stop_lon": "27.8934583"
+  },
+  {
+    "stop_id": "node/8192228497",
+    "stop_name": "Roodepoort",
+    "stop_lat": "-26.1591959",
+    "stop_lon": "27.8702181"
+  },
+  {
+    "stop_id": "node/247644666",
+    "stop_name": "Horison",
+    "stop_lat": "-26.1465225",
+    "stop_lon": "27.8638112"
+  },
+  {
+    "stop_id": "node/247644803",
+    "stop_name": "Princess",
+    "stop_lat": "-26.1327361",
+    "stop_lon": "27.8536718"
+  },
+  {
+    "stop_id": "node/247644848",
+    "stop_name": "Witpoortjie",
+    "stop_lat": "-26.1273462",
+    "stop_lon": "27.8314228"
+  },
+  {
+    "stop_id": "node/247644717",
+    "stop_name": "Luipaardsvlei",
+    "stop_lat": "-26.1197865",
+    "stop_lon": "27.8115924"
+  },
+  {
+    "stop_id": "node/247644696",
+    "stop_name": "Lanwen",
+    "stop_lat": "-26.1150358",
+    "stop_lon": "27.7933804"
+  },
+  {
+    "stop_id": "node/247644854",
+    "stop_name": "Windsor Mine",
+    "stop_lat": "-26.1097836",
+    "stop_lon": "27.781476"
+  },
+  {
+    "stop_id": "node/847302716",
+    "stop_name": "Wes-Rand",
+    "stop_lat": "-26.1118523",
+    "stop_lon": "27.7487664"
+  },
+  {
+    "stop_id": "node/247644769",
+    "stop_name": "Millsite",
+    "stop_lat": "-26.1280308",
+    "stop_lon": "27.7394351"
+  },
+  {
+    "stop_id": "node/247644787",
+    "stop_name": "Robinson",
+    "stop_lat": "-26.157982",
+    "stop_lon": "27.7150947"
+  },
+  {
+    "stop_id": "node/247644584",
+    "stop_name": "Central",
+    "stop_lat": "-26.1401827",
+    "stop_lon": "27.73429"
+  },
+  {
+    "stop_id": "node/247644671",
+    "stop_name": "Home Lake",
+    "stop_lat": "-26.1678461",
+    "stop_lon": "27.7077274"
+  },
+  {
+    "stop_id": "node/247644776",
+    "stop_name": "Randfontein",
+    "stop_lat": "-26.1813645",
+    "stop_lon": "27.6980124"
+  },
+  {
+    "stop_id": "node/7048792048",
+    "stop_name": "Eerste Fabrieke",
+    "stop_lat": "-25.722344",
+    "stop_lon": "28.3583291"
+  },
+  {
+    "stop_id": "node/7048792050",
+    "stop_name": "Denneboom",
+    "stop_lat": "-25.7188992",
+    "stop_lon": "28.3358518"
+  },
+  {
+    "stop_id": "node/247644866",
+    "stop_name": "Waltloo",
+    "stop_lat": "-25.7169776",
+    "stop_lon": "28.3213512"
+  },
+  {
+    "stop_id": "node/7059536495",
+    "stop_name": "Saulsville",
+    "stop_lat": "-25.7643571",
+    "stop_lon": "28.0627667"
+  },
+  {
+    "stop_id": "node/7059609616",
+    "stop_name": "Atteridgeville",
+    "stop_lat": "-25.7626317",
+    "stop_lon": "28.0757627"
+  },
+  {
+    "stop_id": "node/5217099436",
+    "stop_name": "Kalafong",
+    "stop_lat": "-25.7603192",
+    "stop_lon": "28.08944"
+  },
+  {
+    "stop_id": "node/2218862850",
+    "stop_name": "Cor Delfos",
+    "stop_lat": "-25.7671583",
+    "stop_lon": "28.1342288"
+  },
+  {
+    "stop_id": "node/5216455159",
+    "stop_name": "Elektro",
+    "stop_lat": "-25.7607708",
+    "stop_lon": "28.1459266"
+  },
+  {
+    "stop_id": "node/7059609608",
+    "stop_name": "Rebecca",
+    "stop_lat": "-25.758287",
+    "stop_lon": "28.1545325"
+  },
+  {
+    "stop_id": "node/5204346156",
+    "stop_name": "Pretoria-Wes",
+    "stop_lat": "-25.7560736",
+    "stop_lon": "28.1688052"
+  },
+  {
+    "stop_id": "node/7059609604",
+    "stop_name": "Bosmanstraat",
+    "stop_lat": "-25.7571883",
+    "stop_lon": "28.1860252"
+  },
+  {
+    "stop_id": "node/5203383906",
+    "stop_name": "Pretoria",
+    "stop_lat": "-25.7607509",
+    "stop_lon": "28.190682"
+  },
+  {
+    "stop_id": "node/9169149816",
+    "stop_name": "Pretoria Noord",
+    "stop_lat": "-25.6711905",
+    "stop_lon": "28.1817833"
+  },
+  {
+    "stop_id": "node/9169165217",
+    "stop_name": "Winternest",
+    "stop_lat": "-25.6466532",
+    "stop_lon": "28.1276193"
+  },
+  {
+    "stop_id": "node/7873444053",
+    "stop_name": "Rosslyn",
+    "stop_lat": "-25.6378244",
+    "stop_lon": "28.0947039"
+  },
+  {
+    "stop_id": "node/9169165219",
+    "stop_name": "Hornsnek",
+    "stop_lat": "-25.6271531",
+    "stop_lon": "28.0554845"
+  },
+  {
+    "stop_id": "node/7859757922",
+    "stop_name": "Mudunsa",
+    "stop_lat": "-25.6219237",
+    "stop_lon": "28.0187376"
+  },
+  {
+    "stop_id": "node/7168841189",
+    "stop_name": "Ga-Rankuwa",
+    "stop_lat": "-25.6195442",
+    "stop_lon": "27.991595"
+  },
+  {
+    "stop_id": "node/7168841206",
+    "stop_name": "Taillardshoop",
+    "stop_lat": "-25.6178101",
+    "stop_lon": "27.9717312"
+  },
+  {
+    "stop_id": "node/7168841291",
+    "stop_name": "De Wildt",
+    "stop_lat": "-25.6247499",
+    "stop_lon": "27.9445638"
+  },
+  {
+    "stop_id": "node/247644595",
+    "stop_name": "Daveyton",
+    "stop_lat": "-26.1564302",
+    "stop_lon": "28.4246163"
+  },
+  {
+    "stop_id": "node/247644563",
+    "stop_name": "Alliance",
+    "stop_lat": "-26.1725782",
+    "stop_lon": "28.4167249"
+  },
+  {
+    "stop_id": "node/247644856",
+    "stop_name": "Van Ryn",
+    "stop_lat": "-26.1730209",
+    "stop_lon": "28.3444813"
+  },
+  {
+    "stop_id": "node/247644751",
+    "stop_name": "Northmead",
+    "stop_lat": "-26.1810037",
+    "stop_lon": "28.3181089"
+  },
+  {
+    "stop_id": "node/247644570",
+    "stop_name": "Avenue",
+    "stop_lat": "-26.2023341",
+    "stop_lon": "28.2970126"
+  },
+  {
+    "stop_id": "node/247644613",
+    "stop_name": "Dunswart",
+    "stop_lat": "-26.209557",
+    "stop_lon": "28.2854698"
+  },
+  {
+    "stop_id": "node/247644798",
+    "stop_name": "Pollak Park",
+    "stop_lat": "-26.2650486",
+    "stop_lon": "28.431402"
+  },
+  {
+    "stop_id": "node/247644748",
+    "stop_name": "New Era",
+    "stop_lat": "-26.2624864",
+    "stop_lon": "28.4076914"
+  },
+  {
+    "stop_id": "node/7741737605",
+    "stop_name": "Schapenrust",
+    "stop_lat": "-26.2570057",
+    "stop_lon": "28.3765215"
+  },
+  {
+    "stop_id": "node/247644588",
+    "stop_name": "Brakpan",
+    "stop_lat": "-26.2403812",
+    "stop_lon": "28.3609927"
+  },
+  {
+    "stop_id": "node/7741737250",
+    "stop_name": "Anzac",
+    "stop_lat": "-26.2298895",
+    "stop_lon": "28.3555385"
+  },
+  {
+    "stop_id": "node/247644747",
+    "stop_name": "New Kleinfontein",
+    "stop_lat": "-26.2065719",
+    "stop_lon": "28.3201123"
+  },
+  {
+    "stop_id": "node/247644581",
+    "stop_name": "Benoni",
+    "stop_lat": "-26.198055",
+    "stop_lon": "28.3104906"
+  },
+  {
+    "stop_id": "node/7661577350",
+    "stop_name": "Dunswart",
+    "stop_lat": "-26.2097927",
+    "stop_lon": "28.285199"
+  },
+  {
+    "stop_id": "node/7661577106",
+    "stop_name": "East Rand",
+    "stop_lat": "-26.2171598",
+    "stop_lon": "28.2298174"
+  },
+  {
+    "stop_id": "node/7661577015",
+    "stop_name": "Angelo",
+    "stop_lat": "-26.2045754",
+    "stop_lon": "28.2121946"
+  },
+  {
+    "stop_id": "node/7661576969",
+    "stop_name": "Delmore",
+    "stop_lat": "-26.20618",
+    "stop_lon": "28.1979373"
+  },
+  {
+    "stop_id": "node/4332066329",
+    "stop_name": "Jeppe",
+    "stop_lat": "-26.2028258",
+    "stop_lon": "28.0622445"
+  },
+  {
+    "stop_id": "node/7168841278",
+    "stop_name": "De Wildt",
+    "stop_lat": "-25.6247172",
+    "stop_lon": "27.9445477"
+  },
+  {
+    "stop_id": "node/7168841210",
+    "stop_name": "Taillardshoop",
+    "stop_lat": "-25.6177932",
+    "stop_lon": "27.9729148"
+  },
+  {
+    "stop_id": "node/7168840783",
+    "stop_name": "Ga-Rankuwa",
+    "stop_lat": "-25.6194692",
+    "stop_lon": "27.992228"
+  },
+  {
+    "stop_id": "node/247644665",
+    "stop_name": "Hornsnek",
+    "stop_lat": "-25.6271795",
+    "stop_lon": "28.0557118"
+  },
+  {
+    "stop_id": "node/247644718",
+    "stop_name": "Lynross",
+    "stop_lat": "-25.6342805",
+    "stop_lon": "28.0824208"
+  },
+  {
+    "stop_id": "node/247644830",
+    "stop_name": "Rosslyn",
+    "stop_lat": "-25.6377934",
+    "stop_lon": "28.0951296"
+  },
+  {
+    "stop_id": "node/247644791",
+    "stop_name": "Panpoort",
+    "stop_lat": "-25.7344785",
+    "stop_lon": "28.4428257"
+  },
+  {
+    "stop_id": "node/1797234405",
+    "stop_name": "Pienaarspoort",
+    "stop_lat": "-25.7351619",
+    "stop_lon": "28.4278482"
+  },
+  {
+    "stop_id": "node/7040633404",
+    "stop_name": "Greenview",
+    "stop_lat": "-25.7301861",
+    "stop_lon": "28.4053549"
+  },
+  {
+    "stop_id": "node/7040633298",
+    "stop_name": "Mamelodi Gardens",
+    "stop_lat": "-25.7265831",
+    "stop_lon": "28.3838901"
+  },
+  {
+    "stop_id": "node/8870379684",
+    "stop_name": "Waltloo",
+    "stop_lat": "-25.7171247",
+    "stop_lon": "28.3201153"
+  },
+  {
+    "stop_id": "node/8870379685",
+    "stop_name": "Eersterust",
+    "stop_lat": "-25.7210811",
+    "stop_lon": "28.306033"
+  },
+  {
+    "stop_id": "node/8870379686",
+    "stop_name": "Silverton",
+    "stop_lat": "-25.7275063",
+    "stop_lon": "28.2957186"
+  },
+  {
+    "stop_id": "node/8870379687",
+    "stop_name": "Koedoespoort",
+    "stop_lat": "-25.7263052",
+    "stop_lon": "28.2776694"
+  },
+  {
+    "stop_id": "node/6778869163",
+    "stop_name": "Hartbeesspruit",
+    "stop_lat": "-25.7466142",
+    "stop_lon": "28.2411161"
+  },
+  {
+    "stop_id": "node/8870092647",
+    "stop_name": "Rissik",
+    "stop_lat": "-25.7499569",
+    "stop_lon": "28.2312622"
+  },
+  {
+    "stop_id": "node/8870092641",
+    "stop_name": "Loftus Versfeldpark",
+    "stop_lat": "-25.7551053",
+    "stop_lon": "28.2251885"
+  },
+  {
+    "stop_id": "node/5202924899",
+    "stop_name": "Walker Street",
+    "stop_lat": "-25.7604707",
+    "stop_lon": "28.2125755"
+  },
+  {
+    "stop_id": "node/5203095727",
+    "stop_name": "Devenish Street",
+    "stop_lat": "-25.7599405",
+    "stop_lon": "28.2049807"
+  },
+  {
+    "stop_id": "node/5203095508",
+    "stop_name": "Mears Street",
+    "stop_lat": "-25.7627013",
+    "stop_lon": "28.1977297"
+  },
+  {
+    "stop_id": "node/247644600",
+    "stop_name": "Denneboom",
+    "stop_lat": "-25.7191548",
+    "stop_lon": "28.3368342"
+  },
+  {
+    "stop_id": "node/247644760",
+    "stop_name": "Meyerton",
+    "stop_lat": "-26.5555964",
+    "stop_lon": "28.009638"
+  },
+  {
+    "stop_id": "node/7298985588",
+    "stop_name": "Kookrus",
+    "stop_lat": "-26.5873981",
+    "stop_lon": "27.9936723"
+  },
+  {
+    "stop_id": "node/7298985599",
+    "stop_name": "Redan",
+    "stop_lat": "-26.627407",
+    "stop_lon": "27.9669978"
+  },
+  {
+    "stop_id": "node/7059779910",
+    "stop_name": "Alloy",
+    "stop_lat": "-26.6573835",
+    "stop_lon": "27.9431956"
+  },
+  {
+    "stop_id": "node/247644858",
+    "stop_name": "Vereeniging",
+    "stop_lat": "-26.6742088",
+    "stop_lon": "27.9352274"
+  },
+  {
+    "stop_id": "node/4331222185",
+    "stop_name": "Crown",
+    "stop_lat": "-26.2224547",
+    "stop_lon": "28.0145895"
+  },
+  {
+    "stop_id": "node/4332203459",
+    "stop_name": "Booysens",
+    "stop_lat": "-26.2256548",
+    "stop_lon": "28.0415135"
+  },
+  {
+    "stop_id": "node/9166410299",
+    "stop_name": "Kaserne West",
+    "stop_lat": "-26.219871",
+    "stop_lon": "28.0705946"
+  },
+  {
+    "stop_id": "node/7007051492",
+    "stop_name": "Benrose",
+    "stop_lat": "-26.2157205",
+    "stop_lon": "28.0873146"
+  }
+]

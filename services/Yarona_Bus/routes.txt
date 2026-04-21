@@ -1,0 +1,27 @@
+Route ID: relation/14547887
+Name: Route F4
+Mode: bus
+Colour: yellow
+Operator: Yarona Bus
+Stop order (OSM node IDs): node/10002774150, node/10002774148, node/7767523703, node/6966628712, node/10002774154, node/10002774152, node/10002774153, node/6966712660, node/10002774156, node/10002774155, node/10002774149, node/10002774150
+
+---
+
+Route ID: relation/14609010
+Name: Route F6
+Mode: bus
+Colour: red
+Operator: Yarona Bus
+Stop order (OSM node IDs): node/10002774150, node/10002774148, node/7767523703, node/10044676495, node/10044676494, node/10044676493, node/10044676492, node/6966628741, node/10002774149, node/10002774150
+
+---
+
+Route ID: relation/14704069
+Name: Route F5
+Mode: bus
+Colour: green
+Operator: Yarona Bus
+Stop order (OSM node IDs): node/10002774150, node/10002774148, node/7767523703, node/10108256996, node/6966628714, node/10108256967, node/10108256966, node/10108256965, node/10108377341, node/10108377340, node/10108377339, node/10108377338, node/10108377337, node/10108377336, node/10108377335, node/10108377334, node/10108377333, node/10002774149, node/10002774150
+
+---
+

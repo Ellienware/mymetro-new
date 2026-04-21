@@ -1,0 +1,416 @@
+Stop ID: relation/7655339 (not found in ALL_STOPS)
+
+---
+
+Stop ID: way/532857499 (not found in ALL_STOPS)
+
+---
+
+Stop ID: relation/7655287 (not found in ALL_STOPS)
+
+---
+
+Stop ID: relation/7655338 (not found in ALL_STOPS)
+
+---
+
+Stop ID: way/1077034088 (not found in ALL_STOPS)
+
+---
+
+Stop ID: relation/7655302 (not found in ALL_STOPS)
+
+---
+
+Stop ID: relation/7655301 (not found in ALL_STOPS)
+
+---
+
+Stop ID: relation/7655300 (not found in ALL_STOPS)
+
+---
+
+Stop ID: way/532856078 (not found in ALL_STOPS)
+
+---
+
+Stop ID: way/532856076 (not found in ALL_STOPS)
+
+---
+
+Stop ID: relation/7655247 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/13381161108
+Name: Lynnwood O-3
+Mode: bus
+Coordinates: -25.7567319, 28.2320285
+Lines serving this stop: Gautrain Bus;Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13381161107
+Name: Lynnwood O-6
+Mode: bus
+Coordinates: -25.7590304, 28.2418189
+Lines serving this stop: Gautrain Bus;Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13381161106
+Name: Lynnwood O-7
+Mode: bus
+Coordinates: -25.7607153, 28.2478894
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13381161105
+Name: Lynnwood O-8
+Mode: bus
+Coordinates: -25.7615792, 28.2521126
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13381155715
+Name: Atterbury O-2
+Mode: bus
+Coordinates: -25.7656262, 28.2574579
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13381177411
+Name: Atterbury O-6
+Mode: bus
+Coordinates: -25.7703008, 28.2627596
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13381178165
+Name: Atterbury O-9
+Mode: bus
+Coordinates: -25.7736003, 28.2670934
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13381199212
+Name: Atterbury O-1
+Mode: bus
+Coordinates: -25.7802001, 28.2752047
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13381202065
+Name: Sun Time Square
+Mode: bus
+Coordinates: -25.787503, 28.2806586
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13383371460
+Name: Atterbury I-4
+Mode: bus
+Coordinates: -25.7809271, 28.2757267
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13383390251
+Name: Atterbury I-5
+Mode: train
+Coordinates: -25.7761924, 28.2692571
+Lines serving this stop: 
+
+---
+
+Stop ID: node/13383392785
+Name: Atterbury I-8
+Mode: bus
+Coordinates: -25.7706981, 28.2628629
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/9261048739
+Name: Atterbury I-1
+Mode: bus
+Coordinates: -25.765292, 28.257033
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13383395948
+Name: Lynnwood I-9
+Mode: bus
+Coordinates: -25.7617722, 28.2522879
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13383400371
+Name: Lynnwood I-10
+Mode: bus
+Coordinates: -25.7604704, 28.2462915
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13383391283
+Name: Lynnwood I-13
+Mode: bus
+Coordinates: -25.7590262, 28.2407655
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13383416043
+Name: Lynnwood I-16
+Mode: bus
+Coordinates: -25.7563568, 28.2280039
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13385659880
+Name: Sipho Komane
+Mode: bus
+Coordinates: -25.7505224, 28.2371244
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13385699690
+Name: Tukkies
+Mode: bus
+Coordinates: -25.7509291, 28.2320755
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13385699691
+Name: Tukkies
+Mode: bus
+Coordinates: -25.7507637, 28.2316252
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13385685675
+Name: Arcadia
+Mode: bus
+Coordinates: -25.7477055, 28.2332687
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/6741793702
+Name: TUT Arcadia
+Mode: bus
+Coordinates: -25.743199, 28.199572
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13387901257
+Name: Nelson Mandela
+Mode: bus
+Coordinates: -25.741484, 28.2001756
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13373967641
+Name: Environment House
+Mode: bus
+Coordinates: -25.7393386, 28.2032206
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13373967640
+Name: Soutpansberg
+Mode: bus
+Coordinates: -25.7369629, 28.2030006
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13373967639
+Name: Dr. Savage
+Mode: bus
+Coordinates: -25.7336537, 28.2039361
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13373967638
+Name: Steve Biko Hospital
+Mode: bus
+Coordinates: -25.7310916, 28.2044115
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13373967637
+Name: Flower
+Mode: bus
+Coordinates: -25.7281894, 28.2040276
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13387890832
+Name: Middle Gezina
+Mode: bus
+Coordinates: -25.7194061, 28.202549
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13377614190
+Name: Lower Gezina
+Mode: bus
+Coordinates: -25.712908, 28.2015228
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13387887688
+Name: Upper Fred Nicholson
+Mode: bus
+Coordinates: -25.7089996, 28.1993455
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13387906175
+Name: Eugene Marais
+Mode: bus
+Coordinates: -25.708555, 28.1949262
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13387894849
+Name: Middle Fred Nicholson
+Mode: bus
+Coordinates: -25.7080589, 28.1899614
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13387894850
+Name: Middle Fred Nicholson
+Mode: bus
+Coordinates: -25.7079846, 28.1900885
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13387906176
+Name: Eugene Marais
+Mode: bus
+Coordinates: -25.7084408, 28.1946643
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13387887689
+Name: Upper Fred Nicholson
+Mode: bus
+Coordinates: -25.708821, 28.1984342
+Lines serving this stop: A Re Yeng
+
+---
+
+Stop ID: node/13380469667
+Name: Lower Gezina
+Mode: bus
+Coordinates: -25.7147102, 28.2035874
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13380469666 (not found in ALL_STOPS)
+
+---
+
+Stop ID: node/13369432858
+Name: Middle Gezina
+Mode: bus
+Coordinates: -25.7210241, 28.2046327
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13369432859
+Name: Upper Gezina
+Mode: bus
+Coordinates: -25.7256957, 28.2053519
+Lines serving this stop: Tshwane Bus Services
+
+---
+
+Stop ID: node/13369432861
+Name: Steve Biko Hospital
+Mode: bus
+Coordinates: -25.7305618, 28.2046787
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/6722557695
+Name: Annie Botha
+Mode: bus
+Coordinates: -25.7325633, 28.2048085
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13369432862
+Name: Harvest House
+Mode: bus
+Coordinates: -25.7368648, 28.2053414
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13369432863
+Name: Pension House
+Mode: bus
+Coordinates: -25.7389198, 28.2055146
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13369432864
+Name: Lower Hamilton
+Mode: bus
+Coordinates: -25.7412289, 28.2056958
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13387896313
+Name: Upper Hamilton
+Mode: bus
+Coordinates: -25.7470054, 28.2061697
+Lines serving this stop: Tshwane Bus Services;A Re Yeng
+
+---
+
+Stop ID: node/13386801670
+Name: Sunnyside
+Mode: bus
+Coordinates: -25.7516995, 28.2053499
+Lines serving this stop: Tshwane Bus Services
+
+---
+

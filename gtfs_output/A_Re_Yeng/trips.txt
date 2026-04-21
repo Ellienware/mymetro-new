@@ -1,0 +1,11 @@
+route_id,service_id,trip_id
+relation/19970570,dummy,relation/19970570_dummy
+relation/19970881,dummy,relation/19970881_dummy
+relation/19974206,dummy,relation/19974206_dummy
+relation/19974207,dummy,relation/19974207_dummy
+relation/19974347,dummy,relation/19974347_dummy
+relation/19974348,dummy,relation/19974348_dummy
+relation/19974459,dummy,relation/19974459_dummy
+relation/19974460,dummy,relation/19974460_dummy
+relation/19978267,dummy,relation/19978267_dummy
+relation/19978268,dummy,relation/19978268_dummy

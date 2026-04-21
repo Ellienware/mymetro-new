@@ -1,0 +1,5 @@
+route_id,route_short_name,route_long_name,route_type
+relation/19959612,Rietfontein,Rietfontein 21 Out,3
+relation/19959712,Rietfontein,Rietfontein 21 In,3
+relation/19962709,Wonderboom,Wonderboom South 20 Out,3
+relation/19966458,Wonderboom,Wonderboom South 20 In,3

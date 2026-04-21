@@ -1,0 +1,11 @@
+route_id,route_short_name,route_long_name,route_type
+relation/19970570,T1,T1 Out,3
+relation/19970881,T1,T1 In,3
+relation/19974206,Unknown,Unknown route,3
+relation/19974207,Unknown,Unknown route,3
+relation/19974347,Unknown,Unknown route,3
+relation/19974348,Unknown,Unknown route,3
+relation/19974459,Unknown,Unknown route,3
+relation/19974460,Unknown,Unknown route,3
+relation/19978267,Unknown,Unknown route,3
+relation/19978268,Unknown,Unknown route,3

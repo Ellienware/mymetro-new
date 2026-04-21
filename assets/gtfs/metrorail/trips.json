@@ -1,0 +1,262 @@
+[
+  {
+    "route_id": "relation/1024053",
+    "service_id": "dummy",
+    "trip_id": "relation/1024053_dummy"
+  },
+  {
+    "route_id": "relation/1026727",
+    "service_id": "dummy",
+    "trip_id": "relation/1026727_dummy"
+  },
+  {
+    "route_id": "relation/1026729",
+    "service_id": "dummy",
+    "trip_id": "relation/1026729_dummy"
+  },
+  {
+    "route_id": "relation/1026738",
+    "service_id": "dummy",
+    "trip_id": "relation/1026738_dummy"
+  },
+  {
+    "route_id": "relation/1112285",
+    "service_id": "dummy",
+    "trip_id": "relation/1112285_dummy"
+  },
+  {
+    "route_id": "relation/1112286",
+    "service_id": "dummy",
+    "trip_id": "relation/1112286_dummy"
+  },
+  {
+    "route_id": "relation/1112287",
+    "service_id": "dummy",
+    "trip_id": "relation/1112287_dummy"
+  },
+  {
+    "route_id": "relation/1112288",
+    "service_id": "dummy",
+    "trip_id": "relation/1112288_dummy"
+  },
+  {
+    "route_id": "relation/1112289",
+    "service_id": "dummy",
+    "trip_id": "relation/1112289_dummy"
+  },
+  {
+    "route_id": "relation/1112305",
+    "service_id": "dummy",
+    "trip_id": "relation/1112305_dummy"
+  },
+  {
+    "route_id": "relation/1112306",
+    "service_id": "dummy",
+    "trip_id": "relation/1112306_dummy"
+  },
+  {
+    "route_id": "relation/1112307",
+    "service_id": "dummy",
+    "trip_id": "relation/1112307_dummy"
+  },
+  {
+    "route_id": "relation/1112313",
+    "service_id": "dummy",
+    "trip_id": "relation/1112313_dummy"
+  },
+  {
+    "route_id": "relation/1112362",
+    "service_id": "dummy",
+    "trip_id": "relation/1112362_dummy"
+  },
+  {
+    "route_id": "relation/1112363",
+    "service_id": "dummy",
+    "trip_id": "relation/1112363_dummy"
+  },
+  {
+    "route_id": "relation/1112364",
+    "service_id": "dummy",
+    "trip_id": "relation/1112364_dummy"
+  },
+  {
+    "route_id": "relation/1112366",
+    "service_id": "dummy",
+    "trip_id": "relation/1112366_dummy"
+  },
+  {
+    "route_id": "relation/1112367",
+    "service_id": "dummy",
+    "trip_id": "relation/1112367_dummy"
+  },
+  {
+    "route_id": "relation/1112478",
+    "service_id": "dummy",
+    "trip_id": "relation/1112478_dummy"
+  },
+  {
+    "route_id": "relation/1112479",
+    "service_id": "dummy",
+    "trip_id": "relation/1112479_dummy"
+  },
+  {
+    "route_id": "relation/1112480",
+    "service_id": "dummy",
+    "trip_id": "relation/1112480_dummy"
+  },
+  {
+    "route_id": "relation/1112481",
+    "service_id": "dummy",
+    "trip_id": "relation/1112481_dummy"
+  },
+  {
+    "route_id": "relation/1112482",
+    "service_id": "dummy",
+    "trip_id": "relation/1112482_dummy"
+  },
+  {
+    "route_id": "relation/1112483",
+    "service_id": "dummy",
+    "trip_id": "relation/1112483_dummy"
+  },
+  {
+    "route_id": "relation/10374913",
+    "service_id": "dummy",
+    "trip_id": "relation/10374913_dummy"
+  },
+  {
+    "route_id": "relation/10398176",
+    "service_id": "dummy",
+    "trip_id": "relation/10398176_dummy"
+  },
+  {
+    "route_id": "relation/10415674",
+    "service_id": "dummy",
+    "trip_id": "relation/10415674_dummy"
+  },
+  {
+    "route_id": "relation/10649225",
+    "service_id": "dummy",
+    "trip_id": "relation/10649225_dummy"
+  },
+  {
+    "route_id": "relation/10670766",
+    "service_id": "dummy",
+    "trip_id": "relation/10670766_dummy"
+  },
+  {
+    "route_id": "relation/10670932",
+    "service_id": "dummy",
+    "trip_id": "relation/10670932_dummy"
+  },
+  {
+    "route_id": "relation/10670934",
+    "service_id": "dummy",
+    "trip_id": "relation/10670934_dummy"
+  },
+  {
+    "route_id": "relation/10670937",
+    "service_id": "dummy",
+    "trip_id": "relation/10670937_dummy"
+  },
+  {
+    "route_id": "relation/10670948",
+    "service_id": "dummy",
+    "trip_id": "relation/10670948_dummy"
+  },
+  {
+    "route_id": "relation/10670955",
+    "service_id": "dummy",
+    "trip_id": "relation/10670955_dummy"
+  },
+  {
+    "route_id": "relation/10670990",
+    "service_id": "dummy",
+    "trip_id": "relation/10670990_dummy"
+  },
+  {
+    "route_id": "relation/10670991",
+    "service_id": "dummy",
+    "trip_id": "relation/10670991_dummy"
+  },
+  {
+    "route_id": "relation/10671014",
+    "service_id": "dummy",
+    "trip_id": "relation/10671014_dummy"
+  },
+  {
+    "route_id": "relation/10671027",
+    "service_id": "dummy",
+    "trip_id": "relation/10671027_dummy"
+  },
+  {
+    "route_id": "relation/10671046",
+    "service_id": "dummy",
+    "trip_id": "relation/10671046_dummy"
+  },
+  {
+    "route_id": "relation/10671047",
+    "service_id": "dummy",
+    "trip_id": "relation/10671047_dummy"
+  },
+  {
+    "route_id": "relation/10671053",
+    "service_id": "dummy",
+    "trip_id": "relation/10671053_dummy"
+  },
+  {
+    "route_id": "relation/10671054",
+    "service_id": "dummy",
+    "trip_id": "relation/10671054_dummy"
+  },
+  {
+    "route_id": "relation/10671055",
+    "service_id": "dummy",
+    "trip_id": "relation/10671055_dummy"
+  },
+  {
+    "route_id": "relation/10671076",
+    "service_id": "dummy",
+    "trip_id": "relation/10671076_dummy"
+  },
+  {
+    "route_id": "relation/10671077",
+    "service_id": "dummy",
+    "trip_id": "relation/10671077_dummy"
+  },
+  {
+    "route_id": "relation/10671112",
+    "service_id": "dummy",
+    "trip_id": "relation/10671112_dummy"
+  },
+  {
+    "route_id": "relation/10671113",
+    "service_id": "dummy",
+    "trip_id": "relation/10671113_dummy"
+  },
+  {
+    "route_id": "relation/10671125",
+    "service_id": "dummy",
+    "trip_id": "relation/10671125_dummy"
+  },
+  {
+    "route_id": "relation/10671137",
+    "service_id": "dummy",
+    "trip_id": "relation/10671137_dummy"
+  },
+  {
+    "route_id": "relation/10672955",
+    "service_id": "dummy",
+    "trip_id": "relation/10672955_dummy"
+  },
+  {
+    "route_id": "relation/10672956",
+    "service_id": "dummy",
+    "trip_id": "relation/10672956_dummy"
+  },
+  {
+    "route_id": "relation/13315887",
+    "service_id": "dummy",
+    "trip_id": "relation/13315887_dummy"
+  }
+]

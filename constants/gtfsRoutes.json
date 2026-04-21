@@ -1,0 +1,1462 @@
+[
+  {
+    "id": "S3",
+    "shortName": "S3",
+    "longName": " Sandton – Rivonia",
+    "type": 3,
+    "color": "CF20B8",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S2",
+    "shortName": "S2",
+    "longName": " Sandton – Gallo Manor",
+    "type": 3,
+    "color": "57084D",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S5",
+    "shortName": "S5",
+    "longName": " Sandton – Fourways",
+    "type": 3,
+    "color": "D11C16",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "S4",
+    "shortName": "S4",
+    "longName": " Sandton – Randburg",
+    "type": 3,
+    "color": "F4154F",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M1",
+    "shortName": "M1",
+    "longName": " Midrand - Randjespark",
+    "type": 3,
+    "color": "98053A",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M3",
+    "shortName": "M3",
+    "longName": " Midrand - Sunninghill",
+    "type": 3,
+    "color": "CF20B8",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "M2",
+    "shortName": "M2",
+    "longName": " Midrand - Noordwyk",
+    "type": 3,
+    "color": "57084C",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RF1",
+    "shortName": "RF1",
+    "longName": " Rhodesfield",
+    "type": 3,
+    "color": "98053B",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB5",
+    "shortName": "RB5",
+    "longName": " Rosebank - Park",
+    "type": 3,
+    "color": "D11C16",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB4",
+    "shortName": "RB4",
+    "longName": " Rosebank - Craighall",
+    "type": 3,
+    "color": "F41551",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB3",
+    "shortName": "RB3",
+    "longName": " Rosebank - Illovo",
+    "type": 3,
+    "color": "CF20B8",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB2",
+    "shortName": "RB2",
+    "longName": " Rosebank - Melrose Arch",
+    "type": 3,
+    "color": "57084C",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "RB1",
+    "shortName": "RB1",
+    "longName": " Rosebank - Highlands North",
+    "type": 3,
+    "color": "98053A",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "gautrain_ew",
+    "shortName": "E-W",
+    "longName": "East-West line",
+    "type": 2,
+    "color": "",
+    "textColor": "",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C3",
+    "shortName": "C3",
+    "longName": " Centurion – Wierda Park",
+    "type": 3,
+    "color": "CF20B8",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C2",
+    "shortName": "C2",
+    "longName": " Centurion – Rooihuiskraal",
+    "type": 3,
+    "color": "57084C",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C1",
+    "shortName": "C1",
+    "longName": " Centurion – Highveld Techno Park",
+    "type": 3,
+    "color": "98053B",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "C4",
+    "shortName": "C4",
+    "longName": " Centurion – Southdowns",
+    "type": 3,
+    "color": "F41551",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P2",
+    "shortName": "P2",
+    "longName": " Pretoria - Cbd Inner",
+    "type": 3,
+    "color": "57084C",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "P1",
+    "shortName": "P1",
+    "longName": " Pretoria - Cbd Outer",
+    "type": 3,
+    "color": "98053A",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "gautrain_ns",
+    "shortName": "N-S",
+    "longName": "North-South line",
+    "type": 2,
+    "color": "",
+    "textColor": "",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H2",
+    "shortName": "H2",
+    "longName": " Hatfield - Lynnwood",
+    "type": 3,
+    "color": "57084C",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H3",
+    "shortName": "H3",
+    "longName": " Hatfield - Arcadia",
+    "type": 3,
+    "color": "CF20B8",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H1",
+    "shortName": "H1",
+    "longName": " Hatfield - Brooklyn",
+    "type": 3,
+    "color": "98053B",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H4",
+    "shortName": "H4",
+    "longName": " Hatfield - Waverley",
+    "type": 3,
+    "color": "F41551",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "H5",
+    "shortName": "H5",
+    "longName": " Hatfield - Menlyn",
+    "type": 3,
+    "color": "D11C16",
+    "textColor": "FFFFFF",
+    "mode": "train",
+    "feed": "gautrain_gtfs"
+  },
+  {
+    "id": "METROBUS_16",
+    "shortName": "16",
+    "longName": "Auckland Park to Sydenham (UJ Scholars)",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_421D",
+    "shortName": "421D",
+    "longName": "Bellevue East to Sunninghill",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_421F",
+    "shortName": "421F",
+    "longName": "Bellevue East to Fairlands",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_421G",
+    "shortName": "421G",
+    "longName": "Bellevue East to Fourways Mall",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_421R",
+    "shortName": "421R",
+    "longName": "Bellevue East to Strydom Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_421H",
+    "shortName": "421H",
+    "longName": "Bellevue East to Honeydew via Laser Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_42",
+    "shortName": "42",
+    "longName": "Braamfontein to Elands Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_45",
+    "shortName": "45",
+    "longName": "Braamfontein to Marist Brothers via Linmeyer",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_32C",
+    "shortName": "32C",
+    "longName": "Braamfontein to Bedford Plaza",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_57B",
+    "shortName": "57B",
+    "longName": "Braamfontein to Naturena",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_56",
+    "shortName": "56",
+    "longName": "Braamfontein to Mayfield Park via Kibler Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_436",
+    "shortName": "436",
+    "longName": "Davidsonville to Sunninghill",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_18",
+    "shortName": "18",
+    "longName": "Foresthill to JHB Hospital",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_518D",
+    "shortName": "518D",
+    "longName": "Foresthill to Sunninghill via Gandhi square",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_415A",
+    "shortName": "415A",
+    "longName": "Gandhi square to Makro centre",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_59",
+    "shortName": "59",
+    "longName": "Gandhi square to Crown mines Ext",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_46A",
+    "shortName": "46A",
+    "longName": "Gandhi square to JHB Hospital",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_47",
+    "shortName": "47",
+    "longName": "Gandhi square to Townsview",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_48",
+    "shortName": "48",
+    "longName": "Gandhi square to Towerby",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_55B",
+    "shortName": "55B",
+    "longName": "Gandhi square to Evans Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_55A",
+    "shortName": "55A",
+    "longName": "Gandhi square to Ridgeway Extention",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_42A",
+    "shortName": "42A",
+    "longName": "Gandhi square to Elands Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_47C",
+    "shortName": "47C",
+    "longName": "Gandhi square to the Glen",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_47B",
+    "shortName": "47B",
+    "longName": "Gandhi square to Bassonia",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_79",
+    "shortName": "79",
+    "longName": "Gandhi square to Parkhurst via Zoo lake",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_49B",
+    "shortName": "49B",
+    "longName": "Gandhi square to Glenvista Extention 4",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_01A",
+    "shortName": "01A",
+    "longName": "Gandhi square to Parktown North via Oxford Road",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_49C",
+    "shortName": "49C",
+    "longName": "Gandhi square to Mulbarton via Liefde en Vrede",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_13A",
+    "shortName": "13A",
+    "longName": "Gandhi square to Glenhazel via Highlands North",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_4",
+    "shortName": "4",
+    "longName": "Gandhi square to Highlands north via Louis Botha",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_57A",
+    "shortName": "57A",
+    "longName": "Gandhi square to Naturena",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_13B",
+    "shortName": "13B",
+    "longName": "Gandhi square to Lyndhurst via Highlands North",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_71C",
+    "shortName": "71C",
+    "longName": "Gandhi square to Fairlands via Berario",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_86B",
+    "shortName": "86B",
+    "longName": "Gandhi square to Strydom Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_56A",
+    "shortName": "56A",
+    "longName": "Gandhi square to Mayfield Park via Kibler Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_80A",
+    "shortName": "80A",
+    "longName": "Gandhi square to Beverly Gardens",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_6D",
+    "shortName": "6D",
+    "longName": "Gandhi square to Woodmead Extention",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_417",
+    "shortName": "417",
+    "longName": "Gandhi square to Davidsonville",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_82A",
+    "shortName": "82A",
+    "longName": "Gandhi square to Ferndale Extention via Randburg",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_13C",
+    "shortName": "13C",
+    "longName": "Gandhi square to Kew via Highlands North",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_414",
+    "shortName": "414",
+    "longName": "Gandhi square to Lindhaven",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_15A",
+    "shortName": "15A",
+    "longName": "Gandhi square to Lombardy East via Sandringham",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_412",
+    "shortName": "412",
+    "longName": "Gandhi square to Witpoortjie",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_9",
+    "shortName": "9",
+    "longName": "Gandhi square to Linbro Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_415",
+    "shortName": "415",
+    "longName": "Gandhi square to Weltervreden Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_86A",
+    "shortName": "86A",
+    "longName": "Gandhi square to Kya Sands via Strydom Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_6A",
+    "shortName": "6A",
+    "longName": "Gandhi square to Leewkop Prison",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_15D",
+    "shortName": "15D",
+    "longName": "Gandhi square to Lombardy West via Kew",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_413",
+    "shortName": "413",
+    "longName": "Gandhi square to Roodekrans",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_88A",
+    "shortName": "88A",
+    "longName": "Gandhi square to Honeydew via Laser Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_89B",
+    "shortName": "89B",
+    "longName": "Gandhi square to Northgate",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_80F",
+    "shortName": "80F",
+    "longName": "Gandhi square to Fourways Mall",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_86D",
+    "shortName": "86D",
+    "longName": "Gandhi square to Northlands Business Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_12",
+    "shortName": "12",
+    "longName": "Gandhi square to Lone Hill via Kramerville",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_7A",
+    "shortName": "7A",
+    "longName": "Gandhi square to UTI, Midrand Extention",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_89A",
+    "shortName": "89A",
+    "longName": "Gandhi square to Kya Sands via Northgate",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_80D",
+    "shortName": "80D",
+    "longName": "Gandhi square to Dainfern via Fourways",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_7C",
+    "shortName": "7C",
+    "longName": "Gandhi square to Airforce Base",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_7B",
+    "shortName": "7B",
+    "longName": "Gandhi square to N1 Military Hospital",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_89C",
+    "shortName": "89C",
+    "longName": "Gandhi square to Noordgang via Northgate",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_7D",
+    "shortName": "7D",
+    "longName": "Gandhi square to Arcadia via Pta central",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_265A",
+    "shortName": "265A",
+    "longName": "Hillbrow to Elandsfontein",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_265",
+    "shortName": "265",
+    "longName": "Hillbrow to Isando",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_262",
+    "shortName": "262",
+    "longName": "Hillbrow to OR tambo via Kempton Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_49J",
+    "shortName": "49J",
+    "longName": "JHB Hospital to Mulbarton via Ext4 & Liefde en Vrede",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_227",
+    "shortName": "227",
+    "longName": "Judiths Paarl to Crosby",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_556E",
+    "shortName": "556E",
+    "longName": "Mayfield Park to Megawatt Park via Auckland Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_522",
+    "shortName": "522",
+    "longName": "Naturena to Randburg mall via Jan Smuts ave",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_520",
+    "shortName": "520",
+    "longName": "Naturena to Randburg Mall",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_520A",
+    "shortName": "520A",
+    "longName": "Naturena to Fourways Mall",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_523",
+    "shortName": "523",
+    "longName": "Naturena to fourways Mall via William niicol",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_521A",
+    "shortName": "521A",
+    "longName": "Naturena to Barlowworld",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_260A",
+    "shortName": "260A",
+    "longName": "Ormondeview to Eastgate via Bezvalley",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_260",
+    "shortName": "260",
+    "longName": "Paarlhoop to Eastgate via Bezvalley",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_551C",
+    "shortName": "551C",
+    "longName": "Protea Gardens to Sunninghill via Pimville",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_551B",
+    "shortName": "551B",
+    "longName": "Protea Gardens to Sunninghill",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_552",
+    "shortName": "552",
+    "longName": "Protea Glen to Fourways Mall",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_553",
+    "shortName": "553",
+    "longName": "Protea Glen to Kya Sands via Malibongwe",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_551A",
+    "shortName": "551A",
+    "longName": "Protea Glen to Sunninghill",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_551D",
+    "shortName": "551D",
+    "longName": "Protea North to Sunninghill",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_46",
+    "shortName": "46",
+    "longName": "Rosettenville to JHB Hospital",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_546D",
+    "shortName": "546D",
+    "longName": "Rosettenville to Sunninghill via Gandhi square",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_55",
+    "shortName": "55",
+    "longName": "Sanlam centre to Meredale via Southgate",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_52C",
+    "shortName": "52C",
+    "longName": "Sanlam centre to Winchester Hills Ext 3",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_52B",
+    "shortName": "52B",
+    "longName": "Sanlam centre to Winchester Hills",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_52",
+    "shortName": "52",
+    "longName": "Sanlam centre to Southgate via Mondeor",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_54A",
+    "shortName": "54A",
+    "longName": "Sanlam cenntre to The Glen",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_562",
+    "shortName": "562",
+    "longName": "Southgate to OR Tambo int Airport",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_10",
+    "shortName": "10",
+    "longName": "Stock Exchange to Melrose Arch",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_74",
+    "shortName": "74",
+    "longName": "Stock Exchange to Blairgowrie",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_78B",
+    "shortName": "78B",
+    "longName": "Stock Exchange to Blairgowrie via Jan Smuts ave",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_87A",
+    "shortName": "87A",
+    "longName": "Stock Exchange to Glendayson",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_8A",
+    "shortName": "8A",
+    "longName": "Stock Exchange to Winston Ridge via Houghton",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_5D",
+    "shortName": "5D",
+    "longName": "Stock Exchange to Sunninghill via Oxford/Rivonia",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_87",
+    "shortName": "87",
+    "longName": "Stock Exchange to Glendayson via Bush HILL",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_261",
+    "shortName": "261",
+    "longName": "Stpock Exchange to Edenvale",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_22C",
+    "shortName": "22C",
+    "longName": "Stock Exchange to Bedford Plaza",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_34",
+    "shortName": "34",
+    "longName": "Stock Exchange to Malvern via Jules str",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_38",
+    "shortName": "38",
+    "longName": "Stock Exchange to Germiston via Main Reef",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_547D",
+    "shortName": "547D",
+    "longName": "Townsview to Sunninghill via Gandhi square",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_33",
+    "shortName": "33",
+    "longName": "Westgate to Bedford Gardens via Sovereign street",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_32A",
+    "shortName": "32A",
+    "longName": "Westgate to Bedford Gardens",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_3",
+    "shortName": "3",
+    "longName": "Westgate to Highlands north via Rosebank",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_2",
+    "shortName": "2",
+    "longName": "Westgate to Birnam via Illovo",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_83",
+    "shortName": "83",
+    "longName": "Westgate to Malanshof",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_71B",
+    "shortName": "71B",
+    "longName": "Westgate to Fairlands via Berario",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_83C",
+    "shortName": "83C",
+    "longName": "Westgate to Randpark Ridge",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_85B",
+    "shortName": "85B",
+    "longName": "Westgate to JHB North via Randburg centre",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_15F",
+    "shortName": "15F",
+    "longName": "Westgate to Longmeadow via Sandringham",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_84",
+    "shortName": "84",
+    "longName": "Westgate to Honeydew",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_84C",
+    "shortName": "84C",
+    "longName": "Westgate to Honeydew via Randpark Ridge",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_82",
+    "shortName": "82",
+    "longName": "Westgate to Ferndale Extention via Randburg",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_80",
+    "shortName": "80",
+    "longName": "Westgate to Beeverly Gardens",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_85",
+    "shortName": "85",
+    "longName": "Westgate to Johannesburg North",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_15B",
+    "shortName": "15B",
+    "longName": "Westgate to Lombardy East via Sandringham",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_420",
+    "shortName": "420",
+    "longName": "Westgate Node to Randburg centre",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_420A",
+    "shortName": "420A",
+    "longName": "Westgate Node to Sunninghill via Cresta",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_430A",
+    "shortName": "430A",
+    "longName": "Westgate Node to Sunninghill via Cresta",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_421J",
+    "shortName": "421J",
+    "longName": "Yeoville to Noordhang via JHB North",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_421K",
+    "shortName": "421K",
+    "longName": "Yeoville to Dainfern",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_421I",
+    "shortName": "421I",
+    "longName": "Yeoville to Northlands Business Park",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "METROBUS_421N",
+    "shortName": "421N",
+    "longName": "Yeoville to Northgate centre",
+    "type": 3,
+    "mode": "bus",
+    "feed": "metrobus_gtfs"
+  },
+  {
+    "id": "relation/4511530",
+    "shortName": "BRT",
+    "longName": "BRT T1: Ellis Park East => Thokoza Park",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4511533",
+    "shortName": "BRT",
+    "longName": "BRT T1: Thokoza Park => Ellis Park East",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4511598",
+    "shortName": "BRT",
+    "longName": "BRT T2: Thokoza Park => Braamfontein",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4511835",
+    "shortName": "BRT",
+    "longName": "BRT T3: Thokoza Park => Parktown & Library Gardens East",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4512263",
+    "shortName": "Bus",
+    "longName": "Bus C1: Ellis Park East => Dobsonville",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4513582",
+    "shortName": "Bus",
+    "longName": "Bus C2: Dobsonville => Maponya Mall",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4513703",
+    "shortName": "Bus",
+    "longName": "Bus C3: Inner City Route",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4513946",
+    "shortName": "Bus",
+    "longName": "Bus C4: Parktown & City => Windsor West & Cresta",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4513947",
+    "shortName": "Bus",
+    "longName": "Bus C4: Windsor West & Cresta => Parktown & City",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4514015",
+    "shortName": "Bus",
+    "longName": "Bus C5: Florida North => Parktown & City",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4514016",
+    "shortName": "Bus",
+    "longName": "Bus C5: Parktown & City => Florida North",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4514458",
+    "shortName": "Bus",
+    "longName": "Bus F11: Bellevue / Yeoville => City",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4514459",
+    "shortName": "Bus",
+    "longName": "Bus F11: City => Bellevue / Yeoville",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4514729",
+    "shortName": "Bus",
+    "longName": "Bus F2: Protea Glen => Thokoza Park",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4514730",
+    "shortName": "Bus",
+    "longName": "Bus F2: Thokoza Park => Protea Glen",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4514818",
+    "shortName": "Bus",
+    "longName": "Bus F1: Naledi => Thokoza Park",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4514819",
+    "shortName": "Bus",
+    "longName": "Bus F1: Thokoza Park => Naledi",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4516346",
+    "shortName": "Bus",
+    "longName": "Bus F5: Eldorado Park => Lakeview",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4516347",
+    "shortName": "Bus",
+    "longName": "Bus F5: Lakeview => Eldorado Park",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4516469",
+    "shortName": "Bus",
+    "longName": "Bus F8: Westbury Station => Greymont",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4517007",
+    "shortName": "Bus",
+    "longName": "Bus F6: Lea Glen => Bosmont",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4517118",
+    "shortName": "Bus",
+    "longName": "Bus F12: Parktown Distribution Roas",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4538797",
+    "shortName": "Bus",
+    "longName": "Bus F10: Pimville => Lakeview",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4540480",
+    "shortName": "Bus",
+    "longName": "Bus F3: Jabavu => Thokoza Park",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4540481",
+    "shortName": "Bus",
+    "longName": "Bus F4: Boomtown => Mofolo",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4540482",
+    "shortName": "Bus",
+    "longName": "Bus F4: Mofolo => Boomtown",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4543758",
+    "shortName": "Bus",
+    "longName": "Bus F9: Mapetla => Thokoza Park",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  },
+  {
+    "id": "relation/4543759",
+    "shortName": "Bus",
+    "longName": "Bus F9: Mapetla => Thokoza Park",
+    "type": 3,
+    "mode": "brt",
+    "feed": "rea-vaya_gtfs"
+  }
+]

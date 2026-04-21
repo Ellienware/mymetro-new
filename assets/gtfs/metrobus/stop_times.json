@@ -1,0 +1,5126 @@
+[
+  {
+    "trip_id": "METROBUS_16_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_16_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_16_weekday",
+    "arrival_time": "06:09:30",
+    "departure_time": "06:09:30",
+    "stop_id": "STOP_16_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_16_weekday",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "STOP_16_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_16_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_16_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_16_weekend",
+    "arrival_time": "06:09:30",
+    "departure_time": "06:09:30",
+    "stop_id": "STOP_16_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_16_weekend",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "STOP_16_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421D_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421D_weekday",
+    "arrival_time": "06:13:30",
+    "departure_time": "06:13:30",
+    "stop_id": "STOP_421D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421D_weekday",
+    "arrival_time": "06:27:00",
+    "departure_time": "06:27:00",
+    "stop_id": "STOP_421D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421D_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421D_weekend",
+    "arrival_time": "06:13:30",
+    "departure_time": "06:13:30",
+    "stop_id": "STOP_421D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421D_weekend",
+    "arrival_time": "06:27:00",
+    "departure_time": "06:27:00",
+    "stop_id": "STOP_421D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421F_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421F_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421F_weekday",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "STOP_421F_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421F_weekday",
+    "arrival_time": "06:32:00",
+    "departure_time": "06:32:00",
+    "stop_id": "STOP_421F_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421F_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421F_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421F_weekend",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "STOP_421F_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421F_weekend",
+    "arrival_time": "06:32:00",
+    "departure_time": "06:32:00",
+    "stop_id": "STOP_421F_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421G_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421G_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421G_weekday",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_421G_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421G_weekday",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_421G_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421G_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421G_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421G_weekend",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_421G_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421G_weekend",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_421G_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421R_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421R_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421R_weekday",
+    "arrival_time": "06:15:30",
+    "departure_time": "06:15:30",
+    "stop_id": "STOP_421R_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421R_weekday",
+    "arrival_time": "06:31:00",
+    "departure_time": "06:31:00",
+    "stop_id": "STOP_421R_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421R_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421R_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421R_weekend",
+    "arrival_time": "06:15:30",
+    "departure_time": "06:15:30",
+    "stop_id": "STOP_421R_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421R_weekend",
+    "arrival_time": "06:31:00",
+    "departure_time": "06:31:00",
+    "stop_id": "STOP_421R_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421H_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421H_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421H_weekday",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "STOP_421H_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421H_weekday",
+    "arrival_time": "06:42:00",
+    "departure_time": "06:42:00",
+    "stop_id": "STOP_421H_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421H_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421H_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421H_weekend",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "STOP_421H_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421H_weekend",
+    "arrival_time": "06:42:00",
+    "departure_time": "06:42:00",
+    "stop_id": "STOP_421H_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_42_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_42_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_42_weekday",
+    "arrival_time": "06:07:30",
+    "departure_time": "06:07:30",
+    "stop_id": "STOP_42_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_42_weekday",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "STOP_42_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_42_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_42_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_42_weekend",
+    "arrival_time": "06:07:30",
+    "departure_time": "06:07:30",
+    "stop_id": "STOP_42_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_42_weekend",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "STOP_42_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_45_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_45_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_45_weekday",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "STOP_45_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_45_weekday",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_45_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_45_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_45_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_45_weekend",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "STOP_45_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_45_weekend",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_45_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_32C_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_32C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_32C_weekday",
+    "arrival_time": "06:09:30",
+    "departure_time": "06:09:30",
+    "stop_id": "STOP_32C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_32C_weekday",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "STOP_32C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_32C_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_32C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_32C_weekend",
+    "arrival_time": "06:09:30",
+    "departure_time": "06:09:30",
+    "stop_id": "STOP_32C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_32C_weekend",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "STOP_32C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_57B_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_57B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_57B_weekday",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "STOP_57B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_57B_weekday",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_57B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_57B_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_57B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_57B_weekend",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "STOP_57B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_57B_weekend",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_57B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_56_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_56_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_56_weekday",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "STOP_56_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_56_weekday",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "STOP_56_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_56_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_56_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_56_weekend",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "STOP_56_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_56_weekend",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "STOP_56_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_436_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_436_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_436_weekday",
+    "arrival_time": "06:18:30",
+    "departure_time": "06:18:30",
+    "stop_id": "STOP_436_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_436_weekday",
+    "arrival_time": "06:37:00",
+    "departure_time": "06:37:00",
+    "stop_id": "STOP_436_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_436_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_436_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_436_weekend",
+    "arrival_time": "06:18:30",
+    "departure_time": "06:18:30",
+    "stop_id": "STOP_436_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_436_weekend",
+    "arrival_time": "06:37:00",
+    "departure_time": "06:37:00",
+    "stop_id": "STOP_436_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_18_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_18_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_18_weekday",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_18_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_18_weekday",
+    "arrival_time": "06:36:00",
+    "departure_time": "06:36:00",
+    "stop_id": "STOP_18_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_18_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_18_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_18_weekend",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_18_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_18_weekend",
+    "arrival_time": "06:36:00",
+    "departure_time": "06:36:00",
+    "stop_id": "STOP_18_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_518D_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_518D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_518D_weekday",
+    "arrival_time": "06:34:00",
+    "departure_time": "06:34:00",
+    "stop_id": "STOP_518D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_518D_weekday",
+    "arrival_time": "07:08:00",
+    "departure_time": "07:08:00",
+    "stop_id": "STOP_518D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_518D_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_518D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_518D_weekend",
+    "arrival_time": "06:34:00",
+    "departure_time": "06:34:00",
+    "stop_id": "STOP_518D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_518D_weekend",
+    "arrival_time": "07:08:00",
+    "departure_time": "07:08:00",
+    "stop_id": "STOP_518D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_415A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_415A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_415A_weekday",
+    "arrival_time": "06:05:30",
+    "departure_time": "06:05:30",
+    "stop_id": "STOP_415A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_415A_weekday",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "STOP_415A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_415A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_415A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_415A_weekend",
+    "arrival_time": "06:05:30",
+    "departure_time": "06:05:30",
+    "stop_id": "STOP_415A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_415A_weekend",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "STOP_415A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_59_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_59_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_59_weekday",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "STOP_59_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_59_weekday",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "STOP_59_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_59_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_59_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_59_weekend",
+    "arrival_time": "06:05:00",
+    "departure_time": "06:05:00",
+    "stop_id": "STOP_59_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_59_weekend",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "STOP_59_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_46A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_46A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_46A_weekday",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "STOP_46A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_46A_weekday",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "STOP_46A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_46A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_46A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_46A_weekend",
+    "arrival_time": "06:08:00",
+    "departure_time": "06:08:00",
+    "stop_id": "STOP_46A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_46A_weekend",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "STOP_46A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_47_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_47_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_47_weekday",
+    "arrival_time": "06:07:30",
+    "departure_time": "06:07:30",
+    "stop_id": "STOP_47_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_47_weekday",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "STOP_47_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_47_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_47_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_47_weekend",
+    "arrival_time": "06:07:30",
+    "departure_time": "06:07:30",
+    "stop_id": "STOP_47_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_47_weekend",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "STOP_47_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_48_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_48_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_48_weekday",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "STOP_48_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_48_weekday",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_48_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_48_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_48_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_48_weekend",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "STOP_48_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_48_weekend",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_48_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_55B_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_55B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_55B_weekday",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "STOP_55B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_55B_weekday",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "STOP_55B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_55B_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_55B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_55B_weekend",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "STOP_55B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_55B_weekend",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "STOP_55B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_55A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_55A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_55A_weekday",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "STOP_55A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_55A_weekday",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_55A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_55A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_55A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_55A_weekend",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "STOP_55A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_55A_weekend",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_55A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_42A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_42A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_42A_weekday",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "STOP_42A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_42A_weekday",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_42A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_42A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_42A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_42A_weekend",
+    "arrival_time": "06:07:00",
+    "departure_time": "06:07:00",
+    "stop_id": "STOP_42A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_42A_weekend",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_42A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_47C_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_47C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_47C_weekday",
+    "arrival_time": "06:08:30",
+    "departure_time": "06:08:30",
+    "stop_id": "STOP_47C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_47C_weekday",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_47C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_47C_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_47C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_47C_weekend",
+    "arrival_time": "06:08:30",
+    "departure_time": "06:08:30",
+    "stop_id": "STOP_47C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_47C_weekend",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_47C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_47B_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_47B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_47B_weekday",
+    "arrival_time": "06:08:30",
+    "departure_time": "06:08:30",
+    "stop_id": "STOP_47B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_47B_weekday",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_47B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_47B_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_47B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_47B_weekend",
+    "arrival_time": "06:08:30",
+    "departure_time": "06:08:30",
+    "stop_id": "STOP_47B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_47B_weekend",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_47B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_79_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_79_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_79_weekday",
+    "arrival_time": "06:11:30",
+    "departure_time": "06:11:30",
+    "stop_id": "STOP_79_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_79_weekday",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_79_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_79_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_79_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_79_weekend",
+    "arrival_time": "06:11:30",
+    "departure_time": "06:11:30",
+    "stop_id": "STOP_79_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_79_weekend",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_79_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_49B_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_49B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_49B_weekday",
+    "arrival_time": "06:10:30",
+    "departure_time": "06:10:30",
+    "stop_id": "STOP_49B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_49B_weekday",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "STOP_49B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_49B_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_49B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_49B_weekend",
+    "arrival_time": "06:10:30",
+    "departure_time": "06:10:30",
+    "stop_id": "STOP_49B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_49B_weekend",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "STOP_49B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_01A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_01A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_01A_weekday",
+    "arrival_time": "06:11:30",
+    "departure_time": "06:11:30",
+    "stop_id": "STOP_01A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_01A_weekday",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_01A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_01A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_01A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_01A_weekend",
+    "arrival_time": "06:11:30",
+    "departure_time": "06:11:30",
+    "stop_id": "STOP_01A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_01A_weekend",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_01A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_49C_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_49C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_49C_weekday",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "STOP_49C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_49C_weekday",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "STOP_49C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_49C_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_49C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_49C_weekend",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "STOP_49C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_49C_weekend",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "STOP_49C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_13A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_13A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_13A_weekday",
+    "arrival_time": "06:11:30",
+    "departure_time": "06:11:30",
+    "stop_id": "STOP_13A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_13A_weekday",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_13A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_13A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_13A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_13A_weekend",
+    "arrival_time": "06:11:30",
+    "departure_time": "06:11:30",
+    "stop_id": "STOP_13A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_13A_weekend",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_13A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_4_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_4_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_4_weekday",
+    "arrival_time": "06:12:30",
+    "departure_time": "06:12:30",
+    "stop_id": "STOP_4_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_4_weekday",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "STOP_4_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_4_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_4_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_4_weekend",
+    "arrival_time": "06:12:30",
+    "departure_time": "06:12:30",
+    "stop_id": "STOP_4_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_4_weekend",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "STOP_4_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_57A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_57A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_57A_weekday",
+    "arrival_time": "06:10:30",
+    "departure_time": "06:10:30",
+    "stop_id": "STOP_57A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_57A_weekday",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "STOP_57A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_57A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_57A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_57A_weekend",
+    "arrival_time": "06:10:30",
+    "departure_time": "06:10:30",
+    "stop_id": "STOP_57A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_57A_weekend",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "STOP_57A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_13B_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_13B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_13B_weekday",
+    "arrival_time": "06:12:30",
+    "departure_time": "06:12:30",
+    "stop_id": "STOP_13B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_13B_weekday",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "STOP_13B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_13B_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_13B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_13B_weekend",
+    "arrival_time": "06:12:30",
+    "departure_time": "06:12:30",
+    "stop_id": "STOP_13B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_13B_weekend",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "STOP_13B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_71C_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_71C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_71C_weekday",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "STOP_71C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_71C_weekday",
+    "arrival_time": "06:30:00",
+    "departure_time": "06:30:00",
+    "stop_id": "STOP_71C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_71C_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_71C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_71C_weekend",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "STOP_71C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_71C_weekend",
+    "arrival_time": "06:30:00",
+    "departure_time": "06:30:00",
+    "stop_id": "STOP_71C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_86B_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_86B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_86B_weekday",
+    "arrival_time": "06:15:30",
+    "departure_time": "06:15:30",
+    "stop_id": "STOP_86B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_86B_weekday",
+    "arrival_time": "06:31:00",
+    "departure_time": "06:31:00",
+    "stop_id": "STOP_86B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_86B_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_86B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_86B_weekend",
+    "arrival_time": "06:15:30",
+    "departure_time": "06:15:30",
+    "stop_id": "STOP_86B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_86B_weekend",
+    "arrival_time": "06:31:00",
+    "departure_time": "06:31:00",
+    "stop_id": "STOP_86B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_56A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_56A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_56A_weekday",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "STOP_56A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_56A_weekday",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "STOP_56A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_56A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_56A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_56A_weekend",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "STOP_56A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_56A_weekend",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "STOP_56A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_80A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_80A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_80A_weekday",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_80A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_80A_weekday",
+    "arrival_time": "06:34:00",
+    "departure_time": "06:34:00",
+    "stop_id": "STOP_80A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_80A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_80A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_80A_weekend",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_80A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_80A_weekend",
+    "arrival_time": "06:34:00",
+    "departure_time": "06:34:00",
+    "stop_id": "STOP_80A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_6D_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_6D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_6D_weekday",
+    "arrival_time": "06:12:30",
+    "departure_time": "06:12:30",
+    "stop_id": "STOP_6D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_6D_weekday",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "STOP_6D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_6D_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_6D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_6D_weekend",
+    "arrival_time": "06:12:30",
+    "departure_time": "06:12:30",
+    "stop_id": "STOP_6D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_6D_weekend",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "STOP_6D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_417_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_417_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_417_weekday",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_417_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_417_weekday",
+    "arrival_time": "06:34:00",
+    "departure_time": "06:34:00",
+    "stop_id": "STOP_417_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_417_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_417_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_417_weekend",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_417_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_417_weekend",
+    "arrival_time": "06:34:00",
+    "departure_time": "06:34:00",
+    "stop_id": "STOP_417_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_82A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_82A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_82A_weekday",
+    "arrival_time": "06:18:30",
+    "departure_time": "06:18:30",
+    "stop_id": "STOP_82A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_82A_weekday",
+    "arrival_time": "06:37:00",
+    "departure_time": "06:37:00",
+    "stop_id": "STOP_82A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_82A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_82A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_82A_weekend",
+    "arrival_time": "06:18:30",
+    "departure_time": "06:18:30",
+    "stop_id": "STOP_82A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_82A_weekend",
+    "arrival_time": "06:37:00",
+    "departure_time": "06:37:00",
+    "stop_id": "STOP_82A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_13C_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_13C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_13C_weekday",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_13C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_13C_weekday",
+    "arrival_time": "06:34:00",
+    "departure_time": "06:34:00",
+    "stop_id": "STOP_13C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_13C_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_13C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_13C_weekend",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_13C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_13C_weekend",
+    "arrival_time": "06:34:00",
+    "departure_time": "06:34:00",
+    "stop_id": "STOP_13C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_414_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_414_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_414_weekday",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_414_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_414_weekday",
+    "arrival_time": "06:36:00",
+    "departure_time": "06:36:00",
+    "stop_id": "STOP_414_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_414_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_414_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_414_weekend",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_414_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_414_weekend",
+    "arrival_time": "06:36:00",
+    "departure_time": "06:36:00",
+    "stop_id": "STOP_414_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_15A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_15A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_15A_weekday",
+    "arrival_time": "06:14:30",
+    "departure_time": "06:14:30",
+    "stop_id": "STOP_15A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_15A_weekday",
+    "arrival_time": "06:29:00",
+    "departure_time": "06:29:00",
+    "stop_id": "STOP_15A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_15A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_15A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_15A_weekend",
+    "arrival_time": "06:14:30",
+    "departure_time": "06:14:30",
+    "stop_id": "STOP_15A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_15A_weekend",
+    "arrival_time": "06:29:00",
+    "departure_time": "06:29:00",
+    "stop_id": "STOP_15A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_412_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_412_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_412_weekday",
+    "arrival_time": "06:17:30",
+    "departure_time": "06:17:30",
+    "stop_id": "STOP_412_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_412_weekday",
+    "arrival_time": "06:35:00",
+    "departure_time": "06:35:00",
+    "stop_id": "STOP_412_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_412_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_412_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_412_weekend",
+    "arrival_time": "06:17:30",
+    "departure_time": "06:17:30",
+    "stop_id": "STOP_412_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_412_weekend",
+    "arrival_time": "06:35:00",
+    "departure_time": "06:35:00",
+    "stop_id": "STOP_412_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_9_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_9_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_9_weekday",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "STOP_9_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_9_weekday",
+    "arrival_time": "06:26:00",
+    "departure_time": "06:26:00",
+    "stop_id": "STOP_9_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_9_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_9_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_9_weekend",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "STOP_9_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_9_weekend",
+    "arrival_time": "06:26:00",
+    "departure_time": "06:26:00",
+    "stop_id": "STOP_9_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_415_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_415_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_415_weekday",
+    "arrival_time": "06:14:30",
+    "departure_time": "06:14:30",
+    "stop_id": "STOP_415_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_415_weekday",
+    "arrival_time": "06:29:00",
+    "departure_time": "06:29:00",
+    "stop_id": "STOP_415_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_415_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_415_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_415_weekend",
+    "arrival_time": "06:14:30",
+    "departure_time": "06:14:30",
+    "stop_id": "STOP_415_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_415_weekend",
+    "arrival_time": "06:29:00",
+    "departure_time": "06:29:00",
+    "stop_id": "STOP_415_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_86A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_86A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_86A_weekday",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_86A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_86A_weekday",
+    "arrival_time": "06:46:00",
+    "departure_time": "06:46:00",
+    "stop_id": "STOP_86A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_86A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_86A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_86A_weekend",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_86A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_86A_weekend",
+    "arrival_time": "06:46:00",
+    "departure_time": "06:46:00",
+    "stop_id": "STOP_86A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_6A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_6A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_6A_weekday",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_6A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_6A_weekday",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_6A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_6A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_6A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_6A_weekend",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_6A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_6A_weekend",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_6A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_15D_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_15D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_15D_weekday",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_15D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_15D_weekday",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_15D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_15D_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_15D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_15D_weekend",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_15D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_15D_weekend",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_15D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_413_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_413_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_413_weekday",
+    "arrival_time": "06:19:30",
+    "departure_time": "06:19:30",
+    "stop_id": "STOP_413_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_413_weekday",
+    "arrival_time": "06:39:00",
+    "departure_time": "06:39:00",
+    "stop_id": "STOP_413_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_413_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_413_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_413_weekend",
+    "arrival_time": "06:19:30",
+    "departure_time": "06:19:30",
+    "stop_id": "STOP_413_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_413_weekend",
+    "arrival_time": "06:39:00",
+    "departure_time": "06:39:00",
+    "stop_id": "STOP_413_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_88A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_88A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_88A_weekday",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "STOP_88A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_88A_weekday",
+    "arrival_time": "06:38:00",
+    "departure_time": "06:38:00",
+    "stop_id": "STOP_88A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_88A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_88A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_88A_weekend",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "STOP_88A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_88A_weekend",
+    "arrival_time": "06:38:00",
+    "departure_time": "06:38:00",
+    "stop_id": "STOP_88A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_89B_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_89B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_89B_weekday",
+    "arrival_time": "06:17:30",
+    "departure_time": "06:17:30",
+    "stop_id": "STOP_89B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_89B_weekday",
+    "arrival_time": "06:35:00",
+    "departure_time": "06:35:00",
+    "stop_id": "STOP_89B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_89B_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_89B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_89B_weekend",
+    "arrival_time": "06:17:30",
+    "departure_time": "06:17:30",
+    "stop_id": "STOP_89B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_89B_weekend",
+    "arrival_time": "06:35:00",
+    "departure_time": "06:35:00",
+    "stop_id": "STOP_89B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_80F_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_80F_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_80F_weekday",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "STOP_80F_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_80F_weekday",
+    "arrival_time": "06:30:00",
+    "departure_time": "06:30:00",
+    "stop_id": "STOP_80F_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_80F_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_80F_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_80F_weekend",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "STOP_80F_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_80F_weekend",
+    "arrival_time": "06:30:00",
+    "departure_time": "06:30:00",
+    "stop_id": "STOP_80F_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_86D_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_86D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_86D_weekday",
+    "arrival_time": "06:18:30",
+    "departure_time": "06:18:30",
+    "stop_id": "STOP_86D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_86D_weekday",
+    "arrival_time": "06:37:00",
+    "departure_time": "06:37:00",
+    "stop_id": "STOP_86D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_86D_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_86D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_86D_weekend",
+    "arrival_time": "06:18:30",
+    "departure_time": "06:18:30",
+    "stop_id": "STOP_86D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_86D_weekend",
+    "arrival_time": "06:37:00",
+    "departure_time": "06:37:00",
+    "stop_id": "STOP_86D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_12_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_12_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_12_weekday",
+    "arrival_time": "06:20:30",
+    "departure_time": "06:20:30",
+    "stop_id": "STOP_12_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_12_weekday",
+    "arrival_time": "06:41:00",
+    "departure_time": "06:41:00",
+    "stop_id": "STOP_12_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_12_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_12_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_12_weekend",
+    "arrival_time": "06:20:30",
+    "departure_time": "06:20:30",
+    "stop_id": "STOP_12_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_12_weekend",
+    "arrival_time": "06:41:00",
+    "departure_time": "06:41:00",
+    "stop_id": "STOP_12_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_7A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_7A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_7A_weekday",
+    "arrival_time": "06:17:30",
+    "departure_time": "06:17:30",
+    "stop_id": "STOP_7A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_7A_weekday",
+    "arrival_time": "06:35:00",
+    "departure_time": "06:35:00",
+    "stop_id": "STOP_7A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_7A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_7A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_7A_weekend",
+    "arrival_time": "06:17:30",
+    "departure_time": "06:17:30",
+    "stop_id": "STOP_7A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_7A_weekend",
+    "arrival_time": "06:35:00",
+    "departure_time": "06:35:00",
+    "stop_id": "STOP_7A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_89A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_89A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_89A_weekday",
+    "arrival_time": "06:21:30",
+    "departure_time": "06:21:30",
+    "stop_id": "STOP_89A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_89A_weekday",
+    "arrival_time": "06:43:00",
+    "departure_time": "06:43:00",
+    "stop_id": "STOP_89A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_89A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_89A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_89A_weekend",
+    "arrival_time": "06:21:30",
+    "departure_time": "06:21:30",
+    "stop_id": "STOP_89A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_89A_weekend",
+    "arrival_time": "06:43:00",
+    "departure_time": "06:43:00",
+    "stop_id": "STOP_89A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_80D_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_80D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_80D_weekday",
+    "arrival_time": "06:22:30",
+    "departure_time": "06:22:30",
+    "stop_id": "STOP_80D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_80D_weekday",
+    "arrival_time": "06:45:00",
+    "departure_time": "06:45:00",
+    "stop_id": "STOP_80D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_80D_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_80D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_80D_weekend",
+    "arrival_time": "06:22:30",
+    "departure_time": "06:22:30",
+    "stop_id": "STOP_80D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_80D_weekend",
+    "arrival_time": "06:45:00",
+    "departure_time": "06:45:00",
+    "stop_id": "STOP_80D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_7C_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_7C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_7C_weekday",
+    "arrival_time": "06:22:30",
+    "departure_time": "06:22:30",
+    "stop_id": "STOP_7C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_7C_weekday",
+    "arrival_time": "06:45:00",
+    "departure_time": "06:45:00",
+    "stop_id": "STOP_7C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_7C_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_7C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_7C_weekend",
+    "arrival_time": "06:22:30",
+    "departure_time": "06:22:30",
+    "stop_id": "STOP_7C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_7C_weekend",
+    "arrival_time": "06:45:00",
+    "departure_time": "06:45:00",
+    "stop_id": "STOP_7C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_7B_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_7B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_7B_weekday",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_7B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_7B_weekday",
+    "arrival_time": "06:46:00",
+    "departure_time": "06:46:00",
+    "stop_id": "STOP_7B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_7B_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_7B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_7B_weekend",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_7B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_7B_weekend",
+    "arrival_time": "06:46:00",
+    "departure_time": "06:46:00",
+    "stop_id": "STOP_7B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_89C_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_89C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_89C_weekday",
+    "arrival_time": "06:29:00",
+    "departure_time": "06:29:00",
+    "stop_id": "STOP_89C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_89C_weekday",
+    "arrival_time": "06:58:00",
+    "departure_time": "06:58:00",
+    "stop_id": "STOP_89C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_89C_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_89C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_89C_weekend",
+    "arrival_time": "06:29:00",
+    "departure_time": "06:29:00",
+    "stop_id": "STOP_89C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_89C_weekend",
+    "arrival_time": "06:58:00",
+    "departure_time": "06:58:00",
+    "stop_id": "STOP_89C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_7D_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_7D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_7D_weekday",
+    "arrival_time": "06:27:00",
+    "departure_time": "06:27:00",
+    "stop_id": "STOP_7D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_7D_weekday",
+    "arrival_time": "06:54:00",
+    "departure_time": "06:54:00",
+    "stop_id": "STOP_7D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_7D_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_7D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_7D_weekend",
+    "arrival_time": "06:27:00",
+    "departure_time": "06:27:00",
+    "stop_id": "STOP_7D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_7D_weekend",
+    "arrival_time": "06:54:00",
+    "departure_time": "06:54:00",
+    "stop_id": "STOP_7D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_265A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_265A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_265A_weekday",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "STOP_265A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_265A_weekday",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "STOP_265A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_265A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_265A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_265A_weekend",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "STOP_265A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_265A_weekend",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "STOP_265A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_265_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_265_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_265_weekday",
+    "arrival_time": "06:13:30",
+    "departure_time": "06:13:30",
+    "stop_id": "STOP_265_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_265_weekday",
+    "arrival_time": "06:27:00",
+    "departure_time": "06:27:00",
+    "stop_id": "STOP_265_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_265_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_265_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_265_weekend",
+    "arrival_time": "06:13:30",
+    "departure_time": "06:13:30",
+    "stop_id": "STOP_265_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_265_weekend",
+    "arrival_time": "06:27:00",
+    "departure_time": "06:27:00",
+    "stop_id": "STOP_265_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_262_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_262_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_262_weekday",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "STOP_262_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_262_weekday",
+    "arrival_time": "06:44:00",
+    "departure_time": "06:44:00",
+    "stop_id": "STOP_262_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_262_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_262_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_262_weekend",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "STOP_262_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_262_weekend",
+    "arrival_time": "06:44:00",
+    "departure_time": "06:44:00",
+    "stop_id": "STOP_262_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_49J_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_49J_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_49J_weekday",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "STOP_49J_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_49J_weekday",
+    "arrival_time": "06:30:00",
+    "departure_time": "06:30:00",
+    "stop_id": "STOP_49J_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_49J_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_49J_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_49J_weekend",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "STOP_49J_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_49J_weekend",
+    "arrival_time": "06:30:00",
+    "departure_time": "06:30:00",
+    "stop_id": "STOP_49J_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_227_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_227_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_227_weekday",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "STOP_227_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_227_weekday",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "STOP_227_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_227_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_227_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_227_weekend",
+    "arrival_time": "06:11:00",
+    "departure_time": "06:11:00",
+    "stop_id": "STOP_227_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_227_weekend",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "STOP_227_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_556E_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_556E_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_556E_weekday",
+    "arrival_time": "06:25:30",
+    "departure_time": "06:25:30",
+    "stop_id": "STOP_556E_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_556E_weekday",
+    "arrival_time": "06:51:00",
+    "departure_time": "06:51:00",
+    "stop_id": "STOP_556E_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_556E_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_556E_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_556E_weekend",
+    "arrival_time": "06:25:30",
+    "departure_time": "06:25:30",
+    "stop_id": "STOP_556E_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_556E_weekend",
+    "arrival_time": "06:51:00",
+    "departure_time": "06:51:00",
+    "stop_id": "STOP_556E_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_522_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_522_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_522_weekday",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "STOP_522_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_522_weekday",
+    "arrival_time": "06:38:00",
+    "departure_time": "06:38:00",
+    "stop_id": "STOP_522_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_522_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_522_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_522_weekend",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "STOP_522_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_522_weekend",
+    "arrival_time": "06:38:00",
+    "departure_time": "06:38:00",
+    "stop_id": "STOP_522_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_520_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_520_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_520_weekday",
+    "arrival_time": "06:15:30",
+    "departure_time": "06:15:30",
+    "stop_id": "STOP_520_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_520_weekday",
+    "arrival_time": "06:31:00",
+    "departure_time": "06:31:00",
+    "stop_id": "STOP_520_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_520_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_520_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_520_weekend",
+    "arrival_time": "06:15:30",
+    "departure_time": "06:15:30",
+    "stop_id": "STOP_520_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_520_weekend",
+    "arrival_time": "06:31:00",
+    "departure_time": "06:31:00",
+    "stop_id": "STOP_520_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_520A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_520A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_520A_weekday",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_520A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_520A_weekday",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_520A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_520A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_520A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_520A_weekend",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_520A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_520A_weekend",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_520A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_523_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_523_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_523_weekday",
+    "arrival_time": "06:17:30",
+    "departure_time": "06:17:30",
+    "stop_id": "STOP_523_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_523_weekday",
+    "arrival_time": "06:35:00",
+    "departure_time": "06:35:00",
+    "stop_id": "STOP_523_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_523_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_523_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_523_weekend",
+    "arrival_time": "06:17:30",
+    "departure_time": "06:17:30",
+    "stop_id": "STOP_523_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_523_weekend",
+    "arrival_time": "06:35:00",
+    "departure_time": "06:35:00",
+    "stop_id": "STOP_523_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_521A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_521A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_521A_weekday",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_521A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_521A_weekday",
+    "arrival_time": "06:36:00",
+    "departure_time": "06:36:00",
+    "stop_id": "STOP_521A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_521A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_521A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_521A_weekend",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_521A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_521A_weekend",
+    "arrival_time": "06:36:00",
+    "departure_time": "06:36:00",
+    "stop_id": "STOP_521A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_260A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_260A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_260A_weekday",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "STOP_260A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_260A_weekday",
+    "arrival_time": "06:26:00",
+    "departure_time": "06:26:00",
+    "stop_id": "STOP_260A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_260A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_260A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_260A_weekend",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "STOP_260A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_260A_weekend",
+    "arrival_time": "06:26:00",
+    "departure_time": "06:26:00",
+    "stop_id": "STOP_260A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_260_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_260_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_260_weekday",
+    "arrival_time": "06:12:30",
+    "departure_time": "06:12:30",
+    "stop_id": "STOP_260_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_260_weekday",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "STOP_260_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_260_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_260_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_260_weekend",
+    "arrival_time": "06:12:30",
+    "departure_time": "06:12:30",
+    "stop_id": "STOP_260_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_260_weekend",
+    "arrival_time": "06:25:00",
+    "departure_time": "06:25:00",
+    "stop_id": "STOP_260_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_551C_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_551C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_551C_weekday",
+    "arrival_time": "06:27:30",
+    "departure_time": "06:27:30",
+    "stop_id": "STOP_551C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_551C_weekday",
+    "arrival_time": "06:55:00",
+    "departure_time": "06:55:00",
+    "stop_id": "STOP_551C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_551C_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_551C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_551C_weekend",
+    "arrival_time": "06:27:30",
+    "departure_time": "06:27:30",
+    "stop_id": "STOP_551C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_551C_weekend",
+    "arrival_time": "06:55:00",
+    "departure_time": "06:55:00",
+    "stop_id": "STOP_551C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_551B_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_551B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_551B_weekday",
+    "arrival_time": "06:21:30",
+    "departure_time": "06:21:30",
+    "stop_id": "STOP_551B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_551B_weekday",
+    "arrival_time": "06:43:00",
+    "departure_time": "06:43:00",
+    "stop_id": "STOP_551B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_551B_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_551B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_551B_weekend",
+    "arrival_time": "06:21:30",
+    "departure_time": "06:21:30",
+    "stop_id": "STOP_551B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_551B_weekend",
+    "arrival_time": "06:43:00",
+    "departure_time": "06:43:00",
+    "stop_id": "STOP_551B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_552_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_552_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_552_weekday",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_552_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_552_weekday",
+    "arrival_time": "06:36:00",
+    "departure_time": "06:36:00",
+    "stop_id": "STOP_552_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_552_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_552_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_552_weekend",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_552_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_552_weekend",
+    "arrival_time": "06:36:00",
+    "departure_time": "06:36:00",
+    "stop_id": "STOP_552_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_553_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_553_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_553_weekday",
+    "arrival_time": "06:27:30",
+    "departure_time": "06:27:30",
+    "stop_id": "STOP_553_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_553_weekday",
+    "arrival_time": "06:55:00",
+    "departure_time": "06:55:00",
+    "stop_id": "STOP_553_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_553_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_553_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_553_weekend",
+    "arrival_time": "06:27:30",
+    "departure_time": "06:27:30",
+    "stop_id": "STOP_553_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_553_weekend",
+    "arrival_time": "06:55:00",
+    "departure_time": "06:55:00",
+    "stop_id": "STOP_553_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_551A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_551A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_551A_weekday",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "STOP_551A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_551A_weekday",
+    "arrival_time": "06:44:00",
+    "departure_time": "06:44:00",
+    "stop_id": "STOP_551A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_551A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_551A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_551A_weekend",
+    "arrival_time": "06:22:00",
+    "departure_time": "06:22:00",
+    "stop_id": "STOP_551A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_551A_weekend",
+    "arrival_time": "06:44:00",
+    "departure_time": "06:44:00",
+    "stop_id": "STOP_551A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_551D_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_551D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_551D_weekday",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_551D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_551D_weekday",
+    "arrival_time": "06:46:00",
+    "departure_time": "06:46:00",
+    "stop_id": "STOP_551D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_551D_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_551D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_551D_weekend",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_551D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_551D_weekend",
+    "arrival_time": "06:46:00",
+    "departure_time": "06:46:00",
+    "stop_id": "STOP_551D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_46_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_46_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_46_weekday",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "STOP_46_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_46_weekday",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "STOP_46_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_46_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_46_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_46_weekend",
+    "arrival_time": "06:10:00",
+    "departure_time": "06:10:00",
+    "stop_id": "STOP_46_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_46_weekend",
+    "arrival_time": "06:20:00",
+    "departure_time": "06:20:00",
+    "stop_id": "STOP_46_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_546D_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_546D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_546D_weekday",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "STOP_546D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_546D_weekday",
+    "arrival_time": "06:42:00",
+    "departure_time": "06:42:00",
+    "stop_id": "STOP_546D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_546D_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_546D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_546D_weekend",
+    "arrival_time": "06:21:00",
+    "departure_time": "06:21:00",
+    "stop_id": "STOP_546D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_546D_weekend",
+    "arrival_time": "06:42:00",
+    "departure_time": "06:42:00",
+    "stop_id": "STOP_546D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_55_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_55_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_55_weekday",
+    "arrival_time": "06:18:30",
+    "departure_time": "06:18:30",
+    "stop_id": "STOP_55_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_55_weekday",
+    "arrival_time": "06:37:00",
+    "departure_time": "06:37:00",
+    "stop_id": "STOP_55_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_55_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_55_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_55_weekend",
+    "arrival_time": "06:18:30",
+    "departure_time": "06:18:30",
+    "stop_id": "STOP_55_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_55_weekend",
+    "arrival_time": "06:37:00",
+    "departure_time": "06:37:00",
+    "stop_id": "STOP_55_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_52C_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_52C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_52C_weekday",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "STOP_52C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_52C_weekday",
+    "arrival_time": "06:30:00",
+    "departure_time": "06:30:00",
+    "stop_id": "STOP_52C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_52C_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_52C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_52C_weekend",
+    "arrival_time": "06:15:00",
+    "departure_time": "06:15:00",
+    "stop_id": "STOP_52C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_52C_weekend",
+    "arrival_time": "06:30:00",
+    "departure_time": "06:30:00",
+    "stop_id": "STOP_52C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_52B_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_52B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_52B_weekday",
+    "arrival_time": "06:15:30",
+    "departure_time": "06:15:30",
+    "stop_id": "STOP_52B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_52B_weekday",
+    "arrival_time": "06:31:00",
+    "departure_time": "06:31:00",
+    "stop_id": "STOP_52B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_52B_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_52B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_52B_weekend",
+    "arrival_time": "06:15:30",
+    "departure_time": "06:15:30",
+    "stop_id": "STOP_52B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_52B_weekend",
+    "arrival_time": "06:31:00",
+    "departure_time": "06:31:00",
+    "stop_id": "STOP_52B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_52_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_52_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_52_weekday",
+    "arrival_time": "06:20:30",
+    "departure_time": "06:20:30",
+    "stop_id": "STOP_52_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_52_weekday",
+    "arrival_time": "06:41:00",
+    "departure_time": "06:41:00",
+    "stop_id": "STOP_52_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_52_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_52_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_52_weekend",
+    "arrival_time": "06:20:30",
+    "departure_time": "06:20:30",
+    "stop_id": "STOP_52_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_52_weekend",
+    "arrival_time": "06:41:00",
+    "departure_time": "06:41:00",
+    "stop_id": "STOP_52_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_54A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_54A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_54A_weekday",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_54A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_54A_weekday",
+    "arrival_time": "06:34:00",
+    "departure_time": "06:34:00",
+    "stop_id": "STOP_54A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_54A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_54A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_54A_weekend",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_54A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_54A_weekend",
+    "arrival_time": "06:34:00",
+    "departure_time": "06:34:00",
+    "stop_id": "STOP_54A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_562_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_562_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_562_weekday",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_562_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_562_weekday",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_562_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_562_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_562_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_562_weekend",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_562_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_562_weekend",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_562_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_10_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_10_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_10_weekday",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "STOP_10_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_10_weekday",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "STOP_10_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_10_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_10_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_10_weekend",
+    "arrival_time": "06:06:00",
+    "departure_time": "06:06:00",
+    "stop_id": "STOP_10_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_10_weekend",
+    "arrival_time": "06:12:00",
+    "departure_time": "06:12:00",
+    "stop_id": "STOP_10_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_74_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_74_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_74_weekday",
+    "arrival_time": "06:06:30",
+    "departure_time": "06:06:30",
+    "stop_id": "STOP_74_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_74_weekday",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "STOP_74_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_74_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_74_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_74_weekend",
+    "arrival_time": "06:06:30",
+    "departure_time": "06:06:30",
+    "stop_id": "STOP_74_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_74_weekend",
+    "arrival_time": "06:13:00",
+    "departure_time": "06:13:00",
+    "stop_id": "STOP_74_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_78B_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_78B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_78B_weekday",
+    "arrival_time": "06:09:30",
+    "departure_time": "06:09:30",
+    "stop_id": "STOP_78B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_78B_weekday",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "STOP_78B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_78B_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_78B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_78B_weekend",
+    "arrival_time": "06:09:30",
+    "departure_time": "06:09:30",
+    "stop_id": "STOP_78B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_78B_weekend",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "STOP_78B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_87A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_87A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_87A_weekday",
+    "arrival_time": "06:13:30",
+    "departure_time": "06:13:30",
+    "stop_id": "STOP_87A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_87A_weekday",
+    "arrival_time": "06:27:00",
+    "departure_time": "06:27:00",
+    "stop_id": "STOP_87A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_87A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_87A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_87A_weekend",
+    "arrival_time": "06:13:30",
+    "departure_time": "06:13:30",
+    "stop_id": "STOP_87A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_87A_weekend",
+    "arrival_time": "06:27:00",
+    "departure_time": "06:27:00",
+    "stop_id": "STOP_87A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_8A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_8A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_8A_weekday",
+    "arrival_time": "06:11:30",
+    "departure_time": "06:11:30",
+    "stop_id": "STOP_8A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_8A_weekday",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_8A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_8A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_8A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_8A_weekend",
+    "arrival_time": "06:11:30",
+    "departure_time": "06:11:30",
+    "stop_id": "STOP_8A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_8A_weekend",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_8A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_5D_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_5D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_5D_weekday",
+    "arrival_time": "06:16:30",
+    "departure_time": "06:16:30",
+    "stop_id": "STOP_5D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_5D_weekday",
+    "arrival_time": "06:33:00",
+    "departure_time": "06:33:00",
+    "stop_id": "STOP_5D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_5D_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_5D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_5D_weekend",
+    "arrival_time": "06:16:30",
+    "departure_time": "06:16:30",
+    "stop_id": "STOP_5D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_5D_weekend",
+    "arrival_time": "06:33:00",
+    "departure_time": "06:33:00",
+    "stop_id": "STOP_5D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_87_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_87_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_87_weekday",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_87_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_87_weekday",
+    "arrival_time": "06:34:00",
+    "departure_time": "06:34:00",
+    "stop_id": "STOP_87_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_87_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_87_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_87_weekend",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_87_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_87_weekend",
+    "arrival_time": "06:34:00",
+    "departure_time": "06:34:00",
+    "stop_id": "STOP_87_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_261_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_261_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_261_weekday",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_261_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_261_weekday",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_261_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_261_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_261_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_261_weekend",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_261_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_261_weekend",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_261_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_22C_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_22C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_22C_weekday",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_22C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_22C_weekday",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_22C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_22C_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_22C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_22C_weekend",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_22C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_22C_weekend",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_22C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_34_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_34_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_34_weekday",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_34_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_34_weekday",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_34_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_34_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_34_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_34_weekend",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_34_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_34_weekend",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_34_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_38_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_38_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_38_weekday",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_38_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_38_weekday",
+    "arrival_time": "06:36:00",
+    "departure_time": "06:36:00",
+    "stop_id": "STOP_38_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_38_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_38_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_38_weekend",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_38_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_38_weekend",
+    "arrival_time": "06:36:00",
+    "departure_time": "06:36:00",
+    "stop_id": "STOP_38_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_547D_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_547D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_547D_weekday",
+    "arrival_time": "06:21:30",
+    "departure_time": "06:21:30",
+    "stop_id": "STOP_547D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_547D_weekday",
+    "arrival_time": "06:43:00",
+    "departure_time": "06:43:00",
+    "stop_id": "STOP_547D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_547D_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_547D_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_547D_weekend",
+    "arrival_time": "06:21:30",
+    "departure_time": "06:21:30",
+    "stop_id": "STOP_547D_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_547D_weekend",
+    "arrival_time": "06:43:00",
+    "departure_time": "06:43:00",
+    "stop_id": "STOP_547D_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_33_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_33_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_33_weekday",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "STOP_33_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_33_weekday",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_33_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_33_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_33_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_33_weekend",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "STOP_33_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_33_weekend",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_33_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_32A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_32A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_32A_weekday",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "STOP_32A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_32A_weekday",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_32A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_32A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_32A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_32A_weekend",
+    "arrival_time": "06:09:00",
+    "departure_time": "06:09:00",
+    "stop_id": "STOP_32A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_32A_weekend",
+    "arrival_time": "06:18:00",
+    "departure_time": "06:18:00",
+    "stop_id": "STOP_32A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_3_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_3_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_3_weekday",
+    "arrival_time": "06:09:30",
+    "departure_time": "06:09:30",
+    "stop_id": "STOP_3_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_3_weekday",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "STOP_3_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_3_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_3_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_3_weekend",
+    "arrival_time": "06:09:30",
+    "departure_time": "06:09:30",
+    "stop_id": "STOP_3_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_3_weekend",
+    "arrival_time": "06:19:00",
+    "departure_time": "06:19:00",
+    "stop_id": "STOP_3_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_2_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_2_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_2_weekday",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_2_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_2_weekday",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_2_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_2_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_2_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_2_weekend",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_2_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_2_weekend",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_2_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_83_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_83_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_83_weekday",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_83_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_83_weekday",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_83_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_83_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_83_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_83_weekend",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_83_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_83_weekend",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_83_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_71B_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_71B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_71B_weekday",
+    "arrival_time": "06:14:30",
+    "departure_time": "06:14:30",
+    "stop_id": "STOP_71B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_71B_weekday",
+    "arrival_time": "06:29:00",
+    "departure_time": "06:29:00",
+    "stop_id": "STOP_71B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_71B_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_71B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_71B_weekend",
+    "arrival_time": "06:14:30",
+    "departure_time": "06:14:30",
+    "stop_id": "STOP_71B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_71B_weekend",
+    "arrival_time": "06:29:00",
+    "departure_time": "06:29:00",
+    "stop_id": "STOP_71B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_83C_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_83C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_83C_weekday",
+    "arrival_time": "06:11:30",
+    "departure_time": "06:11:30",
+    "stop_id": "STOP_83C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_83C_weekday",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_83C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_83C_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_83C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_83C_weekend",
+    "arrival_time": "06:11:30",
+    "departure_time": "06:11:30",
+    "stop_id": "STOP_83C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_83C_weekend",
+    "arrival_time": "06:23:00",
+    "departure_time": "06:23:00",
+    "stop_id": "STOP_83C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_85B_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_85B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_85B_weekday",
+    "arrival_time": "06:21:30",
+    "departure_time": "06:21:30",
+    "stop_id": "STOP_85B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_85B_weekday",
+    "arrival_time": "06:43:00",
+    "departure_time": "06:43:00",
+    "stop_id": "STOP_85B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_85B_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_85B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_85B_weekend",
+    "arrival_time": "06:21:30",
+    "departure_time": "06:21:30",
+    "stop_id": "STOP_85B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_85B_weekend",
+    "arrival_time": "06:43:00",
+    "departure_time": "06:43:00",
+    "stop_id": "STOP_85B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_15F_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_15F_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_15F_weekday",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "STOP_15F_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_15F_weekday",
+    "arrival_time": "06:32:00",
+    "departure_time": "06:32:00",
+    "stop_id": "STOP_15F_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_15F_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_15F_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_15F_weekend",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "STOP_15F_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_15F_weekend",
+    "arrival_time": "06:32:00",
+    "departure_time": "06:32:00",
+    "stop_id": "STOP_15F_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_84_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_84_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_84_weekday",
+    "arrival_time": "06:15:30",
+    "departure_time": "06:15:30",
+    "stop_id": "STOP_84_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_84_weekday",
+    "arrival_time": "06:31:00",
+    "departure_time": "06:31:00",
+    "stop_id": "STOP_84_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_84_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_84_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_84_weekend",
+    "arrival_time": "06:15:30",
+    "departure_time": "06:15:30",
+    "stop_id": "STOP_84_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_84_weekend",
+    "arrival_time": "06:31:00",
+    "departure_time": "06:31:00",
+    "stop_id": "STOP_84_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_84C_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_84C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_84C_weekday",
+    "arrival_time": "06:16:30",
+    "departure_time": "06:16:30",
+    "stop_id": "STOP_84C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_84C_weekday",
+    "arrival_time": "06:33:00",
+    "departure_time": "06:33:00",
+    "stop_id": "STOP_84C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_84C_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_84C_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_84C_weekend",
+    "arrival_time": "06:16:30",
+    "departure_time": "06:16:30",
+    "stop_id": "STOP_84C_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_84C_weekend",
+    "arrival_time": "06:33:00",
+    "departure_time": "06:33:00",
+    "stop_id": "STOP_84C_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_82_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_82_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_82_weekday",
+    "arrival_time": "06:16:30",
+    "departure_time": "06:16:30",
+    "stop_id": "STOP_82_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_82_weekday",
+    "arrival_time": "06:33:00",
+    "departure_time": "06:33:00",
+    "stop_id": "STOP_82_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_82_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_82_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_82_weekend",
+    "arrival_time": "06:16:30",
+    "departure_time": "06:16:30",
+    "stop_id": "STOP_82_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_82_weekend",
+    "arrival_time": "06:33:00",
+    "departure_time": "06:33:00",
+    "stop_id": "STOP_82_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_80_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_80_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_80_weekday",
+    "arrival_time": "06:15:30",
+    "departure_time": "06:15:30",
+    "stop_id": "STOP_80_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_80_weekday",
+    "arrival_time": "06:31:00",
+    "departure_time": "06:31:00",
+    "stop_id": "STOP_80_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_80_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_80_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_80_weekend",
+    "arrival_time": "06:15:30",
+    "departure_time": "06:15:30",
+    "stop_id": "STOP_80_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_80_weekend",
+    "arrival_time": "06:31:00",
+    "departure_time": "06:31:00",
+    "stop_id": "STOP_80_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_85_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_85_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_85_weekday",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "STOP_85_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_85_weekday",
+    "arrival_time": "06:32:00",
+    "departure_time": "06:32:00",
+    "stop_id": "STOP_85_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_85_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_85_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_85_weekend",
+    "arrival_time": "06:16:00",
+    "departure_time": "06:16:00",
+    "stop_id": "STOP_85_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_85_weekend",
+    "arrival_time": "06:32:00",
+    "departure_time": "06:32:00",
+    "stop_id": "STOP_85_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_15B_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_15B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_15B_weekday",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "STOP_15B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_15B_weekday",
+    "arrival_time": "06:48:00",
+    "departure_time": "06:48:00",
+    "stop_id": "STOP_15B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_15B_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_15B_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_15B_weekend",
+    "arrival_time": "06:24:00",
+    "departure_time": "06:24:00",
+    "stop_id": "STOP_15B_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_15B_weekend",
+    "arrival_time": "06:48:00",
+    "departure_time": "06:48:00",
+    "stop_id": "STOP_15B_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_420_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_420_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_420_weekday",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_420_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_420_weekday",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_420_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_420_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_420_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_420_weekend",
+    "arrival_time": "06:14:00",
+    "departure_time": "06:14:00",
+    "stop_id": "STOP_420_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_420_weekend",
+    "arrival_time": "06:28:00",
+    "departure_time": "06:28:00",
+    "stop_id": "STOP_420_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_420A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_420A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_420A_weekday",
+    "arrival_time": "06:23:30",
+    "departure_time": "06:23:30",
+    "stop_id": "STOP_420A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_420A_weekday",
+    "arrival_time": "06:47:00",
+    "departure_time": "06:47:00",
+    "stop_id": "STOP_420A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_420A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_420A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_420A_weekend",
+    "arrival_time": "06:23:30",
+    "departure_time": "06:23:30",
+    "stop_id": "STOP_420A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_420A_weekend",
+    "arrival_time": "06:47:00",
+    "departure_time": "06:47:00",
+    "stop_id": "STOP_420A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_430A_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_430A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_430A_weekday",
+    "arrival_time": "06:23:30",
+    "departure_time": "06:23:30",
+    "stop_id": "STOP_430A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_430A_weekday",
+    "arrival_time": "06:47:00",
+    "departure_time": "06:47:00",
+    "stop_id": "STOP_430A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_430A_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_430A_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_430A_weekend",
+    "arrival_time": "06:23:30",
+    "departure_time": "06:23:30",
+    "stop_id": "STOP_430A_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_430A_weekend",
+    "arrival_time": "06:47:00",
+    "departure_time": "06:47:00",
+    "stop_id": "STOP_430A_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421J_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421J_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421J_weekday",
+    "arrival_time": "06:17:30",
+    "departure_time": "06:17:30",
+    "stop_id": "STOP_421J_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421J_weekday",
+    "arrival_time": "06:35:00",
+    "departure_time": "06:35:00",
+    "stop_id": "STOP_421J_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421J_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421J_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421J_weekend",
+    "arrival_time": "06:17:30",
+    "departure_time": "06:17:30",
+    "stop_id": "STOP_421J_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421J_weekend",
+    "arrival_time": "06:35:00",
+    "departure_time": "06:35:00",
+    "stop_id": "STOP_421J_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421K_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421K_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421K_weekday",
+    "arrival_time": "06:18:30",
+    "departure_time": "06:18:30",
+    "stop_id": "STOP_421K_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421K_weekday",
+    "arrival_time": "06:37:00",
+    "departure_time": "06:37:00",
+    "stop_id": "STOP_421K_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421K_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421K_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421K_weekend",
+    "arrival_time": "06:18:30",
+    "departure_time": "06:18:30",
+    "stop_id": "STOP_421K_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421K_weekend",
+    "arrival_time": "06:37:00",
+    "departure_time": "06:37:00",
+    "stop_id": "STOP_421K_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421I_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421I_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421I_weekday",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_421I_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421I_weekday",
+    "arrival_time": "06:34:00",
+    "departure_time": "06:34:00",
+    "stop_id": "STOP_421I_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421I_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421I_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421I_weekend",
+    "arrival_time": "06:17:00",
+    "departure_time": "06:17:00",
+    "stop_id": "STOP_421I_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421I_weekend",
+    "arrival_time": "06:34:00",
+    "departure_time": "06:34:00",
+    "stop_id": "STOP_421I_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421N_weekday",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421N_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421N_weekday",
+    "arrival_time": "06:16:30",
+    "departure_time": "06:16:30",
+    "stop_id": "STOP_421N_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421N_weekday",
+    "arrival_time": "06:33:00",
+    "departure_time": "06:33:00",
+    "stop_id": "STOP_421N_END",
+    "stop_sequence": "2"
+  },
+  {
+    "trip_id": "METROBUS_421N_weekend",
+    "arrival_time": "06:00:00",
+    "departure_time": "06:00:00",
+    "stop_id": "STOP_421N_START",
+    "stop_sequence": "0"
+  },
+  {
+    "trip_id": "METROBUS_421N_weekend",
+    "arrival_time": "06:16:30",
+    "departure_time": "06:16:30",
+    "stop_id": "STOP_421N_VIA",
+    "stop_sequence": "1"
+  },
+  {
+    "trip_id": "METROBUS_421N_weekend",
+    "arrival_time": "06:33:00",
+    "departure_time": "06:33:00",
+    "stop_id": "STOP_421N_END",
+    "stop_sequence": "2"
+  }
+]

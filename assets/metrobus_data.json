@@ -1,0 +1,6296 @@
+{
+  "routes": {
+    "METROBUS_16": {
+      "route": {
+        "id": "METROBUS_16",
+        "short_name": "16",
+        "long_name": "Auckland Park to Sydenham (UJ Scholars)"
+      },
+      "stops": [
+        {
+          "id": "STOP_16_START",
+          "name": "Auckland Park",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_16_VIA",
+          "name": "Sydenham( UJ Scholars)",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_16_END",
+          "name": "Sydenham (UJ Scholars)",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_16_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_16_VIA",
+          "arrival_time": "06:09:30",
+          "departure_time": "06:09:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_16_END",
+          "arrival_time": "06:19:00",
+          "departure_time": "06:19:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_421D": {
+      "route": {
+        "id": "METROBUS_421D",
+        "short_name": "421D",
+        "long_name": "Bellevue East to Sunninghill"
+      },
+      "stops": [
+        {
+          "id": "STOP_421D_START",
+          "name": "Bellevue East",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421D_VIA",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421D_END",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_421D_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_421D_VIA",
+          "arrival_time": "06:13:30",
+          "departure_time": "06:13:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_421D_END",
+          "arrival_time": "06:27:00",
+          "departure_time": "06:27:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_421F": {
+      "route": {
+        "id": "METROBUS_421F",
+        "short_name": "421F",
+        "long_name": "Bellevue East to Fairlands"
+      },
+      "stops": [
+        {
+          "id": "STOP_421F_START",
+          "name": "Bellevue East",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421F_VIA",
+          "name": "Fairlands",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421F_END",
+          "name": "Fairlands",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_421F_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_421F_VIA",
+          "arrival_time": "06:16:00",
+          "departure_time": "06:16:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_421F_END",
+          "arrival_time": "06:32:00",
+          "departure_time": "06:32:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_421G": {
+      "route": {
+        "id": "METROBUS_421G",
+        "short_name": "421G",
+        "long_name": "Bellevue East to Fourways Mall"
+      },
+      "stops": [
+        {
+          "id": "STOP_421G_START",
+          "name": "Bellevue East",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421G_VIA",
+          "name": "Fourways Mall",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421G_END",
+          "name": "Fourways Mall",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_421G_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_421G_VIA",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_421G_END",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_421R": {
+      "route": {
+        "id": "METROBUS_421R",
+        "short_name": "421R",
+        "long_name": "Bellevue East to Strydom Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_421R_START",
+          "name": "Bellevue East",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421R_VIA",
+          "name": "Strydom Park",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421R_END",
+          "name": "Strydom Park",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_421R_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_421R_VIA",
+          "arrival_time": "06:15:30",
+          "departure_time": "06:15:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_421R_END",
+          "arrival_time": "06:31:00",
+          "departure_time": "06:31:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_421H": {
+      "route": {
+        "id": "METROBUS_421H",
+        "short_name": "421H",
+        "long_name": "Bellevue East to Honeydew via Laser Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_421H_START",
+          "name": "Bellevue East",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421H_VIA",
+          "name": "Honeydew",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421H_END",
+          "name": "Honeydew",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_421H_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_421H_VIA",
+          "arrival_time": "06:21:00",
+          "departure_time": "06:21:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_421H_END",
+          "arrival_time": "06:42:00",
+          "departure_time": "06:42:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_42": {
+      "route": {
+        "id": "METROBUS_42",
+        "short_name": "42",
+        "long_name": "Braamfontein to Elands Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_42_START",
+          "name": "Braamfontein",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_42_VIA",
+          "name": "Elands Park",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_42_END",
+          "name": "Elands Park",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_42_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_42_VIA",
+          "arrival_time": "06:07:30",
+          "departure_time": "06:07:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_42_END",
+          "arrival_time": "06:15:00",
+          "departure_time": "06:15:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_45": {
+      "route": {
+        "id": "METROBUS_45",
+        "short_name": "45",
+        "long_name": "Braamfontein to Marist Brothers via Linmeyer"
+      },
+      "stops": [
+        {
+          "id": "STOP_45_START",
+          "name": "Braamfontein",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_45_VIA",
+          "name": "Marist Brothers",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_45_END",
+          "name": "Marist Brothers",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_45_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_45_VIA",
+          "arrival_time": "06:09:00",
+          "departure_time": "06:09:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_45_END",
+          "arrival_time": "06:18:00",
+          "departure_time": "06:18:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_32C": {
+      "route": {
+        "id": "METROBUS_32C",
+        "short_name": "32C",
+        "long_name": "Braamfontein to Bedford Plaza"
+      },
+      "stops": [
+        {
+          "id": "STOP_32C_START",
+          "name": "Braamfontein",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_32C_VIA",
+          "name": "Bedford Plaza",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_32C_END",
+          "name": "Bedford Plaza",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_32C_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_32C_VIA",
+          "arrival_time": "06:09:30",
+          "departure_time": "06:09:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_32C_END",
+          "arrival_time": "06:19:00",
+          "departure_time": "06:19:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_57B": {
+      "route": {
+        "id": "METROBUS_57B",
+        "short_name": "57B",
+        "long_name": "Braamfontein to Naturena"
+      },
+      "stops": [
+        {
+          "id": "STOP_57B_START",
+          "name": "Braamfontein",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_57B_VIA",
+          "name": "Naturena",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_57B_END",
+          "name": "Naturena",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_57B_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_57B_VIA",
+          "arrival_time": "06:09:00",
+          "departure_time": "06:09:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_57B_END",
+          "arrival_time": "06:18:00",
+          "departure_time": "06:18:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_56": {
+      "route": {
+        "id": "METROBUS_56",
+        "short_name": "56",
+        "long_name": "Braamfontein to Mayfield Park via Kibler Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_56_START",
+          "name": "Braamfontein",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_56_VIA",
+          "name": "Mayfield Park",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_56_END",
+          "name": "Mayfield Park",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_56_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_56_VIA",
+          "arrival_time": "06:11:00",
+          "departure_time": "06:11:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_56_END",
+          "arrival_time": "06:22:00",
+          "departure_time": "06:22:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_436": {
+      "route": {
+        "id": "METROBUS_436",
+        "short_name": "436",
+        "long_name": "Davidsonville to Sunninghill"
+      },
+      "stops": [
+        {
+          "id": "STOP_436_START",
+          "name": "Davidsonville",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_436_VIA",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_436_END",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_436_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_436_VIA",
+          "arrival_time": "06:18:30",
+          "departure_time": "06:18:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_436_END",
+          "arrival_time": "06:37:00",
+          "departure_time": "06:37:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_18": {
+      "route": {
+        "id": "METROBUS_18",
+        "short_name": "18",
+        "long_name": "Foresthill to JHB Hospital"
+      },
+      "stops": [
+        {
+          "id": "STOP_18_START",
+          "name": "Foresthill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_18_VIA",
+          "name": "JHB Hospital",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_18_END",
+          "name": "JHB Hospital",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_18_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_18_VIA",
+          "arrival_time": "06:18:00",
+          "departure_time": "06:18:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_18_END",
+          "arrival_time": "06:36:00",
+          "departure_time": "06:36:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_518D": {
+      "route": {
+        "id": "METROBUS_518D",
+        "short_name": "518D",
+        "long_name": "Foresthill to Sunninghill via Gandhi square"
+      },
+      "stops": [
+        {
+          "id": "STOP_518D_START",
+          "name": "Foresthill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_518D_VIA",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_518D_END",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_518D_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_518D_VIA",
+          "arrival_time": "06:34:00",
+          "departure_time": "06:34:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_518D_END",
+          "arrival_time": "07:08:00",
+          "departure_time": "07:08:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_415A": {
+      "route": {
+        "id": "METROBUS_415A",
+        "short_name": "415A",
+        "long_name": "Gandhi square to Makro centre"
+      },
+      "stops": [
+        {
+          "id": "STOP_415A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_415A_VIA",
+          "name": "Makro centre",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_415A_END",
+          "name": "Makro centre",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_415A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_415A_VIA",
+          "arrival_time": "06:05:30",
+          "departure_time": "06:05:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_415A_END",
+          "arrival_time": "06:11:00",
+          "departure_time": "06:11:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_59": {
+      "route": {
+        "id": "METROBUS_59",
+        "short_name": "59",
+        "long_name": "Gandhi square to Crown mines Ext"
+      },
+      "stops": [
+        {
+          "id": "STOP_59_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_59_VIA",
+          "name": "Crown mines Ext",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_59_END",
+          "name": "Crown mines Ext",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_59_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_59_VIA",
+          "arrival_time": "06:05:00",
+          "departure_time": "06:05:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_59_END",
+          "arrival_time": "06:10:00",
+          "departure_time": "06:10:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_46A": {
+      "route": {
+        "id": "METROBUS_46A",
+        "short_name": "46A",
+        "long_name": "Gandhi square to JHB Hospital"
+      },
+      "stops": [
+        {
+          "id": "STOP_46A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_46A_VIA",
+          "name": "JHB Hospital",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_46A_END",
+          "name": "JHB Hospital",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_46A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_46A_VIA",
+          "arrival_time": "06:08:00",
+          "departure_time": "06:08:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_46A_END",
+          "arrival_time": "06:16:00",
+          "departure_time": "06:16:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_47": {
+      "route": {
+        "id": "METROBUS_47",
+        "short_name": "47",
+        "long_name": "Gandhi square to Townsview"
+      },
+      "stops": [
+        {
+          "id": "STOP_47_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_47_VIA",
+          "name": "Townsview",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_47_END",
+          "name": "Townsview",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_47_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_47_VIA",
+          "arrival_time": "06:07:30",
+          "departure_time": "06:07:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_47_END",
+          "arrival_time": "06:15:00",
+          "departure_time": "06:15:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_48": {
+      "route": {
+        "id": "METROBUS_48",
+        "short_name": "48",
+        "long_name": "Gandhi square to Towerby"
+      },
+      "stops": [
+        {
+          "id": "STOP_48_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_48_VIA",
+          "name": "Towerby",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_48_END",
+          "name": "Towerby",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_48_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_48_VIA",
+          "arrival_time": "06:07:00",
+          "departure_time": "06:07:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_48_END",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_55B": {
+      "route": {
+        "id": "METROBUS_55B",
+        "short_name": "55B",
+        "long_name": "Gandhi square to Evans Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_55B_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_55B_VIA",
+          "name": "Evans Park",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_55B_END",
+          "name": "Evans Park",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_55B_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_55B_VIA",
+          "arrival_time": "06:06:00",
+          "departure_time": "06:06:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_55B_END",
+          "arrival_time": "06:12:00",
+          "departure_time": "06:12:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_55A": {
+      "route": {
+        "id": "METROBUS_55A",
+        "short_name": "55A",
+        "long_name": "Gandhi square to Ridgeway Extention"
+      },
+      "stops": [
+        {
+          "id": "STOP_55A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_55A_VIA",
+          "name": "Ridgeway Extention",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_55A_END",
+          "name": "Ridgeway Extention",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_55A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_55A_VIA",
+          "arrival_time": "06:07:00",
+          "departure_time": "06:07:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_55A_END",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_42A": {
+      "route": {
+        "id": "METROBUS_42A",
+        "short_name": "42A",
+        "long_name": "Gandhi square to Elands Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_42A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_42A_VIA",
+          "name": "Elands Park",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_42A_END",
+          "name": "Elands Park",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_42A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_42A_VIA",
+          "arrival_time": "06:07:00",
+          "departure_time": "06:07:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_42A_END",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_47C": {
+      "route": {
+        "id": "METROBUS_47C",
+        "short_name": "47C",
+        "long_name": "Gandhi square to the Glen"
+      },
+      "stops": [
+        {
+          "id": "STOP_47C_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_47C_VIA",
+          "name": "the Glen",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_47C_END",
+          "name": "the Glen",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_47C_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_47C_VIA",
+          "arrival_time": "06:08:30",
+          "departure_time": "06:08:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_47C_END",
+          "arrival_time": "06:17:00",
+          "departure_time": "06:17:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_47B": {
+      "route": {
+        "id": "METROBUS_47B",
+        "short_name": "47B",
+        "long_name": "Gandhi square to Bassonia"
+      },
+      "stops": [
+        {
+          "id": "STOP_47B_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_47B_VIA",
+          "name": "Bassonia",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_47B_END",
+          "name": "Bassonia",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_47B_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_47B_VIA",
+          "arrival_time": "06:08:30",
+          "departure_time": "06:08:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_47B_END",
+          "arrival_time": "06:17:00",
+          "departure_time": "06:17:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_79": {
+      "route": {
+        "id": "METROBUS_79",
+        "short_name": "79",
+        "long_name": "Gandhi square to Parkhurst via Zoo lake"
+      },
+      "stops": [
+        {
+          "id": "STOP_79_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_79_VIA",
+          "name": "Parkhurst",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_79_END",
+          "name": "Parkhurst",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_79_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_79_VIA",
+          "arrival_time": "06:11:30",
+          "departure_time": "06:11:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_79_END",
+          "arrival_time": "06:23:00",
+          "departure_time": "06:23:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_49B": {
+      "route": {
+        "id": "METROBUS_49B",
+        "short_name": "49B",
+        "long_name": "Gandhi square to Glenvista Extention 4"
+      },
+      "stops": [
+        {
+          "id": "STOP_49B_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_49B_VIA",
+          "name": "Glenvista Extention 5",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_49B_END",
+          "name": "Glenvista Extention 4",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_49B_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_49B_VIA",
+          "arrival_time": "06:10:30",
+          "departure_time": "06:10:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_49B_END",
+          "arrival_time": "06:21:00",
+          "departure_time": "06:21:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_01A": {
+      "route": {
+        "id": "METROBUS_01A",
+        "short_name": "01A",
+        "long_name": "Gandhi square to Parktown North via Oxford Road"
+      },
+      "stops": [
+        {
+          "id": "STOP_01A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_01A_VIA",
+          "name": "Parktown North",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_01A_END",
+          "name": "Parktown North",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_01A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_01A_VIA",
+          "arrival_time": "06:11:30",
+          "departure_time": "06:11:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_01A_END",
+          "arrival_time": "06:23:00",
+          "departure_time": "06:23:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_49C": {
+      "route": {
+        "id": "METROBUS_49C",
+        "short_name": "49C",
+        "long_name": "Gandhi square to Mulbarton via Liefde en Vrede"
+      },
+      "stops": [
+        {
+          "id": "STOP_49C_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_49C_VIA",
+          "name": "Mulbarton",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_49C_END",
+          "name": "Mulbarton",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_49C_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_49C_VIA",
+          "arrival_time": "06:10:00",
+          "departure_time": "06:10:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_49C_END",
+          "arrival_time": "06:20:00",
+          "departure_time": "06:20:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_13A": {
+      "route": {
+        "id": "METROBUS_13A",
+        "short_name": "13A",
+        "long_name": "Gandhi square to Glenhazel via Highlands North"
+      },
+      "stops": [
+        {
+          "id": "STOP_13A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_13A_VIA",
+          "name": "Glenhazel",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_13A_END",
+          "name": "Glenhazel",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_13A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_13A_VIA",
+          "arrival_time": "06:11:30",
+          "departure_time": "06:11:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_13A_END",
+          "arrival_time": "06:23:00",
+          "departure_time": "06:23:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_4": {
+      "route": {
+        "id": "METROBUS_4",
+        "short_name": "4",
+        "long_name": "Gandhi square to Highlands north via Louis Botha"
+      },
+      "stops": [
+        {
+          "id": "STOP_4_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_4_VIA",
+          "name": "Highlands North",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_4_END",
+          "name": "Highlands north",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_4_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_4_VIA",
+          "arrival_time": "06:12:30",
+          "departure_time": "06:12:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_4_END",
+          "arrival_time": "06:25:00",
+          "departure_time": "06:25:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_57A": {
+      "route": {
+        "id": "METROBUS_57A",
+        "short_name": "57A",
+        "long_name": "Gandhi square to Naturena"
+      },
+      "stops": [
+        {
+          "id": "STOP_57A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_57A_VIA",
+          "name": "Naturena",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_57A_END",
+          "name": "Naturena",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_57A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_57A_VIA",
+          "arrival_time": "06:10:30",
+          "departure_time": "06:10:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_57A_END",
+          "arrival_time": "06:21:00",
+          "departure_time": "06:21:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_13B": {
+      "route": {
+        "id": "METROBUS_13B",
+        "short_name": "13B",
+        "long_name": "Gandhi square to Lyndhurst via Highlands North"
+      },
+      "stops": [
+        {
+          "id": "STOP_13B_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_13B_VIA",
+          "name": "Lyndhurst",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_13B_END",
+          "name": "Lyndhurst",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_13B_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_13B_VIA",
+          "arrival_time": "06:12:30",
+          "departure_time": "06:12:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_13B_END",
+          "arrival_time": "06:25:00",
+          "departure_time": "06:25:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_71C": {
+      "route": {
+        "id": "METROBUS_71C",
+        "short_name": "71C",
+        "long_name": "Gandhi square to Fairlands via Berario"
+      },
+      "stops": [
+        {
+          "id": "STOP_71C_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_71C_VIA",
+          "name": "Fairlands",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_71C_END",
+          "name": "Fairlands",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_71C_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_71C_VIA",
+          "arrival_time": "06:15:00",
+          "departure_time": "06:15:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_71C_END",
+          "arrival_time": "06:30:00",
+          "departure_time": "06:30:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_86B": {
+      "route": {
+        "id": "METROBUS_86B",
+        "short_name": "86B",
+        "long_name": "Gandhi square to Strydom Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_86B_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_86B_VIA",
+          "name": "Strydom Park",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_86B_END",
+          "name": "Strydom Park",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_86B_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_86B_VIA",
+          "arrival_time": "06:15:30",
+          "departure_time": "06:15:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_86B_END",
+          "arrival_time": "06:31:00",
+          "departure_time": "06:31:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_56A": {
+      "route": {
+        "id": "METROBUS_56A",
+        "short_name": "56A",
+        "long_name": "Gandhi square to Mayfield Park via Kibler Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_56A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_56A_VIA",
+          "name": "Mayfield Park",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_56A_END",
+          "name": "Mayfield Park",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_56A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_56A_VIA",
+          "arrival_time": "06:12:00",
+          "departure_time": "06:12:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_56A_END",
+          "arrival_time": "06:24:00",
+          "departure_time": "06:24:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_80A": {
+      "route": {
+        "id": "METROBUS_80A",
+        "short_name": "80A",
+        "long_name": "Gandhi square to Beverly Gardens"
+      },
+      "stops": [
+        {
+          "id": "STOP_80A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_80A_VIA",
+          "name": "Beverly Gardens",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_80A_END",
+          "name": "Beverly Gardens",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_80A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_80A_VIA",
+          "arrival_time": "06:17:00",
+          "departure_time": "06:17:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_80A_END",
+          "arrival_time": "06:34:00",
+          "departure_time": "06:34:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_6D": {
+      "route": {
+        "id": "METROBUS_6D",
+        "short_name": "6D",
+        "long_name": "Gandhi square to Woodmead Extention"
+      },
+      "stops": [
+        {
+          "id": "STOP_6D_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_6D_VIA",
+          "name": "Woodmead Extention",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_6D_END",
+          "name": "Woodmead Extention",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_6D_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_6D_VIA",
+          "arrival_time": "06:12:30",
+          "departure_time": "06:12:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_6D_END",
+          "arrival_time": "06:25:00",
+          "departure_time": "06:25:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_417": {
+      "route": {
+        "id": "METROBUS_417",
+        "short_name": "417",
+        "long_name": "Gandhi square to Davidsonville"
+      },
+      "stops": [
+        {
+          "id": "STOP_417_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_417_VIA",
+          "name": "Davidsonville",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_417_END",
+          "name": "Davidsonville",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_417_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_417_VIA",
+          "arrival_time": "06:17:00",
+          "departure_time": "06:17:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_417_END",
+          "arrival_time": "06:34:00",
+          "departure_time": "06:34:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_82A": {
+      "route": {
+        "id": "METROBUS_82A",
+        "short_name": "82A",
+        "long_name": "Gandhi square to Ferndale Extention via Randburg"
+      },
+      "stops": [
+        {
+          "id": "STOP_82A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_82A_VIA",
+          "name": "Ferndale Extention",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_82A_END",
+          "name": "Ferndale Extention",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_82A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_82A_VIA",
+          "arrival_time": "06:18:30",
+          "departure_time": "06:18:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_82A_END",
+          "arrival_time": "06:37:00",
+          "departure_time": "06:37:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_13C": {
+      "route": {
+        "id": "METROBUS_13C",
+        "short_name": "13C",
+        "long_name": "Gandhi square to Kew via Highlands North"
+      },
+      "stops": [
+        {
+          "id": "STOP_13C_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_13C_VIA",
+          "name": "Kew",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_13C_END",
+          "name": "Kew",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_13C_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_13C_VIA",
+          "arrival_time": "06:17:00",
+          "departure_time": "06:17:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_13C_END",
+          "arrival_time": "06:34:00",
+          "departure_time": "06:34:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_414": {
+      "route": {
+        "id": "METROBUS_414",
+        "short_name": "414",
+        "long_name": "Gandhi square to Lindhaven"
+      },
+      "stops": [
+        {
+          "id": "STOP_414_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_414_VIA",
+          "name": "Lindhaven",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_414_END",
+          "name": "Lindhaven",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_414_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_414_VIA",
+          "arrival_time": "06:18:00",
+          "departure_time": "06:18:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_414_END",
+          "arrival_time": "06:36:00",
+          "departure_time": "06:36:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_15A": {
+      "route": {
+        "id": "METROBUS_15A",
+        "short_name": "15A",
+        "long_name": "Gandhi square to Lombardy East via Sandringham"
+      },
+      "stops": [
+        {
+          "id": "STOP_15A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_15A_VIA",
+          "name": "Lombardy East",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_15A_END",
+          "name": "Lombardy East",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_15A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_15A_VIA",
+          "arrival_time": "06:14:30",
+          "departure_time": "06:14:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_15A_END",
+          "arrival_time": "06:29:00",
+          "departure_time": "06:29:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_412": {
+      "route": {
+        "id": "METROBUS_412",
+        "short_name": "412",
+        "long_name": "Gandhi square to Witpoortjie"
+      },
+      "stops": [
+        {
+          "id": "STOP_412_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_412_VIA",
+          "name": "Witpoortjie",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_412_END",
+          "name": "Witpoortjie",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_412_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_412_VIA",
+          "arrival_time": "06:17:30",
+          "departure_time": "06:17:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_412_END",
+          "arrival_time": "06:35:00",
+          "departure_time": "06:35:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_9": {
+      "route": {
+        "id": "METROBUS_9",
+        "short_name": "9",
+        "long_name": "Gandhi square to Linbro Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_9_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_9_VIA",
+          "name": "Linbro Park",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_9_END",
+          "name": "Linbro Park",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_9_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_9_VIA",
+          "arrival_time": "06:13:00",
+          "departure_time": "06:13:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_9_END",
+          "arrival_time": "06:26:00",
+          "departure_time": "06:26:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_415": {
+      "route": {
+        "id": "METROBUS_415",
+        "short_name": "415",
+        "long_name": "Gandhi square to Weltervreden Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_415_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_415_VIA",
+          "name": "Weltervreden Park",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_415_END",
+          "name": "Weltervreden Park",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_415_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_415_VIA",
+          "arrival_time": "06:14:30",
+          "departure_time": "06:14:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_415_END",
+          "arrival_time": "06:29:00",
+          "departure_time": "06:29:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_86A": {
+      "route": {
+        "id": "METROBUS_86A",
+        "short_name": "86A",
+        "long_name": "Gandhi square to Kya Sands via Strydom Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_86A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_86A_VIA",
+          "name": "Kya Sands",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_86A_END",
+          "name": "Kya Sands",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_86A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_86A_VIA",
+          "arrival_time": "06:23:00",
+          "departure_time": "06:23:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_86A_END",
+          "arrival_time": "06:46:00",
+          "departure_time": "06:46:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_6A": {
+      "route": {
+        "id": "METROBUS_6A",
+        "short_name": "6A",
+        "long_name": "Gandhi square to Leewkop Prison"
+      },
+      "stops": [
+        {
+          "id": "STOP_6A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_6A_VIA",
+          "name": "Leewkop Prison",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_6A_END",
+          "name": "Leewkop Prison",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_6A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_6A_VIA",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_6A_END",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_15D": {
+      "route": {
+        "id": "METROBUS_15D",
+        "short_name": "15D",
+        "long_name": "Gandhi square to Lombardy West via Kew"
+      },
+      "stops": [
+        {
+          "id": "STOP_15D_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_15D_VIA",
+          "name": "Lombardy West",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_15D_END",
+          "name": "Lombardy West",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_15D_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_15D_VIA",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_15D_END",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_413": {
+      "route": {
+        "id": "METROBUS_413",
+        "short_name": "413",
+        "long_name": "Gandhi square to Roodekrans"
+      },
+      "stops": [
+        {
+          "id": "STOP_413_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_413_VIA",
+          "name": "Roodekrans",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_413_END",
+          "name": "Roodekrans",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_413_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_413_VIA",
+          "arrival_time": "06:19:30",
+          "departure_time": "06:19:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_413_END",
+          "arrival_time": "06:39:00",
+          "departure_time": "06:39:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_88A": {
+      "route": {
+        "id": "METROBUS_88A",
+        "short_name": "88A",
+        "long_name": "Gandhi square to Honeydew via Laser Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_88A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_88A_VIA",
+          "name": "Honeydew",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_88A_END",
+          "name": "Honeydew",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_88A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_88A_VIA",
+          "arrival_time": "06:19:00",
+          "departure_time": "06:19:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_88A_END",
+          "arrival_time": "06:38:00",
+          "departure_time": "06:38:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_89B": {
+      "route": {
+        "id": "METROBUS_89B",
+        "short_name": "89B",
+        "long_name": "Gandhi square to Northgate"
+      },
+      "stops": [
+        {
+          "id": "STOP_89B_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_89B_VIA",
+          "name": "Northgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_89B_END",
+          "name": "Northgate",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_89B_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_89B_VIA",
+          "arrival_time": "06:17:30",
+          "departure_time": "06:17:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_89B_END",
+          "arrival_time": "06:35:00",
+          "departure_time": "06:35:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_80F": {
+      "route": {
+        "id": "METROBUS_80F",
+        "short_name": "80F",
+        "long_name": "Gandhi square to Fourways Mall"
+      },
+      "stops": [
+        {
+          "id": "STOP_80F_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_80F_VIA",
+          "name": "Fourways Mall",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_80F_END",
+          "name": "Fourways Mall",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_80F_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_80F_VIA",
+          "arrival_time": "06:15:00",
+          "departure_time": "06:15:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_80F_END",
+          "arrival_time": "06:30:00",
+          "departure_time": "06:30:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_86D": {
+      "route": {
+        "id": "METROBUS_86D",
+        "short_name": "86D",
+        "long_name": "Gandhi square to Northlands Business Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_86D_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_86D_VIA",
+          "name": "Northlands Business Park",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_86D_END",
+          "name": "Northlands Business Park",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_86D_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_86D_VIA",
+          "arrival_time": "06:18:30",
+          "departure_time": "06:18:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_86D_END",
+          "arrival_time": "06:37:00",
+          "departure_time": "06:37:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_12": {
+      "route": {
+        "id": "METROBUS_12",
+        "short_name": "12",
+        "long_name": "Gandhi square to Lone Hill via Kramerville"
+      },
+      "stops": [
+        {
+          "id": "STOP_12_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_12_VIA",
+          "name": "Lone Hill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_12_END",
+          "name": "Lone Hill",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_12_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_12_VIA",
+          "arrival_time": "06:20:30",
+          "departure_time": "06:20:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_12_END",
+          "arrival_time": "06:41:00",
+          "departure_time": "06:41:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_89A": {
+      "route": {
+        "id": "METROBUS_89A",
+        "short_name": "89A",
+        "long_name": "Gandhi square to Kya Sands via Northgate"
+      },
+      "stops": [
+        {
+          "id": "STOP_89A_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_89A_VIA",
+          "name": "Kya Sands",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_89A_END",
+          "name": "Kya Sands",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_89A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_89A_VIA",
+          "arrival_time": "06:21:30",
+          "departure_time": "06:21:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_89A_END",
+          "arrival_time": "06:43:00",
+          "departure_time": "06:43:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_80D": {
+      "route": {
+        "id": "METROBUS_80D",
+        "short_name": "80D",
+        "long_name": "Gandhi square to Dainfern via Fourways"
+      },
+      "stops": [
+        {
+          "id": "STOP_80D_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_80D_VIA",
+          "name": "Dainfern",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_80D_END",
+          "name": "Dainfern",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_80D_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_80D_VIA",
+          "arrival_time": "06:22:30",
+          "departure_time": "06:22:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_80D_END",
+          "arrival_time": "06:45:00",
+          "departure_time": "06:45:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_7C": {
+      "route": {
+        "id": "METROBUS_7C",
+        "short_name": "7C",
+        "long_name": "Gandhi square to Airforce Base"
+      },
+      "stops": [
+        {
+          "id": "STOP_7C_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_7C_VIA",
+          "name": "Airforce Base",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_7C_END",
+          "name": "Airforce Base",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_7C_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_7C_VIA",
+          "arrival_time": "06:22:30",
+          "departure_time": "06:22:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_7C_END",
+          "arrival_time": "06:45:00",
+          "departure_time": "06:45:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_7B": {
+      "route": {
+        "id": "METROBUS_7B",
+        "short_name": "7B",
+        "long_name": "Gandhi square to N1 Military Hospital"
+      },
+      "stops": [
+        {
+          "id": "STOP_7B_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_7B_VIA",
+          "name": "N1 Military Hospital",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_7B_END",
+          "name": "N1 Military Hospital",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_7B_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_7B_VIA",
+          "arrival_time": "06:23:00",
+          "departure_time": "06:23:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_7B_END",
+          "arrival_time": "06:46:00",
+          "departure_time": "06:46:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_89C": {
+      "route": {
+        "id": "METROBUS_89C",
+        "short_name": "89C",
+        "long_name": "Gandhi square to Noordgang via Northgate"
+      },
+      "stops": [
+        {
+          "id": "STOP_89C_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_89C_VIA",
+          "name": "Noordgang",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_89C_END",
+          "name": "Noordgang",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_89C_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_89C_VIA",
+          "arrival_time": "06:29:00",
+          "departure_time": "06:29:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_89C_END",
+          "arrival_time": "06:58:00",
+          "departure_time": "06:58:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_7D": {
+      "route": {
+        "id": "METROBUS_7D",
+        "short_name": "7D",
+        "long_name": "Gandhi square to Arcadia via Pta central"
+      },
+      "stops": [
+        {
+          "id": "STOP_7D_START",
+          "name": "Gandhi square",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_7D_VIA",
+          "name": "Arcadia",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_7D_END",
+          "name": "Arcadia",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_7D_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_7D_VIA",
+          "arrival_time": "06:27:00",
+          "departure_time": "06:27:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_7D_END",
+          "arrival_time": "06:54:00",
+          "departure_time": "06:54:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_265A": {
+      "route": {
+        "id": "METROBUS_265A",
+        "short_name": "265A",
+        "long_name": "Hillbrow to Elandsfontein"
+      },
+      "stops": [
+        {
+          "id": "STOP_265A_START",
+          "name": "Hillbrow",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_265A_VIA",
+          "name": "Elandsfontein",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_265A_END",
+          "name": "Elandsfontein",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_265A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_265A_VIA",
+          "arrival_time": "06:12:00",
+          "departure_time": "06:12:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_265A_END",
+          "arrival_time": "06:24:00",
+          "departure_time": "06:24:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_265": {
+      "route": {
+        "id": "METROBUS_265",
+        "short_name": "265",
+        "long_name": "Hillbrow to Isando"
+      },
+      "stops": [
+        {
+          "id": "STOP_265_START",
+          "name": "Hillbrow",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_265_VIA",
+          "name": "Isando",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_265_END",
+          "name": "Isando",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_265_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_265_VIA",
+          "arrival_time": "06:13:30",
+          "departure_time": "06:13:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_265_END",
+          "arrival_time": "06:27:00",
+          "departure_time": "06:27:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_262": {
+      "route": {
+        "id": "METROBUS_262",
+        "short_name": "262",
+        "long_name": "Hillbrow to OR tambo via Kempton Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_262_START",
+          "name": "Hillbrow",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_262_VIA",
+          "name": "OR tambo",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_262_END",
+          "name": "OR tambo",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_262_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_262_VIA",
+          "arrival_time": "06:22:00",
+          "departure_time": "06:22:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_262_END",
+          "arrival_time": "06:44:00",
+          "departure_time": "06:44:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_49J": {
+      "route": {
+        "id": "METROBUS_49J",
+        "short_name": "49J",
+        "long_name": "JHB Hospital to Mulbarton via Ext4 & Liefde en Vrede"
+      },
+      "stops": [
+        {
+          "id": "STOP_49J_START",
+          "name": "JHB Hospital",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_49J_VIA",
+          "name": "Mulbarton",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_49J_END",
+          "name": "Mulbarton",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_49J_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_49J_VIA",
+          "arrival_time": "06:15:00",
+          "departure_time": "06:15:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_49J_END",
+          "arrival_time": "06:30:00",
+          "departure_time": "06:30:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_227": {
+      "route": {
+        "id": "METROBUS_227",
+        "short_name": "227",
+        "long_name": "Judiths Paarl to Crosby"
+      },
+      "stops": [
+        {
+          "id": "STOP_227_START",
+          "name": "Judiths Paarl",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_227_VIA",
+          "name": "Crosby",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_227_END",
+          "name": "Crosby",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_227_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_227_VIA",
+          "arrival_time": "06:11:00",
+          "departure_time": "06:11:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_227_END",
+          "arrival_time": "06:22:00",
+          "departure_time": "06:22:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_556E": {
+      "route": {
+        "id": "METROBUS_556E",
+        "short_name": "556E",
+        "long_name": "Mayfield Park to Megawatt Park via Auckland Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_556E_START",
+          "name": "Mayfield Park",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_556E_VIA",
+          "name": "Megawatt Park",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_556E_END",
+          "name": "Megawatt Park",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_556E_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_556E_VIA",
+          "arrival_time": "06:25:30",
+          "departure_time": "06:25:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_556E_END",
+          "arrival_time": "06:51:00",
+          "departure_time": "06:51:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_522": {
+      "route": {
+        "id": "METROBUS_522",
+        "short_name": "522",
+        "long_name": "Naturena to Randburg mall via Jan Smuts ave"
+      },
+      "stops": [
+        {
+          "id": "STOP_522_START",
+          "name": "Naturena",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_522_VIA",
+          "name": "Randburg Mall",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_522_END",
+          "name": "Randburg mall",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_522_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_522_VIA",
+          "arrival_time": "06:19:00",
+          "departure_time": "06:19:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_522_END",
+          "arrival_time": "06:38:00",
+          "departure_time": "06:38:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_520": {
+      "route": {
+        "id": "METROBUS_520",
+        "short_name": "520",
+        "long_name": "Naturena to Randburg Mall"
+      },
+      "stops": [
+        {
+          "id": "STOP_520_START",
+          "name": "Naturena",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_520_VIA",
+          "name": "Randburg Mall",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_520_END",
+          "name": "Randburg Mall",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_520_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_520_VIA",
+          "arrival_time": "06:15:30",
+          "departure_time": "06:15:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_520_END",
+          "arrival_time": "06:31:00",
+          "departure_time": "06:31:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_520A": {
+      "route": {
+        "id": "METROBUS_520A",
+        "short_name": "520A",
+        "long_name": "Naturena to Fourways Mall"
+      },
+      "stops": [
+        {
+          "id": "STOP_520A_START",
+          "name": "Naturena",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_520A_VIA",
+          "name": "Fourways Mall",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_520A_END",
+          "name": "Fourways Mall",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_520A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_520A_VIA",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_520A_END",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_523": {
+      "route": {
+        "id": "METROBUS_523",
+        "short_name": "523",
+        "long_name": "Naturena to fourways Mall via William niicol"
+      },
+      "stops": [
+        {
+          "id": "STOP_523_START",
+          "name": "Naturena",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_523_VIA",
+          "name": "Fourways Mall",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_523_END",
+          "name": "fourways Mall",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_523_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_523_VIA",
+          "arrival_time": "06:17:30",
+          "departure_time": "06:17:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_523_END",
+          "arrival_time": "06:35:00",
+          "departure_time": "06:35:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_521A": {
+      "route": {
+        "id": "METROBUS_521A",
+        "short_name": "521A",
+        "long_name": "Naturena to Barlowworld"
+      },
+      "stops": [
+        {
+          "id": "STOP_521A_START",
+          "name": "Naturena",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_521A_VIA",
+          "name": "Barlowworld",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_521A_END",
+          "name": "Barlowworld",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_521A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_521A_VIA",
+          "arrival_time": "06:18:00",
+          "departure_time": "06:18:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_521A_END",
+          "arrival_time": "06:36:00",
+          "departure_time": "06:36:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_260A": {
+      "route": {
+        "id": "METROBUS_260A",
+        "short_name": "260A",
+        "long_name": "Ormondeview to Eastgate via Bezvalley"
+      },
+      "stops": [
+        {
+          "id": "STOP_260A_START",
+          "name": "Ormondeview",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_260A_VIA",
+          "name": "Eastgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_260A_END",
+          "name": "Eastgate",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_260A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_260A_VIA",
+          "arrival_time": "06:13:00",
+          "departure_time": "06:13:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_260A_END",
+          "arrival_time": "06:26:00",
+          "departure_time": "06:26:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_260": {
+      "route": {
+        "id": "METROBUS_260",
+        "short_name": "260",
+        "long_name": "Paarlhoop to Eastgate via Bezvalley"
+      },
+      "stops": [
+        {
+          "id": "STOP_260_START",
+          "name": "Paarlhoop",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_260_VIA",
+          "name": "Eastgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_260_END",
+          "name": "Eastgate",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_260_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_260_VIA",
+          "arrival_time": "06:12:30",
+          "departure_time": "06:12:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_260_END",
+          "arrival_time": "06:25:00",
+          "departure_time": "06:25:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_551C": {
+      "route": {
+        "id": "METROBUS_551C",
+        "short_name": "551C",
+        "long_name": "Protea Gardens to Sunninghill via Pimville"
+      },
+      "stops": [
+        {
+          "id": "STOP_551C_START",
+          "name": "Protea Gardens",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_551C_VIA",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_551C_END",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_551C_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_551C_VIA",
+          "arrival_time": "06:27:30",
+          "departure_time": "06:27:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_551C_END",
+          "arrival_time": "06:55:00",
+          "departure_time": "06:55:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_551B": {
+      "route": {
+        "id": "METROBUS_551B",
+        "short_name": "551B",
+        "long_name": "Protea Gardens to Sunninghill"
+      },
+      "stops": [
+        {
+          "id": "STOP_551B_START",
+          "name": "Protea Gardens",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_551B_VIA",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_551B_END",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_551B_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_551B_VIA",
+          "arrival_time": "06:21:30",
+          "departure_time": "06:21:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_551B_END",
+          "arrival_time": "06:43:00",
+          "departure_time": "06:43:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_552": {
+      "route": {
+        "id": "METROBUS_552",
+        "short_name": "552",
+        "long_name": "Protea Glen to Fourways Mall"
+      },
+      "stops": [
+        {
+          "id": "STOP_552_START",
+          "name": "Protea Glen",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_552_VIA",
+          "name": "Fourways Mall",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_552_END",
+          "name": "Fourways Mall",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_552_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_552_VIA",
+          "arrival_time": "06:18:00",
+          "departure_time": "06:18:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_552_END",
+          "arrival_time": "06:36:00",
+          "departure_time": "06:36:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_553": {
+      "route": {
+        "id": "METROBUS_553",
+        "short_name": "553",
+        "long_name": "Protea Glen to Kya Sands via Malibongwe"
+      },
+      "stops": [
+        {
+          "id": "STOP_553_START",
+          "name": "Protea Glen",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_553_VIA",
+          "name": "Kya Sands",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_553_END",
+          "name": "Kya Sands",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_553_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_553_VIA",
+          "arrival_time": "06:27:30",
+          "departure_time": "06:27:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_553_END",
+          "arrival_time": "06:55:00",
+          "departure_time": "06:55:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_551A": {
+      "route": {
+        "id": "METROBUS_551A",
+        "short_name": "551A",
+        "long_name": "Protea Glen to Sunninghill"
+      },
+      "stops": [
+        {
+          "id": "STOP_551A_START",
+          "name": "Protea Glen",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_551A_VIA",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_551A_END",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_551A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_551A_VIA",
+          "arrival_time": "06:22:00",
+          "departure_time": "06:22:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_551A_END",
+          "arrival_time": "06:44:00",
+          "departure_time": "06:44:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_551D": {
+      "route": {
+        "id": "METROBUS_551D",
+        "short_name": "551D",
+        "long_name": "Protea North to Sunninghill"
+      },
+      "stops": [
+        {
+          "id": "STOP_551D_START",
+          "name": "Protea North",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_551D_VIA",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_551D_END",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_551D_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_551D_VIA",
+          "arrival_time": "06:23:00",
+          "departure_time": "06:23:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_551D_END",
+          "arrival_time": "06:46:00",
+          "departure_time": "06:46:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_46": {
+      "route": {
+        "id": "METROBUS_46",
+        "short_name": "46",
+        "long_name": "Rosettenville to JHB Hospital"
+      },
+      "stops": [
+        {
+          "id": "STOP_46_START",
+          "name": "Rosettenville",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_46_VIA",
+          "name": "JHB Hospital",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_46_END",
+          "name": "JHB Hospital",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_46_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_46_VIA",
+          "arrival_time": "06:10:00",
+          "departure_time": "06:10:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_46_END",
+          "arrival_time": "06:20:00",
+          "departure_time": "06:20:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_546D": {
+      "route": {
+        "id": "METROBUS_546D",
+        "short_name": "546D",
+        "long_name": "Rosettenville to Sunninghill via Gandhi square"
+      },
+      "stops": [
+        {
+          "id": "STOP_546D_START",
+          "name": "Rosettenville",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_546D_VIA",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_546D_END",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_546D_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_546D_VIA",
+          "arrival_time": "06:21:00",
+          "departure_time": "06:21:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_546D_END",
+          "arrival_time": "06:42:00",
+          "departure_time": "06:42:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_55": {
+      "route": {
+        "id": "METROBUS_55",
+        "short_name": "55",
+        "long_name": "Sanlam centre to Meredale via Southgate"
+      },
+      "stops": [
+        {
+          "id": "STOP_55_START",
+          "name": "Sanlam centre",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_55_VIA",
+          "name": "Meredale",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_55_END",
+          "name": "Meredale",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_55_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_55_VIA",
+          "arrival_time": "06:18:30",
+          "departure_time": "06:18:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_55_END",
+          "arrival_time": "06:37:00",
+          "departure_time": "06:37:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_52C": {
+      "route": {
+        "id": "METROBUS_52C",
+        "short_name": "52C",
+        "long_name": "Sanlam centre to Winchester Hills Ext 3"
+      },
+      "stops": [
+        {
+          "id": "STOP_52C_START",
+          "name": "Sanlam centre",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_52C_VIA",
+          "name": "Winchester Hills Ext 4",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_52C_END",
+          "name": "Winchester Hills Ext 3",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_52C_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_52C_VIA",
+          "arrival_time": "06:15:00",
+          "departure_time": "06:15:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_52C_END",
+          "arrival_time": "06:30:00",
+          "departure_time": "06:30:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_52B": {
+      "route": {
+        "id": "METROBUS_52B",
+        "short_name": "52B",
+        "long_name": "Sanlam centre to Winchester Hills"
+      },
+      "stops": [
+        {
+          "id": "STOP_52B_START",
+          "name": "Sanlam centre",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_52B_VIA",
+          "name": "Winchester Hills",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_52B_END",
+          "name": "Winchester Hills",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_52B_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_52B_VIA",
+          "arrival_time": "06:15:30",
+          "departure_time": "06:15:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_52B_END",
+          "arrival_time": "06:31:00",
+          "departure_time": "06:31:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_52": {
+      "route": {
+        "id": "METROBUS_52",
+        "short_name": "52",
+        "long_name": "Sanlam centre to Southgate via Mondeor"
+      },
+      "stops": [
+        {
+          "id": "STOP_52_START",
+          "name": "Sanlam centre",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_52_VIA",
+          "name": "Southgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_52_END",
+          "name": "Southgate",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_52_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_52_VIA",
+          "arrival_time": "06:20:30",
+          "departure_time": "06:20:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_52_END",
+          "arrival_time": "06:41:00",
+          "departure_time": "06:41:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_54A": {
+      "route": {
+        "id": "METROBUS_54A",
+        "short_name": "54A",
+        "long_name": "Sanlam cenntre to The Glen"
+      },
+      "stops": [
+        {
+          "id": "STOP_54A_START",
+          "name": "Sanlam cenntre",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_54A_VIA",
+          "name": "the Glen",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_54A_END",
+          "name": "The Glen",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_54A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_54A_VIA",
+          "arrival_time": "06:17:00",
+          "departure_time": "06:17:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_54A_END",
+          "arrival_time": "06:34:00",
+          "departure_time": "06:34:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_562": {
+      "route": {
+        "id": "METROBUS_562",
+        "short_name": "562",
+        "long_name": "Southgate to OR Tambo int Airport"
+      },
+      "stops": [
+        {
+          "id": "STOP_562_START",
+          "name": "Southgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_562_VIA",
+          "name": "OR Tambo int Airport",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_562_END",
+          "name": "OR Tambo int Airport",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_562_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_562_VIA",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_562_END",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_10": {
+      "route": {
+        "id": "METROBUS_10",
+        "short_name": "10",
+        "long_name": "Stock Exchange to Melrose Arch"
+      },
+      "stops": [
+        {
+          "id": "STOP_10_START",
+          "name": "Stock Exchange",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_10_VIA",
+          "name": "Melrose Arch",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_10_END",
+          "name": "Melrose Arch",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_10_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_10_VIA",
+          "arrival_time": "06:06:00",
+          "departure_time": "06:06:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_10_END",
+          "arrival_time": "06:12:00",
+          "departure_time": "06:12:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_74": {
+      "route": {
+        "id": "METROBUS_74",
+        "short_name": "74",
+        "long_name": "Stock Exchange to Blairgowrie"
+      },
+      "stops": [
+        {
+          "id": "STOP_74_START",
+          "name": "Stock Exchange",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_74_VIA",
+          "name": "Blairgowrie",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_74_END",
+          "name": "Blairgowrie",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_74_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_74_VIA",
+          "arrival_time": "06:06:30",
+          "departure_time": "06:06:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_74_END",
+          "arrival_time": "06:13:00",
+          "departure_time": "06:13:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_78B": {
+      "route": {
+        "id": "METROBUS_78B",
+        "short_name": "78B",
+        "long_name": "Stock Exchange to Blairgowrie via Jan Smuts ave"
+      },
+      "stops": [
+        {
+          "id": "STOP_78B_START",
+          "name": "Stock Exchange",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_78B_VIA",
+          "name": "Blairgowrie",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_78B_END",
+          "name": "Blairgowrie",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_78B_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_78B_VIA",
+          "arrival_time": "06:09:30",
+          "departure_time": "06:09:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_78B_END",
+          "arrival_time": "06:19:00",
+          "departure_time": "06:19:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_87A": {
+      "route": {
+        "id": "METROBUS_87A",
+        "short_name": "87A",
+        "long_name": "Stock Exchange to Glendayson"
+      },
+      "stops": [
+        {
+          "id": "STOP_87A_START",
+          "name": "Stock Exchange",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_87A_VIA",
+          "name": "Glendayson",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_87A_END",
+          "name": "Glendayson",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_87A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_87A_VIA",
+          "arrival_time": "06:13:30",
+          "departure_time": "06:13:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_87A_END",
+          "arrival_time": "06:27:00",
+          "departure_time": "06:27:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_8A": {
+      "route": {
+        "id": "METROBUS_8A",
+        "short_name": "8A",
+        "long_name": "Stock Exchange to Winston Ridge via Houghton"
+      },
+      "stops": [
+        {
+          "id": "STOP_8A_START",
+          "name": "Stock Exchange",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_8A_VIA",
+          "name": "Winston Ridge",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_8A_END",
+          "name": "Winston Ridge",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_8A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_8A_VIA",
+          "arrival_time": "06:11:30",
+          "departure_time": "06:11:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_8A_END",
+          "arrival_time": "06:23:00",
+          "departure_time": "06:23:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_5D": {
+      "route": {
+        "id": "METROBUS_5D",
+        "short_name": "5D",
+        "long_name": "Stock Exchange to Sunninghill via Oxford/Rivonia"
+      },
+      "stops": [
+        {
+          "id": "STOP_5D_START",
+          "name": "Stock Exchange",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_5D_VIA",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_5D_END",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_5D_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_5D_VIA",
+          "arrival_time": "06:16:30",
+          "departure_time": "06:16:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_5D_END",
+          "arrival_time": "06:33:00",
+          "departure_time": "06:33:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_87": {
+      "route": {
+        "id": "METROBUS_87",
+        "short_name": "87",
+        "long_name": "Stock Exchange to Glendayson via Bush HILL"
+      },
+      "stops": [
+        {
+          "id": "STOP_87_START",
+          "name": "Stock Exchange",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_87_VIA",
+          "name": "Glendayson",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_87_END",
+          "name": "Glendayson",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_87_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_87_VIA",
+          "arrival_time": "06:17:00",
+          "departure_time": "06:17:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_87_END",
+          "arrival_time": "06:34:00",
+          "departure_time": "06:34:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_261": {
+      "route": {
+        "id": "METROBUS_261",
+        "short_name": "261",
+        "long_name": "Stpock Exchange to Edenvale"
+      },
+      "stops": [
+        {
+          "id": "STOP_261_START",
+          "name": "Stpock Exchange",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_261_VIA",
+          "name": "Edenvale",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_261_END",
+          "name": "Edenvale",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_261_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_261_VIA",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_261_END",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_22C": {
+      "route": {
+        "id": "METROBUS_22C",
+        "short_name": "22C",
+        "long_name": "Stock Exchange to Bedford Plaza"
+      },
+      "stops": [
+        {
+          "id": "STOP_22C_START",
+          "name": "Stock Exchange",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_22C_VIA",
+          "name": "Bedford Plaza",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_22C_END",
+          "name": "Bedford Plaza",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_22C_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_22C_VIA",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_22C_END",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_34": {
+      "route": {
+        "id": "METROBUS_34",
+        "short_name": "34",
+        "long_name": "Stock Exchange to Malvern via Jules str"
+      },
+      "stops": [
+        {
+          "id": "STOP_34_START",
+          "name": "Stock Exchange",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_34_VIA",
+          "name": "Malvern",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_34_END",
+          "name": "Malvern",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_34_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_34_VIA",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_34_END",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_38": {
+      "route": {
+        "id": "METROBUS_38",
+        "short_name": "38",
+        "long_name": "Stock Exchange to Germiston via Main Reef"
+      },
+      "stops": [
+        {
+          "id": "STOP_38_START",
+          "name": "Stock Exchange",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_38_VIA",
+          "name": "Germiston",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_38_END",
+          "name": "Germiston",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_38_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_38_VIA",
+          "arrival_time": "06:18:00",
+          "departure_time": "06:18:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_38_END",
+          "arrival_time": "06:36:00",
+          "departure_time": "06:36:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_547D": {
+      "route": {
+        "id": "METROBUS_547D",
+        "short_name": "547D",
+        "long_name": "Townsview to Sunninghill via Gandhi square"
+      },
+      "stops": [
+        {
+          "id": "STOP_547D_START",
+          "name": "Townsview",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_547D_VIA",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_547D_END",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_547D_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_547D_VIA",
+          "arrival_time": "06:21:30",
+          "departure_time": "06:21:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_547D_END",
+          "arrival_time": "06:43:00",
+          "departure_time": "06:43:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_33": {
+      "route": {
+        "id": "METROBUS_33",
+        "short_name": "33",
+        "long_name": "Westgate to Bedford Gardens via Sovereign street"
+      },
+      "stops": [
+        {
+          "id": "STOP_33_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_33_VIA",
+          "name": "Bedford Gardens",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_33_END",
+          "name": "Bedford Gardens",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_33_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_33_VIA",
+          "arrival_time": "06:09:00",
+          "departure_time": "06:09:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_33_END",
+          "arrival_time": "06:18:00",
+          "departure_time": "06:18:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_32A": {
+      "route": {
+        "id": "METROBUS_32A",
+        "short_name": "32A",
+        "long_name": "Westgate to Bedford Gardens"
+      },
+      "stops": [
+        {
+          "id": "STOP_32A_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_32A_VIA",
+          "name": "Bedford Gardens",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_32A_END",
+          "name": "Bedford Gardens",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_32A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_32A_VIA",
+          "arrival_time": "06:09:00",
+          "departure_time": "06:09:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_32A_END",
+          "arrival_time": "06:18:00",
+          "departure_time": "06:18:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_3": {
+      "route": {
+        "id": "METROBUS_3",
+        "short_name": "3",
+        "long_name": "Westgate to Highlands north via Rosebank"
+      },
+      "stops": [
+        {
+          "id": "STOP_3_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_3_VIA",
+          "name": "Highlands North",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_3_END",
+          "name": "Highlands north",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_3_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_3_VIA",
+          "arrival_time": "06:09:30",
+          "departure_time": "06:09:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_3_END",
+          "arrival_time": "06:19:00",
+          "departure_time": "06:19:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_2": {
+      "route": {
+        "id": "METROBUS_2",
+        "short_name": "2",
+        "long_name": "Westgate to Birnam via Illovo"
+      },
+      "stops": [
+        {
+          "id": "STOP_2_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_2_VIA",
+          "name": "Birnam",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_2_END",
+          "name": "Birnam",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_2_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_2_VIA",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_2_END",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_83": {
+      "route": {
+        "id": "METROBUS_83",
+        "short_name": "83",
+        "long_name": "Westgate to Malanshof"
+      },
+      "stops": [
+        {
+          "id": "STOP_83_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_83_VIA",
+          "name": "Malanshof",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_83_END",
+          "name": "Malanshof",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_83_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_83_VIA",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_83_END",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_71B": {
+      "route": {
+        "id": "METROBUS_71B",
+        "short_name": "71B",
+        "long_name": "Westgate to Fairlands via Berario"
+      },
+      "stops": [
+        {
+          "id": "STOP_71B_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_71B_VIA",
+          "name": "Fairlands",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_71B_END",
+          "name": "Fairlands",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_71B_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_71B_VIA",
+          "arrival_time": "06:14:30",
+          "departure_time": "06:14:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_71B_END",
+          "arrival_time": "06:29:00",
+          "departure_time": "06:29:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_83C": {
+      "route": {
+        "id": "METROBUS_83C",
+        "short_name": "83C",
+        "long_name": "Westgate to Randpark Ridge"
+      },
+      "stops": [
+        {
+          "id": "STOP_83C_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_83C_VIA",
+          "name": "Randpark Ridge",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_83C_END",
+          "name": "Randpark Ridge",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_83C_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_83C_VIA",
+          "arrival_time": "06:11:30",
+          "departure_time": "06:11:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_83C_END",
+          "arrival_time": "06:23:00",
+          "departure_time": "06:23:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_85B": {
+      "route": {
+        "id": "METROBUS_85B",
+        "short_name": "85B",
+        "long_name": "Westgate to JHB North via Randburg centre"
+      },
+      "stops": [
+        {
+          "id": "STOP_85B_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_85B_VIA",
+          "name": "JHB North",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_85B_END",
+          "name": "JHB North",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_85B_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_85B_VIA",
+          "arrival_time": "06:21:30",
+          "departure_time": "06:21:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_85B_END",
+          "arrival_time": "06:43:00",
+          "departure_time": "06:43:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_15F": {
+      "route": {
+        "id": "METROBUS_15F",
+        "short_name": "15F",
+        "long_name": "Westgate to Longmeadow via Sandringham"
+      },
+      "stops": [
+        {
+          "id": "STOP_15F_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_15F_VIA",
+          "name": "Longmeadow",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_15F_END",
+          "name": "Longmeadow",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_15F_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_15F_VIA",
+          "arrival_time": "06:16:00",
+          "departure_time": "06:16:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_15F_END",
+          "arrival_time": "06:32:00",
+          "departure_time": "06:32:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_84": {
+      "route": {
+        "id": "METROBUS_84",
+        "short_name": "84",
+        "long_name": "Westgate to Honeydew"
+      },
+      "stops": [
+        {
+          "id": "STOP_84_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_84_VIA",
+          "name": "Honeydew",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_84_END",
+          "name": "Honeydew",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_84_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_84_VIA",
+          "arrival_time": "06:15:30",
+          "departure_time": "06:15:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_84_END",
+          "arrival_time": "06:31:00",
+          "departure_time": "06:31:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_84C": {
+      "route": {
+        "id": "METROBUS_84C",
+        "short_name": "84C",
+        "long_name": "Westgate to Honeydew via Randpark Ridge"
+      },
+      "stops": [
+        {
+          "id": "STOP_84C_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_84C_VIA",
+          "name": "Honeydew",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_84C_END",
+          "name": "Honeydew",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_84C_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_84C_VIA",
+          "arrival_time": "06:16:30",
+          "departure_time": "06:16:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_84C_END",
+          "arrival_time": "06:33:00",
+          "departure_time": "06:33:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_82": {
+      "route": {
+        "id": "METROBUS_82",
+        "short_name": "82",
+        "long_name": "Westgate to Ferndale Extention via Randburg"
+      },
+      "stops": [
+        {
+          "id": "STOP_82_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_82_VIA",
+          "name": "Ferndale Extention",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_82_END",
+          "name": "Ferndale Extention",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_82_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_82_VIA",
+          "arrival_time": "06:16:30",
+          "departure_time": "06:16:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_82_END",
+          "arrival_time": "06:33:00",
+          "departure_time": "06:33:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_80": {
+      "route": {
+        "id": "METROBUS_80",
+        "short_name": "80",
+        "long_name": "Westgate to Beeverly Gardens"
+      },
+      "stops": [
+        {
+          "id": "STOP_80_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_80_VIA",
+          "name": "Beeverly Gardens",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_80_END",
+          "name": "Beeverly Gardens",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_80_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_80_VIA",
+          "arrival_time": "06:15:30",
+          "departure_time": "06:15:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_80_END",
+          "arrival_time": "06:31:00",
+          "departure_time": "06:31:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_85": {
+      "route": {
+        "id": "METROBUS_85",
+        "short_name": "85",
+        "long_name": "Westgate to Johannesburg North"
+      },
+      "stops": [
+        {
+          "id": "STOP_85_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_85_VIA",
+          "name": "Johannesburg North",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_85_END",
+          "name": "Johannesburg North",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_85_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_85_VIA",
+          "arrival_time": "06:16:00",
+          "departure_time": "06:16:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_85_END",
+          "arrival_time": "06:32:00",
+          "departure_time": "06:32:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_15B": {
+      "route": {
+        "id": "METROBUS_15B",
+        "short_name": "15B",
+        "long_name": "Westgate to Lombardy East via Sandringham"
+      },
+      "stops": [
+        {
+          "id": "STOP_15B_START",
+          "name": "Westgate",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_15B_VIA",
+          "name": "Lombardy East",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_15B_END",
+          "name": "Lombardy East",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_15B_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_15B_VIA",
+          "arrival_time": "06:24:00",
+          "departure_time": "06:24:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_15B_END",
+          "arrival_time": "06:48:00",
+          "departure_time": "06:48:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_420": {
+      "route": {
+        "id": "METROBUS_420",
+        "short_name": "420",
+        "long_name": "Westgate Node to Randburg centre"
+      },
+      "stops": [
+        {
+          "id": "STOP_420_START",
+          "name": "Westgate Node",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_420_VIA",
+          "name": "Randburg centre",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_420_END",
+          "name": "Randburg centre",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_420_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_420_VIA",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_420_END",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_420A": {
+      "route": {
+        "id": "METROBUS_420A",
+        "short_name": "420A",
+        "long_name": "Westgate Node to Sunninghill via Cresta"
+      },
+      "stops": [
+        {
+          "id": "STOP_420A_START",
+          "name": "Westgate Node",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_420A_VIA",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_420A_END",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_420A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_420A_VIA",
+          "arrival_time": "06:23:30",
+          "departure_time": "06:23:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_420A_END",
+          "arrival_time": "06:47:00",
+          "departure_time": "06:47:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_430A": {
+      "route": {
+        "id": "METROBUS_430A",
+        "short_name": "430A",
+        "long_name": "Westgate Node to Sunninghill via Cresta"
+      },
+      "stops": [
+        {
+          "id": "STOP_430A_START",
+          "name": "Westgate Node",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_430A_VIA",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_430A_END",
+          "name": "Sunninghill",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_430A_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_430A_VIA",
+          "arrival_time": "06:23:30",
+          "departure_time": "06:23:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_430A_END",
+          "arrival_time": "06:47:00",
+          "departure_time": "06:47:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_421J": {
+      "route": {
+        "id": "METROBUS_421J",
+        "short_name": "421J",
+        "long_name": "Yeoville to Noordhang via JHB North"
+      },
+      "stops": [
+        {
+          "id": "STOP_421J_START",
+          "name": "Yeoville",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421J_VIA",
+          "name": "Noordhang",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421J_END",
+          "name": "Noordhang",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_421J_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_421J_VIA",
+          "arrival_time": "06:17:30",
+          "departure_time": "06:17:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_421J_END",
+          "arrival_time": "06:35:00",
+          "departure_time": "06:35:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_421K": {
+      "route": {
+        "id": "METROBUS_421K",
+        "short_name": "421K",
+        "long_name": "Yeoville to Dainfern"
+      },
+      "stops": [
+        {
+          "id": "STOP_421K_START",
+          "name": "Yeoville",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421K_VIA",
+          "name": "Dainfern",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421K_END",
+          "name": "Dainfern",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_421K_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_421K_VIA",
+          "arrival_time": "06:18:30",
+          "departure_time": "06:18:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_421K_END",
+          "arrival_time": "06:37:00",
+          "departure_time": "06:37:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_421I": {
+      "route": {
+        "id": "METROBUS_421I",
+        "short_name": "421I",
+        "long_name": "Yeoville to Northlands Business Park"
+      },
+      "stops": [
+        {
+          "id": "STOP_421I_START",
+          "name": "Yeoville",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421I_VIA",
+          "name": "Northlands Business Park",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421I_END",
+          "name": "Northlands Business Park",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_421I_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_421I_VIA",
+          "arrival_time": "06:17:00",
+          "departure_time": "06:17:00",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_421I_END",
+          "arrival_time": "06:34:00",
+          "departure_time": "06:34:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    },
+    "METROBUS_421N": {
+      "route": {
+        "id": "METROBUS_421N",
+        "short_name": "421N",
+        "long_name": "Yeoville to Northgate centre"
+      },
+      "stops": [
+        {
+          "id": "STOP_421N_START",
+          "name": "Yeoville",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421N_VIA",
+          "name": "Northgate centre",
+          "lat": -26.195,
+          "lon": 28.034
+        },
+        {
+          "id": "STOP_421N_END",
+          "name": "Northgate centre",
+          "lat": -26.195,
+          "lon": 28.034
+        }
+      ],
+      "stopTimes": [
+        {
+          "stop_id": "STOP_421N_START",
+          "arrival_time": "06:00:00",
+          "departure_time": "06:00:00",
+          "stop_sequence": "0"
+        },
+        {
+          "stop_id": "STOP_421N_VIA",
+          "arrival_time": "06:16:30",
+          "departure_time": "06:16:30",
+          "stop_sequence": "1"
+        },
+        {
+          "stop_id": "STOP_421N_END",
+          "arrival_time": "06:33:00",
+          "departure_time": "06:33:00",
+          "stop_sequence": "2"
+        }
+      ],
+      "frequency": {
+        "start_time": "05:00:00",
+        "end_time": "21:00:00",
+        "headway_minutes": 30
+      }
+    }
+  }
+}

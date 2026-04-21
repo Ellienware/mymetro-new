@@ -1,0 +1,90 @@
+Route ID: relation/19970570
+Name: T1 Out
+Mode: bus
+Colour: #3388ff
+Operator: A Re Yeng
+Stop order (OSM node IDs): relation/7655339, way/532857499, relation/7655287, relation/7655338, way/1077034088, relation/7655302, relation/7655301, relation/7655300, way/532856078, way/532856076, relation/7655247, node/13381161108, node/13381161107, node/13381161106, node/13381161105, node/13381155715, node/13381177411, node/13381178165, node/13381199212, node/13381202065
+
+---
+
+Route ID: relation/19970881
+Name: T1 In
+Mode: bus
+Colour: #3388ff
+Operator: A Re Yeng
+Stop order (OSM node IDs): node/13383371460, node/13383390251, node/13383392785, node/9261048739, node/13383395948, node/13383400371, node/13383391283, node/13383416043, relation/7655247, way/532856076, way/532856078, relation/7655300, relation/7655301, relation/7655302, way/1077034088, relation/7655338, relation/7655287, way/532857499, relation/7655339
+
+---
+
+Route ID: relation/19974206
+Name: Unknown route
+Mode: bus
+Colour: #3388ff
+Operator: A Re Yeng
+Stop order (OSM node IDs): node/13385659880, node/13385699690, relation/7655247, way/532856076, way/532856078, relation/7655300, relation/7655301, relation/7655302, way/1077034088, relation/7655338, relation/7655287, way/532857499, relation/7655339
+
+---
+
+Route ID: relation/19974207
+Name: Unknown route
+Mode: bus
+Colour: #3388ff
+Operator: A Re Yeng
+Stop order (OSM node IDs): relation/7655339, way/532857499, relation/7655287, relation/7655338, way/1077034088, relation/7655302, relation/7655301, relation/7655300, way/532856078, way/532856076, relation/7655247, node/13385699691, node/13385685675
+
+---
+
+Route ID: relation/19974347
+Name: Unknown route
+Mode: bus
+Colour: #3388ff
+Operator: A Re Yeng
+Stop order (OSM node IDs): relation/7655302, relation/7655301, relation/7655300, way/532856078, way/532856076, relation/7655247, node/13385699691, node/13385685675
+
+---
+
+Route ID: relation/19974348
+Name: Unknown route
+Mode: bus
+Colour: #3388ff
+Operator: A Re Yeng
+Stop order (OSM node IDs): node/13385659880, node/13385699690, relation/7655247, way/532856076, way/532856078, relation/7655300, relation/7655301, relation/7655302
+
+---
+
+Route ID: relation/19974459
+Name: Unknown route
+Mode: bus
+Colour: #3388ff
+Operator: A Re Yeng
+Stop order (OSM node IDs): node/13385659880, node/13385699690
+
+---
+
+Route ID: relation/19974460
+Name: Unknown route
+Mode: bus
+Colour: #3388ff
+Operator: A Re Yeng
+Stop order (OSM node IDs): node/13385699691, node/13385685675
+
+---
+
+Route ID: relation/19978267
+Name: Unknown route
+Mode: bus
+Colour: #3388ff
+Operator: A Re Yeng
+Stop order (OSM node IDs): node/6741793702, node/13387901257, node/13373967641, node/13373967640, node/13373967639, node/13373967638, node/13373967637, node/13387890832, node/13377614190, node/13387887688, node/13387906175, node/13387894849, relation/7655339
+
+---
+
+Route ID: relation/19978268
+Name: Unknown route
+Mode: bus
+Colour: #3388ff
+Operator: A Re Yeng
+Stop order (OSM node IDs): relation/7655339, node/13387894850, node/13387906176, node/13387887689, node/13380469667, node/13380469666, node/13369432858, node/13369432859, node/13369432861, node/6722557695, node/13369432862, node/13369432863, node/13369432864, node/13387896313, node/13386801670
+
+---
+

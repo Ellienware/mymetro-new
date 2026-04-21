@@ -1,0 +1,61 @@
+{
+  "cli": {
+    "version": ">= 16.10.1",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "env": {
+        "EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY": "pk_test_bmV3LWdyaXp6bHktMzguY2xlcmsuYWNjb3VudHMuZGV2JA",
+        "EXPO_PUBLIC_GOOGLE_MAPS_API_KEY_ANDROID": "AIzaSyDQwrztSbd0OIEkb_1J1fUPLOJ8tAcGnvY",
+        "EXPO_PUBLIC_GOOGLE_MAPS_API_KEY_IOS": "AIzaSyDQwrztSbd0OIEkb_1J1fUPLOJ8tAcGnvY",
+        "EXPO_PUBLIC_GOOGLE_PLACES_API_KEY": "AIzaSyCo0ZckhY2iKm9BDf1qj6-_YVCngwx3Ufc",
+        "EXPO_PUBLIC_PROJECTID": "fb2cbe84-94e7-4157-b1f6-f3df64e4be74",
+        "EXPO_PUBLIC_APPWRITE_ENDPOINT": "https://fra.cloud.appwrite.io/v1",
+        "EXPO_PUBLIC_APPWRITE_PROJECT_ID": "68505b630015642e04c9",
+        "EXPO_PUBLIC_APPWRITE_DATABASE_ID": "68505be8001a90ec85ed",
+        "EXPO_PUBLIC_APPWRITE_API_KEY": "standard_ca5b461f88bc2f9d5f5a7e3eb22f11d4b3104b83829353cbb8f55817f32dfd06d43b149202fe332fd323dea13ae6284dcfc1fc3ab6ad5da8f9c89e77ea655536c97bed5044e3a721d013992e3107ccd4aa0116656c4d5777a43d097032ecd22a271a1c3776f272a66c959e5f41c3232103844e7d7799b735a95cd50268651521",
+        "EXPO_PUBLIC_DRIVER_DOCS_BUCKET": "driver-documents"
+      }
+    },
+    "preview": {
+      "distribution": "internal",
+      "env": {
+        "EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY": "pk_test_bmV3LWdyaXp6bHktMzguY2xlcmsuYWNjb3VudHMuZGV2JA",
+        "EXPO_PUBLIC_GOOGLE_MAPS_API_KEY_ANDROID": "AIzaSyDQwrztSbd0OIEkb_1J1fUPLOJ8tAcGnvY",
+        "EXPO_PUBLIC_GOOGLE_MAPS_API_KEY_IOS": "AIzaSyDQwrztSbd0OIEkb_1J1fUPLOJ8tAcGnvY",
+        "EXPO_PUBLIC_GOOGLE_PLACES_API_KEY": "AIzaSyCo0ZckhY2iKm9BDf1qj6-_YVCngwx3Ufc",
+        "EXPO_PUBLIC_PROJECTID": "fb2cbe84-94e7-4157-b1f6-f3df64e4be74",
+        "EXPO_PUBLIC_APPWRITE_ENDPOINT": "https://fra.cloud.appwrite.io/v1",
+        "EXPO_PUBLIC_APPWRITE_PROJECT_ID": "68505b630015642e04c9",
+        "EXPO_PUBLIC_APPWRITE_DATABASE_ID": "68505be8001a90ec85ed",
+        "EXPO_PUBLIC_APPWRITE_API_KEY": "standard_ca5b461f88bc2f9d5f5a7e3eb22f11d4b3104b83829353cbb8f55817f32dfd06d43b149202fe332fd323dea13ae6284dcfc1fc3ab6ad5da8f9c89e77ea655536c97bed5044e3a721d013992e3107ccd4aa0116656c4d5777a43d097032ecd22a271a1c3776f272a66c959e5f41c3232103844e7d7799b735a95cd50268651521",
+        "EXPO_PUBLIC_DRIVER_DOCS_BUCKET": "driver-documents"
+      }
+    },
+    "production": {
+      "autoIncrement": true,
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY": "pk_test_bmV3LWdyaXp6bHktMzguY2xlcmsuYWNjb3VudHMuZGV2JA",
+        "EXPO_PUBLIC_GOOGLE_MAPS_API_KEY_ANDROID": "AIzaSyDQwrztSbd0OIEkb_1J1fUPLOJ8tAcGnvY",
+        "EXPO_PUBLIC_GOOGLE_MAPS_API_KEY_IOS": "AIzaSyDQwrztSbd0OIEkb_1J1fUPLOJ8tAcGnvY",
+        "EXPO_PUBLIC_GOOGLE_PLACES_API_KEY": "AIzaSyCo0ZckhY2iKm9BDf1qj6-_YVCngwx3Ufc",
+        "EXPO_PUBLIC_PROJECTID": "fb2cbe84-94e7-4157-b1f6-f3df64e4be74",
+        "EXPO_PUBLIC_APPWRITE_ENDPOINT": "https://fra.cloud.appwrite.io/v1",
+        "EXPO_PUBLIC_APPWRITE_PROJECT_ID": "68505b630015642e04c9",
+        "EXPO_PUBLIC_APPWRITE_DATABASE_ID": "68505be8001a90ec85ed",
+        "EXPO_PUBLIC_APPWRITE_API_KEY": "standard_ca5b461f88bc2f9d5f5a7e3eb22f11d4b3104b83829353cbb8f55817f32dfd06d43b149202fe332fd323dea13ae6284dcfc1fc3ab6ad5da8f9c89e77ea655536c97bed5044e3a721d013992e3107ccd4aa0116656c4d5777a43d097032ecd22a271a1c3776f272a66c959e5f41c3232103844e7d7799b735a95cd50268651521",
+        "EXPO_PUBLIC_DRIVER_DOCS_BUCKET": "driver-documents"
+      }
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}
+

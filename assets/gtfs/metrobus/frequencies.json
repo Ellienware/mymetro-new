@@ -1,0 +1,1466 @@
+[
+  {
+    "trip_id": "METROBUS_16_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_16_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_421D_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_421D_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_421F_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_421F_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_421G_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_421G_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_421R_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_421R_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_421H_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_421H_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_42_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_42_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_45_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_45_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_32C_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_32C_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_57B_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_57B_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_56_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_56_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_436_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_436_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_18_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_18_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_518D_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_518D_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_415A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_415A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_59_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_59_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_46A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_46A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_47_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_47_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_48_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_48_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_55B_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_55B_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_55A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_55A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_42A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_42A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_47C_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_47C_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_47B_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_47B_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_79_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_79_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_49B_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_49B_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_01A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_01A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_49C_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_49C_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_13A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_13A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_4_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_4_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_57A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_57A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_13B_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_13B_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_71C_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_71C_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_86B_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_86B_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_56A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_56A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_80A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_80A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_6D_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_6D_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_417_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_417_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_82A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_82A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_13C_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_13C_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_414_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_414_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_15A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_15A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_412_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_412_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_9_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_9_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_415_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_415_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_86A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_86A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_6A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_6A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_15D_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_15D_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_413_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_413_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_88A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_88A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_89B_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_89B_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_80F_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_80F_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_86D_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_86D_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_12_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_12_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_7A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_7A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_89A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_89A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_80D_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_80D_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_7C_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_7C_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_7B_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_7B_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_89C_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_89C_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_7D_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_7D_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_265A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_265A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_265_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_265_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_262_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_262_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_49J_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_49J_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_227_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_227_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_556E_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_556E_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_522_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_522_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_520_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_520_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_520A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_520A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_523_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_523_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_521A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_521A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_260A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_260A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_260_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_260_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_551C_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_551C_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_551B_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_551B_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_552_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_552_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_553_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_553_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_551A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_551A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_551D_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_551D_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_46_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_46_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_546D_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_546D_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_55_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_55_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_52C_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_52C_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_52B_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_52B_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_52_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_52_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_54A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_54A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_562_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_562_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_10_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_10_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_74_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_74_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_78B_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_78B_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_87A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_87A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_8A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_8A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_5D_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_5D_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_87_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_87_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_261_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_261_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_22C_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_22C_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_34_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_34_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_38_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_38_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_547D_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_547D_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_33_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_33_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_32A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_32A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_3_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_3_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_2_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_2_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_83_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_83_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_71B_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_71B_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_83C_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_83C_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_85B_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_85B_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_15F_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_15F_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_84_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_84_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_84C_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_84C_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_82_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_82_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_80_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_80_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_85_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_85_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_15B_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_15B_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_420_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_420_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_420A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_420A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_430A_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_430A_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_421J_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_421J_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_421K_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_421K_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_421I_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_421I_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  },
+  {
+    "trip_id": "METROBUS_421N_weekday",
+    "start_time": "05:00:00",
+    "end_time": "21:00:00",
+    "headway_secs": "1800"
+  },
+  {
+    "trip_id": "METROBUS_421N_weekend",
+    "start_time": "06:00:00",
+    "end_time": "19:00:00",
+    "headway_secs": "3600"
+  }
+]

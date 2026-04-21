@@ -1,0 +1,3143 @@
+{
+  "stations": [
+    {
+      "id": "node/9165712815",
+      "name": "Johannesburg Park",
+      "lat": -26.1981336,
+      "lon": 28.0421947
+    },
+    {
+      "id": "node/9165712814",
+      "name": "Doornfontein",
+      "lat": -26.1972385,
+      "lon": 28.053617
+    },
+    {
+      "id": "node/4332066223",
+      "name": "Ellis Park Station",
+      "lat": -26.1984542,
+      "lon": 28.0586153
+    },
+    {
+      "id": "node/4332066367",
+      "name": "Jeppe",
+      "lat": -26.2047315,
+      "lon": 28.0642664
+    },
+    {
+      "id": "node/9165861764",
+      "name": "George Goch",
+      "lat": -26.2081056,
+      "lon": 28.0796216
+    },
+    {
+      "id": "node/4332066498",
+      "name": "Denver",
+      "lat": -26.2064493,
+      "lon": 28.0958515
+    },
+    {
+      "id": "node/7727566600",
+      "name": "Tooronga",
+      "lat": -26.2040382,
+      "lon": 28.1092487
+    },
+    {
+      "id": "node/4332386312",
+      "name": "Clevenland",
+      "lat": -26.2086405,
+      "lon": 28.1180209
+    },
+    {
+      "id": "node/9165861763",
+      "name": "Geldenhuis",
+      "lat": -26.2087806,
+      "lon": 28.1316847
+    },
+    {
+      "id": "node/4332262525",
+      "name": "Driehoek",
+      "lat": -26.2136309,
+      "lon": 28.1493182
+    },
+    {
+      "id": "node/4332262411",
+      "name": "President",
+      "lat": -26.2130684,
+      "lon": 28.158069
+    },
+    {
+      "id": "node/247644634",
+      "name": "Germiston",
+      "lat": -26.210075,
+      "lon": 28.1678646
+    },
+    {
+      "id": "node/1555021778",
+      "name": "Delmore",
+      "lat": -26.2063859,
+      "lon": 28.1988908
+    },
+    {
+      "id": "node/247644564",
+      "name": "Angelo",
+      "lat": -26.2046163,
+      "lon": 28.2123569
+    },
+    {
+      "id": "node/247644578",
+      "name": "Boksburg-Oos",
+      "lat": -26.2183196,
+      "lon": 28.2596683
+    },
+    {
+      "id": "node/2801781604",
+      "name": "Dunswart",
+      "lat": -26.209467,
+      "lon": 28.2855905
+    },
+    {
+      "id": "node/9144397339",
+      "name": "Avenue",
+      "lat": -26.2020643,
+      "lon": 28.2970867
+    },
+    {
+      "id": "node/9144406964",
+      "name": "Northmead",
+      "lat": -26.1809513,
+      "lon": 28.3186051
+    },
+    {
+      "id": "node/9144406965",
+      "name": "Van Ryn",
+      "lat": -26.1729899,
+      "lon": 28.3444668
+    },
+    {
+      "id": "node/7474742596",
+      "name": "Alliance",
+      "lat": -26.1724905,
+      "lon": 28.4165767
+    },
+    {
+      "id": "node/9144397337",
+      "name": "Daveyton",
+      "lat": -26.1564097,
+      "lon": 28.424577
+    },
+    {
+      "id": "node/7007051779",
+      "name": "George Goch",
+      "lat": -26.2078678,
+      "lon": 28.0799816
+    },
+    {
+      "id": "node/4332066500",
+      "name": "Denver",
+      "lat": -26.2063869,
+      "lon": 28.0957223
+    },
+    {
+      "id": "node/4332384078",
+      "name": "Tooronga",
+      "lat": -26.2040394,
+      "lon": 28.1096076
+    },
+    {
+      "id": "node/4332386304",
+      "name": "Cleveland",
+      "lat": -26.2085368,
+      "lon": 28.1180698
+    },
+    {
+      "id": "node/4332262156",
+      "name": "Geldenhuis",
+      "lat": -26.2086069,
+      "lon": 28.1317592
+    },
+    {
+      "id": "node/9168944953",
+      "name": "Knights",
+      "lat": -26.1980305,
+      "lon": 28.1954898
+    },
+    {
+      "id": "node/9168944952",
+      "name": "Ravensklip",
+      "lat": -26.1820795,
+      "lon": 28.1994118
+    },
+    {
+      "id": "node/9168944951",
+      "name": "Elandsfontein",
+      "lat": -26.1674358,
+      "lon": 28.2049987
+    },
+    {
+      "id": "node/9168944950",
+      "name": "Isando",
+      "lat": -26.1360871,
+      "lon": 28.2217255
+    },
+    {
+      "id": "node/7798710136",
+      "name": "Rhodesfield",
+      "lat": -26.1265593,
+      "lon": 28.22486
+    },
+    {
+      "id": "node/247644678",
+      "name": "Kempton Park",
+      "lat": -26.1082566,
+      "lon": 28.2271522
+    },
+    {
+      "id": "node/247644855",
+      "name": "Van Riebeeck Park",
+      "lat": -26.0881266,
+      "lon": 28.2217574
+    },
+    {
+      "id": "node/247644580",
+      "name": "Birchleigh",
+      "lat": -26.06737,
+      "lon": 28.2345262
+    },
+    {
+      "id": "node/247644687",
+      "name": "Kaalfontein",
+      "lat": -26.0354971,
+      "lon": 28.2546754
+    },
+    {
+      "id": "node/247644757",
+      "name": "Olifantsfontein",
+      "lat": -25.9641019,
+      "lon": 28.2357048
+    },
+    {
+      "id": "node/247644797",
+      "name": "Pinedene",
+      "lat": -25.9136855,
+      "lon": 28.228827
+    },
+    {
+      "id": "node/7821373211",
+      "name": "Irene",
+      "lat": -25.8747826,
+      "lon": 28.2243128
+    },
+    {
+      "id": "node/247644715",
+      "name": "Centurion",
+      "lat": -25.8349977,
+      "lon": 28.2109191
+    },
+    {
+      "id": "node/8867473407",
+      "name": "Sportpark",
+      "lat": -25.8246441,
+      "lon": 28.2057171
+    },
+    {
+      "id": "node/247644707",
+      "name": "Kloofsig",
+      "lat": -25.8133176,
+      "lon": 28.2011258
+    },
+    {
+      "id": "node/247644642",
+      "name": "Fonteine",
+      "lat": -25.7834199,
+      "lon": 28.1929429
+    },
+    {
+      "id": "node/7059609602",
+      "name": "Pretoria",
+      "lat": -25.7588249,
+      "lon": 28.1884983
+    },
+    {
+      "id": "node/9165861765",
+      "name": "Johannesburg Park",
+      "lat": -26.1982834,
+      "lon": 28.0422145
+    },
+    {
+      "id": "node/247644818",
+      "name": "Tembisa",
+      "lat": -26.0096119,
+      "lon": 28.2313797
+    },
+    {
+      "id": "node/247644736",
+      "name": "Limindlela",
+      "lat": -26.0111889,
+      "lon": 28.2148118
+    },
+    {
+      "id": "node/247644742",
+      "name": "Leralla",
+      "lat": -26.0292821,
+      "lon": 28.1963427
+    },
+    {
+      "id": "node/4332203161",
+      "name": "Faraday",
+      "lat": -26.2121149,
+      "lon": 28.0444519
+    },
+    {
+      "id": "node/9167470584",
+      "name": "Village Main",
+      "lat": -26.2190184,
+      "lon": 28.0449151
+    },
+    {
+      "id": "node/4332203376",
+      "name": "Booysens",
+      "lat": -26.2246599,
+      "lon": 28.038946
+    },
+    {
+      "id": "node/4331222160",
+      "name": "Crown",
+      "lat": -26.2221864,
+      "lon": 28.0127697
+    },
+    {
+      "id": "node/1499441711",
+      "name": "New Canada",
+      "lat": -26.2139139,
+      "lon": 27.9435135
+    },
+    {
+      "id": "node/54994239",
+      "name": "Mzimhlope",
+      "lat": -26.2232352,
+      "lon": 27.9229624
+    },
+    {
+      "id": "node/8132680337",
+      "name": "Phomolong",
+      "lat": -26.2260578,
+      "lon": 27.9096642
+    },
+    {
+      "id": "node/4331465566",
+      "name": "Phefani",
+      "lat": -26.2347489,
+      "lon": 27.9052567
+    },
+    {
+      "id": "node/9166544908",
+      "name": "Dube",
+      "lat": -26.2337719,
+      "lon": 27.8928284
+    },
+    {
+      "id": "node/4331499768",
+      "name": "Ikwezi",
+      "lat": -26.2295249,
+      "lon": 27.877921
+    },
+    {
+      "id": "node/247644664",
+      "name": "Inhlazane",
+      "lat": -26.2495653,
+      "lon": 27.8634979
+    },
+    {
+      "id": "node/9166544906",
+      "name": "Merafe",
+      "lat": -26.2618231,
+      "lon": 27.8475229
+    },
+    {
+      "id": "node/9166544904",
+      "name": "Naledi",
+      "lat": -26.25842,
+      "lon": 27.8233028
+    },
+    {
+      "id": "node/4331573947",
+      "name": "Johannesburg Park",
+      "lat": -26.1979064,
+      "lon": 28.0426711
+    },
+    {
+      "id": "node/4332066588",
+      "name": "George Goch",
+      "lat": -26.2075707,
+      "lon": 28.0811581
+    },
+    {
+      "id": "node/4332066331",
+      "name": "Jeppe",
+      "lat": -26.2028973,
+      "lon": 28.0622009
+    },
+    {
+      "id": "node/4332066229",
+      "name": "Ellis Park Station",
+      "lat": -26.1985222,
+      "lon": 28.0585396
+    },
+    {
+      "id": "node/4332066112",
+      "name": "Doornfontein",
+      "lat": -26.1973085,
+      "lon": 28.0535058
+    },
+    {
+      "id": "node/9165523948",
+      "name": "Braamfontein",
+      "lat": -26.1977884,
+      "lon": 28.0235073
+    },
+    {
+      "id": "node/9165523947",
+      "name": "Grosvenor",
+      "lat": -26.2028983,
+      "lon": 28.0059328
+    },
+    {
+      "id": "node/8151881976",
+      "name": "Langlaagte",
+      "lat": -26.2016605,
+      "lon": 27.9916104
+    },
+    {
+      "id": "node/9165976945",
+      "name": "Croesus",
+      "lat": -26.2013569,
+      "lon": 27.9712559
+    },
+    {
+      "id": "node/9165976946",
+      "name": "Longdale",
+      "lat": -26.1984184,
+      "lon": 27.9621943
+    },
+    {
+      "id": "node/9167470585",
+      "name": "Westgate",
+      "lat": -26.2115638,
+      "lon": 28.0336857
+    },
+    {
+      "id": "node/4331222257",
+      "name": "Crown",
+      "lat": -26.2227013,
+      "lon": 28.0147391
+    },
+    {
+      "id": "node/8175197409",
+      "name": "New Canada",
+      "lat": -26.2147152,
+      "lon": 27.9420622
+    },
+    {
+      "id": "node/9166410300",
+      "name": "George Goch",
+      "lat": -26.2080543,
+      "lon": 28.0790378
+    },
+    {
+      "id": "node/4332112596",
+      "name": "Benrose",
+      "lat": -26.217259,
+      "lon": 28.085886
+    },
+    {
+      "id": "node/4332112678",
+      "name": "Kaserne West",
+      "lat": -26.2205482,
+      "lon": 28.0687004
+    },
+    {
+      "id": "node/4332203365",
+      "name": "Booysens",
+      "lat": -26.2244656,
+      "lon": 28.0385309
+    },
+    {
+      "id": "node/247644701",
+      "name": "Kutalo",
+      "lat": -26.2175115,
+      "lon": 28.1894414
+    },
+    {
+      "id": "node/1488962271",
+      "name": "Elsburg",
+      "lat": -26.2429821,
+      "lon": 28.1919839
+    },
+    {
+      "id": "node/247644682",
+      "name": "Katlehong",
+      "lat": -26.307516,
+      "lon": 28.1613708
+    },
+    {
+      "id": "node/247644740",
+      "name": "Lindela",
+      "lat": -26.3264399,
+      "lon": 28.1576783
+    },
+    {
+      "id": "node/783223811",
+      "name": "Pilot",
+      "lat": -26.3408763,
+      "lon": 28.1524129
+    },
+    {
+      "id": "node/247644699",
+      "name": "Kwesine",
+      "lat": -26.3651016,
+      "lon": 28.1526517
+    },
+    {
+      "id": "node/7055183243",
+      "name": "Vereeniging",
+      "lat": -26.6742572,
+      "lon": 27.935456
+    },
+    {
+      "id": "node/7059779909",
+      "name": "Alloy",
+      "lat": -26.6555761,
+      "lon": 27.9444811
+    },
+    {
+      "id": "node/7059779935",
+      "name": "Redan",
+      "lat": -26.625918,
+      "lon": 27.9681391
+    },
+    {
+      "id": "node/7298985589",
+      "name": "Kookrus",
+      "lat": -26.586437,
+      "lon": 27.9941058
+    },
+    {
+      "id": "node/7298985621",
+      "name": "Meyerton",
+      "lat": -26.5542432,
+      "lon": 28.0102712
+    },
+    {
+      "id": "node/247644670",
+      "name": "Henley on Klip",
+      "lat": -26.5238242,
+      "lon": 28.040719
+    },
+    {
+      "id": "node/1488962272",
+      "name": "Skansdam",
+      "lat": -26.4645931,
+      "lon": 28.0727828
+    },
+    {
+      "id": "node/1554737934",
+      "name": "Kliprivier",
+      "lat": -26.4205384,
+      "lon": 28.0868996
+    },
+    {
+      "id": "node/247644574",
+      "name": "Angus",
+      "lat": -26.3502518,
+      "lon": 28.126421
+    },
+    {
+      "id": "node/247644746",
+      "name": "Mpilisweni",
+      "lat": -26.3193351,
+      "lon": 28.1402957
+    },
+    {
+      "id": "node/247644750",
+      "name": "Natalspruit",
+      "lat": -26.3044196,
+      "lon": 28.143125
+    },
+    {
+      "id": "node/1488962273",
+      "name": "Union",
+      "lat": -26.2704738,
+      "lon": 28.1627421
+    },
+    {
+      "id": "node/2797053449",
+      "name": "Wattles",
+      "lat": -26.2575181,
+      "lon": 28.1724443
+    },
+    {
+      "id": "node/247644611",
+      "name": "Dallas",
+      "lat": -26.2481647,
+      "lon": 28.1843613
+    },
+    {
+      "id": "node/4332548260",
+      "name": "Elsburg",
+      "lat": -26.2412072,
+      "lon": 28.193213
+    },
+    {
+      "id": "node/2807056985",
+      "name": "President",
+      "lat": -26.2138625,
+      "lon": 28.1594084
+    },
+    {
+      "id": "node/7500580395",
+      "name": "Germiston West",
+      "lat": -26.2212474,
+      "lon": 28.162225
+    },
+    {
+      "id": "node/4332547461",
+      "name": "Germiston South",
+      "lat": -26.2275554,
+      "lon": 28.1648045
+    },
+    {
+      "id": "node/8195310539",
+      "name": "Webber",
+      "lat": -26.233789,
+      "lon": 28.1760186
+    },
+    {
+      "id": "node/247644792",
+      "name": "Park Hill",
+      "lat": -26.2358354,
+      "lon": 28.1865579
+    },
+    {
+      "id": "node/7055183232",
+      "name": "Germiston",
+      "lat": -26.2097999,
+      "lon": 28.1676767
+    },
+    {
+      "id": "node/247644661",
+      "name": "India",
+      "lat": -26.2184188,
+      "lon": 28.160782
+    },
+    {
+      "id": "node/247644781",
+      "name": "Refinery",
+      "lat": -26.2212922,
+      "lon": 28.150342
+    },
+    {
+      "id": "node/247644672",
+      "name": "Hillview",
+      "lat": -26.2217562,
+      "lon": 28.1417541
+    },
+    {
+      "id": "node/247644686",
+      "name": "Jupiter",
+      "lat": -26.2199567,
+      "lon": 28.1186738
+    },
+    {
+      "id": "node/248833534",
+      "name": "Kaserne West",
+      "lat": -26.2200526,
+      "lon": 28.0703432
+    },
+    {
+      "id": "node/247644576",
+      "name": "Booysens",
+      "lat": -26.2251833,
+      "lon": 28.0402486
+    },
+    {
+      "id": "node/247644606",
+      "name": "Crown",
+      "lat": -26.2224651,
+      "lon": 28.0138091
+    },
+    {
+      "id": "node/54974895",
+      "name": "New Canada",
+      "lat": -26.2145874,
+      "lon": 27.9426098
+    },
+    {
+      "id": "node/5207367928",
+      "name": "Hercules",
+      "lat": -25.724345,
+      "lon": 28.1674862
+    },
+    {
+      "id": "node/7048792053",
+      "name": "Gezina",
+      "lat": -25.7218064,
+      "lon": 28.2063408
+    },
+    {
+      "id": "node/8821278653",
+      "name": "Deerness",
+      "lat": -25.7204433,
+      "lon": 28.2165304
+    },
+    {
+      "id": "node/8821278657",
+      "name": "Villeria",
+      "lat": -25.7197846,
+      "lon": 28.2297925
+    },
+    {
+      "id": "node/8870208987",
+      "name": "Koedoespoort",
+      "lat": -25.7264418,
+      "lon": 28.2797635
+    },
+    {
+      "id": "node/247644838",
+      "name": "Silverton",
+      "lat": -25.7273444,
+      "lon": 28.296985
+    },
+    {
+      "id": "node/247644617",
+      "name": "Eersterus",
+      "lat": -25.7203339,
+      "lon": 28.3067013
+    },
+    {
+      "id": "node/8870240326",
+      "name": "Waltloo",
+      "lat": -25.716888,
+      "lon": 28.3222889
+    },
+    {
+      "id": "node/7040630019",
+      "name": "Denneboom",
+      "lat": -25.7195091,
+      "lon": 28.3380675
+    },
+    {
+      "id": "node/7048792047",
+      "name": "Eerste Fabrieke",
+      "lat": -25.7218744,
+      "lon": 28.3611649
+    },
+    {
+      "id": "node/7059609603",
+      "name": "Pretoria",
+      "lat": -25.7587557,
+      "lon": 28.1885876
+    },
+    {
+      "id": "node/5203421376",
+      "name": "Barracks",
+      "lat": -25.7557728,
+      "lon": 28.178443
+    },
+    {
+      "id": "node/5204363080",
+      "name": "Pretoria-Wes",
+      "lat": -25.7562046,
+      "lon": 28.16664
+    },
+    {
+      "id": "node/5206184545",
+      "name": "Rebecca",
+      "lat": -25.7588625,
+      "lon": 28.15227
+    },
+    {
+      "id": "node/7059609611",
+      "name": "Elektro",
+      "lat": -25.7619781,
+      "lon": 28.1444913
+    },
+    {
+      "id": "node/5216580642",
+      "name": "Cor Delfos",
+      "lat": -25.7668914,
+      "lon": 28.1322882
+    },
+    {
+      "id": "node/7059609617",
+      "name": "Atteridgeville",
+      "lat": -25.7634489,
+      "lon": 28.0737228
+    },
+    {
+      "id": "node/5217129824",
+      "name": "Saulsville",
+      "lat": -25.763695,
+      "lon": 28.0605787
+    },
+    {
+      "id": "node/247644761",
+      "name": "Mears Street",
+      "lat": -25.7624418,
+      "lon": 28.1979815
+    },
+    {
+      "id": "node/247644865",
+      "name": "Walker Street",
+      "lat": -25.7602061,
+      "lon": 28.2131955
+    },
+    {
+      "id": "node/247644719",
+      "name": "Loftus Versfeldpark",
+      "lat": -25.7547362,
+      "lon": 28.225464
+    },
+    {
+      "id": "node/247644674",
+      "name": "Hartbeesspruit",
+      "lat": -25.7465518,
+      "lon": 28.2411852
+    },
+    {
+      "id": "node/7048792045",
+      "name": "Mamelodi Gardens",
+      "lat": -25.7273523,
+      "lon": 28.385867
+    },
+    {
+      "id": "node/7048792043",
+      "name": "Greenview",
+      "lat": -25.7303737,
+      "lon": 28.407462
+    },
+    {
+      "id": "node/6725275490",
+      "name": "Pienaarspoort",
+      "lat": -25.7352696,
+      "lon": 28.4281692
+    },
+    {
+      "id": "node/8870289696",
+      "name": "Panpoort",
+      "lat": -25.734473,
+      "lon": 28.4431424
+    },
+    {
+      "id": "node/5207229588",
+      "name": "Hercules",
+      "lat": -25.7245854,
+      "lon": 28.1672361
+    },
+    {
+      "id": "node/247644596",
+      "name": "Daspoort",
+      "lat": -25.7150332,
+      "lon": 28.1657184
+    },
+    {
+      "id": "node/247703154",
+      "name": "Mountain View",
+      "lat": -25.7011426,
+      "lon": 28.1712416
+    },
+    {
+      "id": "node/247644850",
+      "name": "Wonderboom",
+      "lat": -25.6800118,
+      "lon": 28.1823122
+    },
+    {
+      "id": "node/247644801",
+      "name": "Pretoria-Noord",
+      "lat": -25.6715374,
+      "lon": 28.1819554
+    },
+    {
+      "id": "node/247644847",
+      "name": "Wolmerton",
+      "lat": -25.6567952,
+      "lon": 28.1662017
+    },
+    {
+      "id": "node/247644853",
+      "name": "Winternest",
+      "lat": -25.6467868,
+      "lon": 28.1286022
+    },
+    {
+      "id": "node/247644565",
+      "name": "Akasiaboom",
+      "lat": -25.6237659,
+      "lon": 28.1071299
+    },
+    {
+      "id": "node/5206436729",
+      "name": "Schutte Street",
+      "lat": -25.7500437,
+      "lon": 28.1596883
+    },
+    {
+      "id": "node/5206814706",
+      "name": "Golf",
+      "lat": -25.7404916,
+      "lon": 28.1607766
+    },
+    {
+      "id": "node/507206917",
+      "name": "Technikon Rant",
+      "lat": -25.7327142,
+      "lon": 28.1671557
+    },
+    {
+      "id": "node/8175197410",
+      "name": "New Canada",
+      "lat": -26.2147498,
+      "lon": 27.9420787
+    },
+    {
+      "id": "node/9165976947",
+      "name": "Mlamlankunzi",
+      "lat": -26.2264676,
+      "lon": 27.9272788
+    },
+    {
+      "id": "node/4331158532",
+      "name": "Orlando",
+      "lat": -26.2388863,
+      "lon": 27.9168009
+    },
+    {
+      "id": "node/247646903",
+      "name": "Nancefield",
+      "lat": -26.2516066,
+      "lon": 27.9063659
+    },
+    {
+      "id": "node/54974737",
+      "name": "Kliptown",
+      "lat": -26.2728788,
+      "lon": 27.8877398
+    },
+    {
+      "id": "node/247644815",
+      "name": "Tshiawelo",
+      "lat": -26.2890658,
+      "lon": 27.8705673
+    },
+    {
+      "id": "node/247644763",
+      "name": "Midway",
+      "lat": -26.29329,
+      "lon": 27.8507832
+    },
+    {
+      "id": "node/247644843",
+      "name": "Waterworks",
+      "lat": -26.3023628,
+      "lon": 27.8160495
+    },
+    {
+      "id": "node/247644648",
+      "name": "Goudeon",
+      "lat": -26.3052119,
+      "lon": 27.7714688
+    },
+    {
+      "id": "node/247644822",
+      "name": "Suurbekom",
+      "lat": -26.3066824,
+      "lon": 27.7482175
+    },
+    {
+      "id": "node/847302708",
+      "name": "Westonaria",
+      "lat": -26.3128015,
+      "lon": 27.6517921
+    },
+    {
+      "id": "node/247644645",
+      "name": "Goudryk",
+      "lat": -26.3162875,
+      "lon": 27.579613
+    },
+    {
+      "id": "node/247646720",
+      "name": "Bank",
+      "lat": -26.3112438,
+      "lon": 27.5128955
+    },
+    {
+      "id": "node/247646870",
+      "name": "Maizelands",
+      "lat": -26.3294346,
+      "lon": 27.441029
+    },
+    {
+      "id": "node/247644741",
+      "name": "Lenasia",
+      "lat": -26.3194309,
+      "lon": 27.823346
+    },
+    {
+      "id": "node/247644694",
+      "name": "Lawley",
+      "lat": -26.3551092,
+      "lon": 27.8307872
+    },
+    {
+      "id": "node/247644573",
+      "name": "Anglers",
+      "lat": -26.3712482,
+      "lon": 27.8355092
+    },
+    {
+      "id": "node/247644765",
+      "name": "Midannadale",
+      "lat": -26.414181,
+      "lon": 27.8568173
+    },
+    {
+      "id": "node/247644646",
+      "name": "Grasmere",
+      "lat": -26.4264723,
+      "lon": 27.8626853
+    },
+    {
+      "id": "node/247644784",
+      "name": "Residensia",
+      "lat": -26.5376714,
+      "lon": 27.8880872
+    },
+    {
+      "id": "node/247644615",
+      "name": "Eatonside",
+      "lat": -26.5578,
+      "lon": 27.878501
+    },
+    {
+      "id": "node/247644700",
+      "name": "Kwaggastroom",
+      "lat": -26.5662029,
+      "lon": 27.8639138
+    },
+    {
+      "id": "node/247644668",
+      "name": "Houtheuwel",
+      "lat": -26.6031634,
+      "lon": 27.85337
+    },
+    {
+      "id": "node/247644679",
+      "name": "Kleigrond",
+      "lat": -26.6235836,
+      "lon": 27.8714044
+    },
+    {
+      "id": "node/247644693",
+      "name": "Leeuhof",
+      "lat": -26.6550134,
+      "lon": 27.9061326
+    },
+    {
+      "id": "node/247644627",
+      "name": "Duncanville",
+      "lat": -26.6641344,
+      "lon": 27.9290646
+    },
+    {
+      "id": "node/7124278764",
+      "name": "Johannesburg Park",
+      "lat": -26.1975842,
+      "lon": 28.042632
+    },
+    {
+      "id": "node/4332065651",
+      "name": "Doornfontein",
+      "lat": -26.1971048,
+      "lon": 28.0547222
+    },
+    {
+      "id": "node/9165674006",
+      "name": "Ellis Park",
+      "lat": -26.199504,
+      "lon": 28.0597651
+    },
+    {
+      "id": "node/9165674005",
+      "name": "Jeppe",
+      "lat": -26.2039297,
+      "lon": 28.0636136
+    },
+    {
+      "id": "node/9165674004",
+      "name": "George Goch",
+      "lat": -26.2072232,
+      "lon": 28.0813928
+    },
+    {
+      "id": "node/4332066421",
+      "name": "Denver",
+      "lat": -26.2056746,
+      "lon": 28.0973276
+    },
+    {
+      "id": "node/4332386195",
+      "name": "Tooronga",
+      "lat": -26.2042927,
+      "lon": 28.1112134
+    },
+    {
+      "id": "node/4332386340",
+      "name": "Cleveland",
+      "lat": -26.208945,
+      "lon": 28.1197918
+    },
+    {
+      "id": "node/4332261935",
+      "name": "Geldenhuis",
+      "lat": -26.2077436,
+      "lon": 28.1336434
+    },
+    {
+      "id": "node/4332262496",
+      "name": "Driehoek",
+      "lat": -26.2134721,
+      "lon": 28.1505179
+    },
+    {
+      "id": "node/4332262308",
+      "name": "President",
+      "lat": -26.2117043,
+      "lon": 28.1591371
+    },
+    {
+      "id": "node/2806204585",
+      "name": "Germiston",
+      "lat": -26.2100686,
+      "lon": 28.1692356
+    },
+    {
+      "id": "node/7661577173",
+      "name": "Boksburg East",
+      "lat": -26.2180098,
+      "lon": 28.2606272
+    },
+    {
+      "id": "node/7500580792",
+      "name": "Dunswart",
+      "lat": -26.2094245,
+      "lon": 28.2860814
+    },
+    {
+      "id": "node/2801781505",
+      "name": "Benoni",
+      "lat": -26.1977116,
+      "lon": 28.3110932
+    },
+    {
+      "id": "node/9165674009",
+      "name": "New Kleinfontein",
+      "lat": -26.206556,
+      "lon": 28.3201463
+    },
+    {
+      "id": "node/247644572",
+      "name": "Apex",
+      "lat": -26.2162604,
+      "lon": 28.3339025
+    },
+    {
+      "id": "node/247644571",
+      "name": "Anzac",
+      "lat": -26.2298835,
+      "lon": 28.3555815
+    },
+    {
+      "id": "node/7741737510",
+      "name": "Brakpan",
+      "lat": -26.2404731,
+      "lon": 28.36108
+    },
+    {
+      "id": "node/247644825",
+      "name": "Schapenrust",
+      "lat": -26.2570208,
+      "lon": 28.3766227
+    },
+    {
+      "id": "node/9165674015",
+      "name": "New Era",
+      "lat": -26.262476,
+      "lon": 28.40779
+    },
+    {
+      "id": "node/9165682817",
+      "name": "Pollak Park",
+      "lat": -26.2650124,
+      "lon": 28.4315253
+    },
+    {
+      "id": "node/247644814",
+      "name": "Springs",
+      "lat": -26.2500305,
+      "lon": 28.4377769
+    },
+    {
+      "id": "node/247644607",
+      "name": "Daggafontein",
+      "lat": -26.2922209,
+      "lon": 28.469433
+    },
+    {
+      "id": "node/247644809",
+      "name": "Struisbult",
+      "lat": -26.3147752,
+      "lon": 28.4608059
+    },
+    {
+      "id": "node/247644628",
+      "name": "Dunnottar",
+      "lat": -26.3492663,
+      "lon": 28.4415744
+    },
+    {
+      "id": "node/247644837",
+      "name": "Servaas",
+      "lat": -26.3898899,
+      "lon": 28.4417535
+    },
+    {
+      "id": "node/247644753",
+      "name": "Nigel",
+      "lat": -26.4226255,
+      "lon": 28.4485455
+    },
+    {
+      "id": "node/9165523946",
+      "name": "Industria",
+      "lat": -26.2004095,
+      "lon": 27.9806729
+    },
+    {
+      "id": "node/247644842",
+      "name": "Westbury",
+      "lat": -26.1887444,
+      "lon": 27.9684509
+    },
+    {
+      "id": "node/247644754",
+      "name": "Newclare",
+      "lat": -26.1863348,
+      "lon": 27.9628866
+    },
+    {
+      "id": "node/247644712",
+      "name": "Maraisburg",
+      "lat": -26.1796055,
+      "lon": 27.9404191
+    },
+    {
+      "id": "node/247644649",
+      "name": "Hamberg",
+      "lat": -26.1675437,
+      "lon": 27.8934583
+    },
+    {
+      "id": "node/8192228497",
+      "name": "Roodepoort",
+      "lat": -26.1591959,
+      "lon": 27.8702181
+    },
+    {
+      "id": "node/247644666",
+      "name": "Horison",
+      "lat": -26.1465225,
+      "lon": 27.8638112
+    },
+    {
+      "id": "node/247644803",
+      "name": "Princess",
+      "lat": -26.1327361,
+      "lon": 27.8536718
+    },
+    {
+      "id": "node/247644848",
+      "name": "Witpoortjie",
+      "lat": -26.1273462,
+      "lon": 27.8314228
+    },
+    {
+      "id": "node/247644717",
+      "name": "Luipaardsvlei",
+      "lat": -26.1197865,
+      "lon": 27.8115924
+    },
+    {
+      "id": "node/247644696",
+      "name": "Lanwen",
+      "lat": -26.1150358,
+      "lon": 27.7933804
+    },
+    {
+      "id": "node/247644854",
+      "name": "Windsor Mine",
+      "lat": -26.1097836,
+      "lon": 27.781476
+    },
+    {
+      "id": "node/847302716",
+      "name": "Wes-Rand",
+      "lat": -26.1118523,
+      "lon": 27.7487664
+    },
+    {
+      "id": "node/247644769",
+      "name": "Millsite",
+      "lat": -26.1280308,
+      "lon": 27.7394351
+    },
+    {
+      "id": "node/247644787",
+      "name": "Robinson",
+      "lat": -26.157982,
+      "lon": 27.7150947
+    },
+    {
+      "id": "node/247644584",
+      "name": "Central",
+      "lat": -26.1401827,
+      "lon": 27.73429
+    },
+    {
+      "id": "node/247644671",
+      "name": "Home Lake",
+      "lat": -26.1678461,
+      "lon": 27.7077274
+    },
+    {
+      "id": "node/247644776",
+      "name": "Randfontein",
+      "lat": -26.1813645,
+      "lon": 27.6980124
+    },
+    {
+      "id": "node/7048792048",
+      "name": "Eerste Fabrieke",
+      "lat": -25.722344,
+      "lon": 28.3583291
+    },
+    {
+      "id": "node/7048792050",
+      "name": "Denneboom",
+      "lat": -25.7188992,
+      "lon": 28.3358518
+    },
+    {
+      "id": "node/247644866",
+      "name": "Waltloo",
+      "lat": -25.7169776,
+      "lon": 28.3213512
+    },
+    {
+      "id": "node/7059536495",
+      "name": "Saulsville",
+      "lat": -25.7643571,
+      "lon": 28.0627667
+    },
+    {
+      "id": "node/7059609616",
+      "name": "Atteridgeville",
+      "lat": -25.7626317,
+      "lon": 28.0757627
+    },
+    {
+      "id": "node/5217099436",
+      "name": "Kalafong",
+      "lat": -25.7603192,
+      "lon": 28.08944
+    },
+    {
+      "id": "node/2218862850",
+      "name": "Cor Delfos",
+      "lat": -25.7671583,
+      "lon": 28.1342288
+    },
+    {
+      "id": "node/5216455159",
+      "name": "Elektro",
+      "lat": -25.7607708,
+      "lon": 28.1459266
+    },
+    {
+      "id": "node/7059609608",
+      "name": "Rebecca",
+      "lat": -25.758287,
+      "lon": 28.1545325
+    },
+    {
+      "id": "node/5204346156",
+      "name": "Pretoria-Wes",
+      "lat": -25.7560736,
+      "lon": 28.1688052
+    },
+    {
+      "id": "node/7059609604",
+      "name": "Bosmanstraat",
+      "lat": -25.7571883,
+      "lon": 28.1860252
+    },
+    {
+      "id": "node/5203383906",
+      "name": "Pretoria",
+      "lat": -25.7607509,
+      "lon": 28.190682
+    },
+    {
+      "id": "node/9169149816",
+      "name": "Pretoria Noord",
+      "lat": -25.6711905,
+      "lon": 28.1817833
+    },
+    {
+      "id": "node/9169165217",
+      "name": "Winternest",
+      "lat": -25.6466532,
+      "lon": 28.1276193
+    },
+    {
+      "id": "node/7873444053",
+      "name": "Rosslyn",
+      "lat": -25.6378244,
+      "lon": 28.0947039
+    },
+    {
+      "id": "node/9169165219",
+      "name": "Hornsnek",
+      "lat": -25.6271531,
+      "lon": 28.0554845
+    },
+    {
+      "id": "node/7859757922",
+      "name": "Mudunsa",
+      "lat": -25.6219237,
+      "lon": 28.0187376
+    },
+    {
+      "id": "node/7168841189",
+      "name": "Ga-Rankuwa",
+      "lat": -25.6195442,
+      "lon": 27.991595
+    },
+    {
+      "id": "node/7168841206",
+      "name": "Taillardshoop",
+      "lat": -25.6178101,
+      "lon": 27.9717312
+    },
+    {
+      "id": "node/7168841291",
+      "name": "De Wildt",
+      "lat": -25.6247499,
+      "lon": 27.9445638
+    },
+    {
+      "id": "node/247644595",
+      "name": "Daveyton",
+      "lat": -26.1564302,
+      "lon": 28.4246163
+    },
+    {
+      "id": "node/247644563",
+      "name": "Alliance",
+      "lat": -26.1725782,
+      "lon": 28.4167249
+    },
+    {
+      "id": "node/247644856",
+      "name": "Van Ryn",
+      "lat": -26.1730209,
+      "lon": 28.3444813
+    },
+    {
+      "id": "node/247644751",
+      "name": "Northmead",
+      "lat": -26.1810037,
+      "lon": 28.3181089
+    },
+    {
+      "id": "node/247644570",
+      "name": "Avenue",
+      "lat": -26.2023341,
+      "lon": 28.2970126
+    },
+    {
+      "id": "node/247644613",
+      "name": "Dunswart",
+      "lat": -26.209557,
+      "lon": 28.2854698
+    },
+    {
+      "id": "node/247644798",
+      "name": "Pollak Park",
+      "lat": -26.2650486,
+      "lon": 28.431402
+    },
+    {
+      "id": "node/247644748",
+      "name": "New Era",
+      "lat": -26.2624864,
+      "lon": 28.4076914
+    },
+    {
+      "id": "node/7741737605",
+      "name": "Schapenrust",
+      "lat": -26.2570057,
+      "lon": 28.3765215
+    },
+    {
+      "id": "node/247644588",
+      "name": "Brakpan",
+      "lat": -26.2403812,
+      "lon": 28.3609927
+    },
+    {
+      "id": "node/7741737250",
+      "name": "Anzac",
+      "lat": -26.2298895,
+      "lon": 28.3555385
+    },
+    {
+      "id": "node/247644747",
+      "name": "New Kleinfontein",
+      "lat": -26.2065719,
+      "lon": 28.3201123
+    },
+    {
+      "id": "node/247644581",
+      "name": "Benoni",
+      "lat": -26.198055,
+      "lon": 28.3104906
+    },
+    {
+      "id": "node/7661577350",
+      "name": "Dunswart",
+      "lat": -26.2097927,
+      "lon": 28.285199
+    },
+    {
+      "id": "node/7661577106",
+      "name": "East Rand",
+      "lat": -26.2171598,
+      "lon": 28.2298174
+    },
+    {
+      "id": "node/7661577015",
+      "name": "Angelo",
+      "lat": -26.2045754,
+      "lon": 28.2121946
+    },
+    {
+      "id": "node/7661576969",
+      "name": "Delmore",
+      "lat": -26.20618,
+      "lon": 28.1979373
+    },
+    {
+      "id": "node/4332066329",
+      "name": "Jeppe",
+      "lat": -26.2028258,
+      "lon": 28.0622445
+    },
+    {
+      "id": "node/7168841278",
+      "name": "De Wildt",
+      "lat": -25.6247172,
+      "lon": 27.9445477
+    },
+    {
+      "id": "node/7168841210",
+      "name": "Taillardshoop",
+      "lat": -25.6177932,
+      "lon": 27.9729148
+    },
+    {
+      "id": "node/7168840783",
+      "name": "Ga-Rankuwa",
+      "lat": -25.6194692,
+      "lon": 27.992228
+    },
+    {
+      "id": "node/247644665",
+      "name": "Hornsnek",
+      "lat": -25.6271795,
+      "lon": 28.0557118
+    },
+    {
+      "id": "node/247644718",
+      "name": "Lynross",
+      "lat": -25.6342805,
+      "lon": 28.0824208
+    },
+    {
+      "id": "node/247644830",
+      "name": "Rosslyn",
+      "lat": -25.6377934,
+      "lon": 28.0951296
+    },
+    {
+      "id": "node/247644791",
+      "name": "Panpoort",
+      "lat": -25.7344785,
+      "lon": 28.4428257
+    },
+    {
+      "id": "node/1797234405",
+      "name": "Pienaarspoort",
+      "lat": -25.7351619,
+      "lon": 28.4278482
+    },
+    {
+      "id": "node/7040633404",
+      "name": "Greenview",
+      "lat": -25.7301861,
+      "lon": 28.4053549
+    },
+    {
+      "id": "node/7040633298",
+      "name": "Mamelodi Gardens",
+      "lat": -25.7265831,
+      "lon": 28.3838901
+    },
+    {
+      "id": "node/8870379684",
+      "name": "Waltloo",
+      "lat": -25.7171247,
+      "lon": 28.3201153
+    },
+    {
+      "id": "node/8870379685",
+      "name": "Eersterust",
+      "lat": -25.7210811,
+      "lon": 28.306033
+    },
+    {
+      "id": "node/8870379686",
+      "name": "Silverton",
+      "lat": -25.7275063,
+      "lon": 28.2957186
+    },
+    {
+      "id": "node/8870379687",
+      "name": "Koedoespoort",
+      "lat": -25.7263052,
+      "lon": 28.2776694
+    },
+    {
+      "id": "node/6778869163",
+      "name": "Hartbeesspruit",
+      "lat": -25.7466142,
+      "lon": 28.2411161
+    },
+    {
+      "id": "node/8870092647",
+      "name": "Rissik",
+      "lat": -25.7499569,
+      "lon": 28.2312622
+    },
+    {
+      "id": "node/8870092641",
+      "name": "Loftus Versfeldpark",
+      "lat": -25.7551053,
+      "lon": 28.2251885
+    },
+    {
+      "id": "node/5202924899",
+      "name": "Walker Street",
+      "lat": -25.7604707,
+      "lon": 28.2125755
+    },
+    {
+      "id": "node/5203095727",
+      "name": "Devenish Street",
+      "lat": -25.7599405,
+      "lon": 28.2049807
+    },
+    {
+      "id": "node/5203095508",
+      "name": "Mears Street",
+      "lat": -25.7627013,
+      "lon": 28.1977297
+    },
+    {
+      "id": "node/247644600",
+      "name": "Denneboom",
+      "lat": -25.7191548,
+      "lon": 28.3368342
+    },
+    {
+      "id": "node/247644760",
+      "name": "Meyerton",
+      "lat": -26.5555964,
+      "lon": 28.009638
+    },
+    {
+      "id": "node/7298985588",
+      "name": "Kookrus",
+      "lat": -26.5873981,
+      "lon": 27.9936723
+    },
+    {
+      "id": "node/7298985599",
+      "name": "Redan",
+      "lat": -26.627407,
+      "lon": 27.9669978
+    },
+    {
+      "id": "node/7059779910",
+      "name": "Alloy",
+      "lat": -26.6573835,
+      "lon": 27.9431956
+    },
+    {
+      "id": "node/247644858",
+      "name": "Vereeniging",
+      "lat": -26.6742088,
+      "lon": 27.9352274
+    },
+    {
+      "id": "node/4331222185",
+      "name": "Crown",
+      "lat": -26.2224547,
+      "lon": 28.0145895
+    },
+    {
+      "id": "node/4332203459",
+      "name": "Booysens",
+      "lat": -26.2256548,
+      "lon": 28.0415135
+    },
+    {
+      "id": "node/9166410299",
+      "name": "Kaserne West",
+      "lat": -26.219871,
+      "lon": 28.0705946
+    },
+    {
+      "id": "node/7007051492",
+      "name": "Benrose",
+      "lat": -26.2157205,
+      "lon": 28.0873146
+    }
+  ],
+  "travelTimeMatrix": {
+    "Johannesburg Park,Doornfontein": 1,
+    "Doornfontein,Ellis Park Station": 1,
+    "Ellis Park Station,Jeppe": 1,
+    "Jeppe,George Goch": 1,
+    "George Goch,Denver": 1,
+    "Denver,Tooronga": 1,
+    "Tooronga,Clevenland": 1,
+    "Clevenland,Geldenhuis": 1,
+    "Geldenhuis,Driehoek": 1,
+    "Driehoek,President": 1,
+    "President,Germiston": 1,
+    "Germiston,Delmore": 1,
+    "Delmore,Angelo": 1,
+    "Boksburg-Oos,Dunswart": 1,
+    "Dunswart,Avenue": 1,
+    "Avenue,Northmead": 1,
+    "Northmead,Van Ryn": 1,
+    "Van Ryn,Alliance": 1,
+    "Alliance,Daveyton": 1,
+    "Tooronga,Cleveland": 1,
+    "Cleveland,Geldenhuis": 1,
+    "Germiston,Knights": 1,
+    "Knights,Ravensklip": 1,
+    "Ravensklip,Elandsfontein": 1,
+    "Elandsfontein,Isando": 1,
+    "Isando,Rhodesfield": 1,
+    "Rhodesfield,Kempton Park": 1,
+    "Kempton Park,Van Riebeeck Park": 1,
+    "Van Riebeeck Park,Birchleigh": 1,
+    "Birchleigh,Kaalfontein": 1,
+    "Olifantsfontein,Pinedene": 1,
+    "Pinedene,Irene": 1,
+    "Irene,Centurion": 1,
+    "Centurion,Sportpark": 1,
+    "Sportpark,Kloofsig": 1,
+    "Kloofsig,Fonteine": 1,
+    "Fonteine,Pretoria": 1,
+    "Johannesburg Park,Kempton Park": 1,
+    "Kempton Park,Centurion": 1,
+    "Centurion,Pretoria": 1,
+    "Kaalfontein,Tembisa": 1,
+    "Tembisa,Limindlela": 1,
+    "Limindlela,Leralla": 1,
+    "Faraday,Village Main": 1,
+    "Village Main,Booysens": 1,
+    "Booysens,Crown": 1,
+    "Crown,New Canada": 1,
+    "New Canada,Mzimhlope": 1,
+    "Mzimhlope,Phomolong": 1,
+    "Phomolong,Phefani": 1,
+    "Phefani,Dube": 1,
+    "Dube,Ikwezi": 1,
+    "Ikwezi,Inhlazane": 1,
+    "Inhlazane,Merafe": 1,
+    "Merafe,Naledi": 1,
+    "Johannesburg Park,Dube": 1,
+    "Ikwezi,Merafe": 1,
+    "George Goch,Jeppe": 1,
+    "Jeppe,Ellis Park Station": 1,
+    "Ellis Park Station,Doornfontein": 1,
+    "Doornfontein,Johannesburg Park": 1,
+    "Johannesburg Park,Braamfontein": 1,
+    "Grosvenor,Langlaagte": 1,
+    "Langlaagte,Croesus": 1,
+    "Croesus,Longdale": 1,
+    "Longdale,New Canada": 1,
+    "Westgate,Crown": 1,
+    "George Goch,Benrose": 1,
+    "Benrose,Kaserne West": 1,
+    "Kaserne West,Booysens": 1,
+    "Germiston,Kutalo": 1,
+    "Kutalo,Elsburg": 1,
+    "Katlehong,Lindela": 1,
+    "Lindela,Pilot": 1,
+    "Pilot,Kwesine": 1,
+    "Vereeniging,Alloy": 1,
+    "Alloy,Redan": 1,
+    "Redan,Kookrus": 1,
+    "Kookrus,Meyerton": 1,
+    "Meyerton,Henley on Klip": 1,
+    "Skansdam,Kliprivier": 1,
+    "Kliprivier,Angus": 1,
+    "Angus,Mpilisweni": 1,
+    "Mpilisweni,Natalspruit": 1,
+    "Natalspruit,Union": 1,
+    "Union,Wattles": 1,
+    "Wattles,Dallas": 1,
+    "Dallas,Elsburg": 1,
+    "Elsburg,Germiston": 1,
+    "Germiston,President": 1,
+    "President,Germiston West": 1,
+    "Germiston West,Germiston South": 1,
+    "Germiston South,Webber": 1,
+    "Webber,Park Hill": 1,
+    "Park Hill,Elsburg": 1,
+    "India,Refinery": 1,
+    "Refinery,Hillview": 1,
+    "Hillview,Jupiter": 1,
+    "Jupiter,Kaserne West": 1,
+    "Gezina,Deerness": 1,
+    "Deerness,Villeria": 1,
+    "Koedoespoort,Silverton": 1,
+    "Silverton,Eersterus": 1,
+    "Eersterus,Waltloo": 1,
+    "Waltloo,Denneboom": 1,
+    "Denneboom,Eerste Fabrieke": 1,
+    "Barracks,Pretoria-Wes": 1,
+    "Pretoria-Wes,Rebecca": 1,
+    "Rebecca,Elektro": 1,
+    "Elektro,Cor Delfos": 1,
+    "Atteridgeville,Saulsville": 1,
+    "Walker Street,Loftus Versfeldpark": 1,
+    "Hartbeesspruit,Koedoespoort": 1,
+    "Eerste Fabrieke,Mamelodi Gardens": 1,
+    "Mamelodi Gardens,Greenview": 1,
+    "Greenview,Pienaarspoort": 1,
+    "Pienaarspoort,Panpoort": 1,
+    "Hercules,Daspoort": 1,
+    "Daspoort,Mountain View": 1,
+    "Mountain View,Wonderboom": 1,
+    "Wonderboom,Pretoria-Noord": 1,
+    "Pretoria-Noord,Wolmerton": 1,
+    "Wolmerton,Winternest": 1,
+    "Winternest,Akasiaboom": 1,
+    "Pretoria-Wes,Schutte Street": 1,
+    "Schutte Street,Golf": 1,
+    "Golf,Technikon Rant": 1,
+    "Technikon Rant,Hercules": 1,
+    "New Canada,Mlamlankunzi": 1,
+    "Mlamlankunzi,Orlando": 1,
+    "Orlando,Nancefield": 1,
+    "Nancefield,Kliptown": 1,
+    "Kliptown,Tshiawelo": 1,
+    "Tshiawelo,Midway": 1,
+    "Midway,Waterworks": 1,
+    "Waterworks,Goudeon": 1,
+    "Goudeon,Suurbekom": 1,
+    "Suurbekom,Westonaria": 1,
+    "Westonaria,Goudryk": 1,
+    "Goudryk,Bank": 1,
+    "Bank,Maizelands": 1,
+    "Midway,Lenasia": 1,
+    "Lenasia,Lawley": 1,
+    "Lawley,Anglers": 1,
+    "Anglers,Midannadale": 1,
+    "Midannadale,Grasmere": 1,
+    "Residensia,Eatonside": 1,
+    "Eatonside,Kwaggastroom": 1,
+    "Kwaggastroom,Houtheuwel": 1,
+    "Houtheuwel,Kleigrond": 1,
+    "Kleigrond,Leeuhof": 1,
+    "Leeuhof,Duncanville": 1,
+    "Doornfontein,Ellis Park": 1,
+    "Ellis Park,Jeppe": 1,
+    "Boksburg East,Dunswart": 1,
+    "Dunswart,Benoni": 1,
+    "Benoni,New Kleinfontein": 1,
+    "New Kleinfontein,Apex": 1,
+    "Apex,Anzac": 1,
+    "Anzac,Brakpan": 1,
+    "Brakpan,Schapenrust": 1,
+    "Schapenrust,New Era": 1,
+    "New Era,Pollak Park": 1,
+    "Pollak Park,Springs": 1,
+    "Daggafontein,Struisbult": 1,
+    "Dunnottar,Servaas": 1,
+    "Servaas,Nigel": 1,
+    "Houtheuwel,Duncanville": 1,
+    "Duncanville,Kleigrond": 1,
+    "Langlaagte,Industria": 1,
+    "Industria,Westbury": 1,
+    "Westbury,Newclare": 1,
+    "Roodepoort,Horison": 1,
+    "Horison,Princess": 1,
+    "Princess,Witpoortjie": 1,
+    "Witpoortjie,Luipaardsvlei": 1,
+    "Luipaardsvlei,Lanwen": 1,
+    "Lanwen,Windsor Mine": 1,
+    "Wes-Rand,Millsite": 1,
+    "Millsite,Robinson": 1,
+    "Robinson,Central": 1,
+    "Central,Home Lake": 1,
+    "Home Lake,Randfontein": 1,
+    "Nigel,Servaas": 1,
+    "Servaas,Dunnottar": 1,
+    "Struisbult,Daggafontein": 1,
+    "Waltloo,Eersterus": 1,
+    "Eersterus,Silverton": 1,
+    "Saulsville,Atteridgeville": 1,
+    "Atteridgeville,Kalafong": 1,
+    "Kalafong,Cor Delfos": 1,
+    "Cor Delfos,Elektro": 1,
+    "Elektro,Rebecca": 1,
+    "Rebecca,Pretoria-Wes": 1,
+    "Bosmanstraat,Pretoria": 1,
+    "Wonderboom,Pretoria Noord": 1,
+    "Pretoria Noord,Wolmerton": 1,
+    "Winternest,Rosslyn": 1,
+    "Hornsnek,Mudunsa": 1,
+    "Mudunsa,Ga-Rankuwa": 1,
+    "Ga-Rankuwa,Taillardshoop": 1,
+    "Taillardshoop,De Wildt": 1,
+    "Pretoria,Centurion": 1,
+    "Centurion,Kempton Park": 1,
+    "Kempton Park,Johannesburg Park": 1,
+    "New Canada,Crown": 1,
+    "Crown,Booysens": 1,
+    "Booysens,Kaserne West": 1,
+    "Kaserne West,Jupiter": 1,
+    "Jupiter,Hillview": 1,
+    "Hillview,Refinery": 1,
+    "Refinery,India": 1,
+    "Daveyton,Alliance": 1,
+    "Alliance,Van Ryn": 1,
+    "Van Ryn,Northmead": 1,
+    "Northmead,Avenue": 1,
+    "Avenue,Dunswart": 1,
+    "Dunswart,Boksburg-Oos": 1,
+    "Angelo,Delmore": 1,
+    "Delmore,Germiston": 1,
+    "President,Driehoek": 1,
+    "Driehoek,Geldenhuis": 1,
+    "Geldenhuis,Clevenland": 1,
+    "Clevenland,Tooronga": 1,
+    "Tooronga,Denver": 1,
+    "Denver,George Goch": 1,
+    "Springs,Pollak Park": 1,
+    "Pollak Park,New Era": 1,
+    "New Era,Schapenrust": 1,
+    "Schapenrust,Brakpan": 1,
+    "Brakpan,Anzac": 1,
+    "New Kleinfontein,Benoni": 1,
+    "Benoni,Dunswart": 1,
+    "East Rand,Angelo": 1,
+    "Geldenhuis,Cleveland": 1,
+    "Cleveland,Tooronga": 1,
+    "Naledi,Merafe": 1,
+    "Merafe,Inhlazane": 1,
+    "Inhlazane,Ikwezi": 1,
+    "Ikwezi,Dube": 1,
+    "Dube,Phefani": 1,
+    "Phefani,Phomolong": 1,
+    "Phomolong,Mzimhlope": 1,
+    "Mzimhlope,New Canada": 1,
+    "New Canada,Longdale": 1,
+    "Longdale,Croesus": 1,
+    "Croesus,Langlaagte": 1,
+    "Langlaagte,Grosvenor": 1,
+    "Braamfontein,Johannesburg Park": 1,
+    "Kaserne West,Benrose": 1,
+    "Benrose,George Goch": 1,
+    "Winternest,Wolmerton": 1,
+    "Wolmerton,Pretoria-Noord": 1,
+    "Pretoria-Noord,Wonderboom": 1,
+    "Wonderboom,Mountain View": 1,
+    "Mountain View,Daspoort": 1,
+    "Daspoort,Hercules": 1,
+    "Hercules,Technikon Rant": 1,
+    "Technikon Rant,Golf": 1,
+    "Golf,Schutte Street": 1,
+    "Schutte Street,Pretoria-Wes": 1,
+    "Pretoria-Wes,Barracks": 1,
+    "De Wildt,Taillardshoop": 1,
+    "Taillardshoop,Ga-Rankuwa": 1,
+    "Hornsnek,Lynross": 1,
+    "Lynross,Rosslyn": 1,
+    "Rosslyn,Winternest": 1,
+    "Panpoort,Pienaarspoort": 1,
+    "Pienaarspoort,Greenview": 1,
+    "Greenview,Mamelodi Gardens": 1,
+    "Mamelodi Gardens,Eerste Fabrieke": 1,
+    "Eerste Fabrieke,Denneboom": 1,
+    "Denneboom,Waltloo": 1,
+    "Waltloo,Eersterust": 1,
+    "Eersterust,Silverton": 1,
+    "Silverton,Koedoespoort": 1,
+    "Koedoespoort,Hartbeesspruit": 1,
+    "Hartbeesspruit,Rissik": 1,
+    "Rissik,Loftus Versfeldpark": 1,
+    "Loftus Versfeldpark,Walker Street": 1,
+    "Walker Street,Devenish Street": 1,
+    "Devenish Street,Mears Street": 1,
+    "Fonteine,Kloofsig": 1,
+    "Kloofsig,Sportpark": 1,
+    "Sportpark,Centurion": 1,
+    "Centurion,Irene": 1,
+    "Irene,Pinedene": 1,
+    "Pinedene,Olifantsfontein": 1,
+    "Kaalfontein,Birchleigh": 1,
+    "Birchleigh,Van Riebeeck Park": 1,
+    "Van Riebeeck Park,Kempton Park": 1,
+    "Kempton Park,Rhodesfield": 1,
+    "Rhodesfield,Isando": 1,
+    "Isando,Elandsfontein": 1,
+    "Elandsfontein,Ravensklip": 1,
+    "Ravensklip,Knights": 1,
+    "Knights,Germiston": 1,
+    "Leralla,Limindlela": 1,
+    "Limindlela,Tembisa": 1,
+    "Tembisa,Kaalfontein": 1,
+    "Crown,Westgate": 1,
+    "Booysens,Village Main": 1,
+    "Village Main,Faraday": 1,
+    "Merafe,Ikwezi": 1,
+    "Dube,Johannesburg Park": 1,
+    "Maizelands,Bank": 1,
+    "Bank,Goudryk": 1,
+    "Goudryk,Westonaria": 1,
+    "Westonaria,Suurbekom": 1,
+    "Suurbekom,Goudeon": 1,
+    "Goudeon,Waterworks": 1,
+    "Waterworks,Midway": 1,
+    "Midway,Tshiawelo": 1,
+    "Tshiawelo,Kliptown": 1,
+    "Kliptown,Nancefield": 1,
+    "Nancefield,Orlando": 1,
+    "Orlando,Mlamlankunzi": 1,
+    "Mlamlankunzi,New Canada": 1,
+    "Randfontein,Home Lake": 1,
+    "Home Lake,Central": 1,
+    "Central,Robinson": 1,
+    "Robinson,Millsite": 1,
+    "Millsite,Wes-Rand": 1,
+    "Windsor Mine,Lanwen": 1,
+    "Lanwen,Luipaardsvlei": 1,
+    "Luipaardsvlei,Witpoortjie": 1,
+    "Witpoortjie,Princess": 1,
+    "Princess,Horison": 1,
+    "Horison,Roodepoort": 1,
+    "Newclare,Westbury": 1,
+    "Westbury,Industria": 1,
+    "Industria,Langlaagte": 1,
+    "Villeria,Deerness": 1,
+    "Deerness,Gezina": 1,
+    "Germiston,Elsburg": 1,
+    "Elsburg,Dallas": 1,
+    "Dallas,Wattles": 1,
+    "Wattles,Union": 1,
+    "Union,Natalspruit": 1,
+    "Natalspruit,Mpilisweni": 1,
+    "Mpilisweni,Angus": 1,
+    "Angus,Kliprivier": 1,
+    "Kliprivier,Skansdam": 1,
+    "Henley on Klip,Meyerton": 1,
+    "Meyerton,Kookrus": 1,
+    "Kookrus,Redan": 1,
+    "Redan,Alloy": 1,
+    "Alloy,Vereeniging": 1,
+    "Duncanville,Leeuhof": 1,
+    "Leeuhof,Kleigrond": 1,
+    "Kleigrond,Houtheuwel": 1,
+    "Houtheuwel,Kwaggastroom": 1,
+    "Kwaggastroom,Eatonside": 1,
+    "Eatonside,Residensia": 1,
+    "Grasmere,Midannadale": 1,
+    "Midannadale,Anglers": 1,
+    "Anglers,Lawley": 1,
+    "Lawley,Lenasia": 1,
+    "Lenasia,Midway": 1,
+    "Kwesine,Pilot": 1,
+    "Pilot,Lindela": 1,
+    "Lindela,Katlehong": 1,
+    "Elsburg,Park Hill": 1,
+    "Park Hill,Webber": 1,
+    "Webber,Germiston South": 1,
+    "Germiston South,Germiston West": 1,
+    "Germiston West,President": 1,
+    "Elsburg,Kutalo": 1,
+    "Kutalo,Germiston": 1,
+    "Kleigrond,Duncanville": 1,
+    "Duncanville,Houtheuwel": 1,
+    "Pretoria,Fonteine": 1,
+    "Akasiaboom,Winternest": 1,
+    "Ellis Park,Doornfontein": 1,
+    "Jeppe,Ellis Park": 1,
+    "Dunswart,Boksburg East": 1,
+    "Apex,New Kleinfontein": 1,
+    "Anzac,Apex": 1,
+    "Kalafong,Atteridgeville": 1,
+    "Cor Delfos,Kalafong": 1,
+    "Pretoria,Bosmanstraat": 1,
+    "Pretoria Noord,Wonderboom": 1,
+    "Wolmerton,Pretoria Noord": 1,
+    "Mudunsa,Hornsnek": 1,
+    "Ga-Rankuwa,Mudunsa": 1,
+    "Angelo,East Rand": 1,
+    "Lynross,Hornsnek": 1,
+    "Rosslyn,Lynross": 1,
+    "Eersterust,Waltloo": 1,
+    "Silverton,Eersterust": 1,
+    "Rissik,Hartbeesspruit": 1,
+    "Loftus Versfeldpark,Rissik": 1,
+    "Devenish Street,Walker Street": 1,
+    "Mears Street,Devenish Street": 1
+  },
+  "departures": {
+    "Johannesburg Park": [
+      "06:00",
+      "06:03",
+      "06:04",
+      "06:15",
+      "06:21",
+      "06:22",
+      "06:23",
+      "06:26",
+      "06:27",
+      "06:28"
+    ],
+    "Doornfontein": [
+      "06:01",
+      "06:03",
+      "06:16",
+      "06:21",
+      "06:22",
+      "06:25",
+      "06:27",
+      "06:28"
+    ],
+    "Ellis Park Station": [
+      "06:02",
+      "06:17",
+      "06:20",
+      "06:21",
+      "06:24",
+      "06:26",
+      "06:29"
+    ],
+    "Jeppe": [
+      "06:01",
+      "06:03",
+      "06:18",
+      "06:19",
+      "06:20",
+      "06:23",
+      "06:25",
+      "06:30"
+    ],
+    "George Goch": [
+      "06:00",
+      "06:04",
+      "06:13",
+      "06:18",
+      "06:19",
+      "06:22",
+      "06:24",
+      "06:25",
+      "06:31"
+    ],
+    "Denver": [
+      "06:05",
+      "06:17",
+      "06:18",
+      "06:21",
+      "06:23"
+    ],
+    "Tooronga": [
+      "06:06",
+      "06:16",
+      "06:17",
+      "06:20",
+      "06:22"
+    ],
+    "Clevenland": [
+      "06:07",
+      "06:15",
+      "06:16",
+      "06:21"
+    ],
+    "Geldenhuis": [
+      "06:08",
+      "06:14",
+      "06:15",
+      "06:18",
+      "06:20"
+    ],
+    "Driehoek": [
+      "06:09",
+      "06:13",
+      "06:14",
+      "06:17",
+      "06:19"
+    ],
+    "President": [
+      "06:01",
+      "06:10",
+      "06:12",
+      "06:13",
+      "06:16",
+      "06:18"
+    ],
+    "Germiston": [
+      "06:00",
+      "06:07",
+      "06:09",
+      "06:11",
+      "06:12",
+      "06:15",
+      "06:16",
+      "06:17"
+    ],
+    "Delmore": [
+      "06:10",
+      "06:12",
+      "06:14"
+    ],
+    "Angelo": [
+      "06:09",
+      "06:13"
+    ],
+    "Boksburg-Oos": [
+      "06:06",
+      "06:10",
+      "06:16"
+    ],
+    "Dunswart": [
+      "06:05",
+      "06:09",
+      "06:17"
+    ],
+    "Avenue": [
+      "06:04",
+      "06:18"
+    ],
+    "Northmead": [
+      "06:03",
+      "06:19"
+    ],
+    "Van Ryn": [
+      "06:02",
+      "06:20"
+    ],
+    "Alliance": [
+      "06:01",
+      "06:21"
+    ],
+    "Daveyton": [
+      "06:00",
+      "06:22"
+    ],
+    "Cleveland": [
+      "06:07",
+      "06:19"
+    ],
+    "Knights": [
+      "06:11",
+      "06:12",
+      "06:16"
+    ],
+    "Ravensklip": [
+      "06:10",
+      "06:13",
+      "06:15"
+    ],
+    "Elandsfontein": [
+      "06:09",
+      "06:14"
+    ],
+    "Isando": [
+      "06:08",
+      "06:13",
+      "06:15"
+    ],
+    "Rhodesfield": [
+      "06:07",
+      "06:12",
+      "06:16"
+    ],
+    "Kempton Park": [
+      "06:01",
+      "06:02",
+      "06:06",
+      "06:11",
+      "06:17"
+    ],
+    "Van Riebeeck Park": [
+      "06:05",
+      "06:10",
+      "06:18"
+    ],
+    "Birchleigh": [
+      "06:04",
+      "06:09",
+      "06:19"
+    ],
+    "Kaalfontein": [
+      "06:03",
+      "06:08",
+      "06:20"
+    ],
+    "Olifantsfontein": [
+      "06:06",
+      "06:22"
+    ],
+    "Pinedene": [
+      "06:05",
+      "06:23"
+    ],
+    "Irene": [
+      "06:04",
+      "06:24"
+    ],
+    "Centurion": [
+      "06:01",
+      "06:02",
+      "06:03",
+      "06:25"
+    ],
+    "Sportpark": [
+      "06:02",
+      "06:26"
+    ],
+    "Kloofsig": [
+      "06:01",
+      "06:27"
+    ],
+    "Fonteine": [
+      "06:00",
+      "06:28"
+    ],
+    "Pretoria": [
+      "06:00",
+      "06:03",
+      "06:09",
+      "06:29"
+    ],
+    "Tembisa": [
+      "06:02",
+      "06:21"
+    ],
+    "Limindlela": [
+      "06:01",
+      "06:22"
+    ],
+    "Leralla": [
+      "06:00",
+      "06:23"
+    ],
+    "Faraday": [
+      "06:00",
+      "06:12"
+    ],
+    "Village Main": [
+      "06:01",
+      "06:11"
+    ],
+    "Booysens": [
+      "06:02",
+      "06:03",
+      "06:07",
+      "06:10",
+      "06:22"
+    ],
+    "Crown": [
+      "06:01",
+      "06:03",
+      "06:04",
+      "06:08",
+      "06:09",
+      "06:21"
+    ],
+    "New Canada": [
+      "06:00",
+      "06:02",
+      "06:04",
+      "06:05",
+      "06:07",
+      "06:08",
+      "06:09",
+      "06:11",
+      "06:14",
+      "06:20"
+    ],
+    "Mzimhlope": [
+      "06:03",
+      "06:05",
+      "06:06",
+      "06:07",
+      "06:12"
+    ],
+    "Phomolong": [
+      "06:04",
+      "06:06",
+      "06:07",
+      "06:13"
+    ],
+    "Phefani": [
+      "06:05",
+      "06:07",
+      "06:08",
+      "06:14"
+    ],
+    "Dube": [
+      "06:01",
+      "06:03",
+      "06:04",
+      "06:06",
+      "06:08",
+      "06:09",
+      "06:15"
+    ],
+    "Ikwezi": [
+      "06:02",
+      "06:03",
+      "06:07",
+      "06:09",
+      "06:10",
+      "06:16"
+    ],
+    "Inhlazane": [
+      "06:02",
+      "06:08",
+      "06:10",
+      "06:11",
+      "06:17"
+    ],
+    "Merafe": [
+      "06:01",
+      "06:03",
+      "06:09",
+      "06:11",
+      "06:12",
+      "06:18"
+    ],
+    "Naledi": [
+      "06:00",
+      "06:04",
+      "06:10",
+      "06:12",
+      "06:13",
+      "06:19"
+    ],
+    "Braamfontein": [
+      "06:01",
+      "06:05",
+      "06:14",
+      "06:20",
+      "06:26"
+    ],
+    "Grosvenor": [
+      "06:03",
+      "06:07",
+      "06:12",
+      "06:18",
+      "06:24"
+    ],
+    "Langlaagte": [
+      "06:04",
+      "06:08",
+      "06:11",
+      "06:17",
+      "06:23"
+    ],
+    "Croesus": [
+      "06:05",
+      "06:09",
+      "06:10",
+      "06:16",
+      "06:22"
+    ],
+    "Longdale": [
+      "06:06",
+      "06:09",
+      "06:10",
+      "06:15",
+      "06:21"
+    ],
+    "Westgate": [
+      "06:00",
+      "06:10"
+    ],
+    "Benrose": [
+      "06:01",
+      "06:12",
+      "06:24"
+    ],
+    "Kaserne West": [
+      "06:02",
+      "06:03",
+      "06:06",
+      "06:11",
+      "06:23"
+    ],
+    "Kutalo": [
+      "06:01",
+      "06:06"
+    ],
+    "Elsburg": [
+      "06:01",
+      "06:02",
+      "06:05",
+      "06:06",
+      "06:15"
+    ],
+    "Katlehong": [
+      "06:03",
+      "06:04",
+      "06:08"
+    ],
+    "Lindela": [
+      "06:02",
+      "06:05",
+      "06:09"
+    ],
+    "Pilot": [
+      "06:01",
+      "06:06",
+      "06:10"
+    ],
+    "Kwesine": [
+      "06:00",
+      "06:07",
+      "06:11"
+    ],
+    "Vereeniging": [
+      "06:00",
+      "06:16"
+    ],
+    "Alloy": [
+      "06:01",
+      "06:15"
+    ],
+    "Redan": [
+      "06:02",
+      "06:14"
+    ],
+    "Kookrus": [
+      "06:03",
+      "06:13"
+    ],
+    "Meyerton": [
+      "06:04",
+      "06:12"
+    ],
+    "Henley on Klip": [
+      "06:05",
+      "06:11"
+    ],
+    "Skansdam": [
+      "06:07",
+      "06:09"
+    ],
+    "Kliprivier": [
+      "06:08"
+    ],
+    "Angus": [
+      "06:07",
+      "06:09"
+    ],
+    "Mpilisweni": [
+      "06:06",
+      "06:10"
+    ],
+    "Natalspruit": [
+      "06:05",
+      "06:11"
+    ],
+    "Union": [
+      "06:04",
+      "06:12"
+    ],
+    "Wattles": [
+      "06:03",
+      "06:13"
+    ],
+    "Dallas": [
+      "06:02",
+      "06:14"
+    ],
+    "Germiston West": [
+      "06:02",
+      "06:09"
+    ],
+    "Germiston South": [
+      "06:03",
+      "06:08"
+    ],
+    "Webber": [
+      "06:04",
+      "06:07"
+    ],
+    "Park Hill": [
+      "06:05",
+      "06:06"
+    ],
+    "India": [
+      "06:02",
+      "06:07"
+    ],
+    "Refinery": [
+      "06:03",
+      "06:06"
+    ],
+    "Hillview": [
+      "06:04",
+      "06:05"
+    ],
+    "Jupiter": [
+      "06:04",
+      "06:05"
+    ],
+    "Hercules": [
+      "06:00",
+      "06:01",
+      "06:05",
+      "06:06",
+      "06:10",
+      "06:12",
+      "06:13"
+    ],
+    "Gezina": [
+      "06:02",
+      "06:10"
+    ],
+    "Deerness": [
+      "06:03",
+      "06:09"
+    ],
+    "Villeria": [
+      "06:04",
+      "06:08"
+    ],
+    "Koedoespoort": [
+      "06:05",
+      "06:06",
+      "06:07",
+      "06:09"
+    ],
+    "Silverton": [
+      "06:00",
+      "06:04",
+      "06:06",
+      "06:07",
+      "06:08"
+    ],
+    "Eersterus": [
+      "06:01",
+      "06:03",
+      "06:05",
+      "06:08",
+      "06:09"
+    ],
+    "Waltloo": [
+      "06:02",
+      "06:04",
+      "06:06",
+      "06:09",
+      "06:10"
+    ],
+    "Denneboom": [
+      "06:01",
+      "06:02",
+      "06:03",
+      "06:05",
+      "06:10",
+      "06:11"
+    ],
+    "Eerste Fabrieke": [
+      "06:00",
+      "06:04",
+      "06:11",
+      "06:12"
+    ],
+    "Barracks": [
+      "06:00",
+      "06:01",
+      "06:02",
+      "06:15",
+      "06:18"
+    ],
+    "Pretoria-Wes": [
+      "06:01",
+      "06:02",
+      "06:03",
+      "06:06",
+      "06:14",
+      "06:17"
+    ],
+    "Rebecca": [
+      "06:04",
+      "06:05"
+    ],
+    "Elektro": [
+      "06:04",
+      "06:05"
+    ],
+    "Cor Delfos": [
+      "06:03",
+      "06:06"
+    ],
+    "Atteridgeville": [
+      "06:01",
+      "06:08"
+    ],
+    "Saulsville": [
+      "06:00",
+      "06:09"
+    ],
+    "Mears Street": [
+      "06:00",
+      "06:15"
+    ],
+    "Walker Street": [
+      "06:02",
+      "06:13"
+    ],
+    "Loftus Versfeldpark": [
+      "06:03",
+      "06:12"
+    ],
+    "Hartbeesspruit": [
+      "06:05",
+      "06:10"
+    ],
+    "Mamelodi Gardens": [
+      "06:03",
+      "06:12"
+    ],
+    "Greenview": [
+      "06:02",
+      "06:13"
+    ],
+    "Pienaarspoort": [
+      "06:01",
+      "06:14"
+    ],
+    "Panpoort": [
+      "06:00",
+      "06:15"
+    ],
+    "Daspoort": [
+      "06:02",
+      "06:06",
+      "06:07",
+      "06:09",
+      "06:12"
+    ],
+    "Mountain View": [
+      "06:03",
+      "06:07",
+      "06:08",
+      "06:11"
+    ],
+    "Wonderboom": [
+      "06:04",
+      "06:07",
+      "06:08",
+      "06:09",
+      "06:10"
+    ],
+    "Pretoria-Noord": [
+      "06:05",
+      "06:06",
+      "06:09"
+    ],
+    "Wolmerton": [
+      "06:05",
+      "06:06",
+      "06:08",
+      "06:10",
+      "06:11"
+    ],
+    "Winternest": [
+      "06:04",
+      "06:07",
+      "06:11",
+      "06:12"
+    ],
+    "Akasiaboom": [
+      "06:08",
+      "06:12"
+    ],
+    "Schutte Street": [
+      "06:02",
+      "06:03",
+      "06:13",
+      "06:16"
+    ],
+    "Golf": [
+      "06:03",
+      "06:04",
+      "06:12",
+      "06:15"
+    ],
+    "Technikon Rant": [
+      "06:04",
+      "06:05",
+      "06:11",
+      "06:14"
+    ],
+    "Mlamlankunzi": [
+      "06:06",
+      "06:08",
+      "06:12",
+      "06:13",
+      "06:19"
+    ],
+    "Orlando": [
+      "06:07",
+      "06:09",
+      "06:12",
+      "06:13",
+      "06:18"
+    ],
+    "Nancefield": [
+      "06:08",
+      "06:10",
+      "06:11",
+      "06:14",
+      "06:17"
+    ],
+    "Kliptown": [
+      "06:09",
+      "06:10",
+      "06:11",
+      "06:15",
+      "06:16"
+    ],
+    "Tshiawelo": [
+      "06:09",
+      "06:10",
+      "06:12",
+      "06:15",
+      "06:16"
+    ],
+    "Midway": [
+      "06:08",
+      "06:11",
+      "06:13",
+      "06:14",
+      "06:17"
+    ],
+    "Waterworks": [
+      "06:07",
+      "06:14"
+    ],
+    "Goudeon": [
+      "06:06",
+      "06:15"
+    ],
+    "Suurbekom": [
+      "06:05",
+      "06:16"
+    ],
+    "Westonaria": [
+      "06:04",
+      "06:17"
+    ],
+    "Goudryk": [
+      "06:03",
+      "06:18"
+    ],
+    "Bank": [
+      "06:02",
+      "06:19"
+    ],
+    "Maizelands": [
+      "06:01",
+      "06:20"
+    ],
+    "Lenasia": [
+      "06:12",
+      "06:13",
+      "06:18"
+    ],
+    "Lawley": [
+      "06:12",
+      "06:13",
+      "06:19"
+    ],
+    "Anglers": [
+      "06:11",
+      "06:14",
+      "06:20"
+    ],
+    "Midannadale": [
+      "06:10",
+      "06:15",
+      "06:21"
+    ],
+    "Grasmere": [
+      "06:09",
+      "06:16",
+      "06:22"
+    ],
+    "Residensia": [
+      "06:07",
+      "06:18",
+      "06:24"
+    ],
+    "Eatonside": [
+      "06:06",
+      "06:19",
+      "06:25"
+    ],
+    "Kwaggastroom": [
+      "06:05",
+      "06:20",
+      "06:26"
+    ],
+    "Houtheuwel": [
+      "06:04",
+      "06:21",
+      "06:27"
+    ],
+    "Kleigrond": [
+      "06:02",
+      "06:03",
+      "06:22",
+      "06:29"
+    ],
+    "Leeuhof": [
+      "06:01",
+      "06:02",
+      "06:23",
+      "06:30"
+    ],
+    "Duncanville": [
+      "06:01",
+      "06:03",
+      "06:24",
+      "06:28"
+    ],
+    "Ellis Park": [
+      "06:02"
+    ],
+    "Boksburg East": [
+      "06:16"
+    ],
+    "Benoni": [
+      "06:08",
+      "06:18"
+    ],
+    "New Kleinfontein": [
+      "06:07",
+      "06:19"
+    ],
+    "Apex": [
+      "06:20"
+    ],
+    "Anzac": [
+      "06:05",
+      "06:21"
+    ],
+    "Brakpan": [
+      "06:04",
+      "06:22"
+    ],
+    "Schapenrust": [
+      "06:03",
+      "06:23"
+    ],
+    "New Era": [
+      "06:02",
+      "06:24"
+    ],
+    "Pollak Park": [
+      "06:01",
+      "06:25"
+    ],
+    "Springs": [
+      "06:00",
+      "06:07",
+      "06:26"
+    ],
+    "Daggafontein": [
+      "06:02",
+      "06:05"
+    ],
+    "Struisbult": [
+      "06:03",
+      "06:04"
+    ],
+    "Dunnottar": [
+      "06:02",
+      "06:05"
+    ],
+    "Servaas": [
+      "06:01",
+      "06:06"
+    ],
+    "Nigel": [
+      "06:00",
+      "06:07"
+    ],
+    "Industria": [
+      "06:05",
+      "06:22"
+    ],
+    "Westbury": [
+      "06:06",
+      "06:21"
+    ],
+    "Newclare": [
+      "06:07",
+      "06:20"
+    ],
+    "Maraisburg": [
+      "06:09",
+      "06:18"
+    ],
+    "Hamberg": [
+      "06:12",
+      "06:15"
+    ],
+    "Roodepoort": [
+      "06:13",
+      "06:14"
+    ],
+    "Horison": [
+      "06:12",
+      "06:15"
+    ],
+    "Princess": [
+      "06:11",
+      "06:16"
+    ],
+    "Witpoortjie": [
+      "06:10",
+      "06:17"
+    ],
+    "Luipaardsvlei": [
+      "06:09",
+      "06:18"
+    ],
+    "Lanwen": [
+      "06:08",
+      "06:19"
+    ],
+    "Windsor Mine": [
+      "06:07",
+      "06:20"
+    ],
+    "Wes-Rand": [
+      "06:05",
+      "06:22"
+    ],
+    "Millsite": [
+      "06:04",
+      "06:23"
+    ],
+    "Robinson": [
+      "06:03",
+      "06:24"
+    ],
+    "Central": [
+      "06:02",
+      "06:25"
+    ],
+    "Home Lake": [
+      "06:01",
+      "06:26"
+    ],
+    "Randfontein": [
+      "06:00",
+      "06:27"
+    ],
+    "Kalafong": [
+      "06:02"
+    ],
+    "Bosmanstraat": [
+      "06:08"
+    ],
+    "Pretoria Noord": [
+      "06:10"
+    ],
+    "Rosslyn": [
+      "06:06",
+      "06:13"
+    ],
+    "Hornsnek": [
+      "06:04",
+      "06:15"
+    ],
+    "Mudunsa": [
+      "06:16"
+    ],
+    "Ga-Rankuwa": [
+      "06:02",
+      "06:17"
+    ],
+    "Taillardshoop": [
+      "06:01",
+      "06:18"
+    ],
+    "De Wildt": [
+      "06:00",
+      "06:19"
+    ],
+    "East Rand": [
+      "06:12"
+    ],
+    "Lynross": [
+      "06:05"
+    ],
+    "Eersterust": [
+      "06:07"
+    ],
+    "Rissik": [
+      "06:11"
+    ],
+    "Devenish Street": [
+      "06:14"
+    ]
+  }
+}
